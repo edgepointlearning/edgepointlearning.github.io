@@ -30,3 +30,7 @@ sass:
 
 # Exclude
 exclude: [node_modules, gulpfile.js]
+
+# Prose
+ignore: [_bower_components, _includes, _layouts, blog, css, .gitignore, 404.html, _config.yml, atom.xml, index.md, robots.txt]
+siteurl: "http://edgepointlearning.github.io"
