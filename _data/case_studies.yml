@@ -5,7 +5,8 @@
   industry : Financial Services
   challenge: Uniformly deliver compliance training to 10,000+ employees across multiple US states
   solution : Custom eLearning library available 24/7 to employees, with compliance courses specific to job roles
-  result  : Company met aggressive deadline for organization-wide employee compliance training
+  result   : Company met aggressive deadline for organization-wide employee compliance training
+  link     : "#"
 
 - id: bloomin
   name     : Bloomin' Brands
@@ -14,7 +15,8 @@
   industry : Restaurants
   challenge: Improve succession planning by enabling Company executives to share their career experiences with high-potential managers
   solution : Video-based mentoring modules, leveraging existing media assets and cross-platform content delivery
-  result  : New initiative embraced by managers across the organization and expanded to include all employees
+  result   : New initiative embraced by managers across the organization and expanded to include all employees
+  link     : "#"
 
 - id: laquinta
   name     : La Quinta
@@ -23,7 +25,8 @@
   industry : Hospitality
   challenge: Improve the customer service experience for guests upon check-in.
   solution : eLearning modules with interactive practice activities focused on preparing for guest check-in
-  result  : Streamlined front desk processes and improved check-in experience for guests.
+  result   : Streamlined front desk processes and improved check-in experience for guests.
+  link     : "#"
 
 - id: molsoncoors
   name     : Molson Coors
@@ -32,7 +35,8 @@
   industry : Food & Beverage
   challenge: Improve employee social media skills and encourage use of internal social media tools
   solution : Video-based modules introducing employees to social media guidelines and internal social media tools
-  result  : Strong employee adoption of social media to promote the Company's brand within consistent guidelines
+  result   : Strong employee adoption of social media to promote the Company's brand within consistent guidelines
+  link     : "#"
 
 - id: petsmart
   name     : PetSmart
@@ -41,7 +45,8 @@
   industry : Retail
   challenge: Provide in-store product education on supplier merchandise to employees at 1,300+ retail locations nationwide
   solution : Series of interactive eLearning training modules available to employees via in-store training labs, covering all product categories
-  result  : Increased product knowledge drove improvements in sales associate effectiveness and increased customer satisfaction
+  result   : Increased product knowledge drove improvements in sales associate effectiveness and increased customer satisfaction
+  link     : "#"
 
 - id: swca
   name     : SWCA Environmental Consultants
@@ -50,7 +55,8 @@
   industry : Business Services (Environmental Consulting)
   challenge: Drive consistency in new employee on-boarding across multiple US states and territories
   solution : Self-paced new employee orientation programs, featuring consistent information reflective of the company's core values
-  result  : Timely and consistent on-boarding of new employees, resulting in more rapid and effective organizational assimilation
+  result   : Timely and consistent on-boarding of new employees, resulting in more rapid and effective organizational assimilation
+  link     : "#"
 
 - id: webpt
   name     : WebPT
@@ -59,4 +65,5 @@
   industry : Healthcare/Technology
   challenge: Scale product training to accommodate a rapidly growing customer admin and end user base, as well as Company staff
   solution : A comprehensive series of eLearning modules incorporating software simulation and practice activities, suitable for both new customer end users and Company employees
-  result  : Significant reduction in sale-to-utilization time and increased customer adoption, while decreasing associated WebPT trainer time and cost
+  result   : Significant reduction in sale-to-utilization time and increased customer adoption, while decreasing associated WebPT trainer time and cost
+  link     : "#"
