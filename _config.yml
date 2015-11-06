@@ -33,5 +33,5 @@ exclude: [node_modules, gulpfile.js]
 
 # Prose
 prose:
-  ignore: ['_bower_components', '_includes', '_layouts', 'blog', 'css', '.gitignore', '404.html', '_config.yml', 'atom.xml', 'index.md', 'robots.txt']
+  ignore: ['_bower_components', '_includes', '_layouts', 'css', '.gitignore', '404.html', '_config.yml', 'atom.xml', 'robots.txt', 'assets/javascript', 'assets/sass']
   siteurl: "http://edgepointlearning.github.io"
