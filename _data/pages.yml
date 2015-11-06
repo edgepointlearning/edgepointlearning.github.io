@@ -1,0 +1,35 @@
+home       :
+  headline : <span><b>EdgePoint</b></span><span>makes your</span> <span>business more</span><span> </span><span id="typed">productive.</span>
+  slogan   : EdgePoint Enables<sup>&#8482;</sup>
+  elevator : <p>Since 2007, EdgePoint Learning has been committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults. Despite the hype in today’s organizational learning industry, we believe that learning program success is consistently grounded in strong business alignment, thoughtful program design and collaborative development processes.</p>
+  icon     : bullseye
+
+solutions  :
+  headline : <b>Solutions</b><span>That Drive</span> Your Business.
+  slogan   :
+  elevator : "<p>EdgePoint Learning works closely with you to understand your business, your learning objectives and your expected outcomes. We then craft a targeted learning solution that works. Whether your organization is a small- to medium-business (SMB), multinational corporation or not-for-profit, one thing remains constant: good learning equals good business. EdgePoint Learning has the expertise to define, design and develop point or blended learning solutions – instructor-led training programs (for classroom or virtual delivery); eLearning courseware; animations, simulations and gaming; and OJT reference materials – that will get the job done.</p>"
+  icon     : lightbulb
+
+success    :
+  headline : Learning Success is <b>Business Impact.</b>
+  slogan   :
+  elevator : "<p>For EdgePoint Learning, learning program success can only be achieved through having a measurable impact on your organization's performance at the enterprise, team or individual levels. EdgePoint Enables our clients to rapidly develop and deploy best-fit learning programs, designed for business benefit. </p>"
+  icon     : rocket
+
+blog       :
+  headline : We Love <b>Learning!</b>
+  slogan   :
+  elevator : <p>As learning experts, we are also voracious learners who never stop seeking. On our blog, you'll informative, actionable and fun insights about the learning industry - new trends, new technologies, best practices, customer stories and more. Have a topic you’d like us to delve into or contribute yourself? <a href="#">Click here</a> to let us know.</p>
+  icon     : heart
+
+about      :
+  headline : <img src="/assets/images/collage.jpg">
+  slogan   :
+  elevator : "<p>Since 2007, EdgePoint Learning has been committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults. Despite the hype in today’s organizational learning industry, we believe that learning program success is consistently grounded in strong business alignment, thoughtful program design and collaborative development processes.</p><p>Headquartered in Scottsdale, Arizona, EdgePoint Learning's team includes instructional designers, project managers, courseware developers, graphic designers, audio voiceover talent, and programmers - all with an average of 12 years' experience creating eLearning solutions.</p><p>Our focus on ensuring the success of your business and our proven development processes combined with the flexibility to work with our customers' processes and tools allow EdgePoint Learning to become an extension of your organization and providing you with the increased capacity you need to accomplish your training goals.</p><p>At EdgePoint Learning, our business is grounded in building solid relationships and good communication. We're always happy to hear about how we can help and work with you to brainstorm creative solutions to your training needs. Even if you're still in the early planning stages of your training initiative, we'd welcome the opportunity to talk with you and share our ideas.</p>"
+  icon     :
+
+contact    :
+  headline : <b>We'd Love to</b>Hear from You.
+  slogan   :
+  elevator : <p>At EdgePoint Learning, our business is built on building solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
+  icon     : chat

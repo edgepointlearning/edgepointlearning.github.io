@@ -1,0 +1,48 @@
+h1 {
+  font-size: 2.7em;
+}
+h2,
+body.post h1 {
+  font-size: 1.5em;
+}
+h3,
+h4 {
+  font-size: 1.3em;
+}
+p, li, dt, dd {
+  font-size: 1em;
+}
+@include breakpoint($bp-6) {}
+@include breakpoint($bp-6plus) {}
+@include breakpoint($bp-small) {
+  h1 {
+    font-size: 4em;
+  }
+  h2,
+  body.post h1 {
+    font-size: 2em;
+  }
+  h3 {}
+  h4 {}
+  p {}
+}
+@include breakpoint($bp-6landscape) {}
+@include breakpoint($bp-medium) {
+  h1 {
+    font-size: 5em;
+  }
+  h2,
+  body.post h1 {
+    font-size: 2.4em;
+  }
+  h3 {}
+  h4 {}
+  p, li {
+    font-size: 1.2em;
+  }
+  .box p {
+    font-size: 1em;
+  }
+}
+@include breakpoint($bp-xlarge) {}
+@include breakpoint($bp-6landscape) {}

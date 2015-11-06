@@ -1,0 +1,94 @@
+nav {
+  @include span(full);
+  margin: 0;
+  font-size: 0.8em;
+  figure {
+    @include span(full);
+    margin: 18px 0 0 0;
+    text-align: center;
+    padding: 0 1em;
+    svg {
+      width: 100%;
+      max-width: 300px;
+      max-height: 38px;
+    }
+  }
+  ul {
+    @include span(full);
+    margin: 10px 0 14px;
+    padding: 0;
+    display: table;
+  }
+  li {
+    display: table-cell;
+    text-align: center;
+  }
+  a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: $blue;
+    @include nova-condensed;
+    &:hover {
+      // text-decoration: none;
+    }
+  }
+
+  @include breakpoint($bp-6plus) {
+    font-size: 1em;
+  }
+
+  @include breakpoint($bp-6landscape) {
+    height: 48px;
+    line-height: 52px;
+    figure {
+      @include span(1 of 12 first);
+      margin: 0;
+      padding: 0;
+      text-align: left;
+      svg {
+        margin-top: 11px;
+        margin-left: .6em;
+        width: 220px;
+        height: 28px;
+      }
+    }
+    #nav__logo__edgepoint,
+    #nav__logo__learning {
+      display: none;
+    }
+    ul {
+      @include span(11 of 12 last);
+      margin: 0;
+    }
+  }
+
+  @include breakpoint($bp-medium) {
+    figure {
+      @include span(4 of 12 first);
+    }
+    ul {
+      @include span(8 of 12 last);
+    }
+    #nav__logo__edgepoint,
+    #nav__logo__learning {
+      display: block;
+    }
+    li {
+      font-size: 1em;
+    }
+  }
+
+  @include breakpoint($bp-xlarge) {
+    overflow: hidden;
+    figure svg {
+      margin-left: 0;
+    }
+    ul {
+      margin-right: -1.1em;
+    }
+    a {
+      @include nova;
+      font-weight: 500;
+    }
+  }
+}

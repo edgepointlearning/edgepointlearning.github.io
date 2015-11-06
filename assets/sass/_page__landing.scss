@@ -1,0 +1,17 @@
+article#clients {
+  @include span(full);
+  position: relative;
+  overflow: hidden;
+  height: 132px;
+  margin-bottom: 2.4em;
+  figure {
+    position: absolute;
+    margin: 0;
+    width: 4900px;
+    animation: marquee 90s linear infinite;
+  }
+}
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-2400px); }
+}

@@ -1,0 +1,32 @@
+# Setup
+title              : EdgePoint Learning
+description        : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults, EdgePoint Enables.
+tagline            : Innovative Learning Solutions for Better Business Results
+url                : edgepointlearning.com
+
+
+# Permalinks
+permalink          : pretty
+paginate           : 8
+include            : ['_pages']
+paginate_path      : '/blog/page:num'
+excerpt_separator  : '<!--more-->'
+
+# Hides your drafts and future posts
+future             : false
+show_drafts        : false
+# Gives you more accurate related posts (CHANGE THESE AFTER DEVELOPMENT)
+lsi                : false
+limit_posts        : 0
+
+# Server
+host               : localhost
+port               : 4000
+
+# Sass
+sass:
+    sass_dir: assets/sass
+    style: compressed
+
+# Exclude
+exclude: [node_modules, gulpfile.js]

@@ -1,0 +1,20 @@
+---
+layout: preview
+title: all-demos
+permalink: "/preview-some/"
+demo: true
+headline: All Demos
+intro: "Thank you for taking the time to review samples of our work. Your account manager has selected these demos as being the most relevant based on your current eLearning needs and future plans. If you have any questions or would like to see additional demos, please contact your account manager."
+demos:
+ - Bloodborne Pathogens
+ - Equipment Repair Tutorial
+ - Communication Skills
+---
+
+{% for demo in page.demos %}
+  {% for sitedemo in site.data.demos %}
+    {% if demo == sitedemo.name %}
+      {% include demo.html source=sitedemo %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

@@ -1,0 +1,9 @@
+<aside id="box-{{ include.id }}" class="box {{ include.size }}">
+    <a href="{{ include.source.box-url }}"><h4>{{ include.source.box-title }}</h4></a>
+    <figure>
+      {% assign icon = site.data.icons[include.source.box-icon] %}
+      {{ icon.svg }}
+    </figure>
+    <p>{{ include.source.box-copy }}</p>
+    <p><a href="{{ include.source.box-url }}" class="pill">{{ include.source.box-button }}</a></p>
+</aside>

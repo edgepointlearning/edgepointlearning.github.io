@@ -1,0 +1,13 @@
+body#page-solutions {
+  @include breakpoint($bp-medium) {
+    .box.half {
+      min-height: 14em;
+    }
+  }
+  @include breakpoint($bp-xlarge) {
+    .box.half {
+      min-height: 13em;
+    }
+  }
+
+}

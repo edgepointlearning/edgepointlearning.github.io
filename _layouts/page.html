@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article id="hero">
+  <h1>{{ site.data.pages[page.title]headline }}</h1>
+</article>
+
+<section>
+
+  <article id="elevator">
+    {% if site.data.pages[page.title]slogan %}
+      <h2>{{ site.data.pages[page.title]slogan }}</h2>
+    {% endif %}
+    <section>
+      {% if site.data.pages[page.title]icon %}
+        <figure>
+          {% assign iconChoice = site.data.pages[page.title]icon %}
+          {% assign iconImage = site.data.icons[iconChoice] %}
+          {{ iconImage.svg }}
+        </figure>
+      {% endif %}
+      {{ site.data.pages[page.title]elevator }}
+    </section>
+  </article>
+
+  {{ content }}
+
+</section>

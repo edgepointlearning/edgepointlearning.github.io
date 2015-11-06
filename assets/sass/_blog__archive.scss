@@ -1,0 +1,89 @@
+/*--  scaffolding  --*/
+section#excerpts {
+  @include span(full);
+}
+article.excerpt {
+  @include span(full);
+  @include breakpoint($bp-medium) {
+    @include span(6 of 12);
+    &:nth-child(even) {
+      @include span(6 of 12 last);
+    }
+  }
+}
+
+
+
+article.excerpt {
+  position: relative;
+  overflow: hidden;
+  height: 180px;
+  margin-bottom: 1em;
+  background-size: cover;
+  box-shadow: inset 0px 0px 0px 180px rgba(12, 43, 81, 0.9);
+  transition: box-shadow 0.2s;
+
+  a {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  h4 {
+    @include brandon;
+    color: white;
+    font-size: 1.6em;
+    line-height: 1.2em;
+    font-weight: 300;
+    text-align: center;
+    padding: 0 2em;
+    transform: translate3d(0,10px,0);
+    transition: transform 0.2s;
+    small {
+      font-size: 0.6em;
+      display: block;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+  }
+
+  &:hover {
+    box-shadow: inset 0px 0px 0px 180px rgba(0,0,0,0.7);
+    h4 {
+      transform: translate3d(0,-10px,0);
+      small {
+        opacity: 1;
+      }
+    }
+  }
+
+}
+
+section#pagination {
+  margin-top: 0;
+  text-align: center;
+  text-transform: uppercase;
+  color: $grey;
+
+  @include breakpoint($bp-medium) {
+    text-indent: -40px;
+  }
+
+  a {
+    font-weight: 700;
+  }
+
+  span.page_number {
+    text-transform: none;
+    &::before,
+    &::after {
+      color: $grey-lighter;
+      content: '|';
+      margin: 0 1em;
+    }
+  }
+}

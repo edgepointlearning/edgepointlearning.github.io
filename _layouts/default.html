@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        {{ site.title }}
+    </title>
+
+    <link rel="stylesheet" href="/css/main_css_file.css">
+
+    <!-- JS (typekit)-->
+    <script src="//use.typekit.net/csz0gjq.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/touch/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  </head>
+
+
+  <body id="page-{{ page.title }}" {% if page.date %}class="post"{% endif %}{% if page.demo %}class="demos"{% endif %}>
+    <main class="container">
+      {% include nav.html %}
+      {{ content }}
+      {% include footer.html %}
+    </main>
+    <!-- JS -->
+    <!-- build:js /assets/javascript/all.min.js -->
+    <script src="/assets/javascript/jquery.js"></script>
+    <script src="/assets/javascript/typed.js"></script>
+    <script src="/assets/javascript/javascript.js"></script>
+    <!-- endbuild -->
+  </body>
+</html>

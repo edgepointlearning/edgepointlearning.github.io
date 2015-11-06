@@ -1,0 +1,30 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "../../_bower_components/normalize-scss/_normalize.scss";
+@import "../../_bower_components/susy/sass/_susy.scss";
+@import "../../_bower_components/sassy-maps/sass/_sassy-maps.scss";
+@import "../../_bower_components/compass-breakpoint/stylesheets/_breakpoint.scss";
+
+@import "defaults";
+@import "scaling";
+
+@import "nav";
+@import "hero";
+@import "elevator";
+@import "box";
+@import "abstract";
+@import "footer";
+
+@import "page__landing";
+@import "page__solutions";
+// @import "page__success";
+@import "page__about";
+@import "page__contact";
+
+@import "blog__archive";
+@import "blog__post";
+
+@import "demo";

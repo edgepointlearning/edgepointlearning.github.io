@@ -1,0 +1,9 @@
+body.demos {
+  article#hero h1 {
+    margin: 1.5em auto;
+  }
+  section { @include span(full); }
+  .demo { border-bottom: 1px solid $grey-lighter;}
+  h2 {}
+  h3 {}
+}

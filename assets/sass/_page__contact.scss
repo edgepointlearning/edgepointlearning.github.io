@@ -1,0 +1,24 @@
+body#page-contact {
+
+  section#social-icons {
+    @include span(full);
+    margin-bottom: 3em;
+    figure {
+      @include span(1 of 4);
+      text-align: center;
+    }
+    figure:last-of-type {
+      @include span(1 of 4 last);
+    }
+    svg {
+      width: 80%;
+      max-width: 100px;
+      &:hover {
+        path {
+          fill: black;
+        }
+      }
+    }
+  }
+
+}

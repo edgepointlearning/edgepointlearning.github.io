@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article>
+
+  <h1>{{ page.title }}<small>Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</small></h1>
+
+  <figure><img src="{{page.background}}"></figure>
+
+  <section>
+
+    {{ content }}
+
+    <aside id="related">
+      <h4>Related Posts</h4>
+      <ul>
+        {% for post in site.related_posts limit:3 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+
+  </section>
+
+</article>

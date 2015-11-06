@@ -1,0 +1,16 @@
+<article class="abstract">
+  <hgroup>
+    <h2>{{ include.source.name }}</h2>
+    <h3>{{ include.source.category }} &middot; {{ include.source.industry }}</h3>
+  </hgroup>
+  <figure>
+    {% assign icon = site.data.icons[include.source.icon] %}
+    {{ icon.svg }}
+  </figure>
+  <dl>
+    <dt>CHALLENGE</dt><dd>{{ include.source.challenge }}</dd>
+    <dt>SOLUTION</dt><dd>{{ include.source.solution }}</dd>
+    <dt>RESULT</dt><dd>{{ include.source.result }}</dd>
+  </dl>
+  <p><a href="#" class="pill">Read Abstract</a></p>
+</article>

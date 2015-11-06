@@ -1,0 +1,71 @@
+.box {
+  &.half {
+    @include span(full);
+    @include breakpoint($bp-medium) {
+      @include span(6 of 12);
+    }
+  }
+  &.half:nth-child(even) {
+    @include breakpoint($bp-medium) {
+      @include span(6 of 12 last);
+    }
+  }
+  &.full{
+    @include span(full);
+    svg {
+      margin-top: 0.5em;
+      max-height: 6em;
+    }
+  }
+
+  display: table;
+  padding: 1em .8em 1em 1em;
+  margin: 0.5em 0;
+  outline: 1px solid $grey-lighter;
+  outline-offset: -0.4em;
+  // @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  //   /* IE10+ CSS styles go here */
+  //   outline: 1px solid $grey-lighter;
+  // }
+
+  h4 {
+    @include span(full);
+    margin: 0 0 0.2em 0;
+    color: $blue;
+    font-weight: 600;
+  }
+  figure {
+    @include span(3 of 12);
+  }
+  svg {
+    margin-top: .5em;
+    margin-left: -.4em;
+    max-height: 6em;
+    max-width: 100%;
+  }
+  p {
+    @include span(9 of 12 last);
+    margin: 0;
+    line-height: 1.3em;
+  }
+  a.pill {
+    margin: 1em 0 0 0;
+    font-size: .8em;
+    line-height:30px;
+    font-weight: 600;
+    text-decoration: none;
+    color: $blue;
+    text-transform: uppercase;
+    padding:0 2em;
+    display:inline-block;
+    border-radius: 50px;
+    border: 1px solid $blue;
+    &:hover {
+      background: #eee;
+    }
+  }
+
+  @include breakpoint($bp-xlarge) {
+    // outline-offset: -1px;
+  }
+}

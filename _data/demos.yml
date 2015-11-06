@@ -1,0 +1,129 @@
+- name: Bloodborne Pathogens
+  copy: <p>The State of Alaska Department of Education & Early Development was challenged with the high cost and complex logistics associated with providing an increasing level of Federally and state mandated training over a large geographic area – further complicated by many of the targeted learners living in remote rural areas. The Department of Education and Early Development partnered with EdgePoint to build a library of self-paced eLearning courses as a more cost-efficient alternative to providing in-person training around the state.</p><p>This demo includes a portion of Bloodborne Pathogens training required for all school staff.</p>
+  link: http://demo.edgepointlearning.com/bloodborne-pathogens/player.html
+  tag : Compliance & Regulatory
+
+- name: Equipment Repair Tutorial
+  copy: <p>Blue Coat needed to deliver just-in-time, equipment repair training to its service technicians in the field. The training needed to be easily accessible by the targeted learners via a mobile device, succinctly providing the information needed to troubleshoot and repair equipment.</p><p>This video-based tutorial was developed as a part of a series of training prototypes.</p>
+  link: http://demo.edgepointlearning.com/bluecoat-sg510/player.html
+  tag : Professional Development
+
+- name: Communication Skills
+  copy: <p>Intuit launched an initiative to increase the productivity of its work groups and enhance communication between groups across the organization. As part of this initiative, Intuit identified the need to make basic communication skills training available to employees. EdgePoint worked with Intuit to create an eLearning course, targeting the primary skills needing improvement and providing examples relevant to Intuit employees.</p><p>An explanation of communication basics and SkillCheck activities.</p>
+  link: http://demo.edgepointlearning.com/communicating-for-impact/player.html
+  tag : Professional Development
+
+- name: Customer Due Dilligence
+  copy: <p>Bank of the West sought to educate branch staff about the bank's Customer Due Diligence program and the associated government regulations. The training program needed to include general information about the program and information about updated business processes. This overview module introduced learners to the basic requirements and concepts of the Customer Due Diligence program.</p>
+  link: http://demo.edgepointlearning.com.s3.amazonaws.com/cdd_overview/story.html
+  tag : Compliance & Regulatory
+
+- name: Effective Feedback
+  copy: <p>As part of a corporate initiative to enhance leadership skills, Avis Budget Group needed to create a series of self-paced modules targeting the skills managers need to provide specific and constructive feedback to employees. The Effective Feedback training included eLearning-based instruction and scenario-based activities, giving learners the opportunity to practice employee conversations and receive specific feedback on their performance.</p><p>The activity featured in the demo was created as part of the Effective Feedback course.</p>
+  link: http://demo.edgepointlearning.com/effective-feedback/story.html
+  tag : Leadership Development
+
+- name: Flood Insurance
+  copy: <p>Bank of the West needed to train its employees about the flood insurance requirements that apply to the various types of property loans made by the bank. The training requirements varied based on the type of loan and property. EdgePoint developed a Core and Common module to provide the basic concepts applicable to all training groups. In addition, individual scenario-based modules were developed for each specific business line.</p><p>This demo provides a sample of the Core and Common module and a business line scenario.</p>
+  link: http://demo.edgepointlearning.com/flood-insurance/floodinsurance.html
+  tag : Compliance & Regulatory
+
+- name: "Localization: French"
+  copy: <p>BNP Paribas is a French bank with subsidiaries located around the world. The company needed to create training that taught and reinforced standardized internal audit processes across all bank subsidiaries. Following the creation of the course in English, BNP Paribas also decided to provide a French version of the course to a large number of employees.</p><p>This demo contains a portion of the French version of the course.</p>
+  link: http://demo.edgepointlearning.com/french-localization/player.html
+  tag : Compliance & Regulatory
+
+- name: Green Technologies
+  copy: <p>IEEE is charged with providing continuing education and training to its corporate and individual members. Limited by a small in-house development team, IEEE needed a development partner to support the volume and quality of courses needed to meet the growing needs of its membership. EdgePoint created a co-development process with IEEE, leveraging resources from both companies and streamlining the joint workflow – resulting in the rapid development of eLearning courses.</p><p>This demo provides a sample of a course developed using this co-development effort.</p>
+  link: http://demo.edgepointlearning.com/green-technologies/player.html
+  tag : Professional Development
+
+- name: Service Technicians
+  copy: <p>As part of its commitment to excellence in customer service, HP sought to more effectively train service technicians on service performance standards. As a demonstration of capabilities, EdgePoint leveraged HP's existing training materials to create an eLearning module using participant-centered design principles.</p><p>This demo provides a sample of the service training module.</p>
+  link: http://demo.edgepointlearning.com/HP-Demo/player.html
+  tag : Customer Service Training
+
+- name: Food & Beverage POS
+  copy: <p>The Wynn Hotel was preparing to implement a new Point of Service (POS) system for food and beverage service and needed to develop materials to support the delivery of live training to employees in various food and beverage service roles. EdgePoint created instructor-led training kits that included instructor guides, PowerPoint slides, participant guides, practice activity guides, and post-tests.</p><p>This demo includes examples of each ILT kit component.</p>
+  link: https://www.dropbox.com/sh/ov0s24quvxe6tdn/loU1iGvILd
+  tag : New Process & System Rollout Training
+
+- name: Reservations & Check-In
+  copy: <p>La Quinta needed to train front desk staff on how to use software and business processes to provide a superior guest check-in experience. The eLearning modules guided employees on combining La Quinta's customer service principles with the reservations software – creating a guest check-in experience that exceeded customer expectations.</p><p>This demo features a guided training module, where the learner must view each screen in its entirety before continuing.</p>
+  link: http://demo.edgepointlearning.com/lq-prep/story.html
+  tag : Customer Service Training, New Process & Systems Training
+
+- name: Lessons in Leadership
+  copy: <p>Bloomin' Brands introduced a new training series designed to allow executive leadership to share their experiences and lessons they learned throughout their careers. To launch the series, Bloomin' Brands wanted to use a previously recorded presentation by their CEO, but with enhancements to make it more engaging and Learning Management System (LMS)-ready for delivery and tracking purposes.</p><p>This demo includes an example of the enhanced video based on Bloomin' Brands' source video.</p>
+  link: http://demo.edgepointlearning.com.s3.amazonaws.com/bloomin/story.html
+  tag : Leadership Development
+
+- name: At-Home Physical Therapy
+  copy: <p>To create a proof of concept for prospective investors, iFIXme partnered with EdgePoint to create an interactive simulation of their platform – designed to allow physical therapy patients to complete their rehabilitation sessions at home, under the direction and monitoring of their physical therapist. The proof of concept simulated all functionality of the platform.</p><p>This demo includes the full proof of concept including a tutorial, eLearning content, video demonstrations, and simulated system tracking and reporting.</p>
+  link: http://demo.edgepointlearning.com/iFIXme/ifixme_new_nopw.html
+  tag : New Process & System Rollout Training, Product Education & Sales Training
+
+- name: Pet Nutrition
+  copy: <p>After introducing eLearning-based associate training into their stores, PetSmart partnered with EdgePoint to design a series of eLearning modules. The modules provided PetSmart associates with the product knowledge and skills necessary to assist pet parents in selecting proper products for their pets.</p><p>This sample is an introduction to the basics of dog and cat nutrition.</p>
+  link: http://demo.edgepointlearning.com/pet-nutrition/player.html
+  tag : Product Education & Sales Training, Customer Service Training
+
+- name: ScriptNoted
+  copy: <p>To illuminate prospects and potential investors on the value proposition for its project management platform in a unique and compelling way, ScriptNoted partnered with EdgePoint. Through the use of a vivid narrative and custom illustrations designed specifically for ScriptNoted, EdgePoint created a video presentation ScriptNoted used both on their web site and in presentations to potential investors and business partners.</p><p>This demo features the entire media clip.</p>
+  link: http://demo.edgepointlearning.com/scriptnoted/
+  tag : Product Education & Sales Training
+
+- name: Qualifying Questions
+  copy: <p>Limelight wished to improve the ability of its sales team to sell technology products and services. One initiative focused on reps' learning to more effectively ask appropriate qualifying questions and determining whether a contact may be a potential customer for Limelight's products and services.</p><p>This demo highlights the module focused on how to ask qualifying questions.</p>
+  link: http://demo.edgepointlearning.com/qualifying-questions/player.html
+  tag : Product Education & Sales Training
+
+- name: Code of Conduct
+  copy: <p>E.J. Gallo Winery sought to provide training to new and existing employees on policies and procedures associated with the code of conduct required of all Gallo employees. The information delivered needed to be consistent, and the completion of the training had to be documented. EdgePoint worked with Gallo subject matter experts to create a code of conduct training program that met their business and learning objectives – while vividly reflecting Gallo's visual brand.</p><p>This demo features a module that was part of company-wide HR compliance training for managers.</p>
+  link: http://demo.edgepointlearning.com/gallo-harassment/Gallo_EJG-DHR_Manager-demo.htm
+  tag : Compliance & Regulatory, New Employee On-Boarding
+
+- name: Social Media Guidelines
+  copy: <p>Bank of the West decided to develop an online resource to help employees understand how to properly represent the bank and its brand on social media. The resource needed to highlight what information employees could and could not share, as well as the bank's policies and procedures around employees' social media posts.</p><p>This demo includes includes examples of eLearning content using animation and storytelling components.</p>
+  link: http://demo.edgepointlearning.com/socialmedia/Social_Media_900x650.htm
+  tag : Compliance & Regulatory
+
+- name: Social Media Tools
+  copy: <p>Molson Coors needed to provide training to its employees on how to appropriately represent their brands on social media and how to use Molson Coors' internal social media tools. EdgePoint developed a video-style course to provide the training with a casual tone and heavily feature the Molson Coors brand and culture.</p><p>This demo highlights social media guidelines and an overview of social media tools used at Molson Coors.</p>
+  link: http://demo.edgepointlearning.com/socialmedia-mc/index.html
+  tag : Professional Development, New Process & System Rollout
+
+- name: WebPT
+  copy: <p>WebPT was experiencing significant growth and found that their existing, on-site customer training was not sufficiently scalable to meet the needs of their growing customer base. WebPT worked with EdgePoint to create self-paced eLearning modules to quickly onboard and train new customers and serve as a post-training resource. The company also repurposed the customer-facing training modules as part of their own new employee training and onboarding process, increasing project ROI.</p><p>This demo highlights the use of software simulations and practice activities.</p>
+  link: http://demo.edgepointlearning.com.s3.amazonaws.com/webpt/story.html
+  tag : New Process & System Rollout Training
+
+- name: Suicide Prevention
+  copy: <p>The high rate of suicide among Alaskan teens prompted the state legislature to require all school personnel to receive at least two hours of suicide prevention training each year. EdgePoint partnered with the Department of Education & Early Development to create a series of eLearning courses to meet the state-mandated requirement. These courses are now being shared with suicide prevention non-profits across the country.</p><p>This demo highlights eLearning content and a scenario-based activity that allows learners to apply information presented in the course.</p>
+  link: http://demo.edgepointlearning.com/suicide/player.html
+  tag : Professional Development
+
+- name: Customer Due Diligence & TouchPoint Software Simulation
+  copy: <p>Bank of the West was preparing to roll out a new software system and needed to train employees on the new system and illustrate how it fit into the the bank's larger Customer Due Diligence initiative and regulatory requirements. In addition to developing 20 training eLearning modules to support the rollout, EdgePoint also created a number of practice simulations. The software simulations were designed to guide learners through the basic software functionality while reinforcing skills and business rules taught in the training.</p><p>This demo includes content explaining Customer Due Diligence policies and and software simulations using the TouchPoint software.</p>
+  link: http://demo.edgepointlearning.com.s3.amazonaws.com/cdd_tryit/CDD_Module02_TRY.htm
+  tag : New Process & System Rollout Training
+
+- name: Virtual Campus Tour
+  copy: "<p>When PetSmart expanded their corporate headquarters, EdgePoint developed an interactive tour that combined a campus map with access to basic information about both the building and the different functional areas within the organization. EdgePoint combined 3D renderings and blueprints with flexible navigation and links to PetSmart's SharePoint and Learning Management Systems to provide an engaging overview of the expanded campus.</p><p>This demo highlights custom 3D models of the PetSmart campus, multiple self-navigation options, and integration with SharePoint content. Note: Links to SharePoint content are not functional as they link to content behind PetSmart's firewall.</p>"
+  link: http://demo.edgepointlearning.com/SSG3D/index.html
+  tag : New Employee Onboarding
+
+- name: WAN Acceleration
+  copy: <p>Blue Coat partnered with EdgePoint to provide training on its new WAN Acceleration solutions. The goal was to provide the Blue Coat sales team with enough technical knowledge of the products to be able to hold meaningful discussions with prospects while not requiring advanced technical knowledge to understand the content.</p><p>This demo is an example of how technical content can be presented with visual sentences to aid in the understanding of the content.</p>
+  link: http://demo.edgepointlearning.com/acceleration/player.html
+  tag : Product Education & Sales Training
+
+- name: Wizard GUI
+  copy: <p>When Avis Budget Group implemented a new software system across all of their rental locations, they partnered with EdgePoint to create multiple lessons to be used in training frontline staff and managers on the use of the new system. The training included multiple scenario-based software simulations designed to allow learners to apply what they learned in real-life situations and receive immediate feedback.</p><p>This demo features software simulations used to instruct learners on the use of the Wizard GUI system and a scenario-based activity allowing learners to practice using the software in a simulated environment. The activity provides high-level direction and more detailed help when needed.</p>
+  link: http://demo.edgepointlearning.com/wizard-gui/player.html
+  tag : New Process & System Rollout Training
+
+- name: Standardized New Employee Training
+  copy: <p>SWCA Environmental Consultants provide environmental consulting services from multiple locations throughout the US and its territories. SWCA partnered with EdgePoint on developing an interactive program, as part of their efforts to streamline and standardize their new employee onboarding. The resulting eLearning course enabled SWCA to quickly introduce employees to SWCA's culture and values; review policies and procedures; and explain employee benefits.</p><p>This demo includes eLearning content focused on educating new employees on SWCA's culture.</p>
+  link: #
+  tag : New Employee Onboarding
