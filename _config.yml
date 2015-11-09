@@ -7,7 +7,7 @@ url                : edgepointlearning.com
 
 # Permalinks
 permalink          : pretty
-paginate           : 8
+paginate           : 20
 include            : ['_pages']
 paginate_path      : '/blog/page:num'
 excerpt_separator  : '<!--more-->'
@@ -33,7 +33,7 @@ exclude: [node_modules, gulpfile.js]
 
 # Prose
 prose:
-  rooturl: '_posts'
+  #rooturl: '_posts'
   siteurl: 'http://edgepointlearning.github.io'
-  media: 'assets/images/blog'
+  #media: 'assets/images/blog'
   ignore: ['_bower_components', '_includes', '_layouts', 'css', '.gitignore', '404.html', '_config.yml', 'atom.xml', 'robots.txt', 'assets/javascript', 'assets/sass']

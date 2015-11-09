@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Design Tips for Instructional Designers and Trainers
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-02-01-design-tips-for-instructional-designers-and-trainers.jpg
 ---

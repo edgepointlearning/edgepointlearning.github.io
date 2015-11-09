@@ -1,12 +1,6 @@
 ---
 layout: post
 title: How to Work with Subject Matter Experts
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-05-01-how-to-work-with-subject-matter-experts.jpg
 ---

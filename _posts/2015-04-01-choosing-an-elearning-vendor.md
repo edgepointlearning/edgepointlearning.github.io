@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Choosing an eLearning Vendor
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-04-01-choosing-an-elearning-vendor.jpg
 ---

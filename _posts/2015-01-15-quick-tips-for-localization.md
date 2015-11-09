@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Quick Tips for Localization
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-01-15-quick-tips-for-localization.jpg
 ---

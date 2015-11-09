@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Is It Time to Evaluate Your Training Strategy?
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-06-01-is-it-time-to-evaluate-your-training-strategy.jpg
 ---

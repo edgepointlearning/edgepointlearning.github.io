@@ -1,12 +1,6 @@
 ---
 layout: post
 title: What is Brain Science?
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-04-15-what-is-brain-science.jpg
 ---

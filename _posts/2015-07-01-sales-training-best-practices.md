@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Sales Training Best Practices
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-07-01-sales-training-best-practices.jpg
 ---

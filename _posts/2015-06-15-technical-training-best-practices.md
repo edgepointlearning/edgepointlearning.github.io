@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Technical Training Best Practices
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-06-15-technical-training-best-practices.jpg
 ---

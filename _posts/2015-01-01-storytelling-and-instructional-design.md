@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Storytelling and Instructional Design
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-01-01-storytelling-and-instructional-design.jpg
 ---

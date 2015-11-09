@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Be More Passionate About Work
-categories: []
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 author: Megan Dobransky
 background: /assets/images/blog/2015-05-15-be-more-passionate-about-work.jpg
 ---
