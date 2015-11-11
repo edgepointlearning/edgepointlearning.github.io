@@ -8,7 +8,7 @@ url                : edgepointlearning.com
 # Permalinks
 permalink          : pretty
 paginate           : 20
-include            : ['_pages']
+include            : ['_pages', '_demos']
 paginate_path      : '/blog/page:num'
 excerpt_separator  : '<!--more-->'
 
