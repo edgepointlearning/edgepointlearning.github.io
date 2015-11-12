@@ -36,4 +36,4 @@ prose:
   #rooturl: '_posts'
   siteurl: 'http://edgepointlearning.github.io'
   #media: 'assets/images/blog'
-  ignore: ['_bower_components', '_includes', '_layouts', 'css', '.gitignore', '404.html', '_config.yml', 'atom.xml', 'robots.txt', 'assets/javascript', 'assets/sass']
+  ignore: ['_bower_components', '_includes', '_layouts', 'css', '.gitignore', '404.html', '_config.yml', 'atom.xml', 'robots.txt', 'assets/javascript', 'assets/sass', 'index.md', 'blog', '_pages']
