@@ -14,7 +14,7 @@ excerpt_separator  : '<!--more-->'
 
 # Hides your drafts and future posts
 future             : false
-show_drafts        : false
+show_drafts        : true
 # Gives you more accurate related posts (CHANGE THESE AFTER DEVELOPMENT)
 lsi                : false
 limit_posts        : 0
