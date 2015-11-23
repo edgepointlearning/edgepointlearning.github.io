@@ -7,21 +7,13 @@ background: /assets/images/blog/jekyll-logo.png
 
 > Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-
 ## Markdown
 
-> ## Header 2 ##
+> ## Header 2 (##)
 
-> ### Header 3 ###
+> ### Header 3 (###)
 
-> #### Header 4 (has no bottom margin) ####
+> #### Header 4... has no bottom margin (####)
 
 * Links : [Title](URL)
 * Bold : **Bold**
@@ -63,10 +55,6 @@ Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the f
 {% endhighlight %}
 
 You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
 ### Code
 
