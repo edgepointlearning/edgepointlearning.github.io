@@ -5,7 +5,7 @@ author: Tyler Campbell
 background: /assets/images/blog/jekyll-logo.png
 ---
 
-> This is an example blog post that shows several types of HTML content supported in this theme.
+> Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 
 ## Markdown
 
