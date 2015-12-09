@@ -10,8 +10,10 @@ a.pill {
   display:inline-block;
   border-radius: 50px;
   border: 1px solid $blue;
+  transition: all .25s ease;
   &:hover {
-    background: #eee;
+    background: $blue;
+    color: white;
   }
   &.no-outline {
     border: none;
