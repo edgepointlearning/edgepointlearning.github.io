@@ -4,7 +4,7 @@ title: Choosing an eLearning Vendor
 author: Megan Dobransky
 background: /assets/images/blog/2015-04-01-choosing-an-elearning-vendor.jpg
 ---
-####What should you look for in an eLearning vendor?
+#### What should you look for in an eLearning vendor?
 
 * Does the vendor ask you the right questions up front to understand your goals and objectives?
 * Are they flexible enough to give you the custom content you need, while adhering to tried and true adult learning methods?
