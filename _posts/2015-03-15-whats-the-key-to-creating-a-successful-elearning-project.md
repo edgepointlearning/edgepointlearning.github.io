@@ -8,11 +8,11 @@ What's the key to creating a successful eLearning project? Having a proven devel
 
 EdgePoint Learning follows these steps to shape your ideas into an engaging, informative user experience.
 
-Step one is the kick-off meeting. This is an important step in any project. Here, your wants, needs, expectations, and requirements are established, and the project takes off.
+Step one is the kick-off meeting. This is an important step in any project. Here, your wants, needs, expectations and requirements are established, and the project takes off.
 
-In the second step, all existing source materials, content, and ideas are filtered through an Instructional Designer, and distilled into a course blueprint and script.
+In the second step, all existing source materials, content and ideas are filtered through an instructional designer, and distilled into a course blueprint and script.
 
-A visual representation of the course begins to take shape in the third step. Storyboards indicate images, movement, and treatments to be used.
+A visual representation of the course begins to take shape in the third step. Storyboards indicate images, movement and treatments to be used.
 
 The fourth step is the meat of development. Audio is recorded and graphics are created using the best technologies for your project.
 
@@ -20,4 +20,4 @@ The fifth step takes all of the created content and assembles it into a cohesive
 
 The finalized course is reviewed and polished to perfection in the sixth step.
 
-In the final step, EdgePoint Learning delivers the completed course files for your company's LMS, web server or mobile device. Our seven-step process ensures together we're creating effective eLearning solutions.
+In the final step, EdgePoint Learning delivers the completed course files for your company's LMS, web server or mobile device. Our seven-step process ensures that, together, we’re creating effective eLearning solutions.

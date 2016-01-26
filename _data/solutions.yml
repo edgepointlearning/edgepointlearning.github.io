@@ -15,34 +15,34 @@ compliance  :
 leadership  :
   title     : Leadership Development
   icon      : podium
-  copy      : Develop your organization’s future leaders through a blended, career-long leadership development curriculum designed to help your best and brightest maximize their potential and grow your organization from within.
+  copy      : Grow your organization from within and develop its future leaders. Our blended, career-long leadership development curriculum is designed to help your best and brightest maximize their potential.
   url-info  : "#"
   url-story : "/success/"
 
 employee    :
   title     : Employee Development
   icon      : star
-  copy      : Enable your employees to succeed now and in the future through well-designed training on your latest initiatives and innovations, new technologies, new markets and the skillsets required to take advantage of them.
+  copy      : Enable your employees to succeed now and in the future by providing well-designed training on your latest initiatives and innovations, and the skill sets required to take advantage of new technologies and markets.
   url-info  : "#"
   url-story : "/success/"
 
 product     :
   title     : Product Education & Sales Training
   icon      : crosshair
-  copy      : Arm your internal and external sales channels with engaging and actionable product education programs that supercharge product P&Ls and directly benefit your top and bottom line.
+  copy      : Arm your internal and external sales channels with engaging and actionable product education programs that supercharge product P&Ls and directly benefit your top and bottom lines.
   url-info  : "#"
   url-story : "/success/"
 
 customer    :
   title     : Customer Service Training
   icon      : phone
-  copy      : Whether customers are internal or extenral, ensure that your internal, customer account management, and support teams possess the skills to meet the customer satisfaction challenge with anytime, anywhere training.
+  copy      : Whether customers are internal or external, ensure that your internal, customer account management and support teams possess the skills to meet the customer satisfaction challenge with “anytime, anywhere” training.
   url-info  : "#"
   url-story : "/success/"
 
 process     :
   title     : New Process & Systems Training
   icon      : gears
-  copy      : Protect your organization’s investments in new technology or business processes with communications and training programs designed to drive successful implementation & rapid adoption and maximize utilization.
+  copy      : Protect your organization’s investments in new technology or business processes with communications and training programs designed to drive successful implementation, facilitate rapid adoption and maximize utilization.
   url-info  : "#"
   url-story : "/success/"

@@ -8,8 +8,8 @@ There's been a lot of talk lately about the skill of storytelling and how it can
 
 [This article](http://linkd.in/17mLfZK) heralds storytelling as the #1 business skill of the next five years. As an instructional designer or trainer, you're already pretty used to telling stories, but here are a few resources to help you hone those skills and use them to get ahead in other ways, too:
 
-* [Storytelling | E-Learning](http://bit.ly/13nmXSC) 
+* [Storytelling in eLearning](http://bit.ly/13nmXSC) 
 * [Storytelling in eLearning: The why and how](http://bit.ly/13nn80h)
-* [How Storytelling is the Secret to Award Winning e-Learning](http://bit.ly/13nngwD)
+* [How Storytelling is the Secret to Award Winning eLearning](http://bit.ly/13nngwD)
 * [The Essentials of Business Storytelling](http://slidesha.re/13nnoML)
 * [Storytelling 101: What Makes a Good Story?](http://bit.ly/13nnCDF)

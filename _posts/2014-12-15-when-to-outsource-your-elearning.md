@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When to Outsource your eLearning
+title: When to Outsource Your eLearning
 author: Megan Dobransky
 background: /assets/images/blog/2014-12-15-when-to-outsource-your-elearning.jpg
 ---

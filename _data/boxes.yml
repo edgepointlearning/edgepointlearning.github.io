@@ -1,34 +1,34 @@
 solutions    :
-  title  : Solutions that Drive Your Business
+  title  : Solutions That Drive Your Business
   icon   : lightbulb
-  copy   : With an average of more than 10 years experience in corporate training and education, EdgePoint's team works closely with clients to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works.
+  copy   : With an average of more than 10 years’ experience in corporate training and education, EdgePoint's team works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works.
   button : Learn
   url    : "/solutions/"
 
 success      :
   title  : Our Customers' Success Stories
   icon   : rocket
-  copy   : How do you measure success for your organizational learning initiatives? EdgePoint Learning focuses on clearly defining success metrics at the start of every project. Read what success was for these EdgePoint Learning clients, in their own words.
+  copy   : How do you measure success for your organizational learning initiatives? EdgePoint Learning focuses on clearly defining success metrics at the start of every project. Read how success was defined for these EdgePoint Learning clients, in their own words.
   button : Explore
   url    : "/success/"
 
 blog         :
   title  : We Love Learning!
   icon   : heart
-  copy   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working now and what’s on the horizon...And we’re more than happy to share our observations and insights with you.
+  copy   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working now and what’s on the horizon - and we’re more than happy to share our observations and insights with you.
   button : Read
   url    : "/blog/"
 
 newsletter   :
-  title  : Subscribe To Our Newsletter!
+  title  : Subscribe to Our Newsletter!
   icon   : plane
-  copy   : Learning industry news, observations and insights from EdgePoint Learning, delivered directly to your in-box. Our monthly newsletter gives you the latest eLearning news, original content from our contributors, and the latest news from EdgePoint Learning.
+  copy   : Learning-industry news, observations and insights from EdgePoint Learning, delivered directly to your in-box. Our monthly newsletter gives you the latest eLearning news, original content from our contributors and the latest news from EdgePoint Learning.
   button : Subscribe
   url    : "#"
 
 demos        :
   title  : Check Out Our Demos
   icon   : puzzle
-  copy   : Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis,.
+  copy   : EdgePoint can convert any existing, traditional training materials into engaging, interactive eLearning modules. With these demos, you'll see how we drive home concepts, inspire knowledge transfer and transform complex topics into the digestible educational objects your students will love.
   button : Explore
   url    : "#"

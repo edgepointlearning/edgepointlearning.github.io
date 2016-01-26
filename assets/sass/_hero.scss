@@ -23,14 +23,14 @@ body#page-home article#hero {
     #typed {
       font-weight: 300;
       letter-spacing: .02em;
+      margin-left: .4em;
     }
     span#typed,
     span.typed-cursor {
       display: inline;
     }
     span.typed-cursor {
-      @include museo;
-      font-weight: 300;
+      visibility: hidden;
     }
     @include breakpoint($bp-landscape) {
       font-size: 8vw;

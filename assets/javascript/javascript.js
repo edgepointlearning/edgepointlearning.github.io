@@ -5,7 +5,7 @@ if($('#page-home').length){
                 "profitable.",
                 "innovative.",
                 "accountable.",
-                "competitive."],backDelay: 3000,loop: true
+                "competitive."],backDelay: 3000,loop: true,showCursor: true
     });
   });
 }
