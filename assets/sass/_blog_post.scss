@@ -13,6 +13,10 @@ body.post {
     margin-bottom: 1.5em;
   }
 
+  figure#post_featured_image img {
+    width: 100%;
+  }
+
   section#post_content,
   aside#post_related {
     margin: 1.5em 0;
