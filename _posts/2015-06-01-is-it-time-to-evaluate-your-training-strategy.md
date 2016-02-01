@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Is It Time to Evaluate Your Training Strategy?
 author: Megan Dobransky
-background: /assets/images/blog/2015-06-01-is-it-time-to-evaluate-your-training-strategy.jpg
+background: 2015-06-01-is-it-time-to-evaluate-your-training-strategy.jpg
 ---
 It's always a good idea to evaluate your training strategy at least once a year. Here are a few tips to start the process.
 

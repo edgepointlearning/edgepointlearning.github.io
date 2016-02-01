@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Be More Passionate About Work
 author: Megan Dobransky
-background: /assets/images/blog/2015-05-15-be-more-passionate-about-work.jpg
+background: 2015-05-15-be-more-passionate-about-work.jpg
 ---
 As part of our ongoing #tbt series, here's a blog from our archives about passion and work.
 

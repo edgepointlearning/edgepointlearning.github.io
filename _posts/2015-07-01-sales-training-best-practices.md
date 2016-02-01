@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Sales Training Best Practices
 author: Megan Dobransky
-background: /assets/images/blog/2015-07-01-sales-training-best-practices.jpg
+background: 2015-07-01-sales-training-best-practices.jpg
 ---
 
 Two of our specialties here at EdgePoint Learning are business skills and sales training. Here are a few best practices we’d like to share:

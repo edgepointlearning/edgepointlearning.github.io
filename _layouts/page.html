@@ -1,29 +1,34 @@
 ---
 layout: default
 ---
+<header id="hero">
+  {% if page.hero-img %}
+  <img src={{ page.hero-img | prepend: site.baseurl }} alt="hero image">
+  {% else %}
+  <h1>{{ page.hero }}</h1>
+  {% endif %}
+</header>
 
-<article id="hero">
-  <h1>{{ site.data.pages[page.title]headline }}</h1>
+<article id="intro">
+  {%if page.headline %}<header><h2>{{ page.headline }}</h2></header>{% endif %}
+  {%if page.icon %}{% assign iconSvg = site.data.icons[page.icon]svg %}<figure>{{ iconSvg }}</figure>{% endif %}
+  {%if page.intro %}<section>{{ page.intro }}</section>{% endif %}
 </article>
 
-<section>
 
-  <article id="elevator">
-    {% if site.data.pages[page.title]slogan %}
-      <h2>{{ site.data.pages[page.title]slogan }}</h2>
-    {% endif %}
-    <section>
-      {% if site.data.pages[page.title]icon %}
-        <figure>
-          {% assign iconChoice = site.data.pages[page.title]icon %}
-          {% assign iconImage = site.data.icons[iconChoice] %}
-          {{ iconImage.svg }}
-        </figure>
-      {% endif %}
-      {{ site.data.pages[page.title]elevator }}
-    </section>
-  </article>
-
+<article class="page_content padding_horz">
   {{ content }}
+</article>
 
+
+{% if page.boxes %}
+<section class="box_holder">
+  {% for page_box in page.boxes %}
+    {% for box in site.boxes %}
+      {% if page_box == box.name %}
+        {% include box.html %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 </section>
+{% endif %}

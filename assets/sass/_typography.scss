@@ -1,0 +1,97 @@
+// six     : 375px,
+// sixplus : 414px,
+// small   : 568px,
+// sixhorz : 667px,
+// medium  : 768px,
+// xlarge  : 970px
+
+$typi: (
+  null  : 14px,
+  small : 16px
+);
+
+body {
+  @include typi-base();
+  @include f-nova;
+  font-weight: 300;
+  color: $c-epl-grey;
+}
+
+a {
+  color: $c-epl-blue;
+}
+p a {
+  font-weight: 500;
+}
+
+$hero-map: (
+  null    : 2em,
+  sixplus : 7vw,
+  xlarge  : 4em
+);
+
+$intro-h2-map: (
+  null   : 1.3em,
+  sixplus  : 1.5em,
+  medium  : 1.75em,
+  xlarge : 2em
+);
+
+$intro-section-map: (
+  null   : 1em,
+  medium : 1.125em,
+  xlarge : (1.1875em 30px)
+);
+
+$box-h4-map: (
+  null   : 1.125em,
+  medium : 1.1875em
+);
+$box-p-map: (
+  null : 1em,
+  medium : (1em 1.375em)
+);
+
+$pill-map: (
+  null : 12px,
+  small: 12px
+);
+
+$teaser-map: (
+  null : 1.5em,
+  xlarge: 1.75em
+);
+
+
+header#hero {
+  @include typi($hero-map)
+}
+
+article#intro h2 {
+  @include typi($intro-h2-map)
+}
+article#intro section,
+body#page-about-us article.page_content p {
+  @include typi($intro-section-map)
+}
+aside.box h4 {
+  @include typi($box-h4-map)
+}
+aside.box p {
+  @include typi($box-p-map)
+}
+a.pill {
+  @include typi($pill-map)
+}
+article.blog_teaser h3 {
+  @include typi($teaser-map)
+}
+
+footer h4 {
+  font-size: 1.1875em;
+}
+
+
+body.post h1 {
+  @include typi($intro-h2-map);
+}

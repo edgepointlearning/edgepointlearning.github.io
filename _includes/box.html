@@ -1,11 +1,15 @@
-<aside id="box-{{ include.id }}" class="box {{ include.size }}">
-    <h4>{{ include.source.title }}</h4>
-    <figure>
-      {% assign icon = site.data.icons[include.source.icon] %}
-      {{ icon.svg }}
-    </figure>
-    <p>{{ include.source.copy }}</p>
-    <p>
-      <a href="{{ include.source.url }}" class="pill">{{ include.source.button }}</a>
-    </p>
+<aside class="box" id="box_{{ box.name }}">
+  <header><h4>{{ box.title }}</h4></header>
+  <article>
+    <figure>{% assign iconSvg = site.data.icons[box.icon]svg %}{{ iconSvg }}</figure>
+    <section><p>{{ box.content }}</p></section>
+  </article>
+  <aside>
+    {% if include.solution == 'true' %}
+      <!-- <a href="{{ box.link-info }}" class="pill">LEARN MORE</a> -->
+      <a href="{{ box.link-story}}" class="pill">READ STORY</a>
+    {% else %}
+      <a href="{{ box.link }}" class="pill">{{ box.button }}</a>
+    {% endif %}
+  </aside>
 </aside>

@@ -1,28 +1,30 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<article>
+  <header id="post_header">
+    <h1>{{ page.title }}</h1>
+    <h2>{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</h2>
+  </header>
 
-  <h1>{{ page.title }}<small>Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</small></h1>
+  <figure id="post_featured_image">
+    <img src="{{site.blog_image_dir}}/{{ page.background }}" alt="blog post featured image">
+  </figure>
 
-  <figure><img src="{{page.background}}"></figure>
-
-  <section>
-
+  <section id="post_content">
     {{ content }}
-
-    <aside id="related">
-      <h4>Related Posts</h4>
-      <ul>
-        {% for post in site.related_posts limit:3 %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
-          </li>
-        {% endfor %}
-      </ul>
-    </aside>
-
   </section>
+
+  <aside id="post_related">
+    <h3>Related Posts</h3>
+    <ul>
+      {% for post in site.related_posts limit:3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
 
 </article>

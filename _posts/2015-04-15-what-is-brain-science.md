@@ -1,8 +1,7 @@
 ---
-layout: post
 title: What is Brain Science?
 author: Megan Dobransky
-background: /assets/images/blog/2015-04-15-what-is-brain-science.jpg
+background: 2015-04-15-what-is-brain-science.jpg
 ---
 What is brain science? Brain science is, well, pretty much what it sounds like, the study of brain processes and how our minds work.
 

@@ -1,13 +1,15 @@
 ---
-layout: page
-title: solutions
-permalink: "/solutions/"
+title    : Solutions
+permalink: '/solutions/'
+layout   : page
+
+hero     : <b>Solutions</b>That Drive<br>Your Business.
+icon     : lightbulb
+intro    : "<p>EdgePoint Learning works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business (SMB), multinational corporation or not-for-profit, one thing remains constant: good learning equals good business. EdgePoint Learning has the expertise to define, design and develop point or blended learning solutions—instructor-led training programs (for classroom or virtual delivery); eLearning courseware; animations, simulations and gaming; and OJT reference materials—that will get the job done.</p>"
 ---
 
-{% include solution.html id="abstract-1" size="half" source=site.data.solutions.onboarding %}
-{% include solution.html id="abstract-2" size="half" source=site.data.solutions.compliance %}
-{% include solution.html id="abstract-3" size="half" source=site.data.solutions.leadership %}
-{% include solution.html id="abstract-4" size="half" source=site.data.solutions.employee %}
-{% include solution.html id="abstract-5" size="half" source=site.data.solutions.product %}
-{% include solution.html id="abstract-6" size="half" source=site.data.solutions.customer %}
-{% include solution.html id="abstract-7" size="full" source=site.data.solutions.process %}
+<section class="box_holder">
+  {% for box in site.solutions %}
+    {% include box.html solution='true' %}
+  {% endfor %}
+</section>

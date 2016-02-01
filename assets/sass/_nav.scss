@@ -1,94 +1,77 @@
+// nav > ul > li
 nav {
-  @include span(full);
-  margin: 0;
-  font-size: 0.8em;
-  figure {
-    @include span(full);
-    margin: 18px 0 0 0;
-    text-align: center;
-    padding: 0 1em;
-    svg {
-      width: 100%;
-      max-width: 300px;
-      max-height: 38px;
-    }
-  }
+  margin: 1em 0;
   ul {
-    @include span(full);
-    margin: 10px 0 14px;
-    padding: 0;
-    display: table;
+    display: flex;
+    flex-flow: row wrap;
   }
   li {
-    display: table-cell;
+    flex: 1 auto;
     text-align: center;
+  }
+  li:first-of-type {
+    width: 100%;
+  }
+  svg {
+    width: 90%;
+    max-width: 300px;
+    margin-bottom: 1em;
   }
   a {
     text-transform: uppercase;
-    text-decoration: none;
-    color: $blue;
-    @include nova-condensed;
-    &:hover {
-      // text-decoration: none;
+    color: $c-epl-blue;
+    @include f-nova-condensed;
+  }
+
+  @include mappy-bp(small) {
+    margin: .5em 0;
+    ul {
+      height: 48px;
+      align-items: center;
     }
-  }
-
-  @include breakpoint($bp-6plus) {
-    font-size: 1em;
-  }
-
-  @include breakpoint($bp-6landscape) {
-    height: 48px;
-    line-height: 52px;
-    figure {
-      @include span(1 of 12 first);
-      margin: 0;
-      padding: 0;
+    li {
+      text-align: right;
+    }
+    li:first-of-type {
       text-align: left;
-      svg {
-        margin-top: 11px;
-        margin-left: .6em;
-        width: 220px;
-        height: 28px;
-      }
+      width: 64px;
+      margin-left: .5em;
+    }
+    li:last-of-type {
+      margin-right: .5em;
+    }
+    svg {
+      width: 220px;
+      height: 28px;
+      margin-bottom: 0;
+      margin-top: -4px;
     }
     #nav__logo__edgepoint,
     #nav__logo__learning {
       display: none;
     }
-    ul {
-      @include span(11 of 12 last);
-      margin: 0;
-    }
   }
 
-  @include breakpoint($bp-medium) {
-    figure {
-      @include span(4 of 12 first);
-    }
-    ul {
-      @include span(8 of 12 last);
+  @include mappy-bp(medium) {
+    li:first-of-type {
+      width: auto;
     }
     #nav__logo__edgepoint,
     #nav__logo__learning {
       display: block;
     }
-    li {
-      font-size: 1em;
+  }
+
+  @include mappy-bp(xlarge) {
+    li:first-of-type {
+      margin-left: 0;
+    }
+    li:last-of-type {
+      margin-right: 0;
+    }
+    a {
+      @include f-nova;
     }
   }
 
-  @include breakpoint($bp-xlarge) {
-    overflow: hidden;
-    figure svg {
-      margin-left: 0;
-    }
-    ul {
-      margin-right: -1.1em;
-    }
-    a {
-      @include nova;
-      font-weight: 500;
-    }
-  }
 }

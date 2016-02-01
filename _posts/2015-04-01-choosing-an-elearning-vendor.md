@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Choosing an eLearning Vendor
 author: Megan Dobransky
-background: /assets/images/blog/2015-04-01-choosing-an-elearning-vendor.jpg
+background: 2015-04-01-choosing-an-elearning-vendor.jpg
 ---
 #### What should you look for in an eLearning vendor?
 

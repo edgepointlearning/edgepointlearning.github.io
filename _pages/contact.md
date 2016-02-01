@@ -1,9 +1,19 @@
 ---
-layout: page
-title: contact
-permalink: "/contact/"
+title    : Contact
+permalink: '/contact/'
+layout   : page
+
+hero     : <b>We'd Love to</b>Hear From You.
+icon     : chat
+intro    : <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
+
+boxes    :
+ - demos
+ - success
+ - newsletter
 ---
-<section id="social-icons">
+
+<section id="social_icons">
   <figure>
     <a href="http://www.facebook.com/edgepointlearningllc">
       {{ site.data.icons.facebook.svg }}
@@ -28,7 +38,3 @@ permalink: "/contact/"
     </a>
   </figure>
 </section>
-
-{% include box.html size="half" id="demos" source=site.data.boxes.demos %}
-{% include box.html size="half" id="success" source=site.data.boxes.success %}
-{% include box.html size="full" id="newsletter" source=site.data.boxes.newsletter %}

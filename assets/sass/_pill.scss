@@ -1,28 +1,17 @@
 a.pill {
   margin: 1em 0 0 0;
-  font-size: .8em;
   line-height:30px;
   font-weight: 500;
+  letter-spacing: 0.15em;
   text-decoration: none;
-  color: $blue;
   text-transform: uppercase;
   padding:0 2em;
   display:inline-block;
   border-radius: 50px;
-  border: 1px solid $blue;
+  border: 1px solid $c-epl-blue;
   transition: all .25s ease;
   &:hover {
-    background: $blue;
+    background: $c-epl-blue;
     color: white;
-  }
-  &.no-outline {
-    border: none;
-    border-radius: 0;
-    padding: 0;
-    font-size: 1em;
-    &:hover {
-      text-decoration: underline;
-      background: transparent;
-    }
   }
 }

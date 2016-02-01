@@ -1,0 +1,55 @@
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.padding_horz {
+  @include padding-horz;
+}
+
+footer li a:hover {
+  text-decoration: underline;
+}
+
+section#clients {
+  overflow: hidden;
+  height: 132px;
+  figure {
+    position: absolute;
+    width: 4900px;
+    animation: marquee 90s linear infinite;
+  }
+}
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-2400px); }
+}
+
+body#page-about-us article.page_content {
+  margin-top: 1em;
+  p {
+    margin-bottom: 1em;
+  }
+}
+
+body#page-contact section#social_icons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 5em;
+
+  figure {
+    width: 25%;
+    text-align: center;
+  }
+
+  svg {
+    width: 80%;
+    max-width: 100px;
+  }
+
+}

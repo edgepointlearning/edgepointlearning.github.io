@@ -1,74 +1,35 @@
-article#hero {
-  @include span(full);
-  background: $blue;
-  color: white;
-  h1 {
-    text-align: center;
-    line-height: 1.2em;
-    @include brandon;
-    font-weight: 100;
-    span {
-      display: block;
-      white-space: nowrap;
-    }
-    b {
-      @include nova;
-      font-weight: 300;
-      display: block;
-    }
-  }
+header#hero {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+ min-height: 6em;
+
+ background: $c-epl-blue;
+ color: white;
+
+ h1 {
+   margin: 1.2em auto 1.3em;
+   @include f-brandon;
+   text-align: center;
+   line-height: 1.2em;
+   font-weight: 100;
+ }
+ b {
+   @include f-nova;
+   font-weight: 300;
+   display: block;
+ }
+ #typed {
+   font-weight: 300;
+   letter-spacing: .02em;
+ }
 }
-body#page-home article#hero {
-  h1 {
-    #typed {
-      font-weight: 300;
-      letter-spacing: .02em;
-      margin-left: .4em;
-    }
-    span#typed,
-    span.typed-cursor {
-      display: inline;
-    }
-    span.typed-cursor {
-      visibility: hidden;
-    }
-    @include breakpoint($bp-landscape) {
-      font-size: 8vw;
-      line-height: 10vw;
-      span:nth-of-type(2),
-      span:nth-of-type(3) {
-        display: inline;
-      }
-    }
-  }
-}
-body#page-solutions,
-body#page-success {
-  h1 span {
-    display: inline;
-    white-space: normal;
-    @include breakpoint($bp-6) {
-      display: block;
-      white-space: nowrap;
-    }
-  }
-}
-body#page-success,
-body#page-blog,
-body#page-contact {
-  h1 {
-    margin: 1.3em auto;
-  }
-}
-body#page-about {
-  article#hero {
-    max-height: 480px;
-    h1 {
-      line-height: 0;
-      margin: 0;
-      img {
-        width: 100%;
-      }
-    }
+
+body#page-about-us header h1 {
+  margin: 0;
+  line-height: 0;
+  img {
+    width: 100%;
   }
 }

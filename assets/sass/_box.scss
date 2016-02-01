@@ -1,58 +1,71 @@
-.box {
-  &.half {
-    @include span(full);
-    @include breakpoint($bp-medium) {
-      @include span(6 of 12);
-    }
-  }
-  &.half:nth-child(even) {
-    @include breakpoint($bp-medium) {
-      @include span(6 of 12 last);
-    }
-  }
-  &.full{
-    @include span(full);
-    svg {
-      margin-top: 0.5em;
-      max-height: 6em;
-    }
-  }
+section.box_holder {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 
-  display: table;
-  padding: 1em .8em 1em 1em;
-  margin: 0.5em 0;
-  outline: 1px solid $grey-lighter;
-  outline-offset: -0.4em;
-  // @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-  //   /* IE10+ CSS styles go here */
-  //   outline: 1px solid $grey-lighter;
-  // }
+  margin: 2em 0;
+  @include padding-horz;
+}
 
+aside.box {
+  border: 1px solid $c-epl-grey-1;
+  padding: 1em;
+  margin: .5em 0;
   h4 {
-    @include span(full);
-    margin: 0 0 0.2em 0;
-    color: $blue;
-    font-weight: 600;
+    color: $c-epl-blue;
+    margin-bottom: .4em;
   }
   figure {
-    @include span(3 of 12);
+    display: none;
   }
   svg {
-    margin-top: .5em;
-    margin-left: -.4em;
-    max-height: 6em;
-    max-width: 100%;
+    width: 80%;
+    max-width: 100px;
+    margin-right: 1em;
   }
-  p {
-    @include span(9 of 12 last);
-    margin: 0;
-    line-height: 1.3em;
-  }
-  a.pill:first-of-type {
-      margin-right: 2em;
+  // a.pill:first-of-type {
+  //   margin-right: 1em;
+  // }
+}
+
+aside.box {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+
+  article {
+    flex: 1;
+    display: flex;
+    flex-flow: row wrap;
   }
 
-  @include breakpoint($bp-xlarge) {
-    // outline-offset: -1px;
+  @include mappy-bp(sixplus) {
+    figure {
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 25%;
+    }
+    section {
+      width: 75%;
+    }
+    aside {
+      width: 75%;
+      margin-left: 25%;
+    }
+  }
+
+  @include mappy-bp(medium) {
+    width: 49%;
+    svg {
+      margin-top: 1em;
+    }
+    &:nth-last-child(1):nth-child(odd) {
+      width: 100%;
+      svg {
+        margin-top: 0;
+      }
+    }
   }
 }

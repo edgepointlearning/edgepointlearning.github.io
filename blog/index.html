@@ -1,37 +1,19 @@
 ---
-layout: page
-title: blog
+layout   : page
+
+hero     : We Love <b>Learning!</b>
+icon     : heart
+intro    : <p>As learning experts, we are also voracious learners who never stop seeking knowledge. On our blog, you'll find informative, actionable and fun insights about the learning industry—new trends, new technologies, best practices, customer stories and more. Have a topic you’d like us to delve into or to contribute yourself? <a href="#">Click here</a> to let us know.</p>
 ---
+<section class="box_holder">
 
-<section id="excerpts">
   {% for post in paginator.posts %}
-
-  <article class="excerpt" style="background-image: url({{ post.background }})">
-    <a href="{{ post.url }}">
-      <h4>
-        {{ post.title }}
-        <small>{{ post.date | date: '%B %d, %Y' }}</small>
-      </h4>
-    </a>
-  </article>
-
+    <article class="blog_teaser" style="background-image: url({{site.blog_image_dir}}/{{ post.background }})">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3>{{ post.title }}<small>{{ post.date | date: '%B %d, %Y' }}</small></h3>
+      </a>
+    </article>
   {% endfor %}
-</section>
 
-
-<!-- Pagination links -->
-<section id="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-
-  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+  {% include paginator.html %}
 </section>

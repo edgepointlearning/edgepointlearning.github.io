@@ -1,8 +1,7 @@
 ---
-layout: post
 title: What's the Key to Creating a Successful eLearning Project?
 author: Megan Dobransky
-background: /assets/images/blog/2015-03-15-whats-the-key-to-creating-a-successful-elearning-project.jpg
+background: 2015-03-15-whats-the-key-to-creating-a-successful-elearning-project.jpg
 ---
 What's the key to creating a successful eLearning project? Having a proven development process!
 

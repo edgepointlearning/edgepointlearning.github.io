@@ -3,12 +3,13 @@
   <aside>
     <h4>Our Website</h4>
     <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/solutions/">Solutions</a></li>
-      <li><a href="/success/">Success Stories</a></li>
-      <li><a href="/blog/">Blog</a></li>
-      <li><a href="/about/">About Us</a></li>
-      <li><a href="/contact/">Contact</a></li>
+      <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+      <li><a href="{{ "/solutions/" | prepend: site.baseurl }}">Solutions</a></li>
+      <li><a href="{{ "/success-stories/" | prepend: site.baseurl }}">Success Stories</a></li>
+      <li><a href="{{ "/blog/" | prepend: site.baseurl }}">Blog</a></li>
+      <li><a href="{{ "/about-us/" | prepend: site.baseurl }}">About Us</a></li>
+      <li><a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a></li>
+    </ul>
     </ul>
   </aside>
 

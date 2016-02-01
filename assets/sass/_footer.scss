@@ -1,82 +1,51 @@
 footer {
-  @include span(full);
-  margin-top: 3em;
-  padding: 2em gutter() 1em;
-  background: $blue;
-  color: white;
+  background: $c-epl-blue;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 1.5em 2em 2em 2em;
 
-  aside {
-    @include span(1 of 2);
-    margin: 0;
-
-    &:nth-of-type(2) {
-      @include span(1 of 2 last);
-    }
-
-    &:last-of-type {
-      @include span(full);
-      text-align: center;
-      margin: 1em 0 0;
-      h4 {
-        display: none;
-      }
-    }
-  }
-  h4 {
-    margin: 0;
-  }
   ul {
-    margin: 0;
-    padding: 0;
     list-style-type: none;
   }
+
+  h4 {
+    font-weight: 500;
+    color: white;
+    margin-bottom: .2em;
+  }
   li, a {
-    color: $grey-lightest;
-    font-weight: 300;
+    color: $c-epl-grey-2;
   }
-
-
-  @include breakpoint($bp-6landscape) {
-
-    aside {
-      @include span(1 of 3);
-
-      &:nth-of-type(2) {
-        @include span(1 of 3);
-      }
-      &:last-of-type {
-        @include span(1 of 3);
-        text-align: left;
-        margin: 0;
-        h4 {
-          display: block;
-        }
-      }
-    }
+  aside {
+    width: 50%;
+  }
+  aside:last-of-type {
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
     h4 {
-      @include nova-condensed;
-      margin-bottom: 0.3em;
+      display: none;
     }
   }
 
-  @include breakpoint($bp-medium) {
-    padding: 2em;
-
-    h4 {
-      @include nova;
-    }
-    li {
-      font-size: 1em;
-    }
-  }
-
-  @include breakpoint($bp-xlarge) {
+  @include mappy-bp(sixhorz) {
     aside,
-    aside:nth-of-type(2) {
-      @include span(1 of 4);
+    aside:last-of-type {
+      width: 33%;
+      text-align: left;
+      margin-top: 0;
+      h4 {
+        display: block;
+      }
+    }
+  }
+
+  @include mappy-bp(xlarge) {
+    aside {
+      width: 26%;
     }
     aside:last-of-type {
-      @include span(2 of 4 last);
+      width: 48%;
     }
   }
 
