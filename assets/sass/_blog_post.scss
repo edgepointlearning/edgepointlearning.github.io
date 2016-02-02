@@ -4,10 +4,10 @@ body.post {
     @include padding-horz;
   }
 
-  h1 {
+  header h1 {
     margin-top: 0.5em;
   }
-  h2 {
+  header h2 {
     font-weight: 300;
     color: $c-epl-grey-1;
     margin-bottom: 1.5em;
@@ -17,11 +17,11 @@ body.post {
     width: 100%;
   }
 
-  section#post_content,
   aside#post_related {
-    margin: 1.5em 0;
-    padding: 0 2em;
-    max-width: 40em;
+    small {
+      font-weight: 300;
+      font-size: 1em;
+      margin-left: .5em;
+    }
   }
-
 }

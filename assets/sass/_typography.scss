@@ -19,8 +19,6 @@ body {
 
 a {
   color: $c-epl-blue;
-}
-p a {
   font-weight: 500;
 }
 
@@ -63,6 +61,7 @@ $teaser-map: (
 );
 
 
+
 header#hero {
   @include typi($hero-map)
 }
@@ -92,6 +91,6 @@ footer h4 {
 }
 
 
-body.post h1 {
+body.post header h1 {
   @include typi($intro-h2-map);
 }

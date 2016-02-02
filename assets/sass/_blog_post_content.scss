@@ -1,0 +1,154 @@
+//Basic stylings, heavily based on marx
+$br      : 0;
+$xs-pad  : .4rem;
+$sm-pad  : .8rem;
+$md-pad  : 1.6rem;
+$lg-pad  : 2rem;
+$xlg-pad : 4rem;
+
+$post-map   : (
+  xlarge    : 1.125em
+);
+$post-h1-map: (
+  null      : 2.074em,
+  medium    : 3.375em
+);
+$post-h2-map: (
+  null      : 1.44em,
+  medium    : 2.25em
+);
+$post-h3-map: (
+  null      : 1.2em,
+  medium    : 1.5em
+);
+
+$monospace-font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+$border: .1rem solid;
+
+
+
+body.post section#post_content,
+body.post aside#post_related {
+
+  @include typi($post-map);
+
+  max-width: 40em;
+  margin: 2em auto;
+
+  p {
+    margin: 0 0 $md-pad;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: black;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1em;
+    margin: $lg-pad 0 $md-pad;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: $md-pad 0 $xs-pad;
+  }
+
+  h1 {
+    @include typi($post-h1-map);
+  }
+  h2 {
+    @include typi($post-h2-map);
+  }
+  h3 {
+    @include typi($post-h3-map);
+  }
+  h4 {
+    font-size: 1.1em;
+  }
+
+
+  small {
+    color: $c-epl-grey-1;
+  }
+
+  pre {
+    font-size: .8em;
+    background: $c-epl-grey-2;
+    display: block;
+    font-family: $monospace-font-family;
+    margin: $md-pad 0;
+    padding: $md-pad;
+    word-break: break-all;
+    word-wrap: break-word;
+  }
+
+  code {
+    font-size: .8em;
+    background: $c-epl-grey-2;
+    font-family: $monospace-font-family;
+    word-break: break-all;
+    word-wrap: break-word;
+  }
+
+  dl {
+    margin-bottom: $md-pad;
+  }
+
+  dd {
+    margin-left: $xlg-pad;
+  }
+
+  ul,
+  ol {
+    margin-bottom: $sm-pad;
+    padding-left: $lg-pad;
+  }
+
+  blockquote {
+    border-left: .2rem solid $c-epl-blue;
+    font-style: italic;
+    margin: $md-pad 0;
+    padding-left: $md-pad;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+
+  table {
+    margin-bottom: $md-pad;
+  }
+  caption {
+    padding: $sm-pad 0;
+  }
+  thead th {
+    background: $c-epl-grey-2;
+    color: black;
+  }
+  tr {
+    margin-bottom: $sm-pad;
+  }
+  th,
+  td {
+    border: $border $c-epl-grey-1;
+    padding: $sm-pad $md-pad;
+    text-align: center;
+    vertical-align: inherit;
+  }
+  tfoot tr {
+    background: none;
+  }
+  tfoot td {
+    color: $c-epl-grey-1;
+    font-style: italic;
+    padding: $md-pad $xs-pad;
+  }
+
+}
