@@ -70,6 +70,7 @@ article#intro h2 {
   @include typi($intro-h2-map)
 }
 article#intro section,
+body#page-home article.page_content,
 body#page-about-us article.page_content p {
   @include typi($intro-section-map)
 }

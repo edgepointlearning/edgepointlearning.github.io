@@ -20,6 +20,7 @@ article#intro {
   h2 {
     @include f-museo;
     color: $c-epl-blue;
+    margin-bottom: .2em;
     sup {
       font-size: .6em;
     }
@@ -54,5 +55,14 @@ body#page-about-us article#intro {
   margin-bottom: 0;
   figure svg {
     width: 65%;
+  }
+}
+body#page-home article#intro {
+  margin-bottom: 0;
+  @include mappy-bp(sixhorz) {
+    figure svg {
+      width: 75%;
+      // max-width: 170px;
+    }
   }
 }

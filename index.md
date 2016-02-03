@@ -1,6 +1,6 @@
 ---
 layout   : page
-
+title    : home
 hero     : <b>EdgePoint</b> makes your<br>business more<br><span id='typed'>productive</span>.
 headline : EdgePoint Enables<sup>™</sup>
 icon     : bullseye
@@ -17,6 +17,13 @@ scripts:
  - typed.min.js
  - my_typed.js
 ---
+
+The four pillars of EdgePoint Learning’s approach:
+
+* **Scope.** We investigate your goals, determine the support you’ll need and consult with our talent network to identify the learning professionals that’ll best deliver your program.
+* **Thorough Communication.** We ask the right questions up front, clarify all processes, detail every step, set proper expectations and make contingency plans that allow you to overcome any problems should they arise.
+* **Efficiency.** We draw on years of experience, rely on state-of-the-art tools and processes, respond to your needs quickly, optimize your involvement and pass the related productivity savings on to you.
+* **Foresight.** To empower you to make future updates and changes at will, we develop all content and courseware with non-proprietary tools. We’ll never lock you into an inflexible solution or ask you to accept an end product that doesn’t fully meet your requirements.
 
 <section id="clients">
   <a href="{{ '/success-stories/' | prepend: site.baseurl }}">
