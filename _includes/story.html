@@ -1,0 +1,14 @@
+<article class="story" id="story_{{ story.name }}">
+
+  <figure>{% assign iconSvg = site.data.icons[story.icon]svg %}{{ iconSvg }}</figure>
+
+  <section>
+    <header>
+      <h3>{{ story.category }}</h3>
+      {{ story.industry }}
+    </header>
+    <p>{{ story.content }}</p>
+    <p><a class="pill small" href="{{ story.link }}" class="bloop">Read story</a></p>
+  </section>
+
+</article>

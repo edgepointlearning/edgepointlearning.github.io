@@ -5,13 +5,25 @@ a.pill {
   letter-spacing: 0.15em;
   text-decoration: none;
   text-transform: uppercase;
-  padding:0 2em;
-  display:inline-block;
-  border-radius: 50px;
-  border: 1px solid $c-epl-blue;
-  transition: all .25s ease;
-  &:hover {
-    background: $c-epl-blue;
-    color: white;
+  &:before {
+    font-size: .4em;
+    content: "▶ ";
   }
+
+  @include mappy-bp(sixplus) {
+    &:not(.small) {
+      padding:0 2em;
+      display:inline-block;
+      border-radius: 50px;
+      border: 1px solid $c-epl-blue;
+      transition: all .25s ease;
+      &:before {
+        content: none;
+      }
+      &:hover {
+        background: $c-epl-blue;
+        color: white;
+      }
+    }
+  };
 }

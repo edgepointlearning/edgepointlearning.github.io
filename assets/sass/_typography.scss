@@ -74,6 +74,8 @@ body#page-home article.page_content,
 body#page-about-us article.page_content p {
   @include typi($intro-section-map)
 }
+
+article.story h3,
 aside.box h4 {
   @include typi($box-h4-map)
 }
