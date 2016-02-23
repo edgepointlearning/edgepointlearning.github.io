@@ -1,5 +1,5 @@
 ---
-name       : onboarding
+name       : compliance
 title      : Compliance & Regulatory
 icon       : shield
 link-info  : '#'

@@ -36,6 +36,8 @@ collections   :
     output    : false
   stories     :
     output    : false
+  demos     :
+    output    : false
 
 defaults      :
   -
