@@ -2,7 +2,7 @@
 name    : wizard-gui
 title   : Wizard GUI
 solution: New Process & System Rollout Training
-
+icon    : process
 link    : '#'
 ---
 When Avis Budget Group implemented a new software system across all of their rental locations, they partnered with EdgePoint to create multiple lessons to be used in training frontline staff and managers on the use of the new system. The training included multiple scenario-based software simulations designed to allow learners to apply what they learned in real-life situations and receive immediate feedback.

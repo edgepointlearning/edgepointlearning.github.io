@@ -3,7 +3,7 @@ name     : bloomin
 title    : Bloomin' Brands
 
 category : Leadership Development
-icon     : podium
+icon     : leadership
 industry : Restaurants
 
 link     : "#"

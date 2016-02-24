@@ -1,0 +1,21 @@
+<article class="story" id="demo_{{ article.name }}">
+
+  <figure>
+    {% assign icons = site.data.icons | where:"key",article.icon %}
+    {% for icon in icons %}
+      {{ icon.svg }}
+    {% endfor %}
+  </figure>
+
+  <section>
+    <header>
+      <h3>{{ article.title }}</h3>
+      {% for solution in article.solution %}
+        <span>{{ solution }}</span>
+      {% endfor %}
+    </header>
+    <p>{{ article.content }}</p>
+    <p><a class="pill small" href="{{ article.link }}" class="bloop">View demo</a></p>
+  </section>
+
+</article>

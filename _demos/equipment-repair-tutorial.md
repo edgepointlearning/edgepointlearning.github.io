@@ -2,7 +2,7 @@
 name    : equipment-repair-tutorial
 title   : Equipment Repair Tutorial
 solution: Professional Development
-
+icon    : employee
 link    : '#'
 ---
 Blue Coat needed to deliver just-in-time, equipment repair training to its service technicians in the field. The training needed to be easily accessible by the targeted learners via a mobile device, succinctly providing the information needed to troubleshoot and repair equipment.

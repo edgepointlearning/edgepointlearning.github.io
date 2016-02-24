@@ -3,7 +3,7 @@ id       : petsmart
 name     : PetSmart
 
 category : Product Education & Sales Training
-icon     : crosshair
+icon     : product
 industry : Retail
 
 link     : "#"

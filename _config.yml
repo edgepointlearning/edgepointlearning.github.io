@@ -21,7 +21,7 @@ limit_posts   : 0
 lsi           : false
 
 # Include
-include       : ['_pages', '_demos']
+include       : ['_pages','_samples']
 
 # Sass
 sass          :

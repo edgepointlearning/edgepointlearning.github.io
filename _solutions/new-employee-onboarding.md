@@ -1,7 +1,6 @@
 ---
 name       : onboarding
 title      : New Employee On-Boarding
-icon       : puzzle
 link-info  : '#'
 link-story : /success/
 ---

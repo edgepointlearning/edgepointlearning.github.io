@@ -3,7 +3,7 @@ id       : laquinta
 name     : La Quinta
 
 category : Customer Service Training
-icon     : phone
+icon     : customer
 industry : Hospitality
 
 link     : "#"

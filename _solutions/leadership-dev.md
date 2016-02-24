@@ -1,7 +1,6 @@
 ---
 name       : leadership
 title      : Leadership Development
-icon       : podium
 link-info  : '#'
 link-story : /success/
 ---

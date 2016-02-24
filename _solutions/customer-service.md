@@ -1,7 +1,6 @@
 ---
 name       : customer
 title      : Customer Service Training
-icon       : phone
 link-info  : '#'
 link-story : /success/
 ---

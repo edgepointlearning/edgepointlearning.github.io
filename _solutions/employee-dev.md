@@ -1,7 +1,6 @@
 ---
 name       : employee
 title      : Employee Development
-icon       : star
 link-info  : '#'
 link-story : /success/
 ---

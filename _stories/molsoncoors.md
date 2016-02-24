@@ -3,7 +3,7 @@ id       : molsoncoors
 name     : Molson Coors
 
 category : Employee Development
-icon     : star
+icon     : employee
 industry : Food & Beverage
 
 link     : "#"

@@ -1,7 +1,6 @@
 ---
 name       : product
 title      : Product Education & Sales Training
-icon       : crosshair
 link-info  : '#'
 link-story : /success/
 ---

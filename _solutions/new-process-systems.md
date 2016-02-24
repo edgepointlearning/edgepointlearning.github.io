@@ -1,7 +1,6 @@
 ---
 name       : process
 title      : New Process & Systems Training
-icon       : gears
 link-info  : '#'
 link-story : /success/
 ---

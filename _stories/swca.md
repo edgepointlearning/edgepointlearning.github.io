@@ -3,7 +3,7 @@ id       : swca
 name     : SWCA Environmental Consultants
 
 category : New Employee Onboarding
-icon     : puzzle
+icon     : onboarding
 industry : Business Services (Environmental Consulting)
 
 link     : "#"

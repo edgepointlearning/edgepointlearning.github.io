@@ -1,6 +1,11 @@
 <article class="story" id="story_{{ story.name }}">
 
-  <figure>{% assign iconSvg = site.data.icons[story.icon]svg %}{{ iconSvg }}</figure>
+  <figure>
+    {% assign icons = site.data.icons | where:"key",story.icon %}
+    {% for icon in icons %}
+      {{ icon.svg }}
+    {% endfor %}
+  </figure>
 
   <section>
     <header>
