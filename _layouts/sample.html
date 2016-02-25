@@ -1,0 +1,14 @@
+---
+layout: page
+---
+{% if page.demos %}
+<section class="story_holder">
+  {% for page_demo in page.demos %}
+    {% for demo in site.demos %}
+      {% if page_demo == demo.name %}
+        {% include demo.html %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</section>
+{% endif %}

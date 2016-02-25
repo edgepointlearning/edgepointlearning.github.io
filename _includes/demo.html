@@ -1,7 +1,7 @@
-<article class="story" id="demo_{{ article.name }}">
+<article class="story" id="demo_{{ demo.name }}">
 
   <figure>
-    {% assign icons = site.data.icons | where:"key",article.icon %}
+    {% assign icons = site.data.icons | where:"key",demo.icon %}
     {% for icon in icons %}
       {{ icon.svg }}
     {% endfor %}
@@ -9,13 +9,13 @@
 
   <section>
     <header>
-      <h3>{{ article.title }}</h3>
-      {% for solution in article.solution %}
+      <h3>{{ demo.title }}</h3>
+      {% for solution in demo.solution %}
         <span>{{ solution }}</span>
       {% endfor %}
     </header>
-    <p>{{ article.content }}</p>
-    <p><a class="pill small" href="{{ article.link }}" class="bloop">View demo</a></p>
+    <p>{{ demo.content }}</p>
+    <p><a class="pill small" href="{{ demo.link }}" class="bloop">View demo</a></p>
   </section>
 
 </article>
