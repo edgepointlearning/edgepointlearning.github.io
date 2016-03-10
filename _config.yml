@@ -20,6 +20,10 @@ show_drafts   : false
 limit_posts   : 0
 lsi           : false
 
+# Pagination
+gems:
+  - jekyll-paginate
+
 # Include
 include       : ['_pages','_samples']
 
