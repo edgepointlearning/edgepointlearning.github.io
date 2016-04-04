@@ -7,8 +7,9 @@ icon     : bullseye
 intro    : <p>Since 2007, EdgePoint Learning has been committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults. Despite the hype in today’s organizational learning industry, we believe that learning program success is consistently grounded in strong business alignment, thoughtful program design and collaborative development processes.</p>
 
 boxes:
+ - talk
  - solutions
- - success
+ - demos
  - newsletter
  - blog
 
