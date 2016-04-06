@@ -7,9 +7,10 @@ hero     : <b>We'd Love to</b>Hear From You.
 icon     : chat
 intro    : <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
 
-boxes    :
+boxes:
+ - talk
+ - solutions
  - demos
- - success
  - newsletter
 ---
 

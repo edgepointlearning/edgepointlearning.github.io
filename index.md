@@ -11,7 +11,6 @@ boxes:
  - solutions
  - demos
  - newsletter
- - blog
 
 scripts:
  - jquery.min.js
