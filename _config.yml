@@ -49,12 +49,20 @@ defaults      :
       path    : "" # an empty string here means all files in the project
     values    :
       layout  : "default"
+      boxes:
+       - talk
+       - solutions
+       - demos
+       - newsletter
   -
     scope     :
       path    : ""
-      type    : "posts" # the fables collection
+      type    : "posts" # the post collection
     values    :
-      layout  : "post" # will default to the fable layout
+      layout  : "post" # will default to the post layout
+      boxes   :
+       - talk
+       - newsletter
 
 # Exclude
 exclude       : [bower_components, node_modules, gulpfile.js, package.json]

@@ -28,3 +28,15 @@ layout: default
   </aside>
 
 </article>
+
+{% if page.boxes %}
+<section class="box_holder">
+  {% for page_box in page.boxes %}
+    {% for box in site.boxes %}
+      {% if page_box == box.name %}
+        {% include box.html %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</section>
+{% endif %}

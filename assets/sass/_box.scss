@@ -6,6 +6,11 @@ section.box_holder {
   margin: 2em 0;
   @include padding-horz;
 }
+article.page_content section.box_holder {
+  // fix for solutions page boxes having extra horizontal padding
+  padding-left: 0;
+  padding-right: 0;
+}
 
 aside.box {
   border: 1px solid $c-epl-grey-1;
