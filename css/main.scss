@@ -7,25 +7,4 @@
   box-sizing: border-box;
 }
 
-@import
-  'sanitize.min.css',
-  'components/mappy-breakpoints',
-  'components/modular-scale',
-  'components/typi',
-
-  'variables',
-  'blog_post_content',
-  'typography',
-  'style',
-  'nav',
-  'hero',
-  'intro',
-  'box',
-  'solution',
-  'story',
-  'pill',
-  'footer',
-  'blog_archive',
-  'blog_post',
-  'demo'
-;
+@import 'config';
