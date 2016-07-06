@@ -34,10 +34,11 @@ sass          :
 
 # Collections
 collections   :
-  boxes       :
+  case_studies:
     output    : false
-  stories     :
+  forms       :
     output    : false
+
 
 defaults      :
   -

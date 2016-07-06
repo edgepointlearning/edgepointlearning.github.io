@@ -13,9 +13,10 @@ intro    : "<p>EdgePoint Learning works closely with you to understand your busi
   {% if solution.id != 'localization' %}
     <ul>
       <li>{{ solution.title }}</li>
-      <li>{{ site.data.icons[solution.icon]svg }}</li>
+      <li><figure style="width:32px">{{ site.data.icons[solution.icon]svg }}</figure></li>
       <li>{{ solution.desc }}</li>
       <li><a href='{{ solution.link }}'>Learn More</a></li>
     </ul>
+    <br>
   {% endif %}
 {% endfor %}
