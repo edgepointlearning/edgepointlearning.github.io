@@ -2,22 +2,11 @@
   <header><h4>{{ box.title }}</h4></header>
   <article>
     <figure>
-      {% if include.solution == 'true' %}
-        {% assign icons = site.data.icons | where:"key",box.name %}
-        {% for icon in icons %}
-          {{ icon.svg }}
-        {% endfor %}
-      {% else %}
-        {% assign iconSvg = site.data.icons[box.icon]svg %}{{ iconSvg }}
-      {% endif %}
+      {{ site.data.icons[box.icon]svg }}
     </figure>
-    <section><p>{{ box.content }}</p></section>
+    <section><p>{{ box.desc }}</p></section>
   </article>
   <aside>
-    {% if include.solution == 'true' %}
-      <a href="{{ box.link-story}}" class="pill">Learn more</a>
-    {% else %}
-      <a href="{{ box.link }}" class="pill">{{ box.button }}</a>
-    {% endif %}
+    <a href="{{ box.link }}" class="pill">{{ box.button }}</a>
   </aside>
 </aside>

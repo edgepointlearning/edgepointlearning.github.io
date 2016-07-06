@@ -1,0 +1,47 @@
+# solutions.yml v1.1
+- id   : compliance
+  title: Compliance & Regulatory
+  icon : shield
+  desc : Mitigate business risk and reinforce consistency of practice across your enterprise through easy-to-access, informative and defensible policy and compliance training programs.
+  link : '#'
+
+- id   : customer
+  title: Customer Service Training
+  icon : phone
+  desc : Whether customers are internal or external, ensure that your internal, customer account management and support teams possess the skills to meet the customer satisfaction challenge with “anytime, anywhere” training.
+  link : '#'
+
+- id   : leadership
+  title: Leadership Development
+  icon : podium
+  desc : Grow your organization from within and develop its future leaders. Our blended, career-long leadership development curriculum is designed to help your best and brightest maximize their potential.
+  link : '#'
+
+- id   : localization
+  title: Localization
+  icon : globe
+  link : '#'
+
+- id   : onboarding
+  title: New Employee Onboarding
+  icon : puzzle
+  desc : Ensure that the newest members of your organization feel welcomed and are productive from their first day with engaging and informative onboarding programs.
+  link : '#'
+
+- id   : process
+  title: New Process & System Rollout Training
+  icon : gears
+  desc : Protect your organization’s investments in new technology or business processes with communications and training programs designed to drive successful implementation, facilitate rapid adoption and maximize utilization.
+  link : '#'
+
+- id   : product
+  title: Product Education & Sales Training
+  icon : crosshair
+  desc : Arm your internal and external sales channels with engaging and actionable product education programs that supercharge product P&Ls and directly benefit your top and bottom lines.
+  link : '#'
+
+- id   : professional
+  title: Professional Development
+  icon : star
+  desc : Enable your employees to succeed now and in the future by providing well-designed training on your latest initiatives and innovations, and the skill sets required to take advantage of new technologies and markets.
+  link : '#'

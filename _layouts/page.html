@@ -24,8 +24,8 @@ layout: default
 {% if page.boxes %}
 <section class="box_holder">
   {% for page_box in page.boxes %}
-    {% for box in site.boxes %}
-      {% if page_box == box.name %}
+    {% for box in site.data.boxes %}
+      {% if page_box == box.id %}
         {% include box.html %}
       {% endif %}
     {% endfor %}

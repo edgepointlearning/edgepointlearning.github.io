@@ -6,7 +6,7 @@ url           : 'http://edgepointlearning.github.io'
 baseurl       : '' #/epl-optimized
 
 # Color variable for Android & Windows tiles
-color         : '#12519E'
+color         : 'RGB(18, 82, 158)'
 blog_image_dir: '/assets/images/blog/'
 
 # Permalinks
@@ -25,7 +25,7 @@ gems:
   - jekyll-paginate
 
 # Include
-include       : ['_pages','_samples']
+include       : ['_pages']
 
 # Sass
 sass          :
@@ -36,11 +36,7 @@ sass          :
 collections   :
   boxes       :
     output    : false
-  solutions   :
-    output    : false
   stories     :
-    output    : false
-  demos     :
     output    : false
 
 defaults      :
@@ -65,4 +61,4 @@ defaults      :
        - newsletter
 
 # Exclude
-exclude       : [bower_components, node_modules, gulpfile.js, package.json]
+exclude       : [bower_components, node_modules, gulpfile.js, package.json, npm-shrinkwrap.json]

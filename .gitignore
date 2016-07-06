@@ -1,4 +1,4 @@
-__bower_components
+bower_components
 _site
 .sass-cache
 node_modules

@@ -1,0 +1,41 @@
+- id     : blog
+  title  : We Love Learning!
+  icon   : heart
+  button : Read
+  link   : /blog/
+  desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working now and what’s on the horizon - and we’re more than happy to share our observations and insights with you.
+
+- id     : demos
+  title  : Check Out Our Demos
+  icon   : puzzle
+  button : Explore
+  link   : '#'
+  desc   : EdgePoint can convert any existing, traditional training materials into engaging, interactive eLearning modules. With these demos, you'll see how we drive home concepts, inspire knowledge transfer and transform complex topics into the digestible educational objects your students will love.
+
+- id     : newsletter
+  title  : Subscribe to Our Newsletter!
+  icon   : plane
+  button : Subscribe
+  link   : '#'
+  desc   : Learning-industry news, observations and insights from EdgePoint Learning, delivered directly to your in-box. Our monthly newsletter gives you the latest eLearning news, original content from our contributors and the latest news from EdgePoint Learning.
+
+- id     : solutions
+  title  : Solutions That Drive Your Business
+  icon   : lightbulb
+  button : Learn
+  link   : /solutions/
+  desc   : With an average of more than 10 years’ experience in corporate training and education, EdgePoint's team works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works.
+
+- id     : success
+  title  : Our Customers' Success Stories
+  icon   : rocket
+  button : Explore
+  link   : /success/
+  desc   : How do you measure success for your organizational learning initiatives? EdgePoint Learning focuses on clearly defining success metrics at the start of every project. Read how success was defined for these EdgePoint Learning clients, in their own words.
+
+- id     : talk
+  title  : Let's Talk
+  icon   : chat
+  button : Talk
+  link   : '#'
+  desc   : Comparing the humped herds of whales with the humped herds of buffalo, which, not forty years ago, overspread by tens of thousands the prairies of Illinois and Missouri, and shook their iron manes and scowled with their thunder-clotted brows.
