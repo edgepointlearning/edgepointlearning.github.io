@@ -7,5 +7,5 @@
     "gulp-shell": "latest",
     "lodash": "latest"
   },
-  "private": true,
+  "private": true
 }
