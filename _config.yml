@@ -11,18 +11,12 @@ blog_image_dir: '/assets/images/blog/'
 
 # Permalinks
 permalink     : pretty
-paginate      : 7
-paginate_path : '/blog/page:num'
 
 # Filtering Content
 future        : false
 show_drafts   : false
 limit_posts   : 0
 lsi           : false
-
-# Pagination
-gems:
-  - jekyll-paginate
 
 # Include
 include       : ['_pages']
@@ -45,7 +39,7 @@ defaults      :
     scope     :
       path    : "" # an empty string here means all files in the project
     values    :
-      layout  : "default"
+      layout  : "page"
       boxes:
        - talk
        - solutions
@@ -53,7 +47,6 @@ defaults      :
        - newsletter
   -
     scope     :
-      path    : ""
       type    : "posts" # the post collection
     values    :
       layout  : "post" # will default to the post layout
