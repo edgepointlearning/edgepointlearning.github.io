@@ -2,21 +2,10 @@
 layout: default
 ---
 <header id="hero">
-  {% if page.hero-img %}
-  <img src={{ page.hero-img | prepend: site.baseurl }} alt="hero image">
-  {% else %}
   <h1>{{ page.hero }}</h1>
-  {% endif %}
 </header>
 
-<article id="intro">
-  {%if page.headline %}<header><h2>{{ page.headline }}</h2></header>{% endif %}
-  {%if page.icon %}{% assign iconSvg = site.data.icons[page.icon]svg %}<figure>{{ iconSvg }}</figure>{% endif %}
-  {%if page.intro %}<section>{{ page.intro }}</section>{% endif %}
-</article>
-
-
-<article class="page_content padding_horz">
+<article>
   {{ content }}
 </article>
 
