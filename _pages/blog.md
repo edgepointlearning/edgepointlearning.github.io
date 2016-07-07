@@ -2,9 +2,11 @@
 title    : Blog
 permalink: '/blog/'
 hero     : We Love <b>Learning!</b>
-icon     : heart
-intro    : <p>As learning experts, we are also voracious learners who never stop seeking knowledge. On our blog, you'll find informative, actionable and fun insights about the learning industry—new trends, new technologies, best practices, customer stories and more. Have a topic you’d like us to delve into or to contribute yourself? <a href="#">Click here</a> to let us know.</p>
 ---
+
+<figure style="width:32px">{{ site.data.icons.heart.svg }}</figure>
+
+As learning experts, we are also voracious learners who never stop seeking knowledge. On our blog, you'll find informative, actionable and fun insights about the learning industry—new trends, new technologies, best practices, customer stories and more.
 
 <section class="box_holder">
 

@@ -2,9 +2,10 @@
 title    : Contact
 permalink: '/contact/'
 hero     : <b>We'd Love to</b>Hear From You.
-icon     : chat
-intro    : <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
 ---
+<figure style="width:32px">{{ site.data.icons.chat.svg }}</figure>
+
+At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.
 
 <section id="social_icons">
   <figure>
