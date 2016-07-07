@@ -1,7 +1,7 @@
 ---
 title    : home
 permalink: '/'
-hero     : <b>EdgePoint</b> makes your<br>business more<br><span id='typed'>productive</span>.
+hero     : EdgePoint makes your business more <span id='typed'>productive</span>.
 scripts:
  - typer.js
 ---

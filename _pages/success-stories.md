@@ -1,7 +1,7 @@
 ---
 title    : Success Stories
 permalink: '/success-stories/'
-hero     : Learning Success is<b>Business Impact.</b>
+hero     : Learning Success is Business Impact.
 ---
 
 <figure style="width:32px">{{ site.data.icons.rocket.svg }}</figure>

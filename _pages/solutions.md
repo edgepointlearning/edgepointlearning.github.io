@@ -1,7 +1,7 @@
 ---
 title    : Solutions
 permalink: '/solutions/'
-hero     : <b>Solutions</b>That Drive<br>Your Business.
+hero     : Solutions That Drive Your Business.
 ---
 
 <figure style="width:32px">{{ site.data.icons.lightbulb.svg }}</figure>

@@ -1,7 +1,7 @@
 ---
 title    : Blog
 permalink: '/blog/'
-hero     : We Love <b>Learning!</b>
+hero     : We Love Learning!
 ---
 
 <figure style="width:32px">{{ site.data.icons.heart.svg }}</figure>

@@ -1,7 +1,7 @@
 ---
 title    : Contact
 permalink: '/contact/'
-hero     : <b>We'd Love to</b>Hear From You.
+hero     : We'd Love to Hear From You.
 ---
 <figure style="width:32px">{{ site.data.icons.chat.svg }}</figure>
 
