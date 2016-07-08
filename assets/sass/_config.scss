@@ -15,12 +15,12 @@ $breakpoint-full: 960px;
 $breakpoint-max : 978px;
 
 @mixin f-nova {
-  font-family: "proxima-nova",Arial,sans-serif;
+  font-family: "proxima-nova","Open Sans","Gill Sans MT","Gill Sans",Corbel,Arial,sans-serif;
   //300,500,600
 }
 
 @mixin f-nova-condensed {
-  font-family: "proxima-nova-condensed",sans-serif;
+  font-family: "proxima-nova-condensed","Helvetica Neue Condensed Bold","Arial Narrow",sans-serif;
   font-weight: 400;
 }
 
