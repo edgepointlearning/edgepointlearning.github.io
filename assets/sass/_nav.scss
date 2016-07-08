@@ -1,33 +1,23 @@
 nav {
-  margin: 1.4em 0 .8em;
+  margin: 1.5em 0 1.4em;
   text-transform: uppercase;
   @include f-nova-condensed;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
   align-items: center;
+  font-size: 1rem;
+  line-height: 1rem;
   a:first-of-type {
-    width: 75%;
-    margin: auto;
-  }
-  a:nth-of-type(2),
-  a:nth-of-type(3) {
-    width: 50%;
-  }
-  a:nth-of-type(2n+1) {
-    text-align: right;
-  }
-  a {
-    line-height: 2em;
+    margin: auto auto 1.2em auto;
+    width: 100%;
+    text-align: center;
+    svg {
+      height: 28px;
+    }
   }
   span {
     display: none;
-  }
-
-  @include breakpoint($breakpoint-6) {
-    span {
-      display: inline;
-    }
   }
 
   @include breakpoint($breakpoint-5h) {
@@ -40,25 +30,10 @@ nav {
         height: 36px;
       }
     }
-    a:nth-of-type(2),
-    a:nth-of-type(3) {
-      width: auto;
-    }
-    a:nth-of-type(2n+1) {
-      text-align: left;
-    }
-    a {
-      line-height: 1rem;
-    }
+
     #nav__logo__edgepoint, #nav__logo__learning {
       display: none;
     }
-    span {
-      display: none;
-    }
-  }
-
-  @include breakpoint($breakpoint-6h) {
     span {
       display: inline;
     }
@@ -73,16 +48,6 @@ nav {
     }
     #nav__logo__edgepoint, #nav__logo__learning {
       display: inherit;
-    }
-    span {
-      display: none;
-    }
-  }
-
-  @include breakpoint($breakpoint-max) {
-    // @include f-nova;
-    span {
-      display: inline;
     }
   }
 
