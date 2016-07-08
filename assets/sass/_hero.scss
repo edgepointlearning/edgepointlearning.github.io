@@ -1,3 +1,30 @@
 #hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   background-color: $epl-blue;
+  color: $picnic-white;
+
+  h1 {
+    margin: .8em auto;
+    line-height: 1.3em;
+    font-weight: 100;
+    text-align: center;
+  }
+  b, #typed {
+    font-weight: 400;
+  }
+
+  @include breakpoint($breakpoint-5) {
+    h1 {
+      font-size: 7vw;
+    }
+  }
+
+  @include breakpoint($breakpoint-ipad) {
+    h1 {
+      font-size: 3.4em;
+    }
+  }
 }
