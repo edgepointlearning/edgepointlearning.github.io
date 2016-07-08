@@ -1,0 +1,10 @@
+main {
+  max-width: $breakpoint-max;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+nav { @include padding-horz; }
+header {}
+article { @include padding-horz; }
+footer {}

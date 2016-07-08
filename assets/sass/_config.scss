@@ -1,3 +1,37 @@
+// colors
+$epl-blue  : rgb(18, 81, 158);
+$epl-blue-0: rgb(12, 53, 103);
+$epl-blue-1: rgb(93, 134, 185);
+$epl-grey  : rgb(88, 89, 91);
+$epl-grey-1: rgb(158,159,163);
+$epl-grey-2: rgb(230,230,230);
+
+$breakpoint-5   : 320px;
+$breakpoint-6   : 375px;
+$breakpoint-5h  : 568px;
+$breakpoint-6h  : 667px;
+$breakpoint-ipad: 768px;
+$breakpoint-max  : 960px;
+
+@mixin f-nova {
+  font-family: "proxima-nova",Arial,sans-serif;
+  //300,500,600
+}
+
+@mixin f-nova-condensed {
+  font-family: "proxima-nova-condensed",sans-serif;
+  font-weight: 400;
+}
+
+@mixin padding-horz {
+  padding-left: 1em;
+  padding-right: 1em;
+  @include breakpoint($breakpoint-max) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
 @import
 //   'normalize.css'
 //   'sanitize.min.css',
@@ -19,5 +53,8 @@
 //   'footer',
 //   'blog_archive',
 //   'blog_post'
-  'components/picnic/picnic'
+  'picnic',
+  'container',
+  'nav',
+  'hero'
 ;

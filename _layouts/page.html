@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
+
 <header id="hero">
   <h1>{{ page.hero }}</h1>
 </header>
 
 <article>
   {{ content }}
-</article>
 
 
-{% if page.boxes %}
-<section class="box_holder">
-  {% for page_box in page.boxes %}
-    {% for box in site.data.boxes %}
-      {% if page_box == box.id %}
-        {% include box.html %}
-      {% endif %}
+  {% if page.boxes %}
+  <section class="box_holder">
+    {% for page_box in page.boxes %}
+      {% for box in site.data.boxes %}
+        {% if page_box == box.id %}
+          {% include box.html %}
+        {% endif %}
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
-</section>
-{% endif %}
+  </section>
+  {% endif %}
+
+</article>

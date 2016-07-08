@@ -1,77 +1,71 @@
-// nav > ul > li
 nav {
-  margin: 1em 0;
-  ul {
-    display: flex;
-    flex-flow: row wrap;
-  }
-  li {
-    flex: 1 auto;
-    text-align: center;
-  }
-  li:first-of-type {
-    width: 100%;
-  }
-  svg {
+  margin: 1.4em 0 .8em;
+  text-transform: uppercase;
+  @include f-nova-condensed;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  a:first-of-type {
     width: 90%;
-    max-width: 300px;
-    margin-bottom: 1em;
+    margin: auto;
+  }
+  a:nth-of-type(2),
+  a:nth-of-type(3) {
+    width: 50%;
+  }
+  a:nth-of-type(2n+1) {
+    text-align: right;
   }
   a {
-    text-transform: uppercase;
-    color: $c-epl-blue;
-    @include f-nova-condensed;
+    line-height: 2em;
+  }
+  span {
+    display: none;
   }
 
-  @include mappy-bp(small) {
-    margin: .5em 0;
-    ul {
-      height: 48px;
-      align-items: center;
+  @include breakpoint($breakpoint-6) {
+    span {
+      display: inline;
     }
-    li {
-      text-align: right;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    margin: 1.4em 0;
+    a:first-of-type {
+      width: 36px;
+      margin: 0;
+      overflow: hidden;
+      svg {
+        height: 36px;
+      }
     }
-    li:first-of-type {
+    a:nth-of-type(2),
+    a:nth-of-type(3) {
+      width: auto;
+    }
+    a:nth-of-type(2n+1) {
       text-align: left;
-      width: 64px;
-      margin-left: .5em;
     }
-    li:last-of-type {
-      margin-right: .5em;
+    a {
+      line-height: 1rem;
     }
-    svg {
-      width: 220px;
-      height: 28px;
-      margin-bottom: 0;
-      margin-top: -4px;
+    #nav__logo__edgepoint, #nav__logo__learning {
+      display: none;
     }
-    #nav__logo__edgepoint,
-    #nav__logo__learning {
+    span {
       display: none;
     }
   }
 
-  @include mappy-bp(medium) {
-    li:first-of-type {
-      width: auto;
-    }
-    #nav__logo__edgepoint,
-    #nav__logo__learning {
-      display: block;
+  @include breakpoint($breakpoint-6h) {
+    span {
+      display: inline;
     }
   }
 
-  @include mappy-bp(xlarge) {
-    li:first-of-type {
-      margin-left: 0;
-    }
-    li:last-of-type {
-      margin-right: 0;
-    }
-    a {
-      @include f-nova;
-    }
+  @include breakpoint($breakpoint-max) {
+    @include f-nova;
   }
 
 }
