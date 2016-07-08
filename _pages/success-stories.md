@@ -4,7 +4,7 @@ permalink: '/success-stories/'
 hero     : Learning Success is Business Impact.
 ---
 
-<figure style="width:32px">{{ site.data.icons.rocket.svg }}</figure>
+{{ site.data.icons.rocket.svg }}
 
 For EdgePoint Learning, learning program success can only be achieved through having a measurable impact on your organization's performance at the enterprise, team or individual levels. EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning programs designed for business benefit. 
 

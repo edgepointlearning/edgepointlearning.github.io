@@ -4,7 +4,7 @@ permalink: '/solutions/'
 hero     : Solutions That Drive Your Business.
 ---
 
-<figure style="width:32px">{{ site.data.icons.lightbulb.svg }}</figure>
+{{ site.data.icons.lightbulb.svg }}
 
 EdgePoint Learning works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business (SMB), multinational corporation or not-for-profit, one thing remains constant: good learning equals good business. EdgePoint Learning has the expertise to define, design and develop point or blended learning solutions—instructor-led training programs (for classroom or virtual delivery); eLearning courseware; animations, simulations and gaming; and OJT reference materials—that will get the job done.
 
