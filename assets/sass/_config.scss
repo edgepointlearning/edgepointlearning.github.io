@@ -11,7 +11,8 @@ $breakpoint-6   : 375px;
 $breakpoint-5h  : 568px;
 $breakpoint-6h  : 667px;
 $breakpoint-ipad: 768px;
-$breakpoint-max  : 960px;
+$breakpoint-full: 960px;
+$breakpoint-max : 978px;
 
 @mixin f-nova {
   font-family: "proxima-nova",Arial,sans-serif;
@@ -56,5 +57,6 @@ $breakpoint-max  : 960px;
   'picnic',
   'container',
   'nav',
-  'hero'
+  'hero',
+  'footer'
 ;

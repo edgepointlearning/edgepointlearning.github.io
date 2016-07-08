@@ -80,6 +80,7 @@ nav {
   }
 
   @include breakpoint($breakpoint-max) {
+    // @include f-nova;
     span {
       display: inline;
     }

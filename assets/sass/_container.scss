@@ -1,10 +1,16 @@
 main {
-  max-width: $breakpoint-max;
+  max-width: 960px;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
 }
-nav { @include padding-horz; }
-header {}
-article { @include padding-horz; }
-footer {}
+nav,
+article {
+  @include padding-horz;
+}
+
+header,
+footer {
+  padding-left: 1em;
+  padding-right: 1em;
+}
