@@ -1,13 +1,16 @@
 nav {
   margin: 1.5em 0 1.4em;
-  text-transform: uppercase;
-  @include f-nova-condensed;
+
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
   align-items: center;
+
+  @include proxima-nova-condensed;
+  text-transform: uppercase;
   font-size: 1rem;
   line-height: 1rem;
+
   a:first-of-type {
     margin: auto auto 1.2em auto;
     width: 100%;
@@ -22,6 +25,7 @@ nav {
 
   @include breakpoint($breakpoint-5h) {
     margin: 1.4em 0 1.2em;
+
     a:first-of-type {
       width: 36px;
       margin: 0;
@@ -49,6 +53,10 @@ nav {
     #nav__logo__edgepoint, #nav__logo__learning {
       display: inherit;
     }
+  }
+
+  @include breakpoint($breakpoint-max) {
+    @include proxima-nova;
   }
 
 }
