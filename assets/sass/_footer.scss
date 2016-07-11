@@ -1,3 +1,68 @@
 footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
   background-color: $epl-blue;
+  color: $picnic-white;
+  padding-top: 1em;
+  padding-bottom: 2em;
+
+  aside:last-of-type {
+    margin-top: 2em;
+    width: 100%;
+    text-align: center;
+    h4 {
+      display: none;
+    }
+  }
+
+  h4 {
+    font-weight: 500;
+    padding: 0;
+    margin-bottom: .5rem;
+  }
+  ul {
+    font-size: 1rem;
+    line-height: 1rem;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  li {
+    margin-bottom: .5em;
+    color: $epl-grey-2;
+    line-height: 1.2em;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+  a {
+    color: $epl-grey-2;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    justify-content: space-around;
+  }
+
+  @include breakpoint($breakpoint-6h) {
+    justify-content: space-between;
+    aside:last-of-type {
+      margin-top: 0;
+      width: 50%;
+      text-align: left;
+      h4 {
+        display: block;
+      }
+    }
+  }
+
+  // @include breakpoint($breakpoint-full) {
+  //   aside:last-of-type {
+  //     width: auto;
+  //   }
+  // }
 }
