@@ -2,6 +2,7 @@
 title: Storytelling and Instructional Design
 author: Megan Dobransky
 background: 2015-01-01-storytelling-and-instructional-design.jpg
+excerpt: There's been a lot of talk lately about the skill of storytelling and how it can help you in a variety of life aspects.
 ---
 There's been a lot of talk lately about the skill of storytelling and how it can help you in a variety of life aspects.
 

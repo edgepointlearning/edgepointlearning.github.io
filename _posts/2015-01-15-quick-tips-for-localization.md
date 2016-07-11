@@ -2,6 +2,7 @@
 title: Quick Tips for Localization
 author: Megan Dobransky
 background: 2015-01-15-quick-tips-for-localization.jpg
+excerpt: In this global economy where companies have offices all over the world, sometimes your courses will need to be translated and localized.
 ---
 In this global economy where companies have offices all over the world, sometimes your courses will need to be translated and localized. Here are a few tips to make that process easier:
 

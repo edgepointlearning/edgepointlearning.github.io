@@ -2,6 +2,7 @@
 title: Be More Passionate About Work
 author: Megan Dobransky
 background: 2015-05-15-be-more-passionate-about-work.jpg
+excerpt: Our goal is to continually exceed our customer's expectations by delivering creative solutions that align with organizational learning challenges.
 ---
 As part of our ongoing #tbt series, here's a blog from our archives about passion and work.
 

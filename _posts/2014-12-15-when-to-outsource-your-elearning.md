@@ -2,6 +2,7 @@
 title: When to Outsource Your eLearning
 author: Megan Dobransky
 background: 2014-12-15-when-to-outsource-your-elearning.jpg
+excerpt: Even if you have the best instructional design and training team, you'll sometimes need to outsource your eLearning. But how do you know?
 ---
 Even if you have the best instructional design and training team, you'll sometimes need to outsource your eLearning. But how do you know?
 

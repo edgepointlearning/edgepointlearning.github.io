@@ -17,6 +17,7 @@ future       : false
 show_drafts  : false
 limit_posts  : 0
 lsi          : false
+excerpt_separator: <!--more-->
 
 # Include
 include      : ['_pages']
