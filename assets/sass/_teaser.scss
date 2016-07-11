@@ -1,0 +1,30 @@
+#teaser {
+  max-width: $breakpoint-ipad;
+  margin: 0 auto 4em;
+
+  a {
+    border-bottom: 1px solid $epl-grey-2;
+    display: flex;
+    flex-flow: column;
+    padding: 0 0 .5em 0;
+    margin: .5em 0;
+    &:hover h4 {
+      text-decoration: underline;
+    }
+  }
+  h4 {
+    padding: 0;
+  }
+  span {
+    color: $epl-grey-1;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    a {
+      flex-flow: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+
+}

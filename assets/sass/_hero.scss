@@ -4,7 +4,7 @@
   justify-content: center;
 
   background-color: $epl-blue;
-  color: $picnic-white;
+  color: $epl-grey-2;
 
   h1 {
     margin: .8em auto;
@@ -13,7 +13,8 @@
     text-align: center;
   }
   b, #typed {
-    font-weight: 400;
+    font-weight: 300;
+    color: $picnic-white;
   }
 
   @include breakpoint($breakpoint-5) {
