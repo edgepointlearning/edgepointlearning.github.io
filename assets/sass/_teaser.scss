@@ -34,3 +34,62 @@
     }
   }
 }
+
+#teaser_with_image {
+  a {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 1.5em 0;
+    padding: 0 0 1.5em 0;
+    border-bottom: 1px solid $epl-grey-2;
+    &:hover h3 {
+      text-decoration: underline;
+    }
+    &:last-of-type {
+      border-bottom: none;
+    }
+
+  }
+  figure {
+    width: 100%;
+    height: 4.5em;
+    margin: 0 0 .5em 0;
+    background-position: center;
+    background-size: cover;
+  }
+  section {
+    margin: 0;
+    padding: 0;
+  }
+  h3 {
+    padding: 0;
+  }
+  p {
+    margin: 0;
+    color: $picnic-black;
+  }
+  p.date {
+    display: none;
+    color: $epl-grey-1;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    figure {
+      width: 7em;
+      margin: 0;
+    }
+    section {
+      margin: 0 1em;
+      flex: 1;
+    }
+  }
+
+  @include breakpoint($breakpoint-ipad) {
+    p.date {
+      display: inherit;
+    }
+  }
+}
