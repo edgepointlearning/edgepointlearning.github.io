@@ -9,7 +9,7 @@ gulp.task('build', shell.task(['jekyll build --watch --config _config.yml,_confi
 gulp.task('serve', function () {
   browserSync.init({
     notify: false,
-    // browser: "google chrome",
+    browser: ["safari", "google chrome"],
     server: {
       baseDir: '_site/'
     }

@@ -1,0 +1,20 @@
+form.infusion-form {
+  padding: 0 1em 1em 1em !important;
+  width: 90%;
+  max-width: $breakpoint-ipad;
+}
+div.infusion-field {
+  margin-bottom: 1em;
+}
+div.infusion-radio {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+}
+span.infusion-option {
+  width: 100%;
+  text-indent: 1em;
+  @include breakpoint($breakpoint-5h) {
+    width: 50%;
+  }
+}
