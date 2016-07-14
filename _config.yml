@@ -41,7 +41,7 @@ defaults     :
       path   : "" # an empty string here means all files in the project
     values   :
       layout : "page"
-      boxes  :
+      cards  :
        - talk
        - solutions
        - demos
@@ -51,7 +51,7 @@ defaults     :
       type   : "posts" # the post collection
     values   :
       layout : "post" # will default to the post layout
-      boxes  :
+      cards  :
        - talk
        - newsletter
 

@@ -20,6 +20,7 @@ footer {
   h4 {
     padding: 0;
     margin-bottom: .5rem;
+    color: $picnic-white;
   }
   ul {
     font-size: 1rem;
@@ -59,9 +60,4 @@ footer {
     }
   }
 
-  // @include breakpoint($breakpoint-full) {
-  //   aside:last-of-type {
-  //     width: auto;
-  //   }
-  // }
 }

@@ -6,16 +6,16 @@ layout: default
   <h1>{{ page.hero }}</h1>
 </header>
 
-<article>
+<article id="content">
   {{ content }}
 
 
-  {% if page.boxes %}
-  <section class="box_holder">
-    {% for page_box in page.boxes %}
-      {% for box in site.data.boxes %}
-        {% if page_box == box.id %}
-          {% include box.html %}
+  {% if page.cards %}
+  <section id="cards">
+    {% for page_card in page.cards %}
+      {% for card in site.data.cards %}
+        {% if page_card == card.id %}
+          {% include card.html %}
         {% endif %}
       {% endfor %}
     {% endfor %}

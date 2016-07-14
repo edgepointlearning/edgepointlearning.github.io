@@ -1,0 +1,26 @@
+// 18, 24, 29, 35
+
+article#content {
+  h2:first-of-type {
+    @include serifa;
+    font-weight: 400;
+    font-size: 2em;
+    margin-top: .5em;
+  }
+  h3 {
+    @include serifa;
+    font-weight: 500;
+  }
+  .featuredIcon {
+    width: 12em;
+    float: right;
+    margin-left: 2em;
+  }
+  figure + p,
+  h3 + p {
+    margin-top: 0;
+  }
+  h3 {
+    padding-bottom: 0em;
+  }
+}

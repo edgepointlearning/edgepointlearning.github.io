@@ -4,13 +4,13 @@
   justify-content: center;
 
   background-color: $epl-blue;
-  color: $epl-grey-2;
 
   h1 {
     margin: .8em auto;
     line-height: 1.3em;
     font-weight: 100;
     text-align: center;
+    color: $epl-grey-2;
   }
   b, #typed {
     font-weight: 300;
