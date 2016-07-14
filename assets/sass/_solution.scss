@@ -1,0 +1,50 @@
+// article
+//   figure > svg
+//     h3
+//     p
+//     p > a
+
+section#solutions {
+  margin-top: 3em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+article.solution {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 3em;
+
+  figure {
+    display: none;
+  }
+
+  svg {
+    width: 65%;
+    margin-left: -1.5em;
+    margin-top: 1.5em;
+  }
+  g, path {
+    stroke: $epl-grey-1;
+  }
+
+  section {
+    width: 100%;
+  }
+
+
+  @include breakpoint($breakpoint-5h) {
+
+    figure {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      width: 20%;
+      order: 2;
+    }
+    section {
+      width: 80%;
+    }
+  }
+}

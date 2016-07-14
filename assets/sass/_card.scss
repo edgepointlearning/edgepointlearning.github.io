@@ -1,8 +1,8 @@
 section#cards {
+  margin: 3em auto 2em;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-  margin: 3em auto 2em;
 }
 
 aside.card {
@@ -26,7 +26,6 @@ aside.card {
   }
 
   h4 {
-    color: $epl-grey;
     padding: 0;
   }
   p, a {

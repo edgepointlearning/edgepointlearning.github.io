@@ -3,20 +3,32 @@ title    : Solutions
 permalink: '/solutions/'
 hero     : Solutions That Drive Your Business.
 ---
+## It's Another Heading
 
-{{ site.data.icons.lightbulb.svg }}
+<figure class="featuredIcon">{{ site.data.icons.lightbulb.svg }}</figure>
 
-EdgePoint Learning works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business (SMB), multinational corporation or not-for-profit, one thing remains constant: good learning equals good business. EdgePoint Learning has the expertise to define, design and develop point or blended learning solutions—instructor-led training programs (for classroom or virtual delivery); eLearning courseware; animations, simulations and gaming; and OJT reference materials—that will get the job done.
+EdgePoint Learning works closely with you to understand you business and craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business, multinational corporation or non-profit, good learning equals good business.
 
-{% assign filtered_solutions = site.data.solutions | sort:'title' %}
-{% for solution in filtered_solutions %}
-  {% if solution.id != 'localization' %}
-  <ul>
-    <li>{{ solution.title }}</li>
-    <li><figure style="width:32px">{{ site.data.icons[solution.icon]svg }}</figure></li>
-    <li>{{ solution.desc }}</li>
-    <li><a href='{{ solution.link }}'>Learn More</a></li>
-  </ul>
-  <br>
-  {% endif %}
-{% endfor %}
+EdgePoint has the expertise to develop learning solutions that will get the job done, including:
+
+* eLearning courseware
+* Animations, simulations and gaming
+* Instructor-led training programs (for classroom or virtual delivery)
+* On-the-job reference materials and job aid
+
+
+<section id="solutions">
+  {% assign filtered_solutions = site.data.solutions | sort:'title' %}
+  {% for solution in filtered_solutions %}
+    {% if solution.id != 'localization' %}
+      <article class="solution" id='solution_{{ solution.name }}'>
+        <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+        <section>
+          <h3>{{ solution.title }}</h3>
+          <p>{{ solution.desc }}</p>
+          <p><a href='{{ solution.link }}' class='button'>Learn More</a></p>
+        </section>
+      </article>
+    {% endif %}
+  {% endfor %}
+</section>
