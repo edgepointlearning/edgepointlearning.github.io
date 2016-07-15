@@ -16,19 +16,18 @@ EdgePoint has the expertise to develop learning solutions that will get the job 
 * Instructor-led training programs (for classroom or virtual delivery)
 * On-the-job reference materials and job aid
 
+[Contact us](#) to talk about how we can work together.
 
 <section id="solutions">
   {% assign filtered_solutions = site.data.solutions | sort:'title' %}
   {% for solution in filtered_solutions %}
-    {% if solution.id != 'localization' %}
-      <article class="solution" id='solution_{{ solution.name }}'>
-        <figure>{{ site.data.icons[solution.icon]svg }}</figure>
-        <section>
-          <h3>{{ solution.title }}</h3>
-          <p>{{ solution.desc }}</p>
-          <p><a href='{{ solution.link }}' class='button'>Learn More</a></p>
-        </section>
-      </article>
-    {% endif %}
+    <article class="solution" id='solution_{{ solution.name }}'>
+      <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+      <section>
+        <h3>{{ solution.title }}</h3>
+        <p>{{ solution.desc }}</p>
+        <p><a href='{{ solution.link }}' class='button'>Learn More</a></p>
+      </section>
+    </article>
   {% endfor %}
 </section>

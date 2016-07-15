@@ -18,17 +18,8 @@ article.solution {
 
   figure {
     display: none;
+    width: 0;
   }
-
-  svg {
-    width: 65%;
-    margin-left: -1.5em;
-    margin-top: 1.5em;
-  }
-  g, path {
-    stroke: $epl-grey-1;
-  }
-
   section {
     width: 100%;
   }
@@ -38,13 +29,25 @@ article.solution {
 
     figure {
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       align-items: flex-start;
-      width: 20%;
-      order: 2;
+      width: 15%;
+    }
+    svg {
+      width: 90%;
+      margin-top: 1em;
+    }
+    g, path {
+      stroke: $epl-grey-1;
     }
     section {
-      width: 80%;
+      width: 85%;
     }
+  }
+
+
+  @include breakpoint($breakpoint-ipad) {
+    width: 48%;
+
   }
 }

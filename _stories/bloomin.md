@@ -5,7 +5,7 @@ industry: Hospitality
 why     : EdgePoint was able to understand our vision of taking an existing video and making it dynamic and engaging.
 
 solution: leadership
-snippet : Learn how EdgePoint Learning helped Bloomin’ Brands improve succession planning with video-based mentoring modules.
+snippet : See how EdgePoint Learning helped Bloomin’ Brands improve succession planning with video-based mentoring modules.
 link    : '#'
 ---
 

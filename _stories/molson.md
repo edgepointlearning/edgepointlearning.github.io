@@ -5,7 +5,7 @@ industry: Food & Beverage
 why     : EdgePoint delivered on the importance of incorporating our brands and products in all levels of the project from audio to each visual element.
 
 solution: professional
-snippet : See how EdgePoint Learning introduced Molson Coors’ employees to the Company’s social media guidelines and internal social media tools.
+snippet : See how EdgePoint Learning introduced Molson Coors employees to the Company’s social media guidelines and tools.
 link    : '#'
 ---
 

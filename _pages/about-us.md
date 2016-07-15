@@ -3,14 +3,31 @@ title    : About Us
 permalink: '/about-us/'
 hero     : A Page About Us
 ---
+## Another Heading
 
-{{ site.data.icons.epl-vert.svg }}
+<figure class="featuredIcon">{{ site.data.icons.epl-vert.svg }}</figure>
 
-Since 2007, EdgePoint Learning has been committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults. Despite the hype in today’s organizational learning industry, we believe that learning program success is consistently grounded in strong business alignment, thoughtful program design and collaborative development processes.
+Since 2007, EdgePoint Learning has been committed to delivering quality learning solutions that work--whatever your business needs.
 
-Headquartered in Scottsdale, Arizona, EdgePoint Learning's team includes instructional designers, project managers, courseware developers, graphic designers, audio voiceover talent and programmers—all with an average of 12 years' experience creating eLearning solutions.
+### Our Unique Approach
+We believe that learning program success is grounded in strong business alignment, thoughtful program design and collaborative development.
 
-Our focus on ensuring the success of your business, our proven development processes, and our flexibility to work with your processes and tools allows EdgePoint Learning to become an extension of your organization. We will provide you with the increased capacity you need to accomplish your training goals.
+This means we communicate honestly, we work flexibly and we’re committed to helping you meet your training goals.
 
+### Our Team
+Headquartered in Scottsdale, Arizona, our team has an average of 12 years of experience building great eLearning. When you work with us, you’re collaborating with a stellar lineup of instructional designers, courseware developers, graphic designers, project managers and voiceover talent.
 
-At EdgePoint Learning, our business is grounded in building solid relationships and good communication. We're always happy to help you brainstorm creative solutions to your training needs. Even if you're still in the early planning stages of your training initiative, we'd welcome the opportunity to talk with you and share our ideas.
+### Our Leadership
+Corey Bleich
+[Corey’s bio here]
+
+Amber Hartmann
+[Amber’s bio here]
+
+Tyler Campbell
+[Tyler’s bio here]
+
+### Let’s Talk
+We’re always happy to help you brainstorm creative solutions to your training needs. Even if you’re still in the early planning stages of your training initiative, we welcome the opportunity to talk with you and share our ideas.
+
+[Contact us]() to see how we can work together.

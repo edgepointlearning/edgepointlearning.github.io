@@ -5,7 +5,7 @@ industry: Hospitality
 why     : EdgePoint’s willingness to be flexible in their approach and processes allowed us to quickly develop our first direct-to-mobile courses.
 
 solution: customer
-snippet : Discover how EdgePoint Learning created modules for La Quinta’s associates that featured interactive activities illustrating best practices for guest check-in and more.
+snippet : Discover how EdgePoint Learning helped La Quinta train associates through interactive activities illustrating best practices for guest check-in and more.
 link    : '#'
 ---
 

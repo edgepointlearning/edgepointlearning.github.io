@@ -1,9 +1,11 @@
-#teaser {
+#teasers {
+  margin-top: 3em;
+
   a {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 
     margin: 1.5em 0;
     padding: 0 0 1.5em 0;
@@ -27,8 +29,11 @@
     margin: 0;
     padding: 0;
   }
-  h3 {
+  h3.teaser-title {
     padding: 0;
+    @include proxima-nova;
+    font-weight: 500;
+    color: $epl-blue;
   }
   p {
     margin: 0;

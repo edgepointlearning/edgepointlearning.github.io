@@ -5,7 +5,7 @@ industry: Retail
 why     : EdgePoint was instrumental in rolling out in-store eLearning for the first time in our history. We quickly developed a co- development working relationship with EdgePoint as an extension of our internal team.
 
 solution: product
-snippet : Learn how EdgePoint Learning increased PetSmart’s employees’ product knowledge with a series of interactive eLearning training modules.
+snippet : Learn how EdgePoint Learning increased product knowledge at PetSmart with a series of interactive modules.
 link    : '#'
 ---
 

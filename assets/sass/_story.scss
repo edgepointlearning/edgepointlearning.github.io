@@ -1,0 +1,15 @@
+section#clients {
+  margin: 3em auto;
+  overflow: hidden;
+  height: 132px;
+
+  figure {
+    position: absolute;
+    width: 5000px;
+    animation: marquee 120s linear infinite;
+  }
+}
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-2250px); }
+}
