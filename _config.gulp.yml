@@ -1,7 +1,7 @@
 # paginate    : 5
 
 # No baseurl needed for gulp
-baseurl     : ""
+# baseurl     : ""
 
 # Show drafts and future posts?
 future      : true
@@ -11,4 +11,4 @@ show_drafts : true
 lsi         : false
 
 # Max posts to render
-limit_posts : 20
+# limit_posts : 20

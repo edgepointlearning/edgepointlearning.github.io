@@ -11,3 +11,5 @@ Design is sometimes overlooked when developing courses or curriculum, but it can
 * [Color & Learning](http://bit.ly/151XnBC) 
 * [Color in an Optimum Learning Environment](http://bit.ly/151XCwl)
 * [Color Theory for Designers, Part 1: The Meaning of Color](http://bit.ly/151Yd14) 
+
+[Contact us](#) to find out how EdgePoint’s team of instructional designers and graphic design experts can help punch up your training program.

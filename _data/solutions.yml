@@ -1,4 +1,4 @@
-# solutions.yml v1.1
+# solutions.yml v1.3
 - id   : compliance
   title: Compliance & Regulatory
   icon : shield
@@ -20,6 +20,7 @@
 - id   : localization
   title: Localization
   icon : globe
+  desc : Train your workforce around the world with high-quality translation and localization services.
   link : '#'
 
 - id   : onboarding

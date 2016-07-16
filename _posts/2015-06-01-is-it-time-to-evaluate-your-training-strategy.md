@@ -21,4 +21,4 @@ Maybe you need to hire another instructional designer or someone super savvy wit
 #### Should you be outsourcing anything?
 Sometimes it can be overwhelming to create and implement all the training your organization needs. That's where companies like us can help.
 
-[Contact us](http://edgepointlearning.com/contact/) with any questions!  
+[Contact us](#) with any questions!  
