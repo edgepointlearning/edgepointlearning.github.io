@@ -10,8 +10,11 @@
     margin: 1.5em 0;
     padding: 0 0 1.5em 0;
     border-bottom: 1px solid $epl-grey-2;
-    &:hover h3 {
-      text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+      h3 {
+        text-decoration: underline;
+      }
     }
     &:last-of-type {
       border-bottom: none;
@@ -40,6 +43,7 @@
   p {
     margin: 0;
     color: $picnic-black;
+    font-weight: 300;
   }
   p.date {
     display: none;

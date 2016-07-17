@@ -32,9 +32,9 @@ aside.card {
     font-size: 1rem;
   }
   a.button {
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    @include epl-button;
   }
+
   g, path {
     stroke: $epl-grey-1;
   }

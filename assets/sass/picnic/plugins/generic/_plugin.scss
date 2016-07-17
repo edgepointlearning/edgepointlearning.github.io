@@ -29,6 +29,14 @@ h6 {
   font-weight: 500;
   color: $epl-grey-0;
   }
+h3,
+h4,
+h5,
+h6 {
+  padding-bottom: 0;
+}
+
+
 
 li {
   margin: 0 0 $picnic-separation / 2;
@@ -39,6 +47,10 @@ a {
   text-decoration: none;
   box-shadow: none;
   transition: $picnic-transition;
+  font-weight: 500;
+  &:hover {
+    text-decoration: underline;
+    }
   }
 
 

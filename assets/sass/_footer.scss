@@ -40,9 +40,6 @@ footer {
   }
   a {
     color: $epl-grey-2;
-    &:hover {
-      text-decoration: underline;
-    }
   }
 
   @include breakpoint($breakpoint-5h) {

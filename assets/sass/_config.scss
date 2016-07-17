@@ -29,7 +29,6 @@ $breakpoint-max : 978px;
   // 400,500
 }
 
-
 @mixin padding-horz {
   padding-left: 1em;
   padding-right: 1em;
@@ -39,27 +38,16 @@ $breakpoint-max : 978px;
   }
 }
 
+@mixin epl-button {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 @import
-//   'normalize.css'
-//   'sanitize.min.css',
-//   'components/mappy-breakpoints',
-//   'components/modular-scale',
-//   'components/typi',
-//
-//   'variables',
-//   'blog_post_content',
-//   'typography',
-//   'style',
-//   'nav',
-//   'hero',
-//   'intro',
-//   'box',
-//   'solution',
-//   'story',
-//   'pill',
-//   'footer',
-//   'blog_archive',
-//   'blog_post'
   'picnic',
   'container',
   'nav',
