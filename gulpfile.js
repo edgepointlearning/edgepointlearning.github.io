@@ -8,7 +8,8 @@ gulp.task('build', shell.task(['jekyll build --watch --config _config.yml,_confi
 // Task for serving blog with Browsersync
 gulp.task('serve', function () {
   browserSync.init({
-    // notify: false,
+    notify: false,
+    // browser: ["safari", "google chrome"],
     server: {
       baseDir: '_site/'
     }

@@ -1,0 +1,82 @@
+//! Picnic CSS http://www.picnicss.com/
+
+
+// Top level variables for Picnic CSS
+// Note: some others are available under each specific plugin
+$aqua: #7fdbff !default;
+$blue: #0074d9 !default;
+$navy: #001f3f !default;
+$teal: #39cccc !default;
+$green: #2ecc40 !default;
+$olive: #3d9970 !default;
+$lime: #01ff70 !default;
+$yellow: #ffdc00 !default;
+$orange: #ff851b !default;
+$red: #ff4136 !default;
+$fuchsia: #f012be !default;
+$purple: #b10dc9 !default;
+$maroon: #85144b !default;
+$white: #fff !default;
+$silver: #ddd !default;
+$gray: #aaa !default;
+$black: #111 !default;
+
+$picnic-white: #fff !default;
+$picnic-black: #111 !default;
+$picnic-primary: $epl-blue !default;
+$picnic-success: $green !default;
+$picnic-warning: $orange !default;
+$picnic-error: $red !default;
+$picnic-dull: $gray !default;
+$picnic-color-variation: 10% !default;
+$picnic-transparency: .2 !default;
+
+// Spaces
+$picnic-separation: .6em !default;
+$picnic-breakpoint: 60em !default;
+
+// Shapes
+$picnic-radius: .2em !default;
+$picnic-border: 1px solid #ccc !default;
+$picnic-shadow: 0 0 .2em rgba($picnic-black, $picnic-transparency) !default;
+
+// Transitions
+$picnic-transition: all .3s;
+
+// Imports the base variable styles
+// @import 'picnic/themes/default/theme';
+
+@import 'picnic/vendor/compass-breakpoint/stylesheets/breakpoint';
+
+// Normalize.css (external library)
+@import 'picnic/plugins/normalize/plugin';
+
+// Generic styles for things like <body>, <a> and others
+// It also overwrites normalize.css a bit
+@import 'picnic/plugins/generic/plugin';
+// @import 'picnic/plugins/fontello/plugin';
+
+// Simple elements
+@import 'picnic/plugins/label/plugin';
+@import 'picnic/plugins/button/plugin';
+
+// Forms
+@import 'picnic/plugins/input/plugin';
+@import 'picnic/plugins/select/plugin';
+@import 'picnic/plugins/radio/plugin';
+@import 'picnic/plugins/checkbox/plugin';
+
+// Components
+@import 'picnic/plugins/table/plugin';
+@import 'picnic/plugins/grid/plugin';
+
+// Extra
+// @import 'picnic/plugins/nav/plugin';
+
+@import 'picnic/plugins/stack/plugin';
+@import 'picnic/plugins/card/plugin';
+@import 'picnic/plugins/modal/plugin';
+
+@import 'picnic/plugins/dropimage/plugin';
+@import 'picnic/plugins/tabs/plugin';
+@import 'picnic/plugins/tooltip/plugin';

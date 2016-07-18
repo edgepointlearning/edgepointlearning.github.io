@@ -1,42 +1,50 @@
 ---
 layout: default
 ---
-<article class="post">
+<main>
 
-  <header id="post_header">
-    <h1>{{ page.title }}</h1>
-    <h2>{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</h2>
-  </header>
+  {% include nav.html %}
 
-  <figure id="post_featured_image">
-    <img src="{{site.blog_image_dir}}/{{ page.background }}" alt="blog post featured image">
-  </figure>
+  <article class="post">
 
-  <section id="post_content">
-    {{ content }}
-  </section>
+    <header id="post_header">
+      <h1>{{ page.title }}</h1>
+      <p>{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</p>
+    </header>
 
-  <aside id="post_related">
-    <h4>Related Posts</h4>
-    <ul>
-      {% for post in site.related_posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
-        </li>
+    <figure id="post_featured_image">
+      <img src="{{site.image_dir}}/{{ page.background }}" alt="blog post featured image">
+    </figure>
+
+    <section id="post_content">
+      {{ content }}
+    </section>
+
+    <aside id="post_related">
+      <h4>Related Posts</h4>
+      <ul>
+        {% for post in site.related_posts limit:3 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+
+  </article>
+
+  {% if page.cards %}
+  <section id="cards">
+    {% for page_card in page.cards %}
+      {% for card in site.data.cards %}
+        {% if page_card == card.id %}
+          {% include card.html %}
+        {% endif %}
       {% endfor %}
-    </ul>
-  </aside>
-
-</article>
-
-{% if page.boxes %}
-<section class="box_holder">
-  {% for page_box in page.boxes %}
-    {% for box in site.boxes %}
-      {% if page_box == box.name %}
-        {% include box.html %}
-      {% endif %}
     {% endfor %}
-  {% endfor %}
-</section>
-{% endif %}
+  </section>
+  {% endif %}
+
+  {% include footer.html %}
+
+</main>

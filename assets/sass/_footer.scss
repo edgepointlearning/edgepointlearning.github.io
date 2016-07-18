@@ -1,51 +1,60 @@
 footer {
-  background: $c-epl-blue;
   display: flex;
   flex-flow: row wrap;
-  padding: 1.5em 2em 2em 2em;
+  justify-content: space-between;
 
-  ul {
-    list-style-type: none;
-  }
+  background-color: $epl-blue;
+  color: $picnic-white;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  margin-top: 1em;
 
-  h4 {
-    font-weight: 500;
-    color: white;
-    margin-bottom: .2em;
-  }
-  li, a {
-    color: $c-epl-grey-2;
-  }
-  aside {
-    width: 50%;
-  }
   aside:last-of-type {
+    margin-top: 2em;
     width: 100%;
     text-align: center;
-    margin-top: 2em;
     h4 {
       display: none;
     }
   }
 
-  @include mappy-bp(sixhorz) {
-    aside,
+  h4 {
+    padding: 0;
+    margin-bottom: .5rem;
+    color: $picnic-white;
+  }
+  ul {
+    font-size: 1rem;
+    line-height: 1rem;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  li {
+    margin-bottom: .5em;
+    color: $epl-grey-2;
+    line-height: 1.2em;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+  a {
+    color: $epl-grey-2;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    justify-content: space-around;
+  }
+
+  @include breakpoint($breakpoint-6h) {
+    justify-content: space-between;
     aside:last-of-type {
-      width: 33%;
-      text-align: left;
       margin-top: 0;
+      width: 50%;
+      text-align: left;
       h4 {
         display: block;
       }
-    }
-  }
-
-  @include mappy-bp(xlarge) {
-    aside {
-      width: 26%;
-    }
-    aside:last-of-type {
-      width: 48%;
     }
   }
 

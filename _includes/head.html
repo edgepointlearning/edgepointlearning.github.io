@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title %}{% if page.title != "home" %}{{ page.title }} &middot; {% endif %}{% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{% if page.title != "home" %}{{ page.title }} | {% endif %}{% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <!-- Disable tap highlight on IE -->
@@ -12,43 +12,7 @@
   <!-- Web Application Manifest -->
   <!-- <link rel="manifest" href="manifest.json"> -->
 
-  <!-- favicons -->
-  <link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/images/touch/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="60x60" href="{{ "/assets/images/touch/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/images/touch/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="76x76" href="{{ "/assets/images/touch/apple-touch-icon-76x76.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/images/touch/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/images/touch/apple-touch-icon-120x120.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="144x144" href="{{ "/assets/images/touch/apple-touch-icon-144x144.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ "/assets/images/touch/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/images/touch/apple-touch-icon-180x180.png" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" href="{{ "/assets/images/touch/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
-  <link rel="icon" type="image/png" href="{{ "/assets/images/touch/favicon-194x194.png" | prepend: site.baseurl }}" sizes="194x194">
-  <link rel="icon" type="image/png" href="{{ "/assets/images/touch/favicon-96x96.png" | prepend: site.baseurl }}" sizes="96x96">
-  <link rel="icon" type="image/png" href="{{ "/assets/images/touch/android-chrome-192x192.png" | prepend: site.baseurl }}" sizes="192x192">
-  <link rel="icon" type="image/png" href="{{ "/assets/images/touch/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16">
-  <link rel="manifest" href="{{ "/assets/images/touch/manifest.json" | prepend: site.baseurl }}">
-  <link rel="mask-icon" href="{{ "/assets/images/touch/safari-pinned-tab.svg" | prepend: site.baseurl }}" color="{{ site.color }}">
-  <link rel="shortcut icon" href="{{ "/assets/images/touch/favicon.ico" | prepend: site.baseurl }}">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="{{ "/assets/images/touch/mstile-144x144.png" | prepend: site.baseurl }}">
-  <meta name="msapplication-config" content="{{ "/assets/images/touch/browserconfig.xml" | prepend: site.baseurl }}">
-  <meta name="theme-color" content="{{ site.color }}">
-  <!-- Add to homescreen for Chrome on Android -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="application-name" content="{{ site.title }}">
-  <!-- Add to homescreen for Safari on iOS -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
-  <!-- facebook -->
-  <meta property="og:url"          content="{{ site.url }}" />
-  <meta property="og:title"        content="{{ site.title }}" />
-  <meta property="og:description"  content="{{ site.description }}" />
-  <meta property="og:image"        content="{{ "/assets/images/touch/apple-touch-icon-180x180.png" | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:image:type"   content="image/png">
-  <meta property="og:image:width"  content="180">
-  <meta property="og:image:height" content="180">
+  {% include meta.html %}
 
   <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -62,7 +26,14 @@
     {% endfor %}
   {% endif %}
 
+  <!-- iframe size -->
+  <script language="javascript" type="text/javascript">
+    function resizeIframe(obj) {
+      obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+    }
+  </script>
+
   <!-- typekit -->
-  <script src="//use.typekit.net/csz0gjq.js"></script>
+  <script src="https://use.typekit.net/rrs8npw.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>

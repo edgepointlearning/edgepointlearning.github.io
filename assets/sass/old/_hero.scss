@@ -1,0 +1,34 @@
+header#hero {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+ min-height: 6em;
+
+ background: $c-epl-blue;
+ color: white;
+
+ h1 {
+   margin: 1.2em auto 1.3em;
+   @include f-brandon;
+   text-align: center;
+   line-height: 1.2em;
+   font-weight: 100;
+ }
+ b {
+   @include f-nova;
+   font-weight: 300;
+   display: block;
+ }
+ #typed {
+   font-weight: 300;
+   letter-spacing: .02em;
+ }
+}
+
+body#page-about-us header#hero {
+  // min-height: 1em;
+  img {
+      width: 100%;
+    }
+}

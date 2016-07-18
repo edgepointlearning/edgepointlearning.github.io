@@ -1,34 +1,32 @@
 ---
 layout: default
 ---
-<header id="hero">
-  {% if page.hero-img %}
-  <img src={{ page.hero-img | prepend: site.baseurl }} alt="hero image">
-  {% else %}
-  <h1>{{ page.hero }}</h1>
-  {% endif %}
-</header>
+<main>
 
-<article id="intro">
-  {%if page.headline %}<header><h2>{{ page.headline }}</h2></header>{% endif %}
-  {%if page.icon %}{% assign iconSvg = site.data.icons[page.icon]svg %}<figure>{{ iconSvg }}</figure>{% endif %}
-  {%if page.intro %}<section>{{ page.intro }}</section>{% endif %}
-</article>
+  {% include nav.html %}
+
+  <header id="hero">
+    <h1>{{ page.hero }}</h1>
+  </header>
+
+  <article id="content">
+    {{ content }}
 
 
-<article class="page_content padding_horz">
-  {{ content }}
-</article>
+    {% if page.cards %}
+    <section id="cards">
+      {% for page_card in page.cards %}
+        {% for card in site.data.cards %}
+          {% if page_card == card.id %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </section>
+    {% endif %}
 
+  </article>
 
-{% if page.boxes %}
-<section class="box_holder">
-  {% for page_box in page.boxes %}
-    {% for box in site.boxes %}
-      {% if page_box == box.name %}
-        {% include box.html %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</section>
-{% endif %}
+{% include footer.html %}
+
+</main>

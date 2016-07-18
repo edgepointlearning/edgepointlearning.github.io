@@ -1,68 +1,65 @@
 # Site settings
-title         : EdgePoint Learning
-description   : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults, EdgePoint Enables.
-tagline       : Innovative Learning Solutions for Better Business Results
-url           : 'http://edgepointlearning.github.io'
-baseurl       : '' #/epl-optimized
+title        : EdgePoint Learning
+description  : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults, EdgePoint Enables.
+tagline      : Innovative Learning Solutions for Better Business Results
+url          : 'http://edgepointlearning.github.io'
+baseurl      : '' #/epl-optimized
 
 # Color variable for Android & Windows tiles
-color         : '#12519E'
-blog_image_dir: '/assets/images/blog/'
+color        : 'RGB(18, 82, 158)'
+image_dir    : '/assets/images/blog/'
 
 # Permalinks
-permalink     : pretty
-paginate      : 7
-paginate_path : '/blog/page:num'
+permalink    : pretty
 
 # Filtering Content
-future        : false
-show_drafts   : false
-limit_posts   : 0
-lsi           : false
-
-# Pagination
-gems:
-  - jekyll-paginate
+future       : false
+show_drafts  : false
+limit_posts  : 0
+lsi          : false
+excerpt_separator: <!--more-->
 
 # Include
-include       : ['_pages','_samples']
+include      : ['_pages']
 
 # Sass
-sass          :
-  sass_dir    : assets/sass
-  style       : compressed
+sass         :
+  sass_dir   : assets/sass
+  style      : compressed
 
 # Collections
-collections   :
-  boxes       :
-    output    : false
-  solutions   :
-    output    : false
-  stories     :
-    output    : false
-  demos     :
-    output    : false
+collections  :
+  stories    :
+    output   : false
+  forms      :
+    output   : true
 
-defaults      :
+
+defaults     :
   -
-    scope     :
-      path    : "" # an empty string here means all files in the project
-    values    :
-      layout  : "default"
-      boxes:
+    scope    :
+      path   : "" # an empty string here means all files in the project
+    values   :
+      layout : "page"
+      cards  :
        - talk
        - solutions
        - demos
        - newsletter
   -
-    scope     :
-      path    : ""
-      type    : "posts" # the post collection
-    values    :
-      layout  : "post" # will default to the post layout
-      boxes   :
+    scope    :
+      type   : "posts" # the post collection
+    values   :
+      layout : "post" # will default to the post layout
+      cards  :
        - talk
        - newsletter
+  -
+    scope:
+      path: ""
+      type: forms
+    values:
+      layout: default
 
 # Exclude
-exclude       : [bower_components, node_modules, gulpfile.js, package.json]
+exclude      : [bower_components, node_modules, bower.json, gulpfile.js, npm-shrinkwrap.json, package.json]

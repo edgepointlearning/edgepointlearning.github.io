@@ -1,0 +1,52 @@
+footer {
+  background: $c-epl-blue;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 1.5em 2em 2em 2em;
+
+  ul {
+    list-style-type: none;
+  }
+
+  h4 {
+    font-weight: 500;
+    color: white;
+    margin-bottom: .2em;
+  }
+  li, a {
+    color: $c-epl-grey-2;
+  }
+  aside {
+    width: 50%;
+  }
+  aside:last-of-type {
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
+    h4 {
+      display: none;
+    }
+  }
+
+  @include mappy-bp(sixhorz) {
+    aside,
+    aside:last-of-type {
+      width: 33%;
+      text-align: left;
+      margin-top: 0;
+      h4 {
+        display: block;
+      }
+    }
+  }
+
+  @include mappy-bp(xlarge) {
+    aside {
+      width: 26%;
+    }
+    aside:last-of-type {
+      width: 48%;
+    }
+  }
+
+}

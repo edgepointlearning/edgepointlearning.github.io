@@ -1,15 +1,33 @@
 ---
 title    : Success Stories
 permalink: '/success-stories/'
-layout   : page
-
-hero     : Learning Success is<b>Business Impact.</b>
-icon     : rocket
-intro    : "<p>For EdgePoint Learning, learning program success can only be achieved through having a measurable impact on your organization's performance at the enterprise, team or individual levels. EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning programs designed for business benefit. </p>"
+hero     : Learning Success is Business Impact.
 ---
+## A 2nd Heading? Ok!
 
-<section class="story_holder">
-  {% for story in site.stories %}
-    {% include story.html %}
+<figure class="featuredIcon">{{ site.data.icons.rocket.svg }}</figure>
+
+At EdgePoint, we believe learning program success means your training has a measureable impact on performance at the enterprise, team or individual level.
+
+EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
+
+[Contact us](#) to talk about how we can work together.
+
+{% include clients.html %}
+
+<section id='solutions'>
+  {% assign filtered_stories = site.stories | sort:'solution' %}
+  {% for story in filtered_stories %}
+    {% if story.solution %}
+    {% assign solution = site.data.solutions | where:'id', story.solution | first %}
+    <article class='solution'>
+      <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+      <section>
+        <h3>{{ solution.title }}</h3>
+        <p>{{ story.snippet }}</p>
+        <p><a href='{{ story.link }}' class='button'>Read Story</a></p>
+      </section>
+    </article>
+    {% endif %}
   {% endfor %}
 </section>

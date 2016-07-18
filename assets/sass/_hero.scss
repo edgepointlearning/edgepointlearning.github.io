@@ -1,34 +1,31 @@
-header#hero {
- display: flex;
- align-items: center;
- justify-content: center;
+#hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
- min-height: 6em;
+  background-color: $epl-blue;
 
- background: $c-epl-blue;
- color: white;
+  h1 {
+    margin: .8em auto;
+    line-height: 1.3em;
+    font-weight: 100;
+    text-align: center;
+    color: $epl-grey-2;
+  }
+  b, #typed {
+    font-weight: 300;
+    color: $picnic-white;
+  }
 
- h1 {
-   margin: 1.2em auto 1.3em;
-   @include f-brandon;
-   text-align: center;
-   line-height: 1.2em;
-   font-weight: 100;
- }
- b {
-   @include f-nova;
-   font-weight: 300;
-   display: block;
- }
- #typed {
-   font-weight: 300;
-   letter-spacing: .02em;
- }
-}
-
-body#page-about-us header#hero {
-  // min-height: 1em;
-  img {
-      width: 100%;
+  @include breakpoint($breakpoint-5) {
+    h1 {
+      font-size: 7vw;
     }
+  }
+
+  @include breakpoint($breakpoint-ipad) {
+    h1 {
+      font-size: 3.4em;
+    }
+  }
 }

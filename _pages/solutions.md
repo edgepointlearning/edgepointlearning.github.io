@@ -1,16 +1,33 @@
 ---
 title    : Solutions
 permalink: '/solutions/'
-layout   : page
-
-hero     : <b>Solutions</b>That Drive<br>Your Business.
-icon     : lightbulb
-intro    : "<p>EdgePoint Learning works closely with you to understand your business, learning objectives and expected outcomes. We then craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business (SMB), multinational corporation or not-for-profit, one thing remains constant: good learning equals good business. EdgePoint Learning has the expertise to define, design and develop point or blended learning solutions—instructor-led training programs (for classroom or virtual delivery); eLearning courseware; animations, simulations and gaming; and OJT reference materials—that will get the job done.</p>"
+hero     : Solutions That Drive Your Business.
 ---
+## It's Another Heading
 
-<section class="box_holder">
-  {% for box in site.solutions %}
-    {% include box.html solution='true' %}
+<figure class="featuredIcon">{{ site.data.icons.lightbulb.svg }}</figure>
+
+EdgePoint Learning works closely with you to understand you business and craft a targeted learning solution that works. Whether your organization is a small- or medium-sized business, multinational corporation or non-profit, good learning equals good business.
+
+EdgePoint has the expertise to develop learning solutions that will get the job done, including:
+
+* eLearning courseware
+* Animations, simulations and gaming
+* Instructor-led training programs (for classroom or virtual delivery)
+* On-the-job reference materials and job aid
+
+[Contact us](#) to talk about how we can work together.
+
+<section id="solutions">
+  {% assign filtered_solutions = site.data.solutions | sort:'title' %}
+  {% for solution in filtered_solutions %}
+    <article class="solution" id='solution_{{ solution.name }}'>
+      <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+      <section>
+        <h3>{{ solution.title }}</h3>
+        <p>{{ solution.desc }}</p>
+        <p><a href='{{ solution.link }}' class='button'>Learn More</a></p>
+      </section>
+    </article>
   {% endfor %}
 </section>
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(158, 158, 163, 1), rgba(0, 0, 0, 0));">

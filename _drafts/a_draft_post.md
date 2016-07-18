@@ -2,9 +2,10 @@
 title: A Sample Post
 author: Tyler Campbell
 background: 2014-12-15-when-to-outsource-your-elearning.jpg
+excerpt: Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 ---
 
-> Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 
 # Markdown (Header 1)
 

@@ -1,0 +1,62 @@
+section#cards {
+  margin: 3em auto 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+aside.card {
+  border: 1px solid $epl-grey-1;
+  background: $epl-grey-3;
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 1em;
+  padding: 1rem;
+
+  section {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+  }
+  figure {
+    width: 0%;
+    display: none;
+  }
+
+  h4 {
+    padding: 0;
+  }
+  p, a {
+    font-size: 1rem;
+  }
+  a.button {
+    @include epl-button;
+  }
+
+  g, path {
+    stroke: $epl-grey-1;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    section {
+      width: 75%;
+    }
+    figure {
+      width: 25%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+    svg {
+      width: 80%;
+    }
+
+  }
+
+  @include breakpoint($breakpoint-ipad) {
+    width: 49%;
+  }
+
+}

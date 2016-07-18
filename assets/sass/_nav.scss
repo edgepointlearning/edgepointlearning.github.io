@@ -1,77 +1,62 @@
-// nav > ul > li
 nav {
-  margin: 1em 0;
-  ul {
-    display: flex;
-    flex-flow: row wrap;
-  }
-  li {
-    flex: 1 auto;
-    text-align: center;
-  }
-  li:first-of-type {
+  margin: 1.5em 0 1.4em;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+
+  @include proxima-nova-condensed;
+  text-transform: uppercase;
+  font-size: 1rem;
+  line-height: 1rem;
+
+  a:first-of-type {
+    margin: auto auto 1.2em auto;
     width: 100%;
+    text-align: center;
+    svg {
+      height: 28px;
+    }
   }
-  svg {
-    width: 90%;
-    max-width: 300px;
-    margin-bottom: 1em;
-  }
-  a {
-    text-transform: uppercase;
-    color: $c-epl-blue;
-    @include f-nova-condensed;
+  span {
+    display: none;
   }
 
-  @include mappy-bp(small) {
-    margin: .5em 0;
-    ul {
-      height: 48px;
-      align-items: center;
+  @include breakpoint($breakpoint-5h) {
+    margin: 1.4em 0 1.2em;
+
+    a:first-of-type {
+      width: 36px;
+      margin: 0;
+      overflow: hidden;
+      svg {
+        height: 36px;
+      }
     }
-    li {
-      text-align: right;
-    }
-    li:first-of-type {
-      text-align: left;
-      width: 64px;
-      margin-left: .5em;
-    }
-    li:last-of-type {
-      margin-right: .5em;
-    }
-    svg {
-      width: 220px;
-      height: 28px;
-      margin-bottom: 0;
-      margin-top: -4px;
-    }
-    #nav__logo__edgepoint,
-    #nav__logo__learning {
+
+    #nav__logo__edgepoint, #nav__logo__learning {
       display: none;
     }
+    span {
+      display: inline;
+    }
   }
 
-  @include mappy-bp(medium) {
-    li:first-of-type {
+  @include breakpoint($breakpoint-ipad) {
+    a:first-of-type {
       width: auto;
+      svg {
+        height: 28px;
+      }
     }
-    #nav__logo__edgepoint,
-    #nav__logo__learning {
-      display: block;
+    #nav__logo__edgepoint, #nav__logo__learning {
+      display: inherit;
     }
   }
 
-  @include mappy-bp(xlarge) {
-    li:first-of-type {
-      margin-left: 0;
-    }
-    li:last-of-type {
-      margin-right: 0;
-    }
-    a {
-      @include f-nova;
-    }
+  @include breakpoint($breakpoint-max) {
+    @include proxima-nova;
   }
 
 }
