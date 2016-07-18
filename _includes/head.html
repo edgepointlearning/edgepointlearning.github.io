@@ -26,6 +26,13 @@
     {% endfor %}
   {% endif %}
 
+  <!-- iframe size -->
+  <script language="javascript" type="text/javascript">
+    function resizeIframe(obj) {
+      obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+    }
+  </script>
+
   <!-- typekit -->
   <script src="https://use.typekit.net/rrs8npw.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>

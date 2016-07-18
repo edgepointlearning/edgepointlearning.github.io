@@ -1,25 +1,32 @@
 ---
 layout: default
 ---
+<main>
 
-<header id="hero">
-  <h1>{{ page.hero }}</h1>
-</header>
+  {% include nav.html %}
 
-<article id="content">
-  {{ content }}
+  <header id="hero">
+    <h1>{{ page.hero }}</h1>
+  </header>
+
+  <article id="content">
+    {{ content }}
 
 
-  {% if page.cards %}
-  <section id="cards">
-    {% for page_card in page.cards %}
-      {% for card in site.data.cards %}
-        {% if page_card == card.id %}
-          {% include card.html %}
-        {% endif %}
+    {% if page.cards %}
+    <section id="cards">
+      {% for page_card in page.cards %}
+        {% for card in site.data.cards %}
+          {% if page_card == card.id %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
       {% endfor %}
-    {% endfor %}
-  </section>
-  {% endif %}
+    </section>
+    {% endif %}
 
-</article>
+  </article>
+
+{% include footer.html %}
+
+</main>

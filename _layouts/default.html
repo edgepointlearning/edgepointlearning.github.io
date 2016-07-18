@@ -12,15 +12,7 @@
     {% endif %}
   >
 
-    <main>
-
-      {% include nav.html %}
-
-      {{ content }}
-
-      {% include footer.html %}
-
-    </main>
+    {{ content }}
 
     {% if page.scripts %}
       {% for js_file in page.scripts %}

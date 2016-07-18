@@ -32,7 +32,7 @@ collections  :
   stories    :
     output   : false
   forms      :
-    output   : false
+    output   : true
 
 
 defaults     :
@@ -54,6 +54,12 @@ defaults     :
       cards  :
        - talk
        - newsletter
+  -
+    scope:
+      path: ""
+      type: forms
+    values:
+      layout: default
 
 # Exclude
 exclude      : [bower_components, node_modules, bower.json, gulpfile.js, npm-shrinkwrap.json, package.json]
