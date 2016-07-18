@@ -3,7 +3,7 @@ title    : Solutions
 permalink: '/solutions/'
 hero     : Solutions That Drive Your Business.
 ---
-## It's Another Heading
+## EdgePoint Enables Your Workforce
 
 <figure class="featuredIcon">{{ site.data.icons.lightbulb.svg }}</figure>
 

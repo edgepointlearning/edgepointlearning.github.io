@@ -3,7 +3,7 @@ title    : Success Stories
 permalink: '/success-stories/'
 hero     : Learning Success is Business Impact.
 ---
-## A 2nd Heading? Ok!
+## EdgePoint Enables Results
 
 <figure class="featuredIcon">{{ site.data.icons.rocket.svg }}</figure>
 

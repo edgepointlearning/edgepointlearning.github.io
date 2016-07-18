@@ -1,9 +1,9 @@
 ---
 title    : About Us
 permalink: '/about-us/'
-hero     : A Page About Us
+hero     : We’re Committed to Your Needs.
 ---
-## Another Heading
+## EdgePoint Enables Successful Learning Programs
 
 <figure class="featuredIcon">{{ site.data.icons.epl-vert.svg }}</figure>
 

@@ -3,7 +3,9 @@ title    : Contact
 permalink: '/contact/'
 hero     : We'd Love to Hear From You.
 ---
-{{ site.data.icons.chat.svg }}
+## EdgePoint Enables Learning Program Partnerships
+
+<figure class="featuredIcon">{{ site.data.icons.chat.svg }}</figure>
 
 At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.
 
