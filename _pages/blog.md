@@ -4,7 +4,7 @@ permalink: '/blog/'
 hero     : We Love Learning!
 cards    : no
 ---
-## EdgePoint Enables
+## EdgePoint Enables Better Training Delivery
 
 <figure class="featuredIcon">{{ site.data.icons.heart.svg }}</figure>
 

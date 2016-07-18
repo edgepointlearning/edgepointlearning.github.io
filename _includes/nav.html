@@ -1,8 +1,13 @@
 <nav>
   <a href="{{ "/" | prepend: site.baseurl }}">{{ site.data.icons.epl-horz.svg }}</a>
-  <a href="{{ "/solutions/" | prepend: site.baseurl }}"><span>Learning</span> Solutions</a>
-  <a href="{{ "/success-stories/" | prepend: site.baseurl }}"><span>Success</span> Stories</a>
-  <a href="{{ "/blog/" | prepend: site.baseurl }}">Blog</a>
-  <a href="{{ "/about-us/" | prepend: site.baseurl }}">About</a>
-  <a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a>
+  {% for menuitem in site.navItems %}
+    {% if menuitem.url == page.dir %}
+        {% assign class = "active" %}
+    {% else %}
+        {% assign class = "normal" %}
+    {% endif %}
+
+    <a class="{{ class }}" href="{{ menuitem.url  | prepend: site.baseurl }}">{{ menuitem.title }}</a>
+
+  {% endfor %}
 </nav>

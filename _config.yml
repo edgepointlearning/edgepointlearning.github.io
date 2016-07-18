@@ -9,6 +9,19 @@ baseurl      : '' #/epl-optimized
 color        : 'RGB(18, 82, 158)'
 image_dir    : '/assets/images/blog/'
 
+# Nav
+navItems:
+  - url: /solutions/
+    title: Learning</span> Solutions
+  - url: /stories/
+    title: Success</span> Stories
+  - url: /blog/
+    title: Blog
+  - url: /about/
+    title: About
+  - url: /contact/
+    title: Contact
+
 # Permalinks
 permalink    : pretty
 

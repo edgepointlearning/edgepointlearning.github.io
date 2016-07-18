@@ -19,6 +19,13 @@ nav {
       height: 28px;
     }
   }
+  a.active {
+    text-decoration: underline;
+  }
+  &:hover > *:not(:hover) { //a hack to remove active underline
+    text-decoration: none;
+  }
+
   span {
     display: none;
   }

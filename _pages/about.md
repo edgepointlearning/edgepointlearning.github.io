@@ -1,6 +1,6 @@
 ---
 title    : About Us
-permalink: '/about-us/'
+permalink: '/about/'
 hero     : We’re Committed to Your Needs.
 ---
 ## EdgePoint Enables Successful Learning Programs

@@ -1,6 +1,6 @@
 ---
 title    : Success Stories
-permalink: '/success-stories/'
+permalink: '/stories/'
 hero     : Learning Success is Business Impact.
 ---
 ## EdgePoint Enables Results
