@@ -1,7 +1,7 @@
 ---
 title    : Success Stories
 permalink: '/stories/'
-hero     : Learning Success is Business Impact.
+hero     : Learning Success<br> is Business Impact.
 ---
 ## EdgePoint Enables Results
 

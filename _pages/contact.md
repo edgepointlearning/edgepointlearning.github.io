@@ -1,7 +1,7 @@
 ---
 title    : Contact
 permalink: '/contact/'
-hero     : We'd Love to Hear From You.
+hero     : We'd Love to<br> Hear From You.
 ---
 ## EdgePoint Enables Learning Program Partnerships
 

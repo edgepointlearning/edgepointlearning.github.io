@@ -1,7 +1,7 @@
 ---
 title    : About Us
 permalink: '/about/'
-hero     : We’re Committed to Your Needs.
+hero     : We’re Committed<br> to Your Needs.
 ---
 ## EdgePoint Enables Successful Learning Programs
 

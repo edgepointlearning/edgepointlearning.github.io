@@ -1,7 +1,7 @@
 ---
 title    : Blog
 permalink: '/blog/'
-hero     : We Love Learning!
+hero     : We Love<br> Learning!
 cards    : no
 ---
 ## EdgePoint Enables Better Training Delivery
