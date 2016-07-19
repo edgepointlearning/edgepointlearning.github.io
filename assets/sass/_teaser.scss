@@ -66,4 +66,7 @@
       display: inherit;
     }
   }
+  @include breakpoint($breakpoint-full) {
+    margin-top: 6em;
+  }
 }

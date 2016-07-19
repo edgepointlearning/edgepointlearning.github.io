@@ -1,0 +1,18 @@
+section#bios {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 1.5em 0;
+}
+article.bio {
+  margin: 0;
+  padding: 0;
+  width: 28%;
+  figure {
+    text-align: center;
+    margin: 0 auto;
+    img {
+      border-radius: 50%;
+    }
+  }
+}

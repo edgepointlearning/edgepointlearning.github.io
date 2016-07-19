@@ -4,6 +4,10 @@ client  : Bank of the West
 industry: Banking
 why     : The biggest surprise was how quickly EdgePoint was able to put realize our vision and develop a large amount of training under tight timelines. I have been amazed.
 speaker : Dr. Kristin Jacobs, Vice President and eLearning Manager, Bank of the West
+
+solution: compliance
+snippet : Find out how EdgePoint Learning transformed 50 instructor-led training sessions into engaging learning experiences for Bank of the West.
+link    : '#'
 ---
 
 **Bank of the West** operates more than 700 branch banking and commercial office locations in 19 Western and Midwestern states. Prudent credit underwriting, a diversified loan portfolio, and careful risk management has allowed the bank to grow to $58 billion in assets. It is one of the nation’s largest banks, yet it preserves its local feel and its award-winning style of relationship banking that ensures superior customer service. Bank of the West is owned by BNP Paribas, one of the largest financial companies in the world.

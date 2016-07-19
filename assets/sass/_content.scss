@@ -27,5 +27,18 @@ article#content {
       float: right;
       margin: 0 0 0 2em;
     }
+    .featuredIcon svg#heart {
+      margin-top: -1em;
+      margin-left: 2em;
+      width: 8em;
+    }
+    .featuredIcon svg#rocket {
+      width: 10em;
+    }
+  }
+  @include breakpoint($breakpoint-full) {
+    .featuredIcon svg#heart {
+      margin-top: -1.5em;
+    }
   }
 }

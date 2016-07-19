@@ -13,8 +13,6 @@ EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning
 
 [Contact us](#) to talk about how we can work together.
 
-{% include clients.html %}
-
 <section id='solutions'>
   {% assign filtered_stories = site.stories | sort:'solution' %}
   {% for story in filtered_stories %}
@@ -31,3 +29,5 @@ EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning
     {% endif %}
   {% endfor %}
 </section>
+
+{% include clients.html %}

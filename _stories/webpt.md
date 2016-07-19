@@ -3,6 +3,10 @@ title   : EdgePoint Enables New Process & System Rollout
 client  : WebPT
 industry: Healthcare/Technology
 why     : EdgePoint’s creativity and flexibility allowed us to quickly deliver on a large amount of training to our rapidly growing numbers of employees and members.
+
+solution: process
+snippet : Discover how EdgePoint Learning helped WebPT reduce customer implementation time by 30% and support call volume by 86% with a software simulation.
+link    : '#'
 ---
 
 **WebPT** offers a cloud-based electronic medical records software for use in physical therapy practices, which enables practices to operate more efficiently and comply with Medicare, HIPPA, and ICD-10 regulations.
