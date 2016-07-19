@@ -6,7 +6,6 @@ article#content {
     font-weight: 400;
   }
   h2:first-of-type {
-    font-size: 2em;
     margin-top: .5em;
   }
   h3 {
@@ -22,6 +21,9 @@ article#content {
     margin-top: 0;
   }
   @include breakpoint($breakpoint-5h) {
+    h2 {
+      font-size: 2em;
+    }
     .featuredIcon {
       width: 12em;
       float: right;

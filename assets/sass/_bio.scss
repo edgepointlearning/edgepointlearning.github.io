@@ -2,17 +2,46 @@ section#bios {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-  margin: 1.5em 0;
+  margin: 1em 0;
 }
+
 article.bio {
-  margin: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+
+  margin: 1em 0 2em;
   padding: 0;
-  width: 28%;
-  figure {
-    text-align: center;
-    margin: 0 auto;
-    img {
-      border-radius: 50%;
+  width: 100%;
+
+  img {
+    border-radius: 50%;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    figure {
+      width: 25%;
+      img {
+        width: 80%;
+      }
+    }
+    section {
+      width: 75%;
+    }
+  }
+
+  @include breakpoint($breakpoint-full) {
+    width: 28%;
+    flex-flow: column;
+    justify-content: flex-start;
+
+    figure,
+    section {
+      width: 100%;
+    }
+    h4 {
+      margin-top: 1em;
     }
   }
 }

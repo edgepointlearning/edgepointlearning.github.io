@@ -17,13 +17,7 @@
     color: $picnic-white;
   }
 
-  @include breakpoint($breakpoint-5) {
-    h1 {
-      font-size: 7vw;
-    }
-  }
-
-  @include breakpoint($breakpoint-ipad) {
+  @include breakpoint($breakpoint-5h) {
     h1 {
       font-size: 3.4em;
     }

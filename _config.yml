@@ -12,9 +12,9 @@ image_dir    : '/assets/images/blog/'
 # Nav
 navItems:
   - url: /solutions/
-    title: Learning</span> Solutions
+    title: <span>Learning </span>Solutions
   - url: /stories/
-    title: Success</span> Stories
+    title: <span>Success </span>Stories
   - url: /blog/
     title: Blog
   - url: /about/
