@@ -13,7 +13,7 @@ article#content {
     font-weight: 500;
   }
   .featuredIcon {
-    width: 10em;
+    width: 8em;
     margin: 0 auto 1em;
   }
   figure + p,
@@ -34,10 +34,58 @@ article#content {
     .featuredIcon svg#rocket {
       width: 10em;
     }
+    .featuredIcon svg#chat {
+      width: 9em;
+      margin-top: -1.5em;
+    }
   }
   @include breakpoint($breakpoint-full) {
     .featuredIcon svg#heart {
       margin-top: -1.5em;
+    }
+    .featuredIcon svg#chat {
+      margin-left: 1em;
+    }
+  }
+
+  section#clients {
+    overflow: hidden;
+    height: 132px;
+
+    figure {
+      position: absolute;
+      width: 5000px;
+      animation: marquee 120s linear infinite;
+    }
+  }
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-2250px); }
+  }
+  form#contactForm {
+    max-width: $breakpoint-5h;
+    margin: 1em 0;
+  }
+
+  section#socialIcons {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 3em;
+    figure {
+      width: 48%;
+      max-width: 120px;
+    }
+    @include breakpoint($breakpoint-5h) {
+      justify-content: space-between;
+      figure {
+        width: 120px;
+      }
+    }
+    svg:hover {
+      path {
+        fill: $epl-blue-1;
+      }
     }
   }
 }
