@@ -16,10 +16,4 @@
     font-weight: 300;
     color: $picnic-white;
   }
-
-  @include breakpoint($breakpoint-5h) {
-    h1 {
-      font-size: 3.4em;
-    }
-  }
 }

@@ -21,9 +21,6 @@ article#content {
     margin-top: 0;
   }
   @include breakpoint($breakpoint-5h) {
-    h2 {
-      font-size: 2em;
-    }
     .featuredIcon {
       width: 12em;
       float: right;

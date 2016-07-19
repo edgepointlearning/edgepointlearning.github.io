@@ -28,9 +28,7 @@ aside.card {
   h4 {
     padding: 0;
   }
-  p, a {
-    font-size: 1rem;
-  }
+
   a.button {
     @include epl-button;
   }
