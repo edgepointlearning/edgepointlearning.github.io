@@ -9,7 +9,7 @@ hero     : Learning Success<br> is Business Impact.
 
 At EdgePoint, we believe learning program success means your training has a measureable impact on performance at the enterprise, team or individual level.
 
-EdgePoint Enables™ our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
+EdgePoint Enables our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
 
 [Contact us](#) to talk about how we can work together.
 
