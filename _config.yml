@@ -68,6 +68,14 @@ defaults     :
        - talk
        - newsletter
   -
+    scope    :
+      type   : "stories"
+    values   :
+      layout : "page"
+      cards  :
+       - demos
+       - talk
+  -
     scope:
       path: ""
       type: forms

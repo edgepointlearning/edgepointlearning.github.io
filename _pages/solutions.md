@@ -2,6 +2,9 @@
 title    : Solutions
 permalink: '/solutions/'
 hero     : Solutions<br> That Drive<br> Your Business.
+cards    :
+ - demos
+ - talk
 ---
 ## EdgePoint Enables Your Workforce
 

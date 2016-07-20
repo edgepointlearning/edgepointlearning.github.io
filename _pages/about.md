@@ -2,6 +2,9 @@
 title    : About Us
 permalink: '/about/'
 hero     : We’re Committed<br> to Your Needs.
+cards    :
+ - demos
+ - newsletter
 ---
 ## EdgePoint Enables Successful Learning Programs
 

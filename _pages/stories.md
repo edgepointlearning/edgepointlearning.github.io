@@ -2,6 +2,9 @@
 title    : Success Stories
 permalink: '/stories/'
 hero     : Learning Success<br> is Business Impact.
+cards    :
+ - demos
+ - talk
 ---
 ## EdgePoint Enables Results
 

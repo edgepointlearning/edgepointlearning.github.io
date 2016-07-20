@@ -55,6 +55,9 @@ aside.card {
 
   @include breakpoint($breakpoint-ipad) {
     width: 49%;
+    &:only-child {
+      width: 100%;
+    }
   }
 
 }
