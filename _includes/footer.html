@@ -4,12 +4,9 @@
     <h4>Our Website</h4>
     <ul>
       <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-      <li><a href="{{ "/solutions/" | prepend: site.baseurl }}">Learning Solutions</a></li>
-      <li><a href="{{ "/success-stories/" | prepend: site.baseurl }}">Success Stories</a></li>
-      <li><a href="{{ "/blog/" | prepend: site.baseurl }}">Blog</a></li>
-      <li><a href="{{ "/about-us/" | prepend: site.baseurl }}">About Us</a></li>
-      <li><a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a></li>
-    </ul>
+      {% for menuitem in site.navItems %}
+        <li><a href="{{ menuitem.url  | prepend: site.baseurl }}">{{ menuitem.title }}</a></li>
+      {% endfor %}
     </ul>
   </aside>
 

@@ -43,9 +43,12 @@ sass         :
 # Collections
 collections  :
   stories    :
-    output   : false
+    output   : true
+    permalink: /stories/:path/
   forms      :
     output   : true
+    permalink: /forms/:path/
+
 
 
 defaults     :
