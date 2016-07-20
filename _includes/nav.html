@@ -3,7 +3,7 @@
   {% for menuitem in site.navItems %}
     {% if menuitem.url == page.dir %}
         {% assign class = "active" %}
-    {% elsif menuitem.url == '/blog/' and page.date %}
+    {% elsif menuitem.url == '/blog/' and page.layout == 'post' %}
         {% assign class = "active" %}
     {% else %}
         {% assign class = "normal" %}

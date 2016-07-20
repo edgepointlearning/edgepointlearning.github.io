@@ -7,7 +7,7 @@
     {% if page.title %}
       id="page-{{ page.title | slugify}}"
     {% endif %}
-    {% if page.date %}
+    {% if page.layout == 'post' %}
       class="post"
     {% endif %}
   >
