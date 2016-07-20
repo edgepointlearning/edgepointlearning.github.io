@@ -26,7 +26,7 @@ EdgePoint Enables our clients to rapidly develop and deploy best-fit learning pr
       <section>
         <h3>{{ solution.title }}</h3>
         <p>{{ story.snippet }}</p>
-        <p><a href='{{ story.link }}' class='button'>Read Story</a></p>
+        <p><a href='{{ story.url }}' class='button'>Read Story</a></p>
       </section>
     </article>
     {% endif %}

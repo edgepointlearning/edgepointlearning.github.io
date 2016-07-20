@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<main id="story">
+
+  {% include nav.html %}
+
+  <header id="hero">
+    <h1>{{ page.hero }}</h1>
+  </header>
+
+  <article id="content">
+
+    <h2>{{ page.why }}</h2>
+
+    {{ content }}
+
+  <aside id="difference">
+    <h3>The EdgePoint Learning Difference</h3>
+    <p>Since 2007, EdgePoint Learning has been committed to delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults.</p>
+  </aside>
+
+
+    {% if page.cards %}
+    <section id="cards">
+      {% for page_card in page.cards %}
+        {% for card in site.data.cards %}
+          {% if page_card == card.id %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+  </article>
+
+{% include footer.html %}
+
+</main>

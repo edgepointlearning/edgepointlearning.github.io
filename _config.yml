@@ -74,7 +74,7 @@ defaults     :
     scope    :
       type   : 'stories'
     values   :
-      layout : 'page'
+      layout : 'story'
       cards  :
        - demos
        - talk

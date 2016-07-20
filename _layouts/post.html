@@ -7,14 +7,14 @@ layout: default
 
   <article class="post">
 
+    <figure id="post_featured_image">
+      <img src="{{site.image_dir}}/{{ page.background }}" alt="blog post featured image">
+    </figure>
+
     <header id="post_header">
       <h1>{{ page.title }}</h1>
       <p>{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</p>
     </header>
-
-    <figure id="post_featured_image">
-      <img src="{{site.image_dir}}/{{ page.background }}" alt="blog post featured image">
-    </figure>
 
     <section id="post_content">
       {{ content }}
