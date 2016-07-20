@@ -9,7 +9,7 @@
   title  : Check Out Our Demos
   icon   : puzzle
   button : Explore
-  link   : '#'
+  link   : '/form/demos/'
   desc   : EdgePoint can convert any training materials into engaging, interactive eLearning. Explore our demos to see how we transform complex topics into relevant learning experiences.
 
 - id     : newsletter

@@ -27,9 +27,6 @@ article.solution {
     // flex-flow: column;
     // justify-content: space-between;
   }
-  a.button {
-    @include epl-button;
-  }
 
   @include breakpoint($breakpoint-5h) {
 

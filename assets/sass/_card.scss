@@ -29,10 +29,6 @@ aside.card {
     padding: 0;
   }
 
-  a.button {
-    @include epl-button;
-  }
-
   g, path {
     stroke: $epl-grey-1;
   }

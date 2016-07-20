@@ -44,19 +44,19 @@ sass         :
 collections  :
   stories    :
     output   : true
-    permalink: /stories/:path/
+    permalink: /story/:path/
   forms      :
     output   : true
-    permalink: /forms/:path/
+    permalink: /form/:path/
 
 
 
 defaults     :
   -
     scope    :
-      path   : "" # an empty string here means all files in the project
+      path   : '' # an empty string here means all files in the project
     values   :
-      layout : "page"
+      layout : 'page'
       cards  :
        - talk
        - solutions
@@ -64,26 +64,26 @@ defaults     :
        - newsletter
   -
     scope    :
-      type   : "posts" # the post collection
+      type   : 'posts' # the post collection
     values   :
-      layout : "post" # will default to the post layout
+      layout : 'post' # will default to the post layout
       cards  :
        - talk
        - newsletter
   -
     scope    :
-      type   : "stories"
+      type   : 'stories'
     values   :
-      layout : "page"
+      layout : 'page'
       cards  :
        - demos
        - talk
   -
     scope:
-      path: ""
       type: forms
     values:
-      layout: default
+      layout: 'form'
+      cards : no
 
 # Exclude
 exclude      : [bower_components, node_modules, bower.json, gulpfile.js, npm-shrinkwrap.json, package.json]
