@@ -4,6 +4,7 @@ hero: Thank You!
 cards:
  - talk
  - newsletter
+sitemap: false
 ---
 You’ll get an email shortly with a link to your demo.
 

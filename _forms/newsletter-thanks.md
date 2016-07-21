@@ -4,6 +4,7 @@ hero: Thank You!
 cards:
  - talk
  - demos
+sitemap: false
 ---
 You’ve successfully signed up for the EdgePoint Learning newsletter.
 

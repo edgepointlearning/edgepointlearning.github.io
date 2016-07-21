@@ -4,6 +4,7 @@ hero: Thank You!
 cards:
  - newsletter
  - demos
+sitemap: false
 ---
 We’ll be getting in touch with you very soon. We look forward to talking!
 
