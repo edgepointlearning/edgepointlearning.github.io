@@ -55,7 +55,10 @@ article#content {
   section#clients {
     overflow: hidden;
     height: 132px;
-
+    img {
+      width: 2240px;
+      height: 122px;
+    }
     figure {
       position: absolute;
       width: 5000px;
