@@ -20,6 +20,7 @@ layout: default
       {{ content }}
     </section>
 
+    {% if page.related != false %}
     <aside id="post_related">
       <h4>Related Posts</h4>
       <ul>
@@ -30,6 +31,7 @@ layout: default
         {% endfor %}
       </ul>
     </aside>
+    {% endif %}
 
   </article>
 
