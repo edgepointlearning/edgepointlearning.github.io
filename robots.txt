@@ -3,3 +3,6 @@
 # Deny crawling of all content
 User-agent: *
 Disallow: /
+Disallow: /assets
+Disallow: /css
+Disallow: /form
