@@ -2,7 +2,7 @@
 title: Instructor-led Training vs. eLearning
 author: Megan Dobransky
 background: 2015-05-15-be-more-passionate-about-work.jpg
-excerpt: Intructor-led or eLearning, find out what type of training is right for you
+excerpt: Intructor-led or eLearning, find out what type of training is right for you.
 ---
 ### In-person or web-based
 Instructor-led training (ILT) is the more traditional, formal version of training that takes place in a classroom in front of learners, while eLearning is web-based and can be taken at anytime from an internet-connected device.
