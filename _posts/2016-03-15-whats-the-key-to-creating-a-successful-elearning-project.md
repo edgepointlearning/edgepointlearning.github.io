@@ -1,7 +1,7 @@
 ---
 title: What's the Key to Creating a Successful eLearning Project?
 author: Megan Dobransky
-background: 2015-03-15-whats-the-key-to-creating-a-successful-elearning-project.jpg
+background: 2016-03-15-whats-the-key-to-creating-a-successful-elearning-project.jpg
 excerpt: What's the key to creating a successful eLearning project? Having a proven development process!
 ---
 What’s the key to creating a successful eLearning project? Having a proven development process!
@@ -22,4 +22,4 @@ The finalized course is reviewed and polished to perfection in the sixth step.
 
 In the final step, EdgePoint Learning delivers the completed course files for your company’s LMS, web server or mobile device. Our seven-step process ensures that, together, we’re creating effective eLearning solutions.
 
-[Contact us](#) to get your eLearning project started!
+[Contact us](/form/talk/) to get your eLearning project started!

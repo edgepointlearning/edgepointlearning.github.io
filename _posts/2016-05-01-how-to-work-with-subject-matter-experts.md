@@ -1,7 +1,7 @@
 ---
 title: How to Work with Subject Matter Experts
 author: Megan Dobransky
-background: 2015-05-01-how-to-work-with-subject-matter-experts.jpg
+background: 2015-06-01-how-to-work-with-subject-matter-experts.jpg
 excerpt: Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people. 
 ---
 We’re celebrating Throwback Thursday with a neat blog post from our archives. Check it out! Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people.
@@ -23,4 +23,4 @@ Don’t let that SME walk all over you! You’re just doing your job, too. Somet
 ### Be Prepared
 When you finally do get time with a SME, don’t waste it. Do your homework and have a set of thorough, meaningful questions. The trick is to get as much information as you need in one session.
 
-Need help creating content for your learning programs? [Contact us](#) to find out how EdgePoint’s team of instructional designers and SMEs can partner with you.  
+Need help creating content for your learning programs? [Contact us](/form/talk/) to find out how EdgePoint’s team of instructional designers and SMEs can partner with you.  

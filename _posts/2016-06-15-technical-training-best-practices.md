@@ -1,7 +1,7 @@
 ---
 title: Technical Training Best Practices
 author: Megan Dobransky
-background: 2015-06-15-technical-training-best-practices.jpg
+background: 2016-06-15-technical-training-best-practices.jpg
 excerpt: One of our specialties at EdgePoint Learning is technical training.
 ---
 One of our specialties at EdgePoint Learning is technical training. Here are a few best practices we’d like to share.
@@ -18,4 +18,4 @@ Use the subject matter experts at your disposal. They will be infinitely helpful
 ### Keep it up to date
 Technical training might need to be updated to reflect technology, component, version or essential information changes. Make sure your training always reflects the most up‐to-date material.
 
-Learn more about our [technical training options.](#)
+Learn more about our [technical training options.](/solutions/)

@@ -1,7 +1,7 @@
 ---
 title: Design Tips for Instructional Designers and Trainers
 author: Megan Dobransky
-background: 2015-02-01-design-tips-for-instructional-designers-and-trainers.jpg
+background: 2016-02-01-design-tips-for-instructional-designers-and-trainers.jpg
 excerpt: Design is sometimes overlooked when developing courses or curriculum, but it can be essential to getting and keeping the attention of learners.
 ---
 Design is sometimes overlooked when developing courses or curriculum, but it can be essential to getting and keeping the attention of learners. Here are a few resources to help you start thinking about your design, specifically color:

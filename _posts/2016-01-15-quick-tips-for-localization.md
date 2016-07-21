@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Localization
 author: Megan Dobransky
-background: 2015-01-15-quick-tips-for-localization.jpg
+background: 2016-01-15-quick-tips-for-localization.jpg
 excerpt: In this global economy where companies have offices all over the world, sometimes your courses will need to be translated and localized.
 ---
 In this global economy where companies have offices all over the world, sometimes your courses will need to be translated and localized. Here are a few tips to make that process easier.
@@ -18,4 +18,4 @@ When you’re localizing eLearning, remember to update more than just the text. 
 ### Know your software
 Make sure that your LMS or publishing software can handle other languages. You wouldn’t want to finish the translations and find out it won’t play. Through our partnerships, EdgePoint Learning provides translation and localization services that enable customers to deliver training in multiple languages.
 
-[Learn more](#) about our translation and localization services.
+[Learn more](/solutions/) about our translation and localization services.
