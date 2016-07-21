@@ -8,14 +8,12 @@ layout: default
   <header id="hero">
     {% if page.hero %}
       <h1><b>{{ page.hero }}</b></h1>
-    {% else %}
-      &nbsp;
     {% endif %}
   </header>
 
   <article id="content">
     <h2> {{ page.title }}</h2>
-    
+
     {{ content }}
 
     {% if page.cards %}
