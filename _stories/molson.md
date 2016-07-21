@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Social Media & Internal Communications Training
+excerpt : See how EdgePoint Learning introduced Molson Coors employees to the Company’s social media guidelines and tools.
 hero    : EdgePoint Enables<br><b> Social Media &<br> Internal Communications<br> Training</b>
 client  : Molson Coors
 industry: Food & Beverage

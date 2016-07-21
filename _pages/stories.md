@@ -1,5 +1,6 @@
 ---
 title    : Success Stories
+excerpt  : At EdgePoint, we believe learning program success means your training has a measurable impact on performance at the enterprise, team or individual level.
 permalink: '/stories/'
 hero     : Learning Success<br> is Business Impact.
 cards    :
@@ -10,7 +11,7 @@ cards    :
 
 <figure class="featuredIcon">{{ site.data.icons.rocket.svg }}</figure>
 
-At EdgePoint, we believe learning program success means your training has a measureable impact on performance at the enterprise, team or individual level.
+At EdgePoint, we believe learning program success means your training has a measurable impact on performance at the enterprise, team or individual level.
 
 EdgePoint Enables our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
 

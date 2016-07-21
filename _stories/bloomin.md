@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Management Training
+excerpt : See how EdgePoint Learning helped Bloomin’ Brands improve succession planning with video-based mentoring modules.
 hero    : EdgePoint Enables<br> <b>Management Training</b>
 client  : Bloomin’ Brands
 industry: Hospitality

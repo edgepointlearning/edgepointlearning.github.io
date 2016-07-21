@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Customer Service Training
+excerpt : Discover how EdgePoint Learning helped La Quinta train associates through interactive activities illustrating best practices for guest check-in and more.
 hero    : EdgePoint Enables<br><b> Customer Service Training</b>
 client  : La Quinta
 industry: Hospitality

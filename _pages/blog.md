@@ -1,5 +1,6 @@
 ---
 title    : Blog
+excerpt  : As learning experts, we are also voracious learners who never stop seeking knowledge.
 permalink: '/blog/'
 hero     : We Love<br> Learning!
 cards    : no

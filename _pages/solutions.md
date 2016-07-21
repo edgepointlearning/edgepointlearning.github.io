@@ -1,5 +1,6 @@
 ---
 title    : Solutions
+excerpt  : EdgePoint Learning works closely with you to understand you business and craft a targeted learning solution that works.
 permalink: '/solutions/'
 hero     : Solutions<br> That Drive<br> Your Business.
 cards    :

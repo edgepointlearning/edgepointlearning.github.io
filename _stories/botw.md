@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Compliance and Regulatory Training
+excerpt : Find out how EdgePoint Learning transformed 50 instructor-led training sessions into engaging learning experiences for Bank of the West.
 hero    : EdgePoint Enables<br><b> Compliance and<br> Regulatory Training</b>
 client  : Bank of the West
 industry: Banking

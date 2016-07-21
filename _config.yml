@@ -1,7 +1,7 @@
 # Site settings
 title        : EdgePoint Learning
-description  : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults, EdgePoint Enables.
-tagline      : Innovative Learning Solutions for Better Business Results
+description  : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value, EdgePoint Enables.
+
 url          : 'http://edgepointlearning.github.io'
 baseurl      : '' #/epl-optimized
 

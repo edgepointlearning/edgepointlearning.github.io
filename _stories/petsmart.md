@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Product Education & Customer Service Training
+excerpt : Learn how EdgePoint Learning increased product knowledge at PetSmart with a series of interactive modules.
 hero    : EdgePoint Enables<br><b> Product Education &<br> Customer Service Training</b>
 client  : PetSmart
 industry: Retail

@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables Onboarding & Core Value Training
+excerpt : Find out how EdgePoint Learning helped SWCA Environmental Consultants create a series of self-paced orientation programs for new employees.
 hero    : EdgePoint Enables<br><b> Onboarding &<br> Core Value Training</b>
 client  : SWCA Environmental Consultants
 industry: Environmental Consulting

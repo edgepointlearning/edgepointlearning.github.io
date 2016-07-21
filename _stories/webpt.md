@@ -1,5 +1,6 @@
 ---
 title   : EdgePoint Enables New Process & Systems Training
+excerpt : Discover how EdgePoint Learning helped WebPT reduce customer implementation time by 30% and support call volume by 86% with a software simulation.
 hero    : EdgePoint Enables<br><b> New Process &<br> Systems Training</b>
 client  : WebPT
 industry: Healthcare/Technology

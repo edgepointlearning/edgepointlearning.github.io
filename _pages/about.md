@@ -1,5 +1,6 @@
 ---
 title    : About Us
+excerpt  : Since 2007, EdgePoint Learning has been committed to delivering quality learning solutions that work
 permalink: '/about/'
 hero     : We’re Committed<br> to Your Needs.
 cards    :
