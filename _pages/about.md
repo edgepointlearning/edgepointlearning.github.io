@@ -26,4 +26,4 @@ Headquartered in Scottsdale, Arizona, our team has an average of 12 years of exp
 ### Let’s Talk
 We’re always happy to help you design creative solutions for your training needs. Even if you’re still in the early planning stages of your training initiative, we welcome the opportunity to talk with you, get creative and brainstorm some potential solutions.
 
-[Contact us](#) to see how we can work together.
+[Contact us](/form/talk/) to see how we can work together.

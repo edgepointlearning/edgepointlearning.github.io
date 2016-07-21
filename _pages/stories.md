@@ -14,7 +14,7 @@ At EdgePoint, we believe learning program success means your training has a meas
 
 EdgePoint Enables our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
 
-[Contact us](#) to talk about how we can work together.
+[Contact us](/form/talk/) to talk about how we can work together.
 
 <section id='solutions'>
   {% assign filtered_stories = site.stories | sort:'solution' %}

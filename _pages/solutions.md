@@ -20,7 +20,7 @@ EdgePoint has the expertise to develop learning solutions that will get the job 
 * On-the-job reference materials and job aid
 * Blended Learning Solutions
 
-[Contact us](#) to talk about how we can work together.
+[Contact us](/form/talk/) to talk about how we can work together.
 
 <section id="solutions">
   {% assign filtered_solutions = site.data.solutions | sort:'title' %}
