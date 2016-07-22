@@ -13,6 +13,7 @@
     font-weight: 100;
     text-align: center;
     color: $epl-grey-2;
+    width: 100%; //IE11 fix
   }
   b, #typed {
     font-weight: 300;

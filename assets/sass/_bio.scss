@@ -22,6 +22,9 @@ article.bio {
   figure {
     display: none;
   }
+  section {
+    width: 100%;
+  }
 
   // @include breakpoint($breakpoint-5h) {
   //   figure {
