@@ -19,29 +19,33 @@ article.bio {
     border-radius: 50%;
   }
 
-  @include breakpoint($breakpoint-5h) {
-    figure {
-      width: 25%;
-      img {
-        width: 80%;
-      }
-    }
-    section {
-      width: 75%;
-    }
+  figure {
+    display: none;
   }
 
+  // @include breakpoint($breakpoint-5h) {
+  //   figure {
+  //     width: 25%;
+  //     img {
+  //       width: 80%;
+  //     }
+  //   }
+  //   section {
+  //     width: 75%;
+  //   }
+  // }
+  //
   @include breakpoint($breakpoint-full) {
     width: 28%;
     flex-flow: column;
     justify-content: flex-start;
-
-    figure,
-    section {
-      width: 100%;
-    }
-    h4 {
-      margin-top: 1em;
-    }
+  //
+  //   figure,
+  //   section {
+  //     width: 100%;
+  //   }
+  //   h4 {
+  //     margin-top: 1em;
+  //   }
   }
 }
