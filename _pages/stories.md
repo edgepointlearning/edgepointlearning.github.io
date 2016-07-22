@@ -13,7 +13,7 @@ cards    :
 
 At EdgePoint, we believe learning program success means your training has a measurable impact on performance at the enterprise, team or individual level.
 
-EdgePoint Enables our clients to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
+EdgePoint Enables you to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.
 
 [Contact us](/form/talk/) to talk about how we can work together.
 
