@@ -38,13 +38,26 @@
 <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
 
 <!-- facebook -->
-<meta property="fb:app_id"       content="278156319211114">
-<meta property="og:url"          content="{{ page.url | prepend: site.url }}" >
-<meta property="og:title"        content="{% if page.title %}{% if page.title == "home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.title }}{% endif %}" >
-<meta property="og:site_name"    content="{{ site.title }}">
-<meta property="og:type"         content="website" /> <!-- og:type website or article blog -->
-<meta property="og:description"  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image"        content="{{ "/assets/images/touch/fbogimage02.jpg" | prepend: site.baseurl | prepend: site.url }}" >
+<meta property="fb:app_id"      content="278156319211114">
+<meta property="og:url"         content="{{ page.url | prepend: site.url }}" >
+<meta property="og:title"       content="{% if page.title %}{% if page.title == "home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.title }}{% endif %}" >
+<meta property="og:site_name"   content="{{ site.title }}">
+<meta property="og:type"        content="website" /> <!-- website | article | blog -->
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property ="og:image"      content="{{ "/assets/images/touch/fbogimage02.jpg" | prepend: site.baseurl | prepend: site.url }}" >
+
+<!-- twitter -->
+<meta name="twitter:card"        content="summary">
+<meta name="twitter:site"        content="@EdgePointLearn">
+<meta name="twitter:title"       content="{% if page.title %}{% if page.title == "home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image:src"   content="{{ "/assets/images/touch/mstile-144x144.png" | prepend: site.baseurl | prepend: site.url }}">
+<meta name="twitter:image:src"   content="EdgePoint Learning logo">
+
+<!--  g+ -->
+<!-- <meta itemprop="name" content=""> -->
+<!-- <meta itemprop="description" content=""> -->
+<!-- <meta itemprop="image" content=""> -->
 
 <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
