@@ -40,7 +40,7 @@
 <!-- facebook -->
 <meta property="fb:app_id"       content="278156319211114">
 <meta property="og:url"          content="{{ page.url | prepend: site.url }}" >
-<meta property="og:title"        content="{{ page.title }}" >
+<meta property="og:title"        content="{% if page.title %}{% if page.title == "home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.title }}{% endif %}" >
 <meta property="og:site_name"    content="{{ site.title }}">
 <meta property="og:type"         content="website" /> <!-- og:type website or article blog -->
 <meta property="og:description"  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
