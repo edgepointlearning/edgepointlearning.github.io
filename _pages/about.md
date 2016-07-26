@@ -6,6 +6,7 @@ hero     : We’re Committed<br> to Your Needs.
 cards    :
  - demos
  - newsletter
+ excerpt: Since 2007, EdgePoint Learning has been committed to delivering quality learning solutions that work--whatever your business needs.
 ---
 ## EdgePoint Enables Successful Learning Programs
 
