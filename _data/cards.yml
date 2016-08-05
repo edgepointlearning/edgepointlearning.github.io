@@ -39,3 +39,8 @@
   button : Talk
   link   : '/form/talk/'
   desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working. Contact us to see how we can work together.
+
+- id     : sampler
+  title  : Learn More
+  icon   : plane
+  desc   : "<p>EdgePoint Learning is ready to enable your next Training or Learning & Development initiative. Connect with us today, and we’ll quickly gain an understanding of your business objectives and desired outcomes. Together, we will craft an exceptional custom solution.</p><p>Contact us at <a href='mailto:info@edgepointlearning.com'>info@edgepointlearning.com</a> or +1 (480) 219-0052.</p>"

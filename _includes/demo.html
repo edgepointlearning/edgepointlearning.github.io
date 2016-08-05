@@ -1,0 +1,24 @@
+<div class="demo">
+
+  <h2>{{ demo.title }}</h2>
+
+  {% if page.hideSolutions == false %}
+    <p class="solutions">
+      {% for demo_solution in demo.solution %}
+        {% assign solution_list = site.data.solutions | where:"id",demo_solution %}
+        {% for solution in solution_list %}
+          <span>{{ solution.title }}</span>
+        {% endfor %}
+      {% endfor %}
+    </p>
+  {% endif %}
+
+  <p>{{ demo.content }}</p>
+
+  <p>
+    <a class='button' href="{{ demo.link }}" target="_blank">{% if demo.linktext %}{{ demo.linktext }}{% else %}View demo{% endif %}</a>
+    {% if demo.link2 %}<a class='button' href="{{ demo.link2 }}" target="_blank">{% if demo.link2text %}{{ demo.link2text }}{% else %}View demo{% endif %}</a>{% endif %}
+  </p>
+
+
+</div>

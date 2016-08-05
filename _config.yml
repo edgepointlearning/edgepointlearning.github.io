@@ -48,6 +48,11 @@ collections  :
   forms      :
     output   : true
     permalink: /form/:path/
+  demos      :
+    output   : false
+  samples    :
+    output   : true
+    permalink: /sample/:path/
 
 defaults     :
   -
@@ -77,11 +82,22 @@ defaults     :
        - demos
        - talk
   -
-    scope:
-      type: forms
-    values:
-      layout: 'form'
-      cards : no
+    scope    :
+      type   : forms
+    values   :
+      layout : 'form'
+      cards  : no
+      sitemap: false
+  -
+    scope     :
+      path    : "_samples"
+    values    :
+      layout  : "sampler"
+      sitemap: false
+      cards  :
+       - sampler
+
+
 
 # generate sitemap (add 'sitemap: false' to frontmatter of pages to hide)
 gems:
