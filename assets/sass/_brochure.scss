@@ -1,0 +1,16 @@
+body#page-brochure aside.card {
+  width: 100%;
+  margin: 4em 0;
+  section {
+    justify-content: flex-start;
+  }
+  figure {
+    justify-content: center;
+  }
+  svg {
+    max-width: 140px;
+  }
+  p {
+    font-size: ms(0);
+  }
+}

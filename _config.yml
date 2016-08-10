@@ -102,6 +102,7 @@ defaults     :
 # generate sitemap (add 'sitemap: false' to frontmatter of pages to hide)
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Exclude
 exclude      : [bower_components, node_modules, bower.json, gulpfile.js, npm-shrinkwrap.json, package.json, README.md]
