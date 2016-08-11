@@ -1,3 +1,26 @@
+body#page-brochure h1 {
+  font-size: ms(4);
+  line-height: 1.3;
+  @include serifa;
+  color: $epl-grey-0;
+  font-weight: 400;
+  margin: 2em 0 1em;
+}
+
+body#page-brochure h2,
+body#page-brochure h3 {
+  @include serifa;
+  font-weight: 500;
+}
+body#page-brochure h3 {
+  margin: 1.5em 0 0.2em;
+}
+
+body#page-brochure p.statement {
+  font-size: ms(1);
+  margin-top: 0;
+}
+
 body#page-brochure aside.card {
   width: 100%;
   margin: 4em 0;
@@ -11,6 +34,19 @@ body#page-brochure aside.card {
     max-width: 140px;
   }
   p {
-    font-size: ms(0);
+    font-size: 1em;
   }
+  h3 {
+    margin: 0;
+  }
+}
+
+body#page-brochure div.download {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+h2 + p,
+h3 + p {
+  margin-top: 0;
 }
