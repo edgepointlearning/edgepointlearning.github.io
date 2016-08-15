@@ -44,3 +44,11 @@
   title  : Learn More
   icon   : plane
   desc   : "<p>EdgePoint Learning is ready to enable your next Training or Learning & Development initiative. Connect with us today, and we’ll quickly gain an understanding of your business objectives and desired outcomes. Together, we will craft an exceptional custom solution.</p><p>Contact us at <a href='mailto:info@edgepointlearning.com'>info@edgepointlearning.com</a> or +1 (480) 219-0052.</p>"
+
+- id     : brochure-AK
+  icon   : rocket
+  desc   : '<p><em>"EdgePoint understands our uniqueness and works with us like others can’t. Their responsiveness is second to none. I have yet to find another provider that is as reliable, competent, ethical, trustworthy and economically competitive as EdgePoint Learning."</em></p><p><strong>Todd Brocious<br>State of Alaska Department of Education and Early Development</strong></p>'
+
+- id     : brochure-BOTW
+  icon   : bullseye
+  desc   : '<p><em>"We’re planning for tremendous growth and with that growth, we’re going to need tremendous training. What I have found to be unique about working with EdgePoint is that they actually care about the learners."</em></p><p><strong>Dr. Kristin Jacobs<br>Vice President and eLearning Manager, Bank of the West</strong></p>'

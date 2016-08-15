@@ -17,38 +17,36 @@ article.bio {
 
   img {
     border-radius: 50%;
+    border: 1px solid $epl-grey-2;
   }
 
-  figure {
-    display: none;
-  }
   section {
     width: 100%;
   }
 
-  // @include breakpoint($breakpoint-5h) {
-  //   figure {
-  //     width: 25%;
-  //     img {
-  //       width: 80%;
-  //     }
-  //   }
-  //   section {
-  //     width: 75%;
-  //   }
-  // }
-  //
+  @include breakpoint($breakpoint-5h) {
+    figure {
+      width: 25%;
+      img {
+        width: 80%;
+      }
+    }
+    section {
+      width: 75%;
+    }
+  }
+
   @include breakpoint($breakpoint-full) {
     width: 28%;
     flex-flow: column;
     justify-content: flex-start;
-  //
-  //   figure,
-  //   section {
-  //     width: 100%;
-  //   }
-  //   h4 {
-  //     margin-top: 1em;
-  //   }
+
+    figure,
+    section {
+      width: 100%;
+    }
+    h4 {
+      margin-top: 1em;
+    }
   }
 }
