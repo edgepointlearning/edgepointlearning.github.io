@@ -12,13 +12,13 @@ hero      : LEARNING SOLUTIONS<br><b>BUSINESS RESULTS</b>
 On every project, EdgePoint Learning serves as a natural extension of your organization, delivering the same commitment to excellence and attention to detail that you would expect from a trusted team member. Our proven engagement model, learning and development expertise, and project management acumen ensure your projects stay aligned with your business objectives and on track – enabling you to focus on more strategic initiatives with confidence. We are proud to enable organizations such as Avis Budget Group, Bank of the West, BNP Paribas, E&J Gallo, Girl Scouts of America, Hershey Resorts & Entertainment, IEEE, NYSE, PetSmart, State of Alaska, Synopsys, WebPT, and more, helping them stay ahead of the competition by creating effective, best-fit Training and Learning & Development programs.
 
 {% assign card = (site.data.cards | where: "id","brochure-AK" | first) %}
-{% include card.html card=card %}
+{% include card.html %}
 
 ## EdgePoint Enables Great Learning Experiences
 At EdgePoint, we believe that learning program success is consistently grounded in strong business alignment, thoughtful, learner-centric program design, and highly transparent, collaborative development processes.
 
 {% assign card = (site.data.cards | where: "id","brochure-BOTW" | first) %}
-{% include card.html card=card %}
+{% include card.html %}
 
 
 ### Listen First
@@ -34,14 +34,6 @@ Drawing on our years of experience in successfully delivering Training and Learn
 In addition to accommodating change throughout the duration of a project, EdgePoint understands our clients’ need to maintain or update the finished products. We develop all content and courseware with non-proprietary tools, giving you the option to maintain control of future updates and changes. At EdgePoint, our customers return to us because we won’t lock them into an inflexible solution or force them to accept an end product that barely meets their requirements. We adapt and iterate, allowing our clients to achieve on-going positive outcomes through outstanding instruction that may be easily updated or modified to maintain efficacy and relevance.
 
 {% assign card = (site.data.cards | where: "id","sampler" | first) %}
-{% include card.html card=card %}
+{% include card.html %}
 
-<div class="download">
-  <a class="download-text"
-    target="_blank"
-    type="application/octet-stream"
-    href="assets/EdgePointLearningGeneralInformationBrochure.pdf"
-    download="EdgePointLearningGeneralInformationBrochure.pdf" >
-      Download this page as a pdf.
-  </a>
-</div>
+{% include download.html%}
