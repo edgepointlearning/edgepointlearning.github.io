@@ -23,7 +23,7 @@ body#page-brochure aside.card {
     font-size: 1em;
   }
 }
-body#page-brochure #card_sampler {
+#card_sampler {
   h4 {
     @include serifa;
     @include breakpoint($breakpoint-5h) {

@@ -12,7 +12,9 @@ layout: default
     {{ content }}
 
     <section id="demos">
+
       {% if page.showAllDemos %}
+
         {% assign sorted_demos = (site.demos | sort: 'title') %}
         {% for demo in sorted_demos %}
           {% include demo.html demo=demo %}
@@ -25,22 +27,23 @@ layout: default
           {% include demo.html demo=demo %}
         {% endfor %}
 
-      {% endif %}
-      {% if page.demos %}
+      {% elsif page.demos %}
 
         {% for page_demo in page.demos %}
+        {% assign page_demo_path = page_demo | prepend: '/demos/' %}
           {% for demo in site.demos %}
-            {% if page_demo == demo.name %}
+            {% if page_demo_path  == demo.id %}
               {% include demo.html demo=demo %}
             {% endif %}
           {% endfor %}
         {% endfor %}
 
       {% endif %}
+
     </section>
 
-
     {% if page.cards %}
+
     <section id="cards">
       {% for page_card in page.cards %}
         {% for card in site.data.cards %}
@@ -50,6 +53,7 @@ layout: default
         {% endfor %}
       {% endfor %}
     </section>
+
     {% endif %}
 
 
