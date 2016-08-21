@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<main id="sampler">
+  {% include nav.html %}
+
+  <header id="hero">
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <article id="content">
+    {{ content }}
+
+    <section id="demos">
+
+      {% if page.showAllDemos %}
+
+        {% assign sorted_demos = (site.demos | sort: 'title') %}
+        {% for demo in sorted_demos %}
+          {% include demo.html demo=demo %}
+        {% endfor %}
+
+      {% elsif page.solution %}
+
+        {% assign filtered_demos = (site.demos | where: "solution",page.solution | sort: 'title') %}
+        {% for demo in filtered_demos %}
+          {% include demo.html demo=demo %}
+        {% endfor %}
+
+      {% elsif page.demos %}
+
+        {% for page_demo in page.demos %}
+        {% assign page_demo_path = page_demo | prepend: '/demos/' %}
+          {% for demo in site.demos %}
+            {% if page_demo_path  == demo.id %}
+              {% include demo.html demo=demo %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+      {% endif %}
+
+    </section>
+
+    {% if page.cards %}
+
+    <section id="cards">
+      {% for page_card in page.cards %}
+        {% for card in site.data.cards %}
+          {% if page_card == card.id %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </section>
+
+    {% endif %}
+
+
+  </article>
+
+  {% include footer.html %}
+
+</main>

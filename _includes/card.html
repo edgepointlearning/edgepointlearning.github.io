@@ -1,9 +1,9 @@
-<aside class='card' id='card_{{ card.name }}'>
+<aside class='card' id='card_{{ card.id }}'>
 
   <section>
     <h4>{{ card.title }}</h4>
     <p>{{ card.desc }}</p>
-    <p><a href='{{ card.link }}' class='button'>{{ card.button }}</a></p>
+    {% if card.link %}<p><a href='{{ card.link }}' class='button'>{{ card.button }}</a></p>{% endif %}
   </section>
 
   <figure>

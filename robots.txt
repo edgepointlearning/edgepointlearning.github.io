@@ -3,3 +3,4 @@
 # Deny crawling of all content
 User-agent: *
 Disallow: /form
+Disallow: /sample
