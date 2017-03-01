@@ -1,6 +1,7 @@
 ---
 title: A Sample Post
 author: Tyler Campbell
+#permalink: /2016/07/21/Instructor-led-Training-vs-eLearning/
 background: 2014-12-15-when-to-outsource-your-elearning.jpg
 excerpt: Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 ---
