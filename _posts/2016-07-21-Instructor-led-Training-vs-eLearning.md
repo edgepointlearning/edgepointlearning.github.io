@@ -67,7 +67,6 @@ It's specifically because of all those bells and whistles that eLearning can los
 Just like instructor-led training, eLearning courses must focus on the core principles of instructional design to accurately and concisely communicate information to your employees. No number of mobile apps, interactive videos, or VR experiences is going to change that.
 
 ### eLearning vs. traditional learning
-
 ![elearning vs traditional learning infographic](/assets/images/blog/vs-infographic.png){:class="img-responsive"}
 
 ### The best of both worlds: Blended learning
