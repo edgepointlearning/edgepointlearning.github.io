@@ -45,7 +45,7 @@ Since it's delivered online, eLearning solutions can include videos, tests, acti
 *  Personalized learning paths
 
 #### Advantages of eLearning
-eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage (as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015)){:target="_blank"}.
+eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage (as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015){:target="_blank"}.
 
 The advantages of eLearning include:
 
