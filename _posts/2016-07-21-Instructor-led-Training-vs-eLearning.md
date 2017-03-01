@@ -97,4 +97,3 @@ To read more about how to create a learning program for your company, check out 
 Note: This post was originally published in July 2016, but since it had so much interest, we've since added information to it.
 
 Learn more about how [EdgePoint Learning can help](/solutions/) you determine which style is best for you and your organization.
->>>>>>> parent of 36976e9... VS Blog Entry Update plus Infographic
