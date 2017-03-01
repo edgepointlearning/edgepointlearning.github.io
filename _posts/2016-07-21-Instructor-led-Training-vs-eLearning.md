@@ -21,7 +21,7 @@ One of the greatest advantages of instructor-led training is that employees have
 
 Instructor-led, or traditional, classes can also break off into brainstorming or role-playing groups. Employees get a chance to learn from each other. Most importantly, for complex or highly collaborative subjects, instructor-led training provides the direct immersion experience employees need to learn the material.
 
-Other indirect benefits stem from this. Since employees are in a classroom setting, their attention is more likely engaged with the material. And, as [PhoenixTS](https://phoenixts.com/blog/online-training-vs-instructor-led-training/) reports, there's an added value and sense of worth for in-person training, especially among healthcare and customer service employees.
+Other indirect benefits stem from this. Since employees are in a classroom setting, their attention is more likely engaged with the material. And, as [PhoenixTS](https://phoenixts.com/blog/online-training-vs-instructor-led-training/){:target="blank"} reports, there's an added value and sense of worth for in-person training, especially among healthcare and customer service employees.
 
 #### Challenges of ILT
 Challenges do exist with instructor-led training. eLearning offers solutions to many of these challenges, including:
@@ -34,7 +34,7 @@ Challenges do exist with instructor-led training. eLearning offers solutions to 
 #### What is eLearning?
 eLearning, on the other hand, offers both opportunities and different challenges for your training program. eLearning refers to any training that takes place online, any where and any time.
 
-Since it's delivered online, eLearning solutions can include videos, tests, activities, and images in the training. Upcoming [eLearning technologies](https://elearningindustry.com/elearning-trends-and-predictions-2017) promise even more immersion for your employees, including:
+Since it's delivered online, eLearning solutions can include videos, tests, activities, and images in the training. Upcoming [eLearning technologies](https://elearningindustry.com/elearning-trends-and-predictions-2017){:target="blank"} promise even more immersion for your employees, including:
 
 *  Interactive videos
 *  Mobile learning
@@ -43,7 +43,7 @@ Since it's delivered online, eLearning solutions can include videos, tests, acti
 *  Personalized learning paths
 
 #### Advantages of eLearning
-eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage (as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015)
+eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015){:target="blank"}
 
 The advantages of eLearning include:
 
@@ -71,11 +71,11 @@ Just like instructor-led training, eLearning courses must focus on the core prin
 ![elearning vs traditional learning infographic](/assets/images/blog/vs-infographic.svg){:class="img-responsive"}
 
 ### The best of both worlds: Blended learning
-There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf)of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
+There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf){:target="blank"}of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
 
 How does blended learning work?
 
-Take for example, [Jiffy Lube](https://trainingmag.com/trgmag-article/online-vs-class-success), who structured their Leadership Training program into two sections: instructor-led classes that focused on the collaborative elements of leadership, and eLearning courses for straightforward topics like financials and time management.
+Take for example, [Jiffy Lube](https://trainingmag.com/trgmag-article/online-vs-class-success){:target="blank"}, who structured their Leadership Training program into two sections: instructor-led classes that focused on the collaborative elements of leadership, and eLearning courses for straightforward topics like financials and time management.
 
 After providing this blending learning experience, Jiffy Lube saved over eight hours per employee.
 
