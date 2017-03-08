@@ -1,38 +1,7 @@
 article#post {
-  figure#post_featured_image img {
+
+  #post_featured_image img {
     width: 100%;
   }
 
-  header {
-    margin-bottom: 2em;
-    h1 {
-      padding-bottom: 0;
-      font-size: map-get($type-scale-normal, 'h2');
-      @include breakpoint($breakpoint-5h) {
-        font-size: map-get($type-scale-5h, 'h2');
-      }
-    }
-    #share_block {
-      span {
-        margin-right: 0.5em;
-      }
-      a {
-        margin-right: 1em;
-        &:hover {
-          text-decoration: none;
-        }
-      }
-      svg {
-        vertical-align: bottom;
-        display: inline-block;
-
-        height: 28px;
-        border-radius: 50%;
-        transition: all 0.3s;
-        &:hover {
-          border-radius: .2em;
-        }
-      }
-    }
-  }
 }

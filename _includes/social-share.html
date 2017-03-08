@@ -3,38 +3,36 @@
 {% assign share_title = page.title %}
 {% assign share_excerpt = page.excerpt %}
 
-<div id="share_block">
-  <a
-   href="https://facebook.com/sharer/sharer.php?u={{ share_url }}"
-   class="js-social-share"
-   target="_blank">
-    {{ site.data.icons.social-facebook.svg }}
-  </a>
+<a
+ href="https://facebook.com/sharer/sharer.php?u={{ share_url }}"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-facebook.svg }}
+</a>
 
-  <a
-   href="https://twitter.com/intent/tweet/?text='{{ share_title }}'&amp;url={{ share_url }}"
-   class="js-social-share"
-   target="_blank">
-    {{ site.data.icons.social-twitter.svg }}
-  </a>
+<a
+ href="https://twitter.com/intent/tweet/?text='{{ share_title }}'&amp;url={{ share_url }}"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-twitter.svg }}
+</a>
 
-  <a
-   href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
-   class="js-social-share"
-   target="_blank">
-    {{ site.data.icons.social-linkedin.svg }}
-  </a>
+<a
+ href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-linkedin.svg }}
+</a>
 
-  <a
-   href="https://plus.google.com/share?url={{ share_url }}"
-   class="js-social-share"
-   target="_blank">
-    {{ site.data.icons.social-google.svg }}
-  </a>
+<a
+ href="https://plus.google.com/share?url={{ share_url }}"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-google.svg }}
+</a>
 
-  <a
-   href="mailto:?subject={{ page_title}}&amp;body={{ page_url }}"
-   target="_self">
-   {{ site.data.icons.social-email.svg }}
-  </a>
-</div>
+<a
+ href="mailto:?subject={{ page_title}}&amp;body={{ page_url }}"
+ target="_self">
+ {{ site.data.icons.social-email.svg }}
+</a>
