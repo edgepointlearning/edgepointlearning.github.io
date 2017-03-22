@@ -72,7 +72,7 @@ Just like instructor-led training, eLearning courses must focus on the core prin
 ![elearning vs traditional learning infographic](/assets/images/blog/elearning-vs-traditional-learning-infographic.svg){:class="img-responsive"}
 
 ### The best of both worlds: Blended learning
-There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf){:target="_blank"}of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
+There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf){:target="_blank"} of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
 
 How does blended learning work?
 
