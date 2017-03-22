@@ -5,6 +5,7 @@
 
 <a
  href="https://facebook.com/sharer/sharer.php?u={{ share_url }}"
+ title="Share to Facebook"
  class="js-social-share"
  target="_blank">
   {{ site.data.icons.social-facebook.svg }}
@@ -12,6 +13,7 @@
 
 <a
  href="https://twitter.com/intent/tweet/?text='{{ share_title }}'&amp;url={{ share_url }}"
+ title="Share to Twitter"
  class="js-social-share"
  target="_blank">
   {{ site.data.icons.social-twitter.svg }}
@@ -19,6 +21,7 @@
 
 <a
  href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
+ title="Share to LinkedIn"
  class="js-social-share"
  target="_blank">
   {{ site.data.icons.social-linkedin.svg }}
@@ -26,6 +29,7 @@
 
 <a
  href="https://plus.google.com/share?url={{ share_url }}"
+ title="Share to Google+"
  class="js-social-share"
  target="_blank">
   {{ site.data.icons.social-google.svg }}
@@ -33,6 +37,7 @@
 
 <a
  href="mailto:?subject={{ page_title}}&amp;body={{ page_url }}"
+ title="Share via Email"
  target="_self">
  {{ site.data.icons.social-email.svg }}
 </a>
