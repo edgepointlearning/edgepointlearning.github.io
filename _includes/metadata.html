@@ -44,14 +44,14 @@
 <meta property="og:site_name"   content="{{ site.title }}">
 <meta property="og:type"        content="website" /> <!-- website | article | blog -->
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<meta property ="og:image"      content="{{ "/assets/images/touch/fbogimage02.jpg" | prepend: site.baseurl | prepend: site.url }}" >
+<meta property ="og:image"      content="{% if page.background %}{{ page.background  | prepend: site.image_dir | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/touch/fbogimage02.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
 <!-- twitter -->
 <meta name="twitter:card"        content="summary">
 <meta name="twitter:site"        content="@EdgePointLearn">
 <meta name="twitter:title"       content="{% if page.title %}{% if page.title == "home" %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:image"       content="{{ "/assets/images/touch/mstile-144x144.png?0001" | prepend: site.baseurl | prepend: site.url }}">
+<meta name="twitter:image"       content="{% if page.background %}{{ page.background  | prepend: site.image_dir | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/touch/mstile-144x144.png?0001" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
 <!--  g+ -->
 <!-- <meta itemprop="name" content=""> -->

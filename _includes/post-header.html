@@ -1,0 +1,8 @@
+<div id="post-header" style="background-image: url({{site.image_dir}}/{{ page.background }});">
+    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <div id="ph2">
+      <div id="ph3">{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</div>
+      <div id="ph4" class="social-sharing">{% include social-sharing.html %}</div>
+      <!--  post header -->
+    </div>
+</div>
