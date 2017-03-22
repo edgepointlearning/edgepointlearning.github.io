@@ -7,14 +7,17 @@ layout: default
 
   <article id="post">
 
-    {% include post-header.html %}
+    <figure id="post_featured_image">
+      <img src="{{site.image_dir}}/{{ page.background }}" alt="blog post featured image">
+    </figure>
+
+    <header id="post_header">
+      <h1>{{ page.title }}</h1>
+      <p>{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: '%B %d, %Y' }}</p>
+    </header>
 
     <section id="post_content">
       {{ content }}
-    </section>
-
-    <section id="share-footer">
-      <div class="social-sharing"><a>Share this: </a>{% include social-sharing.html %}</div>
     </section>
 
     {% if page.related != false %}
@@ -47,28 +50,3 @@ layout: default
   {% include footer.html %}
 
 </main>
-<script>
-function windowPopup(url, width, height) {
-  // Calculate the position of the popup so
-  // it’s centered on the screen.
-  var left = (screen.width / 2) - (width / 2),
-      top = (screen.height / 2) - (height / 2);
-  console.log("yo");
-  window.open(
-    url,
-    "",
-    "menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width=" + width + ",height=" + height + ",top=" + top + ",left=" + left
-  );
-}
-
-var jsSocialShares = document.querySelectorAll(".js-social-share");
-if (jsSocialShares) {
-  [].forEach.call(jsSocialShares, function(anchor) {
-    anchor.addEventListener("click", function(e) {
-      e.preventDefault();
-
-      windowPopup(this.href, 500, 300);
-    });
-  });
-}
-</script>
