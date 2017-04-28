@@ -3,6 +3,7 @@ title    : A CUSTOM LIST
 hideSolutions: false #hide each demo's solution?
 
 demos: #show specific demos
+ - suicice-prevention
  - at-home-physical-therapy
  - bloodborne-pathogens
  - effective-feedback
