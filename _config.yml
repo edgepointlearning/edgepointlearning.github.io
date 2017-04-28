@@ -50,7 +50,7 @@ collections  :
     permalink: /form/:path/
   demos      :
     output   : false
-  samples    :
+  demo-bundles:
     output   : true
     permalink: /sample/:path/
 
@@ -90,7 +90,7 @@ defaults     :
       sitemap: false
   -
     scope     :
-      path    : "_samples"
+      path    : "_demo-bundles"
     values    :
       layout  : "sampler"
       sitemap: false
