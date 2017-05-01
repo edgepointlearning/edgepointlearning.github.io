@@ -101,12 +101,9 @@ A few leading authoring tools provide free options for creating your own custom 
 +  [Udutu](http://www.udutu.com/){:target="_blank"}: Access templates, assessments, interactions, and SCORM conversion options on their free eLearning platform
 
 Find even more reviews and information on eLearning authoring tools at eLearning Industry. If you want to pay extra for more advanced features, Articulate 360 and Adobe Captivate are the industry-leading authoring tools.
-Finally, for some, DIYing your own eLearning course won't be worth the time or effort. If you're not sure if you have the time or expertise to create your own eLearning course, check out our post on the best times to outsource your eLearning.
 
+Finally, for some, DIYing your own eLearning course won't be worth the time or effort. If you're not sure if you have the time or expertise to create your own eLearning course, check out our post on the best times to [outsource your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/).
 
-
-
-An eLearning consultant can help you break down your specific needs and suggest options that would work best for you. Contact [EdgePoint Learning](http://www.edgepointlearning.com/solutions/) to help you determine which style of instruction is best for you and your organization.
 
 To read more about how to create a learning program for your company, check out our related posts on the topic:
 
