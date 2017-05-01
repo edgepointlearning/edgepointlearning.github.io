@@ -110,7 +110,7 @@ An eLearning consultant can help you break down your specific needs and suggest 
 
 To read more about how to create a learning program for your company, check out our related posts on the topic:
 
-*  [Instructor-led Training vs. eLearning](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)
+*  [Instructor-led Training vs eLearning](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)
 *  [What's the Key to Creating a Successful eLearning Project?](http://www.edgepointlearning.com/2016/03/15/whats-the-key-to-creating-a-successful-elearning-project/)
 *  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
 *  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)
