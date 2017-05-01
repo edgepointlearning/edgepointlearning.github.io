@@ -92,13 +92,11 @@ Finally, some topics are readily accessible through required readings. Case stud
 
 Case studies are a great option for focused topics, but more complex topics will likely require more advanced types of employee training.
 
-![Types of Employee Training](/assets/images/blog/types-of-employee-training.svg){:class="img-responsive"}
+![Types of Employee Training](/assets/images/blog/types-of-employee-training.svg)
 
 <b>If you match the type of training to the topic, you can create rich learning experiences for your employees. Click on the button below to learn more about the types of employee training EdgePoint can help create:</b>
 
-<form method="get" action="/solutions/">
-    <button type="submit">Learning Solutions</button>
-</form>
+[Learning Solutions](/solutions/){:class="button"}
 
 To read more about how to create a learning program for your company, check out our related posts on the topic:
 

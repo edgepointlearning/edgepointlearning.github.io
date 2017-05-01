@@ -5,6 +5,10 @@ background: 2014-12-15-when-to-outsource-your-elearning.jpg
 excerpt: Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 ---
 
+![placeholder](http://placehold.it/800x200 "Large example image")
+
+![placeholder](http://placehold.it/800x200 "Large example image"){:class="img-responsive"}
+
 Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 
 # Markdown (Header 1)

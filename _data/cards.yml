@@ -13,11 +13,11 @@
   desc   : EdgePoint can convert any training materials into engaging, interactive eLearning. Explore our demos to see how we transform complex topics into relevant learning experiences.
 
 - id     : newsletter
-  title  : Subscribe to Our Newsletter!
+  title  : Stay Informed!
   icon   : plane
   button : Subscribe
   link   : '/form/newsletter/'
-  desc   : Keep up to date on learning industry news and the latest EdgePoint offerings with our newsletter.
+  desc   : Keep up to date on learning industry news and the latest EdgePoint offerings.
 
 - id     : solutions
   title  : Solutions That Drive Your Business

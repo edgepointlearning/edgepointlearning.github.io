@@ -69,7 +69,7 @@ It's specifically because of all those bells and whistles that eLearning can los
 Just like instructor-led training, eLearning courses must focus on the core principles of instructional design to accurately and concisely communicate information to your employees. No number of mobile apps, interactive videos, or VR experiences is going to change that.
 
 ### eLearning vs. traditional learning
-![elearning vs traditional learning infographic](/assets/images/blog/elearning-vs-traditional-learning-infographic.svg){:class="img-responsive"}
+![elearning vs traditional learning infographic](/assets/images/blog/elearning-vs-traditional-learning-infographic.svg)
 
 ### The best of both worlds: Blended learning
 There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf){:target="_blank"} of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
