@@ -29,13 +29,13 @@ Use this step to also identify what materials you're missing and want to create.
 Use those materials to create a script based on the requirements of your project, and the topics it needs to contain. Make sure it matches the expectations you set for interactions, assessments, and employee time in seat.
 Before moving into development steps, ensure your SMEs or other company stakeholders have approved the content.
 
-#### Define the visual look-and-feel of your project
+#### Step 4: Define the visual look-and-feel of your project
 This task can often take place while you have your subject matter expert (SME) or writer creating the course script. Visual tasks include defining which images, colors, fonts, movements, or animations you'll use to create a course that looks cohesive.
 
-#### Develop materials for your course
+#### Step 5: Develop materials for your course
 At this point, you've gathered all of the elements you'll need to create eLearning content for your team. Now it's time to develop those items—the meat of your project. Record any audio portions. Create graphics. Use screen capture software to create videos.
 
-#### Assemble into one cohesive course
+#### Step 6: Assemble into one cohesive course
 And then, bring those items together. Some free software programs can help you bring all your disparate elements into one cohesive course.
 After this step, you'll also send your new course out to SMEs or other company stakeholders to review, suggest any changes, and ultimately approve. Once that's done, you'll move your course to an [LMS or cloud platform](https://elearningindustry.com/subjects/elearning-software/learning-management-systems-lms).
 
@@ -111,5 +111,3 @@ To read more about how to create a learning program for your company, check out 
 *  [What's the Key to Creating a Successful eLearning Project?](http://www.edgepointlearning.com/2016/03/15/whats-the-key-to-creating-a-successful-elearning-project/)
 *  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
 *  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)
-
-Note: This post was originally published in July 2016, but since it had so much interest, we've since added information to it.
