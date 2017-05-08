@@ -3,6 +3,7 @@ title: When to Outsource Your eLearning
 author: Megan Dobransky
 background: 2014-12-15-when-to-outsource-your-elearning.jpg
 excerpt: Even if you have the best instructional design and training team, you'll sometimes need to outsource your eLearning. But how do you know?
+redirect-from: "/2015/12/15/when-to-outsource-your-elearning/"
 ---
 Even if you have the best instructional design and training team, you’ll sometimes need to outsource your eLearning. But how do you know?
 
@@ -15,4 +16,4 @@ Say you have a time-sensitive project that needs to get done as soon as possible
 ### One-offs
 If you get a requirement that’s not necessarily part of your normal routine, such as a highly produced video or user interface design, you will probably want to take that project to an expert who can get it done quickly and correctly. Or if your one-off project is just clogging up the normal process, it might be a good idea to outsource it.
 
-[Click here](/solutions/) to learn more about outsourcing your eLearning.  
+[Click here](/solutions/) to learn more about outsourcing your eLearning.

@@ -1,11 +1,11 @@
 {
-  "name": "EPL Website",
+  "name": "epl-website",
   "version": "2.0.0",
   "dependencies": {
-    "browser-sync": "latest",
-    "gulp": "latest",
-    "gulp-shell": "latest",
-    "lodash": "latest"
+    "browser-sync": "2.13.0",
+    "gulp": "3.9.1",
+    "gulp-shell": "0.5.2",
+    "lodash": "4.13.1"
   },
   "private": true
 }
