@@ -3,6 +3,7 @@ title: Technical Training Best Practices
 author: Megan Dobransky
 background: 2015-06-15-technical-training-best-practices.jpg
 excerpt: One of our specialties at EdgePoint Learning is technical training.
+redirect-from: "/2016/06/15/technical-training-best-practices/"
 ---
 One of our specialties at EdgePoint Learning is technical training. Here are a few best practices we’d like to share.
 

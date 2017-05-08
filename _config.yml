@@ -23,7 +23,7 @@ navItems:
     title: Contact
 
 # Permalinks
-permalink    : pretty
+# permalink    : pretty
 
 # Filtering Content
 future       : false
@@ -70,6 +70,7 @@ defaults     :
       type   : 'posts' # the post collection
     values   :
       layout : 'post' # will default to the post layout
+      permalink: /blog/:title/
       cards  :
        - talk
        - newsletter
