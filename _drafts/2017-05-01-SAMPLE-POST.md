@@ -1,7 +1,7 @@
 ---
 title: Post Title and Page Title # overrides filename
 background: 2017-05-17-mlearning.jpg # featured image behind h1
-excerpt: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. # for seo previews
+excerpt: This text shows up in search engines and on the blog listings page. # for seo previews
 
 h1: A Different H1 Than The Title # optional, overrides title for h1
 permalink: /blog/an-optional-different-permalink-than-the-title/ #optional, overrides filename/title for url
