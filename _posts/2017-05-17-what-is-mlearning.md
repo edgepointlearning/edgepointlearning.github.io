@@ -1,6 +1,6 @@
 ---
 title: What Is mLearning, Or Mobile Learning?
-permalink: /blog/what-is-mlearning
+permalink: /blog/what-is-mlearning/
 author: Nikki VanRy
 background: 2017-05-17-mlearning.jpg
 excerpt: mLearning isn't just eLearning that's designed for mobile phones and tablets. It uses the advantages of mobile devices to create more focused training materials for your employees.
