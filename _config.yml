@@ -107,6 +107,7 @@ gems:
 
 plugins_dir:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Exclude
 exclude      : [bower_components, node_modules, bower.json, gulpfile.js, npm-shrinkwrap.json, package.json, README.md]
