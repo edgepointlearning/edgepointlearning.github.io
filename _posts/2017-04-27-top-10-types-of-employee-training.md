@@ -4,7 +4,7 @@ author: Nikki VanRy
 background: 2017-04-27-top-10-types-of-employee-training.jpg
 excerpt: Matching the types of employee training to your employee needs can ensure your employees receive the information they need, in the format best suited for it.
 related: false
-redirect-from: "/2017/04/27/top-10-types-of-employee-training/"
+redirect_from: "/2017/04/27/top-10-types-of-employee-training/"
 ---
 
 To create a happy, productive workforce, training managers must provide opportunities for further training and growth. Unfortunately, too many employees or management dismiss training as boring or unnecessary. And, let's face it, employee training can be boring, but only when the wrong type of training is matched up with the topic or issue you're tackling. Matching the types of employee training to your employee needs can ensure they receive the information they need, in the format best suited for it.
