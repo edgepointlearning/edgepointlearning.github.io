@@ -1,5 +1,5 @@
-<title>{% if page.title %}{% if page.title != "home" %}{{ page.title }} | {% endif %}{% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if jekyll.environment == 'staging' %}PREVIEW | {% endif %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<title>{% if jekyll.environment == 'staging' %}PREVIEW | {% endif %}{% if page.title %}{% if page.title != "home" %}{{ page.title }} | {% endif %}{% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta name="keywords" content="{{ site.keywords }}">
 
 <!-- Web Application Manifest -->
