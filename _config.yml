@@ -101,7 +101,7 @@ defaults     :
 
 
 # generate sitemap (add 'sitemap: false' to frontmatter of pages to hide)
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
