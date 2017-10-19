@@ -1,4 +1,4 @@
-<nav>
+<nav {% if jekyll.environment == 'staging' %} class="staging" {% endif %} >
   <a href="{{ "/" | prepend: site.baseurl }}">{{ site.data.icons.epl-horz.svg }}</a>
   {% for menuitem in site.navItems %}
     {% if menuitem.url == page.dir %}
