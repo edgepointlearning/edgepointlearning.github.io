@@ -1,0 +1,9 @@
+exclude :
+  - robots.txt
+  - bower_components
+  - node_modules
+  - bower.json
+  - gulpfile.js
+  - npm-shrinkwrap.json
+  - package.json
+  - README.md
