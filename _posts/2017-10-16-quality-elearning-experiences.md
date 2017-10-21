@@ -115,8 +115,33 @@ In the end, the most important thing is to simply be aware of the visual design 
 
 <strong>What methods have you used to create quality eLearning experiences for your employees? </strong>
 
+*Images courtesy of NobuRestaurants.com*
+
 ---
 
 *Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and research for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
 
 ![Quincy Conley](/assets/images/blog/nobu/quincy-conley.png "RESPONSIVE image"){:class=""}
+
+---
+
+
+### References
+*  Akkam, A. (2014, September 8). The 10 Dishes That Made My Career: Nobu Matsuhisa.
+Retrieved October 5, 2017, from [https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"}
+
+*  Clark, R. C. (2003). More Than Just Eye Candy: Graphics for e-Learning. The eLearning Developers’ Journal.
+
+*  Duarte, N. (2008). Slide:ology: The Art and Science of Creating Great Presentations. “O’Reilly Media, Inc.”
+
+*  Morris, T. (2017, June 5). How architect David Rockwell and chef Nobu Matsuhisa built their perfect restaurant. Retrieved October 4, 2017, from [http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html){:target="_blank"}
+
+*  Reynolds, G. (2013). Presentation Zen Design: Simple Design Principles and Techniques to Enhance Your Presentations. New Riders.
+
+*  Steen, H. L. (2008). Effective eLearning design. Journal of Online Learning and Teaching / MERLOT, 4(4), 526–532.
+
+*  Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312.
+
+*  Terenzio, O. (2016, June 28). Q&A with Chef Nobu Matsuhisa: On Global Expansion, Good Teams & Staying on the Customer’s Side - Open for Business. Retrieved September 28, 2017, from [http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/](http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/){:target="_blank"}
+
+*  Wall Klieves, L., Orcutt, R., Peters, D. (2014). Eleven tips for visual design and layout. In K. Forni (Ed.), Making learning memorable with graphics and visual design (pp. 9–12). Santa Rosa, CA: The eLearning Guild.
