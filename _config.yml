@@ -118,3 +118,4 @@ exclude :
   - npm-shrinkwrap.json
   - package.json
   - README.md
+  - netlify.toml
