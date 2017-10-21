@@ -5,7 +5,7 @@ hero     : <b>EdgePoint</b><br> makes your<br> business more<br> <span id='typed
 scripts:
  - typer.js
 ---
-## EdgePoint Enables Great Learning Experiences
+## EdgePoint Enables Great Learning Experiences!
 
 <figure class="featuredIcon">{{ site.data.icons.bullseye.svg }}</figure>
 
