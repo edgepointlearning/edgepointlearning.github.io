@@ -36,17 +36,17 @@ article.bio {
     }
   }
 
-  @include breakpoint($breakpoint-full) {
-    width: 28%;
-    flex-flow: column;
-    justify-content: flex-start;
-
-    figure,
-    section {
-      width: 100%;
-    }
-    h4 {
-      margin-top: 1em;
-    }
-  }
+  // @include breakpoint($breakpoint-full) {
+  //   width: 50%;
+  //   flex-flow: column;
+  //   justify-content: flex-start;
+  //
+  //   figure,
+  //   section {
+  //     width: 100%;
+  //   }
+  //   h4 {
+  //     margin-top: 1em;
+  //   }
+  // }
 }
