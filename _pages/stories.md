@@ -23,7 +23,7 @@ EdgePoint Enables you to rapidly develop and deploy best-fit learning programs d
     {% if story.solution %}
     {% assign solution = site.data.solutions | where:'id', story.solution | first %}
     <article class='solution'>
-      <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+      <figure>{% assign icon = site.data.icons[solution.icon] %}{{ icon.svg }}</figure>
       <section>
         <h3>{{ solution.title }}</h3>
         <p>{{ story.snippet }}</p>

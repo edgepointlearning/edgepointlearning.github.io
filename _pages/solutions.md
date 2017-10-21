@@ -27,7 +27,7 @@ EdgePoint has the expertise to develop learning solutions that will get the job 
   {% assign filtered_solutions = site.data.solutions | sort:'title' %}
   {% for solution in filtered_solutions %}
     <article class="solution" id='solution_{{ solution.name }}'>
-      <figure>{{ site.data.icons[solution.icon]svg }}</figure>
+      <figure>{% assign icon = site.data.icons[solution.icon] %}{{ icon.svg }}</figure>
       <section>
         <h3>{{ solution.title }}</h3>
         <p>{{ solution.desc }}</p>

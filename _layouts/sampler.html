@@ -16,14 +16,14 @@ layout: default
 
       {% if page.showAllDemos %}
 
-        {% assign sorted_demos = (site.demos | sort: 'title') %}
+        {% assign sorted_demos = site.demos | sort: 'title' %}
         {% for demo in sorted_demos %}
           {% include demo.html demo=demo %}
         {% endfor %}
 
       {% elsif page.solution %}
 
-        {% assign filtered_demos = (site.demos | where: "solution",page.solution | sort: 'title') %}
+        {% assign filtered_demos = site.demos | where: "solution",page.solution | sort: 'title' %}
         {% for demo in filtered_demos %}
           {% include demo.html demo=demo %}
         {% endfor %}
