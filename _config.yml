@@ -32,9 +32,6 @@ limit_posts  : 0
 lsi          : false
 excerpt_separator: <!--more-->
 
-# Include
-include      : ['_pages']
-
 # Sass
 sass         :
  sass_dir   : assets/sass
@@ -119,3 +116,7 @@ exclude :
   - package.json
   - README.md
   - netlify.toml
+
+include :
+  - _pages
+  - _headers
