@@ -103,10 +103,9 @@ livereload: true
 
 exclude :
   - Gemfile
-  - vendor
   - Gemfile.lock
+  - vendor
   - node_modules
-  - vendor/ruby/
   - netlify.toml
   - docker-compose.yml
 
