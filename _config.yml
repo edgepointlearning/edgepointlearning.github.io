@@ -3,7 +3,7 @@ title        : EdgePoint Learning
 description  : Committed to designing, developing and delivering blended learning solutions that drive organizational performance and business value, EdgePoint Enables.
 keywords     : elearning, instructor-led, training, edgepoint learning, edgepoint, edge point, edge point learning, instructional design metrics, edgepoint training
 url          : 'https://www.edgepointlearning.com'
-baseurl      : '' #/epl-optimized
+baseurl      : ''
 
 # Color variable for Android & Windows tiles
 color        : 'RGB(18, 82, 158)'
@@ -95,30 +95,21 @@ defaults     :
       cards  :
        - sampler
 
-
-
-# generate sitemap (add 'sitemap: false' to frontmatter of pages to hide)
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-plugins_dir:
-  - jekyll-redirect-from
-  - jekyll-sitemap
+livereload: true
 
-# Exclude
 exclude :
-  - bower_components
+  - Gemfile
+  - vendor
+  - Gemfile.lock
   - node_modules
-  - bower.json
-  - gulpfile.js
-  - npm-shrinkwrap.json
-  - package.json
-  - README.md
+  - vendor/ruby/
   - netlify.toml
+  - docker-compose.yml
 
 include :
   - _pages
   - _headers #netlify
-
-livereload: true
