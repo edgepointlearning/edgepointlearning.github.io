@@ -9,7 +9,7 @@ scripts:
 
 <figure class="featuredIcon">{{ site.data.icons.bullseye.svg }}</figure>
 
-Since 2007, EdgePoint Learning has been committed to delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults.
+Test Since 2007, EdgePoint Learning has been committed to delivering blended learning solutions that drive organizational performance and business value while enriching the capabilities of working adults.
 
 We believe that learning program success is grounded in strong business alignment, thoughtful program design and collaborative development.
 
