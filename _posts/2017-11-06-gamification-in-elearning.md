@@ -1,5 +1,5 @@
 ---
-title: Gamification In eLearning: What Works And What Doesn't?
+title: Gamification In eLearning | What Works And What Doesn't?
 permalink: /blog/gamification-in-elearning
 author: Nikki VanRy
 background: 2017-10-23-html5-because-flash-is-dead.jpg
