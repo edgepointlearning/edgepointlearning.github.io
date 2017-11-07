@@ -2,7 +2,7 @@
 title: Gamification In eLearning | What Works And What Doesn't?
 permalink: /blog/gamification-in-elearning
 author: Nikki VanRy
-background: 2017-10-23-html5-because-flash-is-dead.jpg
+background: 2017-11-08-gamification-in-elearning.jpg
 excerpt: Gamification in eLearning is only as successful as the planning behind it. Here are five ways to make gamification in the workplace effective.
 related: false
 ---
@@ -75,7 +75,7 @@ Do your players interact outside of the game? This is very important if the gami
 
 Is everyone participating? Gamification in the workplace is only as effective as the number of people who are actually using it. Build in times for employees to interact with the game, such as check-ins and posting of pictures. Also, don't make it drudgery. Give them resources in time and space to enjoy the training. They shouldn't have to worry about other deadlines when in the game space.
 
-INFOGRAPHIC HERE
+![Gamification In eLearning](/assets/images/blog/gamification-in-elearning.jpg "RESPONSIVE image"){:class="img-responsive"}
 
 ### What are some successful gamification examples in business?
 
