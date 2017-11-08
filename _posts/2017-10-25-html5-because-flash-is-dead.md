@@ -73,6 +73,6 @@ There are many [HTML5 eLearning authoring tools](https://elearningindustry.com/t
 
 Converting your Flash eLearning course to HTML5 isn’t a simple drag-and-drop operation. There are times when resources, including, time, energy, and money, are best spent with a company who specializes in making the leap into the future of eLearning course design. Converting courses that work smoothly across devices often requires the attention of a professional.
 
-<strong>[Edgepoint Learning](https://www.edgepointlearning.com/) is a leader in eLearning course design and redevelopment. We can help update your slow, clunky Flash courses to fresh and agile HTML5 platforms. Get in touch today to discuss formulate a plan that will best address your company’s needs.</strong>
+<strong>[Edgepoint Learning](https://www.edgepointlearning.com/) is a leader in eLearning course design and redevelopment. We can help update your slow, clunky Flash courses to fresh and agile HTML5 platforms. Get in touch today to formulate a plan that will best address your company’s needs.</strong>
 
 [Contact Us](/contact/ ){:class="button"}
