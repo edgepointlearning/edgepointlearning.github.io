@@ -37,11 +37,11 @@ This generation of digital natives isn’t satisfied with basic internet surfing
 
 This is not a generation that wants to go to work, put in their 40 hours a week, and then get a gold watch after 30 years. They are looking for employers that offers the following benefits:
 
-*  <stong>Flexibility:</strong> A nine-to-five schedule may not suit millennials; work-from-home and flexible work schedules are key to attracting and retaining them.
-*  <stong>Responsiveness:</strong> Employers that are responsive and provide regular feedback and encouragement are a boon to millennial employees. A year-end review won’t work for this generation; they want to know they are on the right track with regular, encouraging feedback, even when it is critical.
-*  <stong>A work-life balance:</strong> Millennials crave a solid work/life balance (rather than just financial reward). They don’t want to live for work OR work to live; they want both in equal measure.
-*  <stong>Advancement:</strong> Career mobility should be individualized, not a set structure that takes everyone the same period of years. Reward merit and hard work, and millennials will surpass your expectations.
-*  <stong>Training tailored to their learning style:</strong> No more endless conferences with PowerPoint presentations. Make use of innovative, microlearning moments to capture their attention.
+*  <strong>Flexibility:</strong> A nine-to-five schedule may not suit millennials; work-from-home and flexible work schedules are key to attracting and retaining them.
+*  <strong>Responsiveness:</strong> Employers that are responsive and provide regular feedback and encouragement are a boon to millennial employees. A year-end review won’t work for this generation; they want to know they are on the right track with regular, encouraging feedback, even when it is critical.
+*  <strong>A work-life balance:</strong> Millennials crave a solid work/life balance (rather than just financial reward). They don’t want to live for work OR work to live; they want both in equal measure.
+*  <strong>Advancement:</strong> Career mobility should be individualized, not a set structure that takes everyone the same period of years. Reward merit and hard work, and millennials will surpass your expectations.
+*  <strong>Training tailored to their learning style:</strong> No more endless conferences with PowerPoint presentations. Make use of innovative, microlearning moments to capture their attention.
 
 These criteria may seem at odds with the traditional corporate structure, and, to a large extent, they are. The fact remains that this young workforce will shape the way in which businesses operate, and it’s important to meet them where they are. Besides, who wouldn't want a more flexible, balanced, rewarding, and fun work life?
 
