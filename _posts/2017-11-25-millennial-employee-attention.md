@@ -101,3 +101,6 @@ Properly trained mentors can also help bridge the gap between generations in a c
 <strong>Engaging millennial employees in the modern workplace can take some doing, but we're here to help at EdgePoint Learning. [Get in touch](https://www.edgepointlearning.com/contact/) today to discuss training your different employee populations.</strong>
 
 [Contact Us](/contact/ ){:class="button"}
+
+
+This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/capturing-millennial-employee-attention-microdistilleries-microlearning-8-ways){:target="_blank"} on November 17, 2017. 
