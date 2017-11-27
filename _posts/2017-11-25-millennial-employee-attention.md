@@ -1,7 +1,7 @@
 ---
 title: Capturing Millennial Employee Attention In a World Where We Work from Anywhere
 permalink: /blog/millennial-employee-attention
-author: Nikki VanRy
+author: Brian Oderkirk
 background: 2017-11-25-millennial-employee-attention.jpg
 excerpt: You can capture millennial employees' attention by knowing what drives them, what you can learn from them, and how to capture their attention in a world where we work from anywhere.
 related: false
@@ -103,4 +103,4 @@ Properly trained mentors can also help bridge the gap between generations in a c
 [Contact Us](/contact/ ){:class="button"}
 
 
-This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/capturing-millennial-employee-attention-microdistilleries-microlearning-8-ways){:target="_blank"} on November 17, 2017. 
+This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/capturing-millennial-employee-attention-microdistilleries-microlearning-8-ways){:target="_blank"} on November 17, 2017.
