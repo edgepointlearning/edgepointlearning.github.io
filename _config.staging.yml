@@ -7,3 +7,4 @@ exclude :
   - netlify.toml
   - docker-compose.yml
   - robots.txt #staging only
+  - .ruby-version
