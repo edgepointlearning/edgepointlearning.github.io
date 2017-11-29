@@ -101,6 +101,10 @@ plugins:
 
 livereload: true
 
+include :
+  - _pages
+  - _headers #netlify
+
 exclude :
   - Gemfile
   - Gemfile.lock
@@ -108,7 +112,4 @@ exclude :
   - node_modules
   - netlify.toml
   - docker-compose.yml
-
-include :
-  - _pages
-  - _headers #netlify
+  - .ruby-version
