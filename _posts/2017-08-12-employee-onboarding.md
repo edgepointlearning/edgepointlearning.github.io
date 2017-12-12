@@ -1,6 +1,6 @@
 ---
 title: 5 Of The Best Practices For Employee Onboarding
-permalink: /blog/employee-onboarding
+permalink: /blog/employee-onboarding/
 author: Nikki VanRy
 background: 2017-08-12-employee-onboarding.jpg
 excerpt: Providing an effective onboarding process can and will improve your employee retention. Here's how to do it right.

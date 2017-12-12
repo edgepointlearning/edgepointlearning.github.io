@@ -1,6 +1,6 @@
 ---
 title: 12 Absolutely Amazing Advantages Of eLearning For Your Employees
-permalink: /blog/advantages-of-elearning
+permalink: /blog/advantages-of-elearning/
 author: Nikki VanRy
 background: hero-advantages-of-elearning.jpg
 excerpt: Saving money and employee time? These are only two of the many advantages of eLearning for your workforce.

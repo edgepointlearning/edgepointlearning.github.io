@@ -1,6 +1,6 @@
 ---
 title: This Is What We Discovered About Learning And Behavioral Neuroscience In 2017
-permalink: /blog/learning-research-2017
+permalink: /blog/learning-research-2017/
 author: Corey Bleich
 background: 2017-11-27-learning-research-2017.jpg
 excerpt: From gamification to robust middle management training, here are 12 of the biggest employee training and learning research breakthroughs that happened in 2017.

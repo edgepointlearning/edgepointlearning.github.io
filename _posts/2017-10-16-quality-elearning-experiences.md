@@ -1,6 +1,6 @@
 ---
 title: How-To Create Nobu Quality eLearning Experiences Using Visual Design Guidelines
-permalink: /blog/quality-elearning-experiences
+permalink: /blog/quality-elearning-experiences/
 author: Quincy Conley, PhD
 background: 2017-10-16-quality-elearning-experiences.jpg
 excerpt: Quincy Conley, a Learning Scientist, explains how we can apply culinary lessons to create enchanting and quality eLearning experiences for our employees.

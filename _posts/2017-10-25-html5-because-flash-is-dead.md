@@ -1,6 +1,6 @@
 ---
 title: It's Time To Move Your Training To HTML5, Because Flash Is Super Dead
-permalink: /blog/html5-because-flash-is-dead
+permalink: /blog/html5-because-flash-is-dead/
 author: Tyler Campbell
 background: 2017-10-23-html5-because-flash-is-dead.jpg
 excerpt: From massive security scares to clunky frights, it's time to switch your outdated Flash courses to HTML5. Here's why.

@@ -1,6 +1,6 @@
 ---
 title: This Is How Microlearning Creates Just In Time Training For Your Company
-permalink: /blog/microlearning
+permalink: /blog/microlearning/
 author: Nikki VanRy
 background: 2017-7-31-microlearning.jpg
 excerpt: Microlearning was born out of the necessity to create quick, accessible training for employees—right when they need it the most.

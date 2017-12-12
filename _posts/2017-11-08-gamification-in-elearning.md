@@ -1,6 +1,6 @@
 ---
 title: Gamification In eLearning | What Works And What Doesn't?
-permalink: /blog/gamification-in-elearning
+permalink: /blog/gamification-in-elearning/
 author: Corey Bleich
 background: 2017-11-08-gamification-in-elearning.jpg
 excerpt: Gamification in eLearning is only as successful as the planning behind it. Here are five ways to make gamification in the workplace effective.

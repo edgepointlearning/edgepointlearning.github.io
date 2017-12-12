@@ -1,6 +1,6 @@
 ---
 title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
-permalink: /blog/geofencing
+permalink: /blog/geofencing/
 author: Corey Bleich
 background: 2017-12-13-geofencing.jpg
 excerpt: Geofencing technology—originally used for retail sales—is increasingly providing cutting-edge and immediate access for recruitment and employee training programs.
