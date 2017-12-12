@@ -12,6 +12,6 @@
 
 # branch-deploy: this context corresponds to deploys from branches that are not the site’s main production branch.
 [context.branch-deploy]
-  command = "jekyll build --config _config.yml,_config.staging.yml --future“
+  command = "jekyll build --future --config _config.yml,_config.staging.yml"
   [context.branch-deploy.environment]
     JEKYLL_ENV = "staging"
