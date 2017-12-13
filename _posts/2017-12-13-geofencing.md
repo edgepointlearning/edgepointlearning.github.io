@@ -12,7 +12,7 @@ Picture this: you need to figure out a way to effectively design and deliver on-
 The next-level solution for your employee training program? Geofencing.
 
 ### What is a geofence?
-
+ 
 A geofence is an electronic boundary placed around a particular area. It's typically used to notify businesses when a customer enters that area. Geofencing apps can help design and implement a geofence through Google maps.
 
 While it may have started as a sales technique, now geofencing has found expanded use in training and recruitment. For example, new employee training programs can target employees in very specific regions and provide them with the training materials they need.
