@@ -1,9 +1,9 @@
 ---
-title: This Is What We Discovered About Learning And Behavioral Neuroscience In 2017
+title: 12 Neuroscience Breakthroughs That Will Help Improve Your Training
 permalink: /blog/learning-research-2017/
 author: Corey Bleich
 background: 2017-11-27-learning-research-2017.jpg
-excerpt: From gamification to robust middle management training, here are 12 of the biggest employee training and learning research breakthroughs that happened in 2017.
+excerpt: What we learned about the brain and training.
 related: false
 ---
 
@@ -14,6 +14,7 @@ The most fascinating learning and behavioral neuroscience research breakthroughs
 Researchers at the University of Pennsylvania have discovered a small cluster of neurons in the brain that fires up when a [brain pattern is about to change](https://news.upenn.edu/news/researchers-discover-which-brain-region-motivates-behavior-change){:target="_blank"}.
 
 This discovery could lead to a better understanding of how people create, innovate, and explore. Learning research like this could also lead to better tools for employee training and management.
+
 
 ### 2. Brain training works…if you do it right
 
@@ -27,7 +28,7 @@ They compared the best method to a workout, with lead author Kara J. Blacker not
 
 Creative skills that employees bring to work aren’t being tapped as much as they could be, a study from Lehigh University found.
 
-[Innovation and creativity are key](https://www1.lehigh.edu/news/study-reveals-untapped-creativity-us-workforce){:target="_blank"}  as the U.S. moves away from manufacturing, and art school graduates (along with other employees who define themselves as artists) could be key to helping companies thrive.
+[Innovation and creativity are key](https://www1.lehigh.edu/news/study-reveals-untapped-creativity-us-workforce){:target="_blank"} as the U.S. moves away from manufacturing, and art school graduates (along with other employees who define themselves as artists) could be key to helping companies thrive.
 
 ### 4. Games can reverse poverty’s impact on brain development
 
@@ -105,7 +106,6 @@ Now more than ever, faster (and deeper) learning is needed for your employees. S
 
 <strong>What other insights did you pull from these studies, and how can you see them being applicable to your workforce?</strong>
 
-### Bio:
-Corey Bleich is the CEO of [EdgePoint Learning](https://www.edgepointlearning.com/), an eLearning provider at the forefront of training initiatives that benefit the whole company, from the C-suite to front-line employees. As an exclusive content provider and partner with [PinPoint Workforce](https://www.pinpointworkforce.com/), the first mobile-native learning platform, Bleich is also redesigning how and where employees learn.
+[Contact Us](/contact/ ){:class="button"}
 
-Email: [corey.bleich@edgepointlearning.com](mailto:corey.bleich@edgepointlearning.com)
+<em>This article was originally published on [TLNT](https://www.tlnt.com/){:target="_blank"} on [December 8, 2017](https://www.tlnt.com/neuroscience-breakthroughs-that-will-help-improve-training/){:target="_blank"}.</em>
