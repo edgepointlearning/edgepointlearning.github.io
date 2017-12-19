@@ -1,9 +1,9 @@
 ---
-title: This Is What We Discovered About Learning And Behavioral Neuroscience In 2017
+title: 12 Neuroscience Breakthroughs That Will Help Improve Your Training
 permalink: /blog/learning-research-2017/
 author: Corey Bleich
 background: 2017-11-27-learning-research-2017.jpg
-excerpt: From gamification to robust middle management training, here are 12 of the biggest employee training and learning research breakthroughs that happened in 2017.
+excerpt: What we learned about the brain and training.
 related: false
 ---
 
@@ -15,19 +15,20 @@ Researchers at the University of Pennsylvania have discovered a small cluster of
 
 This discovery could lead to a better understanding of how people create, innovate, and explore. Learning research like this could also lead to better tools for employee training and management.
 
+
 ### 2. Brain training works…if you do it right
 
 Researchers at Johns Hopkins University found that only one of two popular [cognitive training methods worked](http://releases.jhu.edu/2017/10/17/johns-hopkins-finds-training-exercise-that-boosts-brain-power/){:target="_blank"} when it comes to improving memory and attention, a technique known as the dual n-back method, that's related to the [Simon](https://en.wikipedia.org/wiki/Simon_(game)){:target="_blank"} game you played as a child.
 
 They compared the best method to a workout, with lead author Kara J. Blacker noting that:
 
-<cite>&mdash;"People say cognitive training either works or doesn't work. We showed that it matters what kind of training you're doing. This one task seems to show the most consistent results and the most impact on performance and should be the one we focus on if we're interested in improving cognition through training.”</cite>
+<cite>"People say cognitive training either works or doesn't work. We showed that it matters what kind of training you're doing. This one task seems to show the most consistent results and the most impact on performance and should be the one we focus on if we're interested in improving cognition through training.”</cite>
 
 ### 3. Creativity is an untapped asset at work
 
 Creative skills that employees bring to work aren’t being tapped as much as they could be, a study from Lehigh University found.
 
-[Innovation and creativity are key](https://www1.lehigh.edu/news/study-reveals-untapped-creativity-us-workforce){:target="_blank"}  as the U.S. moves away from manufacturing, and art school graduates (along with other employees who define themselves as artists) could be key to helping companies thrive.
+[Innovation and creativity are key](https://www1.lehigh.edu/news/study-reveals-untapped-creativity-us-workforce){:target="_blank"} as the U.S. moves away from manufacturing, and art school graduates (along with other employees who define themselves as artists) could be key to helping companies thrive.
 
 ### 4. Games can reverse poverty’s impact on brain development
 
@@ -45,7 +46,7 @@ These 3D virtual cells were based on a model of living brain cells and will pave
 
 Finally, the truth comes out:
 
-<cite>&mdash;"People with efficient brains may have too much brain capacity to stop their minds from wandering.”</cite>
+<cite>"People with efficient brains may have too much brain capacity to stop their minds from wandering.”</cite>
 
 Eric Schumacher and his team at Georgia Tech found that people who report frequent daydreaming score higher on creative and intellectual ability and have measurably more effective brains than those who don’t. [The smarter you are, the more you daydream](https://www.eurekalert.org/pub_releases/2017-10/giot-dig102417.php){:target="_blank"}.
 
@@ -55,7 +56,7 @@ Behavioral neuroscience that offers insight into how people make decisions at wo
 
 When it comes to reaching sales targets and other goals set by upper management, many in the middle of the ladder made moves to preserve their jobs, says Linda Treviño, distinguished professor of organizational behavior and ethics, Smeal College of Business, Penn State:
 
-<cite>&mdash;"It became clear to middle managers that there was no way their people could meet these goals…Middle managers exploited vulnerabilities they identified in the organization to come up with ways to make it look like their workers were achieving goals when they weren't."</cite>
+<cite>"It became clear to middle managers that there was no way their people could meet these goals…Middle managers exploited vulnerabilities they identified in the organization to come up with ways to make it look like their workers were achieving goals when they weren't."</cite>
 
 Prioritizing training and development for these middle managers can lead to untapped opportunities for your workforce's ethical growth.
 
@@ -105,7 +106,6 @@ Now more than ever, faster (and deeper) learning is needed for your employees. S
 
 <strong>What other insights did you pull from these studies, and how can you see them being applicable to your workforce?</strong>
 
-### Bio:
-Corey Bleich is the CEO of [EdgePoint Learning](https://www.edgepointlearning.com/), an eLearning provider at the forefront of training initiatives that benefit the whole company, from the C-suite to front-line employees. As an exclusive content provider and partner with [PinPoint Workforce](https://www.pinpointworkforce.com/), the first mobile-native learning platform, Bleich is also redesigning how and where employees learn.
+[Contact Us](/contact/ ){:class="button"}
 
-Email: [corey.bleich@edgepointlearning.com](mailto:corey.bleich@edgepointlearning.com)
+<em>This article was originally published on [TLNT](https://www.tlnt.com/){:target="_blank"} on [December 8, 2017](https://www.tlnt.com/neuroscience-breakthroughs-that-will-help-improve-training/){:target="_blank"}.</em>
