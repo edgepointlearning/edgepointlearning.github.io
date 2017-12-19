@@ -22,7 +22,7 @@ Researchers at Johns Hopkins University found that only one of two popular [cogn
 
 They compared the best method to a workout, with lead author Kara J. Blacker noting that:
 
-<cite>&mdash;"People say cognitive training either works or doesn't work. We showed that it matters what kind of training you're doing. This one task seems to show the most consistent results and the most impact on performance and should be the one we focus on if we're interested in improving cognition through training.”</cite>
+<cite>"People say cognitive training either works or doesn't work. We showed that it matters what kind of training you're doing. This one task seems to show the most consistent results and the most impact on performance and should be the one we focus on if we're interested in improving cognition through training.”</cite>
 
 ### 3. Creativity is an untapped asset at work
 
@@ -46,7 +46,7 @@ These 3D virtual cells were based on a model of living brain cells and will pave
 
 Finally, the truth comes out:
 
-<cite>&mdash;"People with efficient brains may have too much brain capacity to stop their minds from wandering.”</cite>
+<cite>"People with efficient brains may have too much brain capacity to stop their minds from wandering.”</cite>
 
 Eric Schumacher and his team at Georgia Tech found that people who report frequent daydreaming score higher on creative and intellectual ability and have measurably more effective brains than those who don’t. [The smarter you are, the more you daydream](https://www.eurekalert.org/pub_releases/2017-10/giot-dig102417.php){:target="_blank"}.
 
@@ -56,7 +56,7 @@ Behavioral neuroscience that offers insight into how people make decisions at wo
 
 When it comes to reaching sales targets and other goals set by upper management, many in the middle of the ladder made moves to preserve their jobs, says Linda Treviño, distinguished professor of organizational behavior and ethics, Smeal College of Business, Penn State:
 
-<cite>&mdash;"It became clear to middle managers that there was no way their people could meet these goals…Middle managers exploited vulnerabilities they identified in the organization to come up with ways to make it look like their workers were achieving goals when they weren't."</cite>
+<cite>"It became clear to middle managers that there was no way their people could meet these goals…Middle managers exploited vulnerabilities they identified in the organization to come up with ways to make it look like their workers were achieving goals when they weren't."</cite>
 
 Prioritizing training and development for these middle managers can lead to untapped opportunities for your workforce's ethical growth.
 
