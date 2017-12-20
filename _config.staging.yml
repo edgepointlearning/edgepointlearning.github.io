@@ -8,3 +8,4 @@ exclude :
   - docker-compose.yml
   - robots.txt #staging only
   - .ruby-version
+  - README.md
