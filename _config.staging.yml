@@ -1,4 +1,5 @@
 exclude :
+  - robots.txt #staging only
   - Gemfile
   - vendor
   - Gemfile.lock
@@ -6,6 +7,5 @@ exclude :
   - vendor/ruby/
   - netlify.toml
   - docker-compose.yml
-  - robots.txt #staging only
   - .ruby-version
   - README.md
