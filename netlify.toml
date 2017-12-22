@@ -1,8 +1,9 @@
 # production: this context corresponds to the main site’s deployment, attached to the Git branch you set when the site is created.
 [context.production]
-  # command = "jekyll build" # SWITCH TO THIS COMMAND AFTER DNS SWITCH
+  # command = "jekyll build" # SWITCH TO THIS AFTER DNS SWITCH
   command = "jekyll build --config _config.yml,_config.development.yml"
   [context.production.environment]
+    # JEKYLL_ENV = "production" # SWITCH TO THIS AFTER DNS SWITCH
     JEKYLL_ENV = "development"
 
 # deploy-preview: this context corresponds to the previews we build for Pull Requests and Merge Requests integrations.
