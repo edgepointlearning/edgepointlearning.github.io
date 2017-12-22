@@ -1,5 +1,5 @@
 exclude :
-  - robots.txt #staging only
+  - robots.txt #development only
   - Gemfile
   - vendor
   - Gemfile.lock
