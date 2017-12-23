@@ -84,6 +84,7 @@ defaults     :
       type   : forms
     values   :
       layout : 'form'
+      noindex : true
       cards  : no
       sitemap: false
   -
@@ -91,6 +92,7 @@ defaults     :
       path    : "_demo-bundles"
     values    :
       layout  : "sampler"
+      noindex : true
       sitemap: false
       cards  :
        - sampler

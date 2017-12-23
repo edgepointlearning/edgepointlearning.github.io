@@ -1,10 +1,9 @@
 exclude :
   - robots.txt #development only
   - Gemfile
-  - vendor
   - Gemfile.lock
+  - vendor
   - node_modules
-  - vendor/ruby/
   - netlify.toml
   - docker-compose.yml
   - .ruby-version
