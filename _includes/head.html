@@ -3,9 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% if jekyll.environment == 'development' %}
-    <!-- NO ROBOTS IN development ENVIRONMENT -->
-    <meta name="robots" content="noindex, nofollow">
+  {% if jekyll.environment == 'development' or page.noindex == true %}
+    <!-- ROBOTS GO AWAY -->
+    <meta name="robots" content="noindex">
+  {% else %}
+    <!-- ROBOTS WELCOME -->
   {% endif %}
 
   <!-- Disable tap highlight on IE -->

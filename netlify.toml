@@ -15,3 +15,9 @@
   command = "jekyll build --future --config _config.yml,_config.development.yml"
   [context.branch-deploy.environment]
     JEKYLL_ENV = "development"
+
+# Things Specific to Development environment vs Production:
+#   _config.development.yml
+#   head.html - block robots (line 8)
+#   default.html - body class (line 14), no analytics (line 23)
+#   _development.scss
