@@ -3,7 +3,7 @@ title: How To Make A Successful Vendor Selection | Ask Yourself These 5 Customer
 permalink: /blog/customer-service-vendor/
 author: Brian Oderkirk
 background: customer-service-vendor.jpg
-excerpt: How To Make A Successful Vendor Selection | Ask Yourself These 5 Customer Service Questions
+excerpt: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon?
 related: false
 ---
 
