@@ -1,6 +1,6 @@
 ---
 title    : Demos for Audio Talent
-hideSolutions: false #hide each demo's solution?
+hideSolutions: true #hide each demo's solution?
 
 demos: #show specific demos
  - communicating-for-impact
