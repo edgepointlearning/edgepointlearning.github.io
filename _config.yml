@@ -101,7 +101,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-livereload: true
+#livereload: true
 
 include :
   - _pages
