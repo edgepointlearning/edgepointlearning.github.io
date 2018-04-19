@@ -1,14 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '166'
+gem 'jekyll', '3.6.2'
 
 group :jekyll_plugins do
     gem 'jekyll-livereload', '0.2.2'
+    gem 'jekyll-sitemap', '1.1.1'
+    gem 'jekyll-redirect-from', '0.12.1'
 end
-
-# https://pages.github.com/versions/
-# https://github.com/github/pages-gem/releases
-
-# https://github.com/RobertDeRose/jekyll-livereload/releases
-
-# http://bundler.io/v1.5/gemfile.html
