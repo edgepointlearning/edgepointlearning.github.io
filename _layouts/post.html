@@ -1,74 +1,41 @@
 ---
 layout: default
 ---
-<main>
 
-  {% include nav.html %}
+<div class="grid-container">
 
-  <article id="post">
+  <div class="grid-x">
+    <div class="cell cover">
+      {% img '{{ page.image }}' alt:'{{ page.title }}' width:'100%' %}
+    </div>
+  </div>
 
-    {% include post-header.html %}
+  <h1><a href="{{ page.url }}"> {% if page.h1 %} {{ page.h1 }} {% else %} {{ page.title }} {% endif %} </a></h1>
 
-    <section id="post_content">
+  <div class="grid-x align-justify align-middle meta">
+    <div class="cell shrink">
+      <span class="squat">{% if page.author %}{{ page.author.name }}</span><br>{% endif %}
+      {{ page.date | date: '%b %d, %Y' }}
+    </div>
+    <div class="cell shrink">
+      {% include share.html %}
+    </div>
+  </div>
+
+  <div class="grid-x align-center content">
+    <div class="cell">
       {{ content }}
-    </section>
+    </div>
+  </div>
 
-    <section id="share-footer">
-      <div class="social-sharing"><a>Share this: </a>{% include social-sharing.html %}</div>
-    </section>
+  <div class="grid-x align-center align-middle share-bottom">
+    <div class="cell shrink">
+      <h5>Like this post? Share it!</h5>
+    </div>
+    <div class="cell shrink">
+      {% include share.html %}
+    </div>
+  </div>
 
-    {% if page.related != false %}
-    <aside id="post_related">
-      <h4>Related Posts</h4>
-      <ul>
-        {% for post in site.related_posts limit:3 %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }} <small>{{ post.date | date: '%B %d, %Y' }}</small></a>
-          </li>
-        {% endfor %}
-      </ul>
-    </aside>
-    {% endif %}
 
-  </article>
-
-  {% if page.cards %}
-  <section id="cards">
-    {% for page_card in page.cards %}
-      {% for card in site.data.cards %}
-        {% if page_card == card.id %}
-          {% include card.html %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </section>
-  {% endif %}
-
-  {% include footer.html %}
-
-</main>
-<script>
-function windowPopup(url, width, height) {
-  // Calculate the position of the popup so
-  // it’s centered on the screen.
-  var left = (screen.width / 2) - (width / 2),
-      top = (screen.height / 2) - (height / 2);
-  console.log("yo");
-  window.open(
-    url,
-    "",
-    "menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width=" + width + ",height=" + height + ",top=" + top + ",left=" + left
-  );
-}
-
-var jsSocialShares = document.querySelectorAll(".js-social-share");
-if (jsSocialShares) {
-  [].forEach.call(jsSocialShares, function(anchor) {
-    anchor.addEventListener("click", function(e) {
-      e.preventDefault();
-
-      windowPopup(this.href, 500, 300);
-    });
-  });
-}
-</script>
+</div>

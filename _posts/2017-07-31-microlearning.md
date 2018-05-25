@@ -1,8 +1,9 @@
 ---
 title: This Is How Microlearning Creates Just In Time Training For Your Company
 permalink: /blog/microlearning/
-author: Nikki VanRy
-background: 2017-7-31-microlearning.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-07-31-microlearning.jpg
 excerpt: Microlearning was born out of the necessity to create quick, accessible training for employees—right when they need it the most.
 related: false
 ---
@@ -18,7 +19,7 @@ Microlearning resources capitalize on these smaller training opportunities since
 *  Can be accessed by employees when and how they choose
 *  Are tied to one specific learning objective or concept
 
-This style of training has been called by different names in the past, and it overlaps with other instructional trends. People refer to them as "bites" or "nuggets" of information. "Just in time learning" responds to the need for point-of-issue training. "Spaced learning" provides instruction over spaced intervals, so employees retain more of the information later on. And, [mLearning](http://www.edgepointlearning.com/blog/what-is-mlearning/) refers to training on a mobile phone where microlearning increasingly takes place.
+This style of training has been called by different names in the past, and it overlaps with other instructional trends. People refer to them as "bites" or "nuggets" of information. "Just in time learning" responds to the need for point-of-issue training. "Spaced learning" provides instruction over spaced intervals, so employees retain more of the information later on. And, [mLearning](/blog/what-is-mlearning/) refers to training on a mobile phone where microlearning increasingly takes place.
 
 ### What are the benefits of microlearning?
 Microlearning is more effective for most topics, is desperately needed by time- and attention-hungry employees, and reduces strain on your current training resources.
@@ -30,7 +31,8 @@ The stats don't lie:
 *  Most employees only have 24 minutes a week to dedicate to training
 *  [Microlearning resources](http://info.shiftelearning.com/blog/numbers-dont-lie-why-bite-sized-learning-is-better-for-your-learners-and-you-too){:target="_blank"} take 300% less time and 50% less cost to produce than traditional courses
 
-![Benefits of Microlearning](/assets/images/blog/benefits-of-microlearning.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-07-31-benefits-of-microlearning.jpg' alt:'Benefits of Microlearning' %}
+{: .wideImage .marginTop .marginBot}
 
 ### How does microlearning work?
 Microlearning isn't just a shorter course that's sometimes delivered on a mobile device. It's a departure from the idea of "courses" all together. Instead, think of microlearning resources that your employees access when and where they need them the most.
@@ -47,7 +49,7 @@ Some examples of work-related training that is ripe for microlearning include:
 *  A quick video followed by a quiz to accompany the roll-out of a new product or service
 *  Ongoing and on-demand small modules that employees can access to help them learn an advanced job-related skill
 
-Microlearning works best when it's short and focused to one specific learning objective or task. For more involved or collaborative topics, an in-person training may still be more appropriate. We break down the different [types of employee training](http://www.edgepointlearning.com/blog/top-10-types-of-employee-training/) and their respective benefits in a recent post.
+Microlearning works best when it's short and focused to one specific learning objective or task. For more involved or collaborative topics, an in-person training may still be more appropriate. We break down the different [types of employee training](/blog/top-10-types-of-employee-training/) and their respective benefits in a recent post.
 
 ### Create just in time training for your employees
 If you're ready to learn more about how microlearning can help your employees, it's time to talk to the experts. At EdgePoint Learning, we work with companies across the world to find the training tools and techniques they need to train their employees at affordable rates.
@@ -55,7 +57,7 @@ If you're ready to learn more about how microlearning can help your employees, i
 [Contact Us](/contact/ ){:class="button"}
 
 To read more about finding the right learning program for your company, check out our related posts on the topic:
-*  [10 Types Of Employee Training](http://www.edgepointlearning.com/blog/top-10-types-of-employee-training/)
-*  [12 Absolutely Amazing Advantages Of eLearning ](http://www.edgepointlearning.com/blog/advantages-of-elearning)
-*  [Instructor-Led Training Vs. eLearning ](http://www.edgepointlearning.com/blog/Instructor-led-Training-vs-eLearning/)
-*  [How To Create Your Custom eLearning Course](http://www.edgepointlearning.com/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)
+*  [10 Types Of Employee Training](/blog/top-10-types-of-employee-training/)
+*  [12 Absolutely Amazing Advantages Of eLearning ](/blog/advantages-of-elearning)
+*  [Instructor-Led Training Vs. eLearning ](/blog/Instructor-led-Training-vs-eLearning/)
+*  [How To Create Your Custom eLearning Course](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)

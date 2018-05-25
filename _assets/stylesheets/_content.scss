@@ -1,0 +1,79 @@
+.content {
+  #{headings(1,6)} {
+    line-height: 1.2;
+  }
+
+  #{headings(1,6)},
+  p,
+  blockquote,
+  ul,
+  ol {
+    max-width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p,
+  li,
+  cite {
+    @include breakpoint(mediumer) {
+      font-size: 19px;
+    }
+  }
+
+  li {
+    margin-left: 1.5em;
+  }
+
+  p.wideImage {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  h3 {
+    margin-top: $global-margin * 1.5;
+  }
+
+  p a,
+  li a {
+    font-weight: bold;
+  }
+}
+
+.layout-page .content {
+  margin-top: $global-margin * 3;
+
+  h2 {
+    margin-bottom: $global-margin * 2;
+  }
+
+  h2,
+  h3 {
+    max-width: 100%;
+  }
+
+  #{headings(2,6)},
+  p,
+  blockquote,
+  ul,
+  ol {
+    margin-left: 0;
+  }
+}
+
+.layout-story .content {
+  margin-top: $global-margin * 3;
+
+  h1 {
+    margin-bottom: $global-margin * 3;
+  }
+
+  h2 {
+    margin-top: $global-margin * 2;
+    @extend .h3;
+  }
+}
+
+.layout-post .content {
+  margin-top: $global-margin * 3;
+}

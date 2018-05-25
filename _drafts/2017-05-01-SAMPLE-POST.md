@@ -1,6 +1,6 @@
 ---
 title: Post Title and Page Title # overrides filename
-background: 2017-05-17-mlearning.jpg # featured image behind h1
+background: blog/2017-10-16-nobu-dish.jpg # featured image behind h1
 excerpt: This text shows up in search engines and on the blog listings page. # for seo previews
 
 h1: A Different H1 Than The Title # optional, overrides title for h1

@@ -1,48 +1,40 @@
 ---
-title    : Contact
-permalink: '/contact/'
-hero     : We'd Love to<br> Hear From You.
-cards    : no
-excerpt: At EdgePoint Learning, our business is built on solid relationships and good communication.
+title: Contact
+permalink: /contact/
+
+hero-h1: We'd Love to Hear From You.
+
+#cards:
+#  - demos
+#  - newsletter
 ---
-<script>
-  fbq('track', 'ViewContent');
-</script>
-
-
-<h2>EdgePoint Enables Learning Program Partnerships</h2>
-
-<figure class="featuredIcon">{{ site.data.icons.chat.svg }}</figure>
-
-<p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
-
-<h3>Get In Touch</h3>
-
 {% assign form = site.forms | where:"title", "Contact Us" | first %}
-{{ form.content }}
 
-<section id="socialIcons">
-  <figure>
-    <a href="http://www.facebook.com/edgepointlearningllc" target="_blank">
-      {{ site.data.icons.facebook.svg }}
-    </a>
-  </figure>
+  <div class="cell">
+    <h2>EdgePoint Enables Learning Program Partnerships</h2>
+    <figure class="featured-image float-right">{% asset 'icons8/chat.svg' %}</figure>
+    <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
+  </div>
 
-  <figure>
-    <a href="https://twitter.com/EdgePointLearn" target="_blank">
-      {{ site.data.icons.twitter.svg }}
-    </a>
-  </figure>
+  <div class="cell medium-8 large-6">
+    <h2>{{ form.title }}</h2>
+    {{ form.content }}
+  </div>
+</div><!-- overriding _layouts/page.html -->
 
-  <figure>
-    <a href="https://www.linkedin.com/company/edgepoint-learning" target="_blank">
-      {{ site.data.icons.linkedin.svg }}
-    </a>
-  </figure>
+<div class="grid-x grid-margin-x content"><!-- overriding _layouts/page.html -->
+  <div class="cell marginTop">
+    <h2>Follow Us On Social!</h2>
+  </div>
+  {% for socialItem in site.data.social %}
+    <div class="cell social-card medium-4" style="background-color:{{ socialItem.color }}">
+      <a href="{{ socialItem.url }}">
+        <h3 class="h5">
+          {% asset 'social/{{ socialItem.svg] }}.svg' %}
+          {{ socialItem.title }}
+        </h3>
+      </a>
+    </div>
+  {% endfor %}
 
-  <figure>
-    <a href="http://vimeo.com/edgepointlearning" target="_blank">
-      {{ site.data.icons.vimeo.svg }}
-    </a>
-  </figure>
-</section>
+<!-- the </div> is in _layouts/page.html -->

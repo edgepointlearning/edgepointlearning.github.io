@@ -1,13 +1,14 @@
 ---
 title: How To Prevent Workplace Violence - 7 Steps To Take Right Now
 permalink: /blog/workplace-violence-prevention/
-author: Corey Bleich
-background: 2018-02-28-workplace-violence-prevention.jpg
+author:
+  name: Corey Bleich
+image: blog/2018/2018-02-28-workplace-violence-prevention.jpg
 excerpt: Workplace violence is not something we can ignore as business leaders. Here are seven steps you can begin to take right now to prevent violent incidents in the future.
 related: false
 ---
 
-We should not have to have this conversation, but increasingly, workplace violence is something that we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791){:target="_blank"} while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"}, but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe. 
+We should not have to have this conversation, but increasingly, workplace violence is something that we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791){:target="_blank"} while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"}, but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.
 
 ### Who is at risk for workplace violence?
 
@@ -107,9 +108,9 @@ Training employees to be alert to warning signs of potential workplace violence 
 
 The 1950s had nuclear attack drills; these have been replaced in the 21st century by active shooter simulations and lockdown drills. No one wants to think about the worst-case scenario, much less practice it regularly, but having a plan in place could save lives.
 
-Workplace violence prevention training may not be the most fun training you have ever offered your employees, but it just may be the most important. We can help make it easier. [EdgePoint Learning](https://www.edgepointlearning.com/) can customize training to your company’s needs (and budget).
+Workplace violence prevention training may not be the most fun training you have ever offered your employees, but it just may be the most important. We can help make it easier. [EdgePoint Learning](/) can customize training to your company’s needs (and budget).
 
-<strong>Make your workplace a safe place; [get in touch](https://www.edgepointlearning.com/contact/) today for a complete evaluation of your company’s workplace violence prevention policies and trainings.</strong>
+<strong>Make your workplace a safe place; [get in touch](/contact/) today for a complete evaluation of your company’s workplace violence prevention policies and trainings.</strong>
 
 <strong>Want even more eLearning news? Make sure to [subscribe to our newsletter](http://edg.pt/QcHQBm) today!</strong>
 

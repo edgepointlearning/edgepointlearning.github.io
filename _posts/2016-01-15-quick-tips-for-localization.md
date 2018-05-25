@@ -1,7 +1,8 @@
 ---
 title: Quick Tips for Localization
-author: Megan Dobransky
-background: 2015-01-15-quick-tips-for-localization.jpg
+author:
+  name: Megan Dobransky
+image: blog/2015/2015-01-15-quick-tips-for-localization.jpg
 excerpt: In this global economy where companies have offices all over the world, sometimes your courses will need to be translated and localized.
 redirect_from: "/2016/01/15/quick-tips-for-localization/"
 ---

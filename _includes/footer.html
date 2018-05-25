@@ -1,31 +1,64 @@
-<footer>
+<div class="footer-sitemap">
+  <div class="grid-container">
+    <footer class="grid-x">
+      <div class="cell medium-3 large-2">
+        <ul class="menu vertical">
+          <li class="menu-text h5">Our Site</li>
+          {% for navItem in site.data.sitemap %}
+            <li><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="cell medium-7 mediumer-7 large-8">
+        <ul class="menu vertical">
+          <li class="menu-text h5">Our Latest Posts</li>
+          {% for post in site.posts limit:4 %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </footer>
+  </div>
+</div>
 
-  <aside>
-    <h4>Our Website</h4>
-    <ul>
-      <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-      {% for menuitem in site.navItems %}
-        <li><a href="{{ menuitem.url  | prepend: site.baseurl }}">{{ menuitem.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </aside>
+<div class="footer-social">
+  <div class="grid-container">
+    <div class="grid-x align-justify">
+      <div class="cell medium-6 large-5">
+        {% include footer-newsletter.html %}
+      </div>
+      <div class="cell medium-shrink">
+        <h6>Follow us</h6>
+        {% for socialItem in site.data.social %}
+          <a href="{{ socialItem.url }}">{% asset 'social/{{ socialItem.svg] }}.svg' %}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
 
-  <aside>
-    <h4>Our Networks</h4>
-    <ul>
-      <li><a href="https://twitter.com/EdgePointLearn">Twitter</a></li>
-      <li><a href="http://www.facebook.com/edgepointlearningllc">Facebook</a></li>
-      <li><a href="https://www.linkedin.com/company/edgepoint-learning">LinkedIn</a></li>
-      <li><a href="http://vimeo.com/edgepointlearning">Vimeo</a></li>
-    </ul>
-  </aside>
-
-  <aside>
-    <h4>EdgePoint Learning</h4>
-    <ul>
-      <li>Innovative Learning Solutions for Better Business Results.</li>
-      <li>&copy; EdgePoint LLC.</li>
-    </ul>
-  </aside>
-
-</footer>
+<div class="footer-contact">
+  <div class="grid-container">
+    <div class="grid-x align-justify align-middle">
+      <div class="cell auto">
+        <div class="media-object">
+          <div class="media-object-section align-self-middle show-for-medium">
+            {% asset 'logo/epl-lettermark.svg' %}
+          </div>
+          <div class="media-object-section main-section">
+            <p>
+              +1 (480) 219-0052<br>
+              <span>7349 N Vía Paseo Del Sur</span> <span>#515-431,</span> <span>Scottsdale, AZ 85258</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="cell shrink text-right">
+        <a href="/contact/" class="button">Contact Us</a>
+      </div>
+      <div class="cell text-center">
+        © EdgePoint LLC.
+      </div>
+    </div>
+  </div>
+</div>

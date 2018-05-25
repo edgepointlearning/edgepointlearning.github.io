@@ -1,8 +1,9 @@
 ---
 title: 12 Neuroscience Breakthroughs That Will Help Improve Your Training
 permalink: /blog/learning-research-2017/
-author: Corey Bleich
-background: 2017-11-27-learning-research-2017.jpg
+author:
+  name: Corey Bleich
+image: blog/2017/2017-11-27-learning-research-2017.jpg
 excerpt: What we learned about the brain and training.
 related: false
 ---
@@ -100,7 +101,7 @@ Three of these topics deal directly with how we learn and process information, r
 
 Now more than ever, faster (and deeper) learning is needed for your employees. Some key takeaways from 2017's learning and behavioral neuroscience research suggests that as company leaders, we should:
 
-*  Use [gamified courses](https://www.edgepointlearning.com/blog/gamification-in-elearning), especially those that focus on strategy, to drive performance in key concepts
+*  Use [gamified courses](/blog/gamification-in-elearning), especially those that focus on strategy, to drive performance in key concepts
 *  Improve outreach and growth efforts with middle managers, encouraging them to prioritize ethics over sales targets and goals
 *  Focus on innovation and creativity in your training to encourage widespread organizational growth
 

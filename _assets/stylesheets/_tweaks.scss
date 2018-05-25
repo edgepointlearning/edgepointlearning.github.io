@@ -1,0 +1,76 @@
+.testimony {
+  // margin-left: 0.4em;
+  // text-indent: -0.4em;
+  quotes: "“" "”" "‘" "’";
+
+  &::before {
+    content: open-quote;
+    font-weight: bold;
+  }
+
+  &::after {
+    content: close-quote;
+    font-weight: bold;
+  }
+}
+
+.squat {
+  font-weight: 900;
+  color: $epl-off-black;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.featured-image {
+  width: 100%;
+  text-align: center;
+  margin-top: $global-margin;
+  margin-bottom: $global-margin;
+
+  img,
+  svg {
+    width: 140px;
+  }
+
+  @include breakpoint(medium) {
+    margin-left: $global-margin * 2;
+    margin-top: 0;
+    width: 200px;
+
+    img,
+    svg {
+      width: 200px;
+    }
+  }
+
+  @include breakpoint(large) {
+    width: 310px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @include breakpoint(xlarge) {
+    width: 400px;
+  }
+}
+
+.emMarginTop {
+  margin-top: 1em;
+}
+
+.noMarginTop {
+  margin-top: 0 !important;
+}
+
+.marginTop {
+  margin-top: $global-margin * 2;
+}
+
+.marginBot {
+  margin-bottom: $global-margin * 1.5;
+}
+
+.responsive-embed {
+  margin-top: $global-margin * 2;
+  margin-bottom: $global-margin * 2;
+}
