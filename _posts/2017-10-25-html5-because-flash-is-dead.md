@@ -1,8 +1,9 @@
 ---
 title: It's Time To Move Your Training To HTML5, Because Flash Is Super Dead
 permalink: /blog/html5-because-flash-is-dead/
-author: Tyler Campbell
-background: 2017-10-23-html5-because-flash-is-dead.jpg
+author:
+  name: Tyler Campbell
+image: blog/2017/2017-10-23-html5-because-flash-is-dead.jpg
 excerpt: From massive security scares to clunky frights, it's time to switch your outdated Flash courses to HTML5. Here's why.
 related: false
 ---
@@ -51,7 +52,7 @@ HTML5 has become the new industry standard for eLearning. This means that compan
 
 ### What are the benefits of making the switch?
 
-Because Flash uses so many resources – both in terms of battery life and the IT department for updates, bug fixes, and security breaches – [mLearning](https://www.edgepointlearning.com/blog/what-is-mlearning/) may not be possible. For a workforce that is heavily millennial, mLearning offers employees manageable bits of just-in-time training through mobile devices. For industries that rely on constant regulatory updates or strict process-oriented actions that frequently change, mLearning is crucial.
+Because Flash uses so many resources – both in terms of battery life and the IT department for updates, bug fixes, and security breaches – [mLearning](/blog/what-is-mlearning/) may not be possible. For a workforce that is heavily millennial, mLearning offers employees manageable bits of just-in-time training through mobile devices. For industries that rely on constant regulatory updates or strict process-oriented actions that frequently change, mLearning is crucial.
 
 Training your team in HTML5 is a move towards the future. For companies stuck in the Flash rut, many resources that rely on Flash will be outdated before they even get to market. Updating your company’s skillset by utilizing training and tools designed in HTML5 keeps you competitive. An eLearning module is only effective if it can be fully experienced and accessed.
 
@@ -73,6 +74,6 @@ There are many [HTML5 eLearning authoring tools](https://elearningindustry.com/t
 
 Converting your Flash eLearning course to HTML5 isn’t a simple drag-and-drop operation. There are times when resources, including, time, energy, and money, are best spent with a company who specializes in making the leap into the future of eLearning course design. Converting courses that work smoothly across devices often requires the attention of a professional.
 
-<strong>[Edgepoint Learning](https://www.edgepointlearning.com/) is a leader in eLearning course design and redevelopment. We can help update your slow, clunky Flash courses to fresh and agile HTML5 platforms. Get in touch today to formulate a plan that will best address your company’s needs.</strong>
+<strong>[Edgepoint Learning](/) is a leader in eLearning course design and redevelopment. We can help update your slow, clunky Flash courses to fresh and agile HTML5 platforms. Get in touch today to formulate a plan that will best address your company’s needs.</strong>
 
 [Contact Us](/contact/ ){:class="button"}

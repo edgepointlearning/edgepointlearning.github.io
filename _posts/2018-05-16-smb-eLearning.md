@@ -1,8 +1,9 @@
 ---
 title:  Where Should Small-Medium Businesses Start With eLearning?
 permalink: /blog/smb-eLearning/
-author: Corey Bleich
-background: 2018-05-16-smb-eLearning.jpg
+author:
+  name: Corey Bleich
+image: blog/2018/2018-05-16-smb-eLearning.jpg
 excerpt: It's possible for small-medium businesses to find sustainable and affordable eLearning solutions to train their employees. From assessment to ongoing audits, here's how to get started with eLearning for your SMB.
 related: false
 ---
@@ -41,7 +42,8 @@ Mix-and-matching these eLearning training methods for small businesses gives you
 
 So now you know what you need, and maybe you have even decided which type of SMB eLearning approach you want to focus on. What’s next? For any type of training approach, there will be a few steps to take to develop it for your company.
 
-![eLearning For Small-Medium Businesses ](/assets/images/blog/smb-elearning-infographic.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2018/2018-05-16-smb-elearning-infographic.jpg' alt:'eLearning For Small-Medium Businesses' %}
+{: .marginTop .marginBot}
 
 #### Start with buy-in from the top
 

@@ -1,0 +1,23 @@
+.layout-post {
+  h1 {
+    margin-top: 1em;
+    line-height: 1.2;
+
+    a {
+      color: $black;
+      font-weight: 600;
+    }
+  }
+
+  .meta {
+    font-size: 0.8em;
+    color: $dark-gray;
+    margin-top: $global-margin * 1.5;
+    border-bottom: 1px solid $light-gray;
+    padding-bottom: $global-padding;;
+
+    .squat {
+      margin-right: $global-margin;
+    }
+  }
+}

@@ -1,8 +1,9 @@
 ---
 title: What Is mLearning, Or Mobile Learning?
 permalink: /blog/what-is-mlearning/
-author: Nikki VanRy
-background: 2017-05-17-mlearning.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-05-17-mlearning.jpg
 excerpt: mLearning isn't just eLearning that's designed for mobile phones and tablets. It uses the advantages of mobile devices to create more focused training materials for your employees.
 related: false
 ---
@@ -68,7 +69,8 @@ For video content specifically, include easy volume control. If your sales perso
 
 You can create mobile learning courses based on your existing eLearning content, as long as you redesign those courses to actively play into the benefits of mobile. Your courses won't just be smaller—they'll be redesigned for each and every screen.
 
-![What Is mLearning?](/assets/images/blog/what-is-mlearning.svg)
+{% img 'blog/2017/2017-05-17-what-is-mlearning.svg' alt:'What is mLearning?' %}
+{: .wideImage .marginTop .marginBot}
 
 ### Mobile learning for your workforce
 
@@ -84,7 +86,7 @@ To learn more about the different types of employee training out there, check ou
 
 To read more about how to create a learning program for your company, check out our related posts on the topic:
 
-*  [How To Create Your Custom eLearning Course, With 25 Free Tools ](http://www.edgepointlearning.com/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)
-*  [Instructor-led Training vs. eLearning ](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)
-*  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
-*  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)
+*  [How To Create Your Custom eLearning Course, With 25 Free Tools ](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)
+*  [Instructor-led Training vs. eLearning ](/blog/Instructor-led-Training-vs-eLearning/)
+*  [When to Outsource Your eLearning](/blog/when-to-outsource-your-elearning/)
+*  [Is It Time to Evaluate Your Training Strategy?](/blog/is-it-time-to-evaluate-your-training-strategy/)

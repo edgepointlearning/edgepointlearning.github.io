@@ -1,7 +1,8 @@
 ---
 title: Top 10 Types of Employee Training
-author: Nikki VanRy
-background: 2017-04-27-top-10-types-of-employee-training.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-04-27-top-10-types-of-employee-training.jpg
 excerpt: Matching the types of employee training to your employee needs can ensure your employees receive the information they need, in the format best suited for it.
 related: false
 redirect_from: "/2017/04/27/top-10-types-of-employee-training/"
@@ -28,14 +29,14 @@ We discuss the ideal situations for each type of training, along with their resp
 
 Instructor-led training is the traditional type of employee training that occurs in a classroom, with a teacher presenting the material.
 This can be a highly effective method of employee training, especially for complex topics. Instructors can answer specific employee questions or direct them to further resources. They also allow for highly-skilled instructors to match the training level and style to the employees in the room.
-However, instructor-led training does have some drawbacks, including cost and time to implement. It can also be unnecessary for concise topics. We discuss more about this in our post, "[Instructor-Led Training Vs. eLearning.](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)"
+However, instructor-led training does have some drawbacks, including cost and time to implement. It can also be unnecessary for concise topics. We discuss more about this in our post, "[Instructor-Led Training Vs. eLearning.](/blog/Instructor-led-Training-vs-eLearning/)"
 
 ### eLearning
 
 eLearning, on the other hand, relies on online videos, tests, and courses to deliver employee training. Employees can do their training at their desk or on company-provided computers.
 It's one of the easiest types of employee training to roll out to larger populations, especially for employees who are remote or have high-turnover rates. With interactive games, tests, videos, activities, or even gamified components, it can also go a long way towards keeping your employees engaged with the training.
 
-Of course, eLearning also has its own challenges. Without a solid instructional design strategy behind it, the graphics and visuals that make eLearning fun can also make it gimmicky or quickly outdated. Keeping it up-to-date is also a necessary [best practice](http://www.edgepointlearning.com/2016/06/15/technical-training-best-practices/).
+Of course, eLearning also has its own challenges. Without a solid instructional design strategy behind it, the graphics and visuals that make eLearning fun can also make it gimmicky or quickly outdated. Keeping it up-to-date is also a necessary [best practice](http://127.0.0.1:4000/blog/technical-training-best-practices/).
 
 ### Simulation employee training
 
@@ -93,15 +94,9 @@ Finally, some topics are readily accessible through required readings. Case stud
 
 Case studies are a great option for focused topics, but more complex topics will likely require more advanced types of employee training.
 
-![Types of Employee Training](/assets/images/blog/types-of-employee-training.svg)
+{% img 'blog/2017/2017-04-27-types-of-employee-training.svg' alt:'Types of Employee Training' %}
+{: .wideImage .marginTop .marginBot}
 
-<b>If you match the type of training to the topic, you can create rich learning experiences for your employees. Click on the button below to learn more about the types of employee training EdgePoint can help create:</b>
+<p class="lead">If you match the type of training to the topic, you can create rich learning experiences for your employees. Click on the button below to learn more about the types of employee training EdgePoint can help create:</p>
 
 [Learning Solutions](/solutions/){:class="button"}
-
-To read more about how to create a learning program for your company, check out our related posts on the topic:
-
-*  [How To Create Your Custom eLearning Course, With 25 Free Tools ](http://www.edgepointlearning.com/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)
-*  [Instructor-led Training vs. eLearning ](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)
-*  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
-*  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)

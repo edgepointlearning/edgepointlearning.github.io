@@ -1,8 +1,9 @@
 ---
 title: How-To Create Nobu Quality eLearning Experiences Using Visual Design Guidelines
 permalink: /blog/quality-elearning-experiences/
-author: Quincy Conley, PhD
-background: 2017-10-16-quality-elearning-experiences.jpg
+author:
+  name: Quincy Conley, PhD
+image: blog/2017/2017-10-16-quality-elearning-experiences.jpg
 excerpt: Quincy Conley, a Learning Scientist, explains how we can apply culinary lessons to create enchanting and quality eLearning experiences for our employees.
 related: false
 ---
@@ -15,7 +16,8 @@ World-renowned chef, Nobuyuki Matsuhisa (Nobu), with over 40 restaurant location
 
 As the chef’s brand suggests, all the senses cannot be separated, they are interconnected. In [Newsweek](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html){:target="_blank"}, Chef Nobu’s self-description of his renowned restaurants are that the “... the food and concept are very simple, but always with a twist, like a new product or ingredients and presentations.” His passion is to make his restaurant goers say, “that’s beautiful!” during their culinary experience.
 
-![nobu](/assets/images/blog/nobu/nobu.png "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-16-nobu-group.jpg' alt:'Nobu Entrance' class:'thumbnail' %}
+{: .wideImage .marginTop .marginBot}
 
 ### What makes for high-quality eLearning experiences?
 
@@ -44,7 +46,8 @@ Stemming from the graphic design world, thesee are four principles for good visu
 To start, let's bring it back to Nobu.
 One of Nobu’s signature dishes, and a personal favorite, is the Black Miso Cod. One of the first things you might notice in its presentation is the contrasting colors. The cod itself is a light color, with purposeful grill marks. Additionally, there is a nice pink pickled ginger root used to cleanse the palate with green bamboo leafs to add elegance.
 
-![nobu dish](/assets/images/blog/nobu/nobu-dish.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-16-nobu-dish' alt:'A Nobu dish' %}
+{: .wideImage .marginTop .marginBot}
 
 How can we create contrast like this in an eLearning project? If you're designing on your own, you can start with these ideas.
 
@@ -60,10 +63,10 @@ There are two reasons why we care about repetition in my purview.
 
 First, because we know people don’t absorb information after encountering it once, we need to present information multiple times in multiple ways for them to learn it. You may have heard of the phrase:
 
-<center><cite>“Tell them what you are going to tell them…<br>
+<p><center>“Tell them what you are going to tell them…<br>
 ...tell them…<br>
 ...and then tell them what you told them.”
-</cite></center>
+</center></p>
 
 This is an old adage that is based on human behavior.
 
@@ -71,7 +74,8 @@ The other reason we should care about this principle is because we want to free 
 
 An example where this comes into play is when designing an eLearning module where the navigation buttons are different from screen-to-screen. The action is not consistent so the learner has to think about how to simply advance through the course. This takes away valuable cognitive resources from learning what you want them to learn.
 
-![nobu repetition](/assets/images/blog/nobu/nobu-repetition.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-16-nobu-repetition.jpg' alt:'An example of Nobu repetition' %}
+{: .wideImage .marginTop .marginBot}
 
 At Nobu, they focus on repetition by presenting dishes in an excruciatingly-detailed way in order to create the same impression on each guest. To provide a consistently enjoyable experience, every bite should be just as delicious as the previous.
 
@@ -83,7 +87,8 @@ You might have heard of the term screen real estate. Just like in real estate, y
 
 As an experiment, try creating a screen where nothing is aligned or only one thing is askew. Tell me how easy it is for the eye to pick up on that. It can be distracting.
 
-![nobu alignment](/assets/images/blog/nobu/nobu-alignment.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-16-nobu-alignment' alt:'An example of Nobu alignment' %}
+{: .wideImage .marginTop .marginBot}
 
 Another international hit that sets the tone at Nobu is the Yellowtail Sashimi with Jalapeño. The alignment between the subtleness of the tuna combined with the heat of the jalapeño combines to create an epic full flavor that would make [Kanye walk to Nobu](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"} to get it.
 
@@ -93,7 +98,8 @@ Proximity relates to creating relationships between objects or information. We u
 
 So, what we are really talking about is how to create relationships between images and text or images and other images in a tight space without confusing the learner.
 
-![nobu proximity](/assets/images/blog/nobu/nobu-proximity.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-16-nobu-proximity' alt:'An example of Nobu proximity' %}
+{: .wideImage .marginTop .marginBot}
 
 To create new relationships for your palate, Chef Nobu often deconstructs some of his signature dishes to accentuate the intended flavors. For instance, using ingredients similar to tiramisu, the Suntory Cappuccino is layered valrhona chocolate almond crunch, coffee cream, whisky foam, and milk ice cream. This technique only heightens the best of the flavors.
 
@@ -115,13 +121,11 @@ In the end, the most important thing is to simply be aware of the visual design 
 
 <strong>What methods have you used to create quality eLearning experiences for your employees? </strong>
 
-*Images courtesy of NobuRestaurants.com*
-
 ---
 
-*Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and research for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
+{% img 'blog/2017/2017-10-16-quincy-conley.jpg' alt:'Quincy Conley' class:'float-right' %}
 
-![Quincy Conley](/assets/images/blog/nobu/quincy-conley.png "RESPONSIVE image"){:class=""}
+*Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and research for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
 
 ---
 
@@ -145,3 +149,7 @@ Retrieved October 5, 2017, from [https://firstwefeast.com/eat/2014/09/nobu-matsu
 *  Terenzio, O. (2016, June 28). Q&A with Chef Nobu Matsuhisa: On Global Expansion, Good Teams & Staying on the Customer’s Side - Open for Business. Retrieved September 28, 2017, from [http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/](http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/){:target="_blank"}
 
 *  Wall Klieves, L., Orcutt, R., Peters, D. (2014). Eleven tips for visual design and layout. In K. Forni (Ed.), Making learning memorable with graphics and visual design (pp. 9–12). Santa Rosa, CA: The eLearning Guild.
+
+---
+
+*Images courtesy of NobuRestaurants.com*
