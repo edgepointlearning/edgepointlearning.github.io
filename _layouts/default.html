@@ -16,6 +16,20 @@
     </div>
     {% js main %}
     <script>console.log("jekyll environment: {{ jekyll.environment }}");</script>
+
+    {% if jekyll.environment != 'development' %}
+      <!-- infusionsoft -->
+      <script type="text/javascript" src="https://lf225.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=926f8dd3ace37216a9075cd6342f6d38"></script>
+      <!-- google analytics -->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-47645104-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
   </body>
 
 </html>
