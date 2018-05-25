@@ -1,9 +1,8 @@
 ---
 title: 12 Absolutely Amazing Advantages Of eLearning For Your Employees
 permalink: /blog/advantages-of-elearning/
-author:
-  name: Nikki VanRy
-image: blog/2017/2017-06-13-hero-advantages-of-elearning.jpg
+author: Nikki VanRy
+background: hero-advantages-of-elearning.jpg
 excerpt: Saving money and employee time? These are only two of the many advantages of eLearning for your workforce.
 related: false
 ---
@@ -30,7 +29,7 @@ eLearning can reduce employee time associated with:
 
 ###  3. Better employee retention for most training topics
 
-As we discussed in an earlier post, eLearning is simply a better way to [train employees](/blog/Instructor-led-Training-vs-eLearning/) on certain topics.
+As we discussed in an earlier post, eLearning is simply a better way to [train employees](http://www.edgepointlearning.com/blog/Instructor-led-Training-vs-eLearning/) on certain topics.
 
 With gamification, videos, and other interactive content, eLearning can greatly increase your employee's engagement with and retention of key information. This is especially true for specific, concise topics, such as new software training, compliance procedures, or reference guides that they can access on-the-go.
 
@@ -42,7 +41,7 @@ Speaking of on-the-go, one of the greatest benefits of eLearning in the workplac
 
 If your training covers a lot of material that will need to be referenced later—such as new product specifications—eLearning provides your employees with the opportunity to access those resources right when they need them.
 
-Instead of being confined to the classroom, eLearning materials can go wherever your employees go. (Especially with the advent of [mLearning](/blog/what-is-mlearning/), or mobile learning.)
+Instead of being confined to the classroom, eLearning materials can go wherever your employees go. (Especially with the advent of [mLearning](http://www.edgepointlearning.com/blog/what-is-mlearning/), or mobile learning.)
 
 ###  6. Guarantees a risk-free environment for your employees
 
@@ -74,7 +73,7 @@ Not so with eLearning. As [Bridge](https://www.getbridge.com/lc/articles/benefit
 
 ###  11. Ensures training consistency and standardization
 
-Once you've put in the work to [create an eLearning course](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/), you know that all of your employees will receive the same high-quality training, no matter where they are.
+Once you've put in the work to [create an eLearning course](http://www.edgepointlearning.com/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/), you know that all of your employees will receive the same high-quality training, no matter where they are.
 
 While the presence of an instructor can create a more dynamic learning environment, not all instructors will focus on the same materials or provide that same level of care. One of the greatest advantages of eLearning is simply ensuring that all of your employees receive the training they need.
 
@@ -84,14 +83,13 @@ Switching to eLearning isn't only financially savvy; it's also better for the en
 
 "Producing and providing distance learning courses consumes an average of <strong>90% less energy</strong> and produces <strong>85% fewer CO2 emissions</strong> per student than conventional face-to-face courses."
 
-{% img 'blog/2017/2017-06-13-advantages-of-elearning.jpg' alt:'12 Advantages of eLearning For Your Employees' %}
-{: .wideImage .marginTop .marginBot}
+![Advantages Of e-Learning](/assets/images/blog/advantages-of-elearning.jpg "RESPONSIVE image"){:class="img-responsive"}
 
 ###  What about the disadvantages of eLearning?
 
 Your employees will undoubtedly benefit from eLearning modules on most topics, as will your ROI. But, that doesn't mean that eLearning is always the best solution. There are some disadvantages of eLearning.
 For complex, collaborative topics, employees will still get the most benefit from small group training sessions. This is also true for hands-on, mentorship programs.
-Further, eLearning courses must be designed well so they don't distract the learner with overly flashy graphics or animations. You can learn more about the differences between [eLearning and instructor-led training](/blog/Instructor-led-Training-vs-eLearning/) in our recent post.
+Further, eLearning courses must be designed well so they don't distract the learner with overly flashy graphics or animations. You can learn more about the differences between [eLearning and instructor-led training](http://www.edgepointlearning.com/blog/Instructor-led-Training-vs-eLearning/) in our recent post.
 
 ###  Get started with your own eLearning solutions
 

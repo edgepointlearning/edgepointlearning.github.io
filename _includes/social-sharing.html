@@ -1,0 +1,43 @@
+<!-- assign share_url = "http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/" cgi_escape -->
+{% assign share_url = site.url | append: page.url | cgi_escape %}
+{% assign share_title = page.title %}
+{% assign share_excerpt = page.excerpt %}
+
+<a
+ href="https://facebook.com/sharer/sharer.php?u={{ share_url }}"
+ title="Share to Facebook"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-facebook.svg }}
+</a>
+
+<a
+ href="https://twitter.com/intent/tweet/?text='{{ share_title }}'&amp;url={{ share_url }}"
+ title="Share to Twitter"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-twitter.svg }}
+</a>
+
+<a
+ href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
+ title="Share to LinkedIn"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-linkedin.svg }}
+</a>
+
+<a
+ href="https://plus.google.com/share?url={{ share_url }}"
+ title="Share to Google+"
+ class="js-social-share"
+ target="_blank">
+  {{ site.data.icons.social-google.svg }}
+</a>
+
+<a
+ href="mailto:?subject={{ share_title }}&amp;body={{ share_url }}"
+ title="Share via Email"
+ target="_self">
+ {{ site.data.icons.social-email.svg }}
+</a>

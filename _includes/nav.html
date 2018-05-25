@@ -1,80 +1,15 @@
-<!-- TITLE BAR FOR SMALL BREAKPOINT -->
-<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
-  <button class="menu-icon" type="button" data-toggle="offCanvas"></button>
-  <div class="title-bar-right">
-    {% asset 'logo/epl-lettermark.svg' %}
-  </div>
-</div>
+<nav>
+  <a href="{{ "/" | prepend: site.baseurl }}">{{ site.data.icons.epl-horz.svg }}</a>
+  {% for menuitem in site.navItems %}
+    {% if menuitem.url == page.dir %}
+        {% assign class = "active" %}
+    {% elsif menuitem.url == '/blog/' and page.layout == 'post' %}
+        {% assign class = "active" %}
+    {% else %}
+        {% assign class = "normal" %}
+    {% endif %}
 
-<!-- NAV FOR MEDIUM+ BREAKPOINT -->
-<div class="grid-container show-for-medium">
-  <div class="grid-x align-justify align-middle">
+    <a class="{{ class }}" href="{{ menuitem.url  | prepend: site.baseurl }}">{{ menuitem.title }}</a>
 
-    <div class="cell shrink nav-logo">
-      <ul class="menu">
-        <li>
-          <a href="/">
-            {% asset 'logo/epl-horizontal-combination-mark.svg' %}
-          </a>
-        </li>
-      </ul>
-    </div>
-
-    <div class="cell shrink nav-social">
-      <ul class="menu align-right align-middle">
-        {% for socialItem in site.data.social %}
-          <li><a href="{{ socialItem.url }}">{% asset 'social/{{ socialItem.svg] }}.svg' %}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-
-  </div>
-</div>
-
-<div class="grid-x show-for-medium nav-pages">
-  <div class="cell">
-    <div class="grid-container">
-      <div class="cell">
-        <ul class="menu">
-          {% for navItem in site.data.sitemap %}
-            {% if navItem.url == page.dir %}
-                {% assign class = "active" %}
-            {% elsif navItem.url == '/stories/' and page.story == true %}
-                {% assign class = "active" %}
-            {% elsif navItem.url == '/blog/' and page.blog == true %}
-                {% assign class = "active" %}
-            {% else %}
-                {% assign class = "normal" %}
-            {% endif %}
-            <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
-            {% endfor %}
-        </ul>
-      </div>
-
-      {% if page.layout == 'story' %}
-      <div class="cell show-for-medium">
-        <nav aria-label="You are here:" role="navigation">
-          <ul class="breadcrumbs">
-            <li><a href="/">Home</a></li>
-            <li><a href="/stories/">Success Stories</a></li>
-            <li><a href="{{ page.url }}"><span class="show-for-sr">Current: </span>{{ page.title }}</a></li>
-          </ul>
-        </nav>
-      </div>
-      {% endif %}
-
-      {% if page.layout == 'post' %}
-        <div class="cell show-for-mediumer">
-          <nav aria-label="You are here:" role="navigation">
-            <ul class="breadcrumbs">
-              <li><a href="/">Home</a></li>
-              <li><a href="/blog/">Blog</a></li>
-              <li><a href="{{ page.url }}"><span class="show-for-sr">Current: </span>{{ page.title }}</a></li>
-            </ul>
-          </nav>
-        </div>
-      {% endif %}
-
-    </div>
-  </div>
-</div>
+  {% endfor %}
+</nav>

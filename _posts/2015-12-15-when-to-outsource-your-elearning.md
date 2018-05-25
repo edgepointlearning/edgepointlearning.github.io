@@ -1,8 +1,7 @@
 ---
 title: When to Outsource Your eLearning
-author:
-  name: Megan Dobransky
-image: blog/2014/2014-12-15-when-to-outsource-your-elearning.jpg
+author: Megan Dobransky
+background: 2014-12-15-when-to-outsource-your-elearning.jpg
 excerpt: Even if you have the best instructional design and training team, you'll sometimes need to outsource your eLearning. But how do you know?
 redirect_from: "/2015/12/15/when-to-outsource-your-elearning/"
 ---

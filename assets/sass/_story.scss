@@ -1,0 +1,14 @@
+main#story {
+  h2 {
+    line-height: 1.2em;
+    margin-left: .4em;
+    text-indent: -.4em;
+    quotes: "“" "”" "‘" "’";
+    &:before {
+      content: open-quote;
+    }
+    &:after {
+      content: close-quote;
+    }
+  }
+}

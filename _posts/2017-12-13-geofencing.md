@@ -1,19 +1,18 @@
 ---
 title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
 permalink: /blog/geofencing/
-author: 
-  name: Corey Bleich
-image: blog/2017/2017-12-13-geofencing.jpg
+author: Corey Bleich
+background: 2017-12-13-geofencing.jpg
 excerpt: Geofencing technology—originally used for retail sales—is increasingly providing cutting-edge and immediate access for recruitment and employee training programs.
 related: false
 ---
 
-Picture this: you need to figure out a way to effectively design and deliver on-the-ground employee training, but the fact that many employees are out in the field more often than not makes this a challenge. You already know about [microlearning](/blog/microlearning) and have developed multiple small bites of training to be accessed by employees, but they only need parts of it at certain times and in certain locations.
+Picture this: you need to figure out a way to effectively design and deliver on-the-ground employee training, but the fact that many employees are out in the field more often than not makes this a challenge. You already know about [microlearning](https://www.edgepointlearning.com/blog/microlearning) and have developed multiple small bites of training to be accessed by employees, but they only need parts of it at certain times and in certain locations.
 
 The next-level solution for your employee training program? Geofencing.
 
 ### What is a geofence?
-
+ 
 A geofence is an electronic boundary placed around a particular area. It's typically used to notify businesses when a customer enters that area. Geofencing apps can help design and implement a geofence through Google maps.
 
 While it may have started as a sales technique, now geofencing has found expanded use in training and recruitment. For example, new employee training programs can target employees in very specific regions and provide them with the training materials they need.
@@ -66,6 +65,6 @@ While compliance, operating procedures, and checklists may not be life-and-death
 
 Geofencing can also make the best use of the average [24 minutes a week](https://www.evernote.com/shard/s173/sh/ae2588e8-cd17-449e-b2fc-0b5293498a7a/7d40d8aafddc3662){:target="_blank"} employees typically have for training by delivering just-in-time information when they need it most.
 
-If you want to see how location-aware geofencing can revolutionize the way you train your employees, give the team at [EdgePoint Learning](/contact/) a call.
+If you want to see how location-aware geofencing can revolutionize the way you train your employees, give the team at [EdgePoint Learning](https://www.edgepointlearning.com/contact/) a call.
 
 [Contact Us](/contact/ ){:class="button"}

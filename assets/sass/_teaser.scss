@@ -1,0 +1,73 @@
+#archive {
+  margin-top: 3em;
+
+  a {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    margin: 1.5em 0;
+    padding: 0 0 1.5em 0;
+    border-bottom: 1px solid $epl-grey-2;
+    &:hover {
+      text-decoration: none;
+      h3 {
+        text-decoration: underline;
+      }
+    }
+    &:last-of-type {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: .5em;
+    }
+
+  }
+  figure {
+    width: 100%;
+    height: 50vw;
+    margin: 0 0 .5em 0;
+    background-position: center;
+    background-size: cover;
+  }
+  section {
+    margin: 0;
+    padding: 0;
+  }
+  h3.teaser-title {
+    padding: 0;
+    @include proxima-nova;
+    font-weight: 500;
+    color: $epl-blue;
+  }
+  p {
+    margin: 0;
+    color: $picnic-black;
+    font-weight: 300;
+  }
+  p.date {
+    display: none;
+    color: $epl-grey-1;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+    figure {
+      height: 4.5em;
+      width: 7em;
+      margin: 0;
+    }
+    section {
+      margin: 0 1em;
+      flex: 1;
+    }
+  }
+
+  @include breakpoint($breakpoint-ipad) {
+    p.date {
+      display: inherit;
+    }
+  }
+  @include breakpoint($breakpoint-full) {
+    margin-top: 6em;
+  }
+}

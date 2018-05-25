@@ -1,3 +1,4 @@
+# solutions.yml v1.3
 - id   : compliance
   title: Compliance & Regulatory
   icon : shield
@@ -5,8 +6,8 @@
   link : '#'
 
 - id   : customer
-  title: Customer Service
-  icon : phone-office
+  title: Customer Service Training
+  icon : phone
   desc : Make sure your customer account and support teams have the skills to meet the customer satisfaction challenge.
   link : '#'
 
@@ -29,19 +30,19 @@
   link : '#'
 
 - id   : process
-  title: New Process & Systems
-  icon : settings
+  title: New Process & Systems Training
+  icon : gears
   desc : Get your teams up to speed on technology and business processes with training that drives successful implementation and rapid adoption.
   link : '#'
 
 - id   : product
-  title: Product Education & Sales
-  icon : statistics
+  title: Product Education & Sales Training
+  icon : crosshair
   desc : Arm your sales channels with engaging education programs that directly benefit your top and bottom lines.
   link : '#'
 
 - id   : professional
   title: Professional Development
-  icon : diploma
+  icon : star
   desc : Give your employees the tools to succeed by deploying well-designed training on your latest initiatives and vital skill sets.
   link : '#'

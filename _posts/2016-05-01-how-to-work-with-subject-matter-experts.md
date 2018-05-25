@@ -1,8 +1,7 @@
 ---
 title: How to Work with Subject Matter Experts
-author:
-  name: Megan Dobransky
-image: blog/2015/2015-05-01-how-to-work-with-subject-matter-experts.jpg
+author: Megan Dobransky
+background: 2015-05-01-how-to-work-with-subject-matter-experts.jpg
 excerpt: Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people. 
 redirect_from: "/2016/05/01/how-to-work-with-subject-matter-experts/"
 ---

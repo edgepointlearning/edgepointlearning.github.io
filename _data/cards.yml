@@ -14,14 +14,14 @@
 
 - id     : newsletter
   title  : Stay Informed!
-  icon   : paper-plane
+  icon   : plane
   button : Subscribe
   link   : '/form/newsletter/'
   desc   : Keep up to date on learning industry news and the latest EdgePoint offerings.
 
 - id     : solutions
   title  : Solutions That Drive Your Business
-  icon   : light-on
+  icon   : lightbulb
   button : Learn
   link   : /solutions/
   desc   : EdgePoint’s team works closely with you to understand your business and craft a targeted learning solution that works.
@@ -40,17 +40,18 @@
   link   : '/form/talk/'
   desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working. Contact us to see how we can work together.
 
-# - id     : sampler
-#   title  : Learn More
-#   icon   : plane
-#   button : Contact Us
-#   link   : '/contact/'
-#   desc   : EdgePoint Learning is ready to enable your next Training or Learning & Development initiative. Connect with us today, and we’ll quickly gain an understanding of your business objectives and desired outcomes. Together, we will craft an exceptional custom solution.
-#
-# - id     : brochure-AK
-#   icon   : rocket
-#   desc   : '<p><em>"EdgePoint understands our uniqueness and works with us like others can’t. Their responsiveness is second to none. I have yet to find another provider that is as reliable, competent, ethical, trustworthy and economically competitive as EdgePoint Learning."</em></p><p><strong>Todd Brocious<br>State of Alaska Department of Education and Early Development</strong></p>'
-#
-# - id     : brochure-BOTW
-#   icon   : bullseye
-#   desc   : '<p><em>"We’re planning for tremendous growth and with that growth, we’re going to need tremendous training. What I have found to be unique about working with EdgePoint is that they actually care about the learners."</em></p><p><strong>Dr. Kristin Jacobs<br>Vice President and eLearning Manager, Bank of the West</strong></p>'
+- id     : sampler
+  title  : Learn More
+  icon   : plane
+  button : Contact Us
+  link   : '/contact/'
+  desc   : "<p>EdgePoint Learning is ready to enable your next Training or Learning & Development initiative. Connect with us today, and we’ll quickly gain an understanding of your business objectives and desired outcomes. Together, we will craft an exceptional custom solution.</p>"
+
+
+- id     : brochure-AK
+  icon   : rocket
+  desc   : '<p><em>"EdgePoint understands our uniqueness and works with us like others can’t. Their responsiveness is second to none. I have yet to find another provider that is as reliable, competent, ethical, trustworthy and economically competitive as EdgePoint Learning."</em></p><p><strong>Todd Brocious<br>State of Alaska Department of Education and Early Development</strong></p>'
+
+- id     : brochure-BOTW
+  icon   : bullseye
+  desc   : '<p><em>"We’re planning for tremendous growth and with that growth, we’re going to need tremendous training. What I have found to be unique about working with EdgePoint is that they actually care about the learners."</em></p><p><strong>Dr. Kristin Jacobs<br>Vice President and eLearning Manager, Bank of the West</strong></p>'

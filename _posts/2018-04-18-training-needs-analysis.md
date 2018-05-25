@@ -1,9 +1,8 @@
 ---
 title: How To Conduct A Training Needs Analysis
 permalink: /blog/training-needs-analysis/
-author:
-  name: Corey Bleich
-image: blog/2018/2018-04-18-training-needs-analysis.jpg
+author: Corey Bleich
+background: 2018-04-18-training-needs-analysis.jpg
 excerpt:  Conducting a training needs analysis (TNA) before you start putting together your training program is a crucial step to developing more effective training materials and capturing the best use of your production time. Here's how to get started.
 related: false
 ---
@@ -106,7 +105,7 @@ A training needs analysis figures out exactly where you are starting and what yo
 
 ### Is there a training needs analysis example I can use to start?
 
-[EdgePoint Learning](/) conducts a complete training needs analysis for every company we work with before we begin developing their training program. Here’s a training needs analysis example from the companies we work with.
+[EdgePoint Learning](https://www.edgepointlearning.com/) conducts a complete training needs analysis for every company we work with before we begin developing their training program. Here’s a training needs analysis example from the companies we work with.
 
 #### Step 1: Develop a company profile
 
@@ -138,4 +137,4 @@ Finally, after evaluating your existing company, its goals, and its current trai
 
 These recommendations are individualized to your company’s needs, not some one-size-fits all “solution.” Maybe the information your trainings provide is great but needs an updated delivery method, or maybe you need a total overhaul. We make recommendations based on your company’s goals and work with you to help implement them.
 
-<strong>An EdgePoint Learning training needs analysis helps you fine-tune and get more out of your training. More importantly, it can help your business to grow. Want to learn more about what we do? [Book a demo today](/form/demo/). </strong>
+<strong>An EdgePoint Learning training needs analysis helps you fine-tune and get more out of your training. More importantly, it can help your business to grow. Want to learn more about what we do? [Book a demo today](https://www.edgepointlearning.com/form/demo/). </strong>

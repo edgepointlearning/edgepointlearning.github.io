@@ -1,0 +1,102 @@
+// 18, 24, 29, 35
+
+article#content {
+  h2 {
+    @include serifa;
+    font-weight: 400;
+  }
+  h2:first-of-type {
+    margin-top: .5em;
+  }
+  h3 {
+    @include serifa;
+    font-weight: 500;
+    margin-bottom: .2em;
+  }
+  .featuredIcon {
+    width: 8em;
+    margin: 0 auto 1em;
+  }
+  figure + p,
+  h3 + p {
+    margin-top: 0;
+  }
+  a.button {
+    @include epl-button;
+  }
+  @include breakpoint($breakpoint-5h) {
+    .featuredIcon {
+      width: 12em;
+      float: right;
+      margin: 0 0 0 2em;
+    }
+    .featuredIcon svg#heart {
+      margin-top: -1em;
+      margin-left: 2em;
+      width: 8em;
+    }
+    .featuredIcon svg#rocket {
+      width: 10em;
+    }
+    .featuredIcon svg#chat {
+      width: 9em;
+      margin-top: -1.5em;
+    }
+  }
+  @include breakpoint($breakpoint-full) {
+    .featuredIcon svg#heart {
+      margin-top: -1.5em;
+    }
+    .featuredIcon svg#chat {
+      margin-left: 1em;
+    }
+  }
+
+  section#clients {
+    overflow: hidden;
+    height: 132px;
+    img {
+      width: 2240px;
+      height: 122px;
+    }
+    figure {
+      position: absolute;
+      width: 5000px;
+      animation: marquee 120s linear infinite;
+    }
+  }
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-2250px); }
+  }
+  form#contactForm {
+    max-width: $breakpoint-5h;
+    margin: 1em 0;
+  }
+
+  section#socialIcons {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 3em 0;
+    figure {
+      width: 48%;
+      max-width: 120px;
+    }
+    @include breakpoint($breakpoint-5h) {
+      justify-content: space-between;
+      figure {
+        width: 120px;
+      }
+    }
+    svg:hover {
+      path {
+        fill: $epl-blue-1;
+      }
+    }
+  }
+}
+
+body#page-contact form.infusion-form {
+  margin: 1em 0;
+}

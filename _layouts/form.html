@@ -1,17 +1,35 @@
 ---
 layout: default
 ---
-<div class="grid-x hero align-middle align-center">
-  <div class="cell text-center">
-    <h1 class="noWidows">We'd Love to Hear From You.</h1>
-  </div>
-</div>
+<main>
 
-<div class="grid-container">
-  <div class="grid-x align-center content">
-    <div class="cell medium-8 large-6">
-      <h2>{{ page.title }}</h2>
-      <p class="marginTop">{{ content }}</p>
-    </div>
-  </div>
-</div>
+  {% include nav.html %}
+
+  <header id="hero">
+    {% if page.hero %}
+      <h1><b>{{ page.hero }}</b></h1>
+    {% endif %}
+  </header>
+
+  <article id="content">
+    <h2> {{ page.title }}</h2>
+
+    {{ content }}
+
+    {% if page.cards %}
+    <section id="cards">
+      {% for page_card in page.cards %}
+        {% for card in site.data.cards %}
+          {% if page_card == card.id %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+  </article>
+
+  {% include footer.html %}
+
+</main>

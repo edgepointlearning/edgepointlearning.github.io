@@ -1,0 +1,71 @@
+// colors
+$epl-blue  : rgb(18, 81, 158);
+$epl-blue-0: rgb(12, 53, 103);
+$epl-blue-1: rgb(93, 134, 185);
+$epl-grey-0: rgb(51, 51, 51);
+$epl-grey  : rgb(88, 89, 91);
+$epl-grey-1: rgb(158,159,163);
+$epl-grey-2: rgb(230,230,230);
+$epl-grey-3: rgb(245,245,245);
+
+$breakpoint-5   : 320px;
+$breakpoint-6   : 375px;
+$breakpoint-5h  : 568px;
+$breakpoint-6h  : 667px;
+$breakpoint-ipad: 768px;
+$breakpoint-full: 960px;
+$breakpoint-max : 978px;
+
+@mixin proxima-nova {
+  font-family: "proxima-nova","Open Sans","Gill Sans MT","Gill Sans",Corbel,Arial,sans-serif;
+  //100,300,400,500
+}
+@mixin proxima-nova-condensed {
+  font-family: "proxima-nova-condensed","Helvetica Neue Condensed Bold","Arial Narrow",sans-serif;
+  font-weight: 400;
+}
+@mixin serifa {
+  font-family: "serifa","courier new", serif;
+  // 400,500
+}
+
+@mixin padding-horz {
+  padding-left: 1em;
+  padding-right: 1em;
+  @include breakpoint($breakpoint-max) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@mixin epl-button {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+@import
+  'picnic',
+  'modular-scale',
+  'container',
+  'nav',
+  'hero',
+  'footer',
+  'teaser',
+  'infusionsoft',
+  'content',
+  'card',
+  'solution',
+  'bio',
+  'typescale',
+  'post',
+  'story',
+  'brochure',
+  'demo',
+  'post-header',
+  'social-sharing',
+  'development'
+;

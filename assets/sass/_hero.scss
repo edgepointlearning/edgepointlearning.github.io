@@ -1,0 +1,25 @@
+#hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: $epl-blue-0;
+  background-image: url('/assets/images/triangles-2.jpg');
+  background-size: cover;
+  // background-position: bottom center;
+
+  min-height: .2em;
+
+  h1 {
+    margin: .8em auto;
+    line-height: 1.3em;
+    font-weight: 100;
+    text-align: center;
+    color: $epl-grey-2;
+    width: 100%; //IE11 fix
+  }
+  b, #typed {
+    font-weight: 300;
+    color: $picnic-white;
+  }
+}

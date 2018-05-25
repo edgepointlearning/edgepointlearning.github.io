@@ -1,9 +1,8 @@
 ---
 title: HIPAA Compliance Training 101 | What Do Your Employees Need?
 permalink: /blog/hipaa-compliance-training/
-author:
-  name: Brian Oderkirk
-image: blog/2018/2018-02-14-hipaa-compliance-training.jpg
+author: Brian Oderkirk
+background: hipaa-compliance-training.jpg
 excerpt: Ultimately, the goal of HIPAA compliance training is to protect your customers, not just fill a regulatory requirement. What are the goals of this training, and how can you best roll it out to your employees?
 related: false
 ---
@@ -87,14 +86,14 @@ Even better is if you have a regularly-scheduled assessment of your online secur
 
 Maybe you have a strong electronic security system in place, but your employees need more information on what’s protected and why.
 
-Once you know what you need, design a training that includes [e-Learning](/blog/business-case-for-elearning-development/) and [microlearning](/blog/microlearning/) to deliver new trainings and regulatory updates efficiently and effectively.
+Once you know what you need, design a training that includes [e-Learning](https://www.edgepointlearning.com/blog/business-case-for-elearning-development/) and [microlearning](https://www.edgepointlearning.com/blog/microlearning/) to deliver new trainings and regulatory updates efficiently and effectively.
 
 #### Step 3: Assess, pivot, and repeat
 
-Assessing what you’ve implemented is key. Ultimately, the goal of HIPAA compliance training is to protect your clients, not just fill a regulatory requirement. [Gamification](/blog/gamification-in-elearning/) can help you figure out how well your HIPAA training requirements are being met, and test employees on how much they know.
+Assessing what you’ve implemented is key. Ultimately, the goal of HIPAA compliance training is to protect your clients, not just fill a regulatory requirement. [Gamification](https://www.edgepointlearning.com/blog/gamification-in-elearning/) can help you figure out how well your HIPAA training requirements are being met, and test employees on how much they know.
 
 If employees have gaps in their knowledge or just need more, pivot to a strategy that fits the way they learn and what they need to know. Annual refreshers can help keep everyone up to date and in compliance.
 
-<strong>[EdgePoint Learning](/) offers both fully-customized and off-the-shelf mobile and online eLearning HIPAA training for your employees. Let us help you find a solution that fits your needs (and your budget!).</strong>
+<strong>[EdgePoint Learning](https://www.edgepointlearning.com/) offers both fully-customized and off-the-shelf mobile and online eLearning HIPAA training for your employees. Let us help you find a solution that fits your needs (and your budget!).</strong>
 
 <strong>Want even more eLearning news? Make sure to [subscribe to our newsletter](http://edg.pt/QcHQBm){:target="_blank"} today!</strong>

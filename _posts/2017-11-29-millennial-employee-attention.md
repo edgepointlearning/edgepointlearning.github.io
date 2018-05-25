@@ -1,9 +1,8 @@
 ---
 title: Capturing Millennial Employee Attention In a World Where We Work from Anywhere
 permalink: /blog/millennial-employee-attention/
-author:
-  name: Brian Oderkirk
-image: blog/2017/2017-11-25-millennial-employee-attention.jpg
+author: Brian Oderkirk
+background: 2017-11-25-millennial-employee-attention.jpg
 excerpt: You can capture millennial employees' attention by knowing what drives them, what you can learn from them, and how to capture their attention in a world where we work from anywhere.
 related: false
 ---
@@ -52,9 +51,7 @@ Companies like Apple and Google have a large and mobile [millennial workforce](h
 
 Offering variety, constant feedback, and a work environment that is flexible and engaging is just the beginning. Here are eight more ways to capture millennial attention.
 
-{% img 'blog/2017/2017-11-25-millennial-employee-attention-2.jpg' alt:'8 Tips For Capturing Milennial Attention' %}
-{: .wideImage .marginTop .marginBot}
-
+![Millennial Employee Attention](/assets/images/blog/millennial-employee-attention.jpg "RESPONSIVE image"){:class="img-responsive"}
 
 #### 1. Don’t dumb it down
 Just because information is delivered differently doesn’t mean it needs to be watered down or oversimplified.
@@ -72,13 +69,13 @@ Keep training tools agile (and earth-friendly) by ditching the binder and making
 Millennial employees want to know they are on the right track more often than an annual review.
 Training that incorporates rewards through gamification fits in with the millennial status as digital natives. It also positively reinforces what they're doing well, while offering feedback on what might be done better in a more light-hearted way.
 
-#### 4. Use [microlearning](/blog/microlearning) for bite-sized nibbles of information
+#### 4. Use [microlearning](https://www.edgepointlearning.com/blog/microlearning) for bite-sized nibbles of information
 
 A short, information-packed video delivered to any mobile device will be a more effective training tool for millennial employees than a full-day seminar in a conference room.
 
 Millennials are also more likely to access this information after hours and to revisit it when needed.
 
-#### 5. Use [mLearning](/blog/what-is-mlearning/) for larger bites
+#### 5. Use [mLearning](https://www.edgepointlearning.com/blog/what-is-mlearning/) for larger bites
 
 mLearning is an electronic training tool that can replace those clunky 3-ring binders. Think manuals, process-oriented information, and regulatory updates for this type of learning.
 
@@ -101,7 +98,7 @@ Because millennial employees value (nearly) constant feedback and personalized t
 
 Properly trained mentors can also help bridge the gap between generations in a company that wants to change but needs some help.
 
-<strong>Engaging millennial employees in the modern workplace can take some doing, but we're here to help at EdgePoint Learning. [Get in touch](/contact/) today to discuss training your different employee populations.</strong>
+<strong>Engaging millennial employees in the modern workplace can take some doing, but we're here to help at EdgePoint Learning. [Get in touch](https://www.edgepointlearning.com/contact/) today to discuss training your different employee populations.</strong>
 
 [Contact Us](/contact/ ){:class="button"}
 

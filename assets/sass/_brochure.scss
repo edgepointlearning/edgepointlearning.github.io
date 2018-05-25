@@ -1,0 +1,45 @@
+body#page-brochure header#hero {
+  // background-image: url('/assets/images/triangles.jpg');
+  // background-position: bottom center;
+  // background-size: cover;
+  h1 {
+    margin: 2em 0;
+  }
+}
+
+body#page-brochure aside.card {
+  width: 100%;
+  margin: 4em 0;
+  section {
+    justify-content: flex-start;
+  }
+  figure {
+    justify-content: center;
+  }
+  svg {
+    max-width: 140px;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+#card_sampler {
+  h4 {
+    @include serifa;
+    @include breakpoint($breakpoint-5h) {
+      font-size: ms(1);
+    }
+  }
+}
+
+body#page-brochure #card_brochure-BOTW {
+  section {
+    order: 2;
+  }
+}
+
+body#page-brochure div.download {
+  text-align: center;
+  border-top: 1px solid $epl-grey-2;
+  padding-top: .8em;
+}

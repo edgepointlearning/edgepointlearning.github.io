@@ -1,0 +1,21 @@
+form.infusion-form {
+  max-width: $breakpoint-6h;
+  margin-bottom: 3em;
+}
+div.infusion-field {
+  margin-bottom: 1em;
+}
+div.infusion-radio {
+  margin-top: .4em;
+  span {
+    display: block;
+    margin-left: 1em;
+    margin-bottom: .2em;
+  }
+}
+span.infusion-option {
+  margin-left: 1em;
+}
+a#go-home-button {
+  margin-top: 1.5em;
+}

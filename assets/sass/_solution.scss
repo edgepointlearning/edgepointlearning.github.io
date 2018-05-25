@@ -1,0 +1,56 @@
+// article
+//   figure > svg
+//     h3
+//     p
+//     p > a
+
+section#solutions {
+  margin-top: 3em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+article.solution {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 3em;
+  padding: 0;
+
+  figure {
+    display: none;
+    width: 0;
+  }
+  section {
+    width: 100%;
+    // display: flex;
+    // flex-flow: column;
+    // justify-content: space-between;
+  }
+
+  @include breakpoint($breakpoint-5h) {
+
+    figure {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      width: 15%;
+    }
+    svg {
+      width: 90%;
+      margin-top: 1em;
+    }
+    g, path {
+      stroke: $epl-grey-1;
+    }
+    section {
+      width: 85%;
+    }
+  }
+
+
+  @include breakpoint($breakpoint-ipad) {
+    width: 48%;
+
+  }
+}
