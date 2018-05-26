@@ -30,6 +30,7 @@
   img,
   svg {
     width: 140px;
+    height: 140px;
   }
 
   @include breakpoint(medium) {
@@ -40,6 +41,7 @@
     img,
     svg {
       width: 200px;
+      height: 200px;
     }
   }
 
