@@ -7,7 +7,7 @@ image: blog/2014/2014-01-01-dog-face.jpg
 excerpt: This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page.
 date: 2025-01-02
 related: false
-#redirect_from: "/blog/2001/01/01/sample-post"
+redirect_from: "/blog/2001/01/01/sample-post"
 ---
 
 ## Howdy!
@@ -43,6 +43,10 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 ## Header 2
 
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+
+<div class="responsive-embed">
+  <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Header 3
 
