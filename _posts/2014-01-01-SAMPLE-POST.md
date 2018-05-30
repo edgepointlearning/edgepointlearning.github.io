@@ -5,11 +5,9 @@ author:
   name: Tyler Campbell
 image: blog/2014/2014-01-01-dog-face.jpg
 excerpt: This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page.
-date: 2025-01-02 # optional, overrides filename for date
-related: false # optional, hides related posts block
-redirect_from: # optional, creates redirects if a page moves
-  - "/blog/2001/01/01/sample-post"
-  - "/blog/sample-post"
+date: 2025-01-02
+related: false
+#redirect_from: "/blog/2001/01/01/sample-post"
 ---
 
 ## Howdy!
