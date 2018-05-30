@@ -5,11 +5,12 @@
   }
 
   li:not(:last-of-type) a {
-    margin-right: $global-margin * 0.5;
+    margin-right: $global-margin;
   }
 
   svg {
-    width: 30px;
+    width: 35px;
+    height: 35px;
   }
 
   span.has-tip {
