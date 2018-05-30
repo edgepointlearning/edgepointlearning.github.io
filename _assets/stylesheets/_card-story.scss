@@ -8,12 +8,6 @@
     padding: $global-padding $global-padding 0;
   }
 
-  img,
-  svg {
-    margin: $global-margin * 1.3 $global-margin $global-margin $global-margin;
-    max-width: 100px;
-  }
-
   .h5 {
     font-weight: 600;
   }
@@ -24,6 +18,23 @@
     color: $white;
     padding: $global-padding * 0.5 $global-padding;
     margin: 0;
+  }
+
+  svg {
+    margin: $global-margin * 1.3 $global-margin $global-margin $global-margin;
+    width: 100px;
+    height: 100px;
+
+    @include breakpoint(mediumer) {
+      width: 60px;
+      height: 60px;
+    }
+
+    @include breakpoint(large) {
+      width: 100px;
+      height: 100px;
+    }
+
   }
 }
 
