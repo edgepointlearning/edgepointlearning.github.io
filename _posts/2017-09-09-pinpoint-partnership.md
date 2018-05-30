@@ -33,7 +33,7 @@ Applications exist for all industries, but mobile-native technology is especiall
 *  Hospitality
 *  Food and beverage
 
-<div class="responsive-embed vertical">
+<div class="responsive-embed">
   <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
@@ -50,7 +50,7 @@ And with PinPoint, that content creation can take place with the touch of a thum
 
 Need more than two thumbs? Access it all through a browser-based app from any device.
 
-<div class="responsive-embed vertical">
+<div class="responsive-embed">
   <iframe src="https://player.vimeo.com/video/218986846" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
