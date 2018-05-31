@@ -31,8 +31,9 @@ The stats don't lie:
 *  Most employees only have 24 minutes a week to dedicate to training
 *  [Microlearning resources](http://info.shiftelearning.com/blog/numbers-dont-lie-why-bite-sized-learning-is-better-for-your-learners-and-you-too){:target="_blank"} take 300% less time and 50% less cost to produce than traditional courses
 
-{% img 'blog/2017/2017-07-31-benefits-of-microlearning.jpg' alt:'Benefits of Microlearning' %}
-{: .wideImage .marginTop .marginBot}
+{% img 'blog/2017/2017-07-31-benefits-of-microlearning.jpg'
+   alt:'Benefits of Microlearning' %}
+{: .wideImage }
 
 ### How does microlearning work?
 Microlearning isn't just a shorter course that's sometimes delivered on a mobile device. It's a departure from the idea of "courses" all together. Instead, think of microlearning resources that your employees access when and where they need them the most.

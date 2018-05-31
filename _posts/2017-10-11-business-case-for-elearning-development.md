@@ -38,8 +38,12 @@ If you're a company leader who is trying to convince your boss that eLearning is
 
 You know that eLearning solutions can provide your company with just-in-time training on cutting-edge topics for less money and with less hassle than traditional training, but it's up to you to share that knowledge with the people who make the training (and budget) decisions. Concerned? Don't worry--we've got it focused down to ten major steps.
 
-{% img 'blog/2017/2017-10-01-business-case-for-elearning-development-2.jpg' alt:'10 Steps For A Successful Business Case For eLearning Development' %}
-{: .wideImage .marginTop .marginBot}
+{% img 'blog/2017/2017-10-01-business-case-for-elearning-development-2.jpg'
+   alt:'10 Steps For A Successful Business Case For eLearning Development'
+   class:'marginTop marginBot'
+   magick:resize:1170
+   magick:quality:92  %}
+{: .wideImage }
 
 #### Step 1: Define the problem
 

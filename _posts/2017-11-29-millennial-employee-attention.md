@@ -52,8 +52,12 @@ Companies like Apple and Google have a large and mobile [millennial workforce](h
 
 Offering variety, constant feedback, and a work environment that is flexible and engaging is just the beginning. Here are eight more ways to capture millennial attention.
 
-{% img 'blog/2017/2017-11-25-millennial-employee-attention-2.jpg' alt:'8 Tips For Capturing Milennial Attention' %}
-{: .wideImage .marginTop .marginBot}
+{% img 'blog/2017/2017-11-25-millennial-employee-attention-2.jpg'
+   alt:'8 Tips For Capturing Milennial Attention'
+   class:'marginTop marginBot'
+   magick:resize:1170
+   magick:quality:92  %}
+{: .wideImage }
 
 
 #### 1. Don’t dumb it down
