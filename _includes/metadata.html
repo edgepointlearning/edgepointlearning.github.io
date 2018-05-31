@@ -1,6 +1,5 @@
-<!-- SEO -->
 {% if jekyll.environment == 'development' or page.noindex == true %}
-  <!-- ROBOTS GO AWAY -->
+  <!-- blocking robots cuz jekyll.environment = development (or the page specifically asked to)-->
   <meta name="robots" content="noindex">
 {% else %}
   <!-- ROBOTS WELCOME-->

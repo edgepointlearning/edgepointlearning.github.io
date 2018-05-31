@@ -110,3 +110,9 @@
 .marginAll {
   margin: $global-margin;
 }
+
+// development environment identification
+body.development .title-bar svg path,
+body.development .nav-logo svg path {
+  fill: red;
+}

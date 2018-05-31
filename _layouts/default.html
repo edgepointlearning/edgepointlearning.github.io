@@ -1,6 +1,6 @@
 {% include head.html %}
 
-  <body class="layout-{{ page.layout }}">
+  <body class="layout-{{ page.layout }}{% if jekyll.environment == 'development' %} development{% endif %}">
     <!--[if lt IE 8]>
     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -29,6 +29,8 @@
         ga('create', 'UA-47645104-1', 'auto');
         ga('send', 'pageview');
       </script>
+    {% else %}
+     <!-- No infusionsoft or google trackers cuz jekyll.environment = development -->
     {% endif %}
   </body>
 
