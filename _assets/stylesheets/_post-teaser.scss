@@ -7,8 +7,9 @@
   .teaser-image {
     img {
       width: 100%;
-      object-fit: cover;
       height: 220px;
+      object-fit: cover;
+      font-family: 'object-fit: cover;'; //https://github.com/bfred-it/object-fit-images/
 
       @include breakpoint (large) {
         height: 200px;

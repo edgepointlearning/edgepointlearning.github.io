@@ -56,23 +56,57 @@
   }
 }
 
-.emMarginTop {
-  margin-top: 1em;
+.thumbnail {
+  margin-bottom: $global-margin * 0.3;
+  // overrides Foundation component
 }
 
-.noMarginTop {
+.responsive-embed {
+  margin-top: $global-margin * 2;
+  margin-bottom: $global-margin * 2;
+}
+
+// MARGINS
+.marginTopNone {
   margin-top: 0 !important;
+}
+
+.marginTopHalf {
+  margin-top: $global-margin * 0.5;
+}
+
+.marginTopEM {
+  margin-top: 1em;
 }
 
 .marginTop {
   margin-top: $global-margin * 2;
 }
 
+.marginRight {
+  margin-right: $global-margin;
+}
+
+.marginBotNone {
+  margin-bottom: 0 !important;
+}
+
+.marginBotHalf {
+  margin-bottom: $global-margin * 0.5;
+}
+
+.marginBotEM {
+  margin-bottom: 1em;
+}
+
 .marginBot {
   margin-bottom: $global-margin * 1.5;
 }
 
-.responsive-embed {
-  margin-top: $global-margin * 2;
-  margin-bottom: $global-margin * 2;
+.marginLeft {
+  margin-left: $global-margin;
+}
+
+.marginAll {
+  margin: $global-margin;
 }

@@ -3,6 +3,7 @@
 //= require foundation.min
 //= require typer
 //= require clipboard
+//= require ofi
 
 $(document).foundation();
 
@@ -36,6 +37,7 @@ $(".noWidows").each(function() {
     }
 });
 
+$(function () { objectFitImages() }); //https://github.com/bfred-it/object-fit-images/
 
 // $('#offCanvas').foundation('open');
 
