@@ -54,10 +54,14 @@
   svg {
     width: 48px;
     height: 47px;
-
-    path {
-      fill: $epl-blue;
-    }
+    border-radius: 100%;
+    background-image:
+      radial-gradient(
+        $white,
+        $white 50%,
+        $medium-gray 50%,
+        $medium-gray
+      );
   }
 
   .cell:first-child {
