@@ -1,6 +1,6 @@
 .footer-sitemap {
   margin-top: $global-margin * 3;
-  background-color: $black;
+  background-color: $epl-blue-dark;
   color: $light-gray;
   padding: $global-padding * 3 0;
 
@@ -20,9 +20,10 @@
 
   li a {
     color: $light-gray;
+    transition: background-color 0.25s ease-out;
 
     &:hover {
-      background-color: $epl-blue-dark;
+      background-color: $epl-blue;
     }
   }
 
@@ -46,8 +47,8 @@
 }
 
 .footer-social {
-  background-color: $dark-gray;
-  color: $light-gray;
+  background-color: $medium-gray;
+  color: $black;
   padding: $global-padding * 2 0;
 
   svg {
@@ -55,7 +56,7 @@
     height: 47px;
 
     path {
-      fill: $white;
+      fill: $epl-blue;
     }
   }
 

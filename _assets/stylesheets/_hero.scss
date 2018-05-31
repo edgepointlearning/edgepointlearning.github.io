@@ -25,15 +25,7 @@
   }
 
   .button.hollow {
-    border-color: $white;
-    color: $white;
     margin-top: $global-margin;
-
-    &:hover,
-    &:focus {
-      color: $epl-blue-dark;
-      background-color: $white;
-    }
   }
 }
 

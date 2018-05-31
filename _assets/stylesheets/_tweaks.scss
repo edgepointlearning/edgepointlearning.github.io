@@ -1,3 +1,14 @@
+.button.hollow {
+  border-color: $white;
+  color: $white;
+
+  &:hover,
+  &:focus {
+    color: $epl-blue-dark;
+    background-color: $white;
+  }
+}
+
 .testimony {
   // margin-left: 0.4em;
   // text-indent: -0.4em;
