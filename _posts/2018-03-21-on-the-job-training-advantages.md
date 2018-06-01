@@ -1,8 +1,9 @@
 ---
 title: What Are The Major On-The-Job Training Advantages?
 permalink: /blog/on-the-job-training-advantages/
-author: Corey Bleich
-background: 2018-03-21-on-the-job-training-advantages.jpg
+author:
+  name: Corey Bleich
+image: blog/2018/2018-03-21-on-the-job-training-advantages.jpg
 excerpt: On-the-job training is explicit, prescribed, and delivered at the workplace. It prepares your employees for real-time engagement wherever they need it most, along with other major advantages.
 related: false
 ---
@@ -15,7 +16,7 @@ On-the-job training isn’t quite the same thing as learning by experience. Lear
 
 On-the-job training is a specific type of training that is explicit, prescribed, and delivered at the workplace.
 
-If you have a new intake nurse in your triage unit who needs to learn a specific computer program that your hospital uses, on-the-job training can use [microlearning videos](http://www.edgepointlearning.com/blog/microlearning/) to deliver targeted information for that skill alone. Or, your sales team uses [mobile resources](https://www.edgepointlearning.com/blog/what-is-mlearning/) to review product demos as they're waiting to enter a meeting.
+If you have a new intake nurse in your triage unit who needs to learn a specific computer program that your hospital uses, on-the-job training can use [microlearning videos](/blog/microlearning/) to deliver targeted information for that skill alone. Or, your sales team uses [mobile resources](/blog/what-is-mlearning/) to review product demos as they're waiting to enter a meeting.
 
 The best on-the-job trainings are:
 
@@ -31,9 +32,12 @@ Learning by experience may eventually be all of these things, but on-the-job tra
 
 The benefits of on the job training for employers and employees alike make it a better option than paying for conferences, guest speakers, or dodgy paper manuals that may just gather dust. No more sitting in windowless rooms for entire weeks of training. No more learning what does not apply or is not necessary.
 
-On-the-job training delivered specifically through various microlearning modules is vital today because the [advantages can’t be beat](http://www.edgepointlearning.com/blog/advantages-of-elearning/). It’s applicable, sensible for the bottom line, efficient, and flexible.
+On-the-job training delivered specifically through various microlearning modules is vital today because the [advantages can’t be beat](/blog/advantages-of-elearning/). It’s applicable, sensible for the bottom line, efficient, and flexible.
 
-![On The Job Training Advantages](/assets/images/blog/on-the-job-training-advantages.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2018/2018-03-21-on-the-job-training-advantages-infographic.jpg'
+   alt:'On The Job Training Advantages'
+   class:'marginTop marginBot' %}
+{: .wideImage }
 
 #### Easily applicable
 
@@ -55,7 +59,7 @@ In the end, on-the-job training makes more sense for protecting the bottom line 
 
 Time is a precious commodity for both employers and employees, and one of the best advantages of on-the-job training is that it delivers information when and where your employees need it most.
 
-If your company is managing a large construction project that is under ever-changing codes and zoning laws, you can wrap that zip code in a [geofence](http://www.edgepointlearning.com/blog/geofencing/). Once employees pass into that area, a push notification lets them know if there are any changes they need to be aware of. This keeps you in compliance with the law, but it also shows employees that their time is valuable, too. No changes for the day? Then there’s no training needed.
+If your company is managing a large construction project that is under ever-changing codes and zoning laws, you can wrap that zip code in a [geofence](/blog/geofencing/). Once employees pass into that area, a push notification lets them know if there are any changes they need to be aware of. This keeps you in compliance with the law, but it also shows employees that their time is valuable, too. No changes for the day? Then there’s no training needed.
 
 A geofence can be set for as little as 250 feet, so it’s good for hospital or university complexes, too. This type of microlearning is an ultra-efficient and effective way to integrate on-the-job training into an employee’s day, making the best use of their time (and your resources).
 
@@ -73,10 +77,10 @@ If microlearning, geofencing, and other eLearning methods are experienced togeth
 
 ### So, what makes on-the-job training stand out?
 
-If you are the person tasked with developing employee trainings, there is a [strong case for eLearning](http://www.edgepointlearning.com/blog/business-case-for-elearning-development/){:target="_blank"} when it comes to on-the-job training. Skills are learned where they will actually be applied, with tools that will actually be used. Often, on-the-job training uses real-time experiences combined with microlearning support to help employees go deeper.
+If you are the person tasked with developing employee trainings, there is a [strong case for eLearning](/blog/business-case-for-elearning-development/){:target="_blank"} when it comes to on-the-job training. Skills are learned where they will actually be applied, with tools that will actually be used. Often, on-the-job training uses real-time experiences combined with microlearning support to help employees go deeper.
 
 This is not a drill; on-the-job learning prepares your employees for real-time engagement wherever they need it.
 
-At [EdgePoint Learning](https://www.edgepointlearning.com/), we can help you figure out exactly what you want to accomplish with your on-the-job training, pairing those goals with training activities, online microlearning libraries, and real-world training opportunities across multiple platforms.
+At [EdgePoint Learning](/), we can help you figure out exactly what you want to accomplish with your on-the-job training, pairing those goals with training activities, online microlearning libraries, and real-world training opportunities across multiple platforms.
 
-<strong>We look forward to helping you figure out what your needs are and which on-the-job training techniques work best to meet them. [Get in touch today](https://www.edgepointlearning.com/contact/)!</strong>
+<strong>We look forward to helping you figure out what your needs are and which on-the-job training techniques work best to meet them. [Get in touch today](/contact/)!</strong>

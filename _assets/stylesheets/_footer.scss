@@ -1,0 +1,103 @@
+.footer-sitemap {
+  margin-top: $global-margin * 3;
+  background-color: $epl-blue-dark;
+  color: $light-gray;
+  padding: $global-padding * 3 0;
+
+  .grid-x {
+    @include breakpoint(medium) {
+      justify-content: space-around;
+    }
+  }
+
+  .menu.vertical a {
+    line-height: 1.3em;
+  }
+
+  .menu-text {
+    margin-bottom: 0;
+  }
+
+  li a {
+    color: $light-gray;
+    transition: background-color 0.25s ease-out;
+
+    &:hover {
+      background-color: $epl-blue;
+    }
+  }
+
+  .cell:first-child {
+    margin-bottom: $global-margin * 2;
+
+    .menu.vertical a {
+      padding-right: 0;
+    }
+
+    @include breakpoint(medium) {
+      margin-bottom: 0;
+    }
+  }
+
+  .cell:nth-child(2) {
+    @include breakpoint(medium) {
+      border-left: 1px solid $dark-gray;
+    }
+  }
+}
+
+.footer-social {
+  background-color: $medium-gray;
+  color: $black;
+  padding: $global-padding * 2 0;
+
+  svg {
+    width: 48px;
+    height: 47px;
+    border-radius: 100%;
+    background-image:
+      radial-gradient(
+        $white,
+        $white 50%,
+        $medium-gray 50%,
+        $medium-gray
+      );
+  }
+
+  .cell:first-child {
+    margin-bottom: $global-margin * 2;
+
+    @include breakpoint(medium) {
+      margin-bottom: 0;
+    }
+  }
+
+  a:not(:first-of-type) {
+    margin-left: $global-margin;
+  }
+}
+
+.footer-contact {
+  padding: $global-margin * 2 0;
+  font-size: 0.9rem;
+
+  .cell:last-child {
+    margin: $global-margin 0;
+    color: $dark-gray;
+  }
+
+  svg {
+    width: 36px;
+    height: 36px;
+    float: left;
+  }
+
+  span {
+    color: $dark-gray;
+    display: block;
+
+    @include breakpoint(medium) {
+      display: inline;
+    }
+  }
+}

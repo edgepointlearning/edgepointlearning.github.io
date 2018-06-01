@@ -1,7 +1,8 @@
 ---
 title: Instructor-led Training vs. eLearning
-author: Megan Dobransky & Nikki VanRy
-background: 2015-05-15-be-more-passionate-about-work.jpg
+author:
+  name: Megan Dobransky & Nikki VanRy
+image: blog/2017/2017-03-01-be-more-passionate-about-work.jpg
 excerpt: Instructor-led or eLearning, find out what type of training is right for you.
 related: false
 #permalink: /2016/07/21/Instructor-led-Training-vs-eLearning/
@@ -71,7 +72,11 @@ It's specifically because of all those bells and whistles that eLearning can los
 Just like instructor-led training, eLearning courses must focus on the core principles of instructional design to accurately and concisely communicate information to your employees. No number of mobile apps, interactive videos, or VR experiences is going to change that.
 
 ### eLearning vs. traditional learning
-![elearning vs traditional learning infographic](/assets/images/blog/elearning-vs-traditional-learning-infographic.svg)
+
+{% img 'blog/2017/2017-03-01-elearning-vs-traditional-learning-infographic@2x.png'
+   alt:'elearning vs traditional learning infographic'
+   class:'marginTopHalf marginBot' %}
+{: .wideImage}
 
 ### The best of both worlds: Blended learning
 There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf){:target="_blank"} of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.
@@ -87,13 +92,13 @@ Quite simply, it depends. Your topic, employee population, and training resource
 
 ILT can incorporate many different styles of learning easily, and in-person training tends to be more personal and helps to build relationships. eLearning is more flexible, though, and learners can refer back to courses over and over. Blended learning incorporates benefits of both options to save time and money, while increasing overall employee engagement.
 
-An eLearning consultant can help you break down your specific needs and suggest options that would work best for you. Contact [EdgePoint Learning](http://www.edgepointlearning.com/solutions/) to help you determine which style of instruction is best for you and your organization.
+An eLearning consultant can help you break down your specific needs and suggest options that would work best for you. Contact [EdgePoint Learning](/solutions/) to help you determine which style of instruction is best for you and your organization.
 
 To read more about how to create a learning program for your company, check out our related posts on the topic:
 
-*  [What's the Key to Creating a Successful eLearning Project?](http://www.edgepointlearning.com/2016/03/15/whats-the-key-to-creating-a-successful-elearning-project/)
-*  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
-*  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)
+*  [What's the Key to Creating a Successful eLearning Project?](/blog/whats-the-key-to-creating-a-successful-elearning-project/)
+*  [When to Outsource Your eLearning](/blog/when-to-outsource-your-elearning/)
+*  [Is It Time to Evaluate Your Training Strategy?](/blog/is-it-time-to-evaluate-your-training-strategy/)
 
 Note: This post was originally published in July 2016, but since it had so much interest, we've since added information to it.
 

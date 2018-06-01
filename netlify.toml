@@ -6,18 +6,12 @@
 
 # deploy-preview: this context corresponds to the previews we build for Pull Requests and Merge Requests integrations.
 [context.deploy-preview]
-  command = "jekyll build --config _config.yml,_config.development.yml"
+  command = "jekyll build --config _config.yml,_config.staging.yml"
   [context.deploy-preview.environment]
     JEKYLL_ENV = "development"
 
 # branch-deploy: this context corresponds to deploys from branches that are not the site’s main production branch.
 [context.branch-deploy]
-  command = "jekyll build --future --config _config.yml,_config.development.yml"
+  command = "jekyll build --future --config _config.yml,_config.staging.yml"
   [context.branch-deploy.environment]
     JEKYLL_ENV = "development"
-
-# Things Specific to Development environment vs Production:
-#   _config.development.yml
-#   head.html - block robots (line 8)
-#   default.html - body class (line 14), no analytics (line 23)
-#   _development.scss

@@ -1,8 +1,9 @@
 ---
 title: Rethinking Online Sexual Harassment Training After &num;MeToo
 permalink: /blog/online-sexual-harassment-training/
-author: Holly Curtis, President and Founder of The People Perspective, LLC
-background: 2018-01-17-online-sexual-harassment-training.jpg
+author:
+  name: Holly Curtis, President and Founder of The People Perspective, LLC
+image: blog//2018/2018-01-17-online-sexual-harassment-training.jpg
 excerpt: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
 related: false
 ---
@@ -79,7 +80,7 @@ While the intentions behind harassment may be the same, the approach should look
 
 Choosing the right training format to fit the organization is critical. Training is only valuable if it sticks over the long term. What has been proven most effective is small bits of information delivered in a personal way.
 
-[Microlearning](https://www.edgepointlearning.com/blog/microlearning) is a way of teaching and delivering content to learners in small, very specific bursts. The learners are in control of what and when they're learning. Microlearning in online sexual harassment training courses can include testimonials of victims of harassment. Use microlearning and online sexual harassment training modules to spell out exactly what harassment is and when a behavior crosses the line.
+[Microlearning](/blog/microlearning) is a way of teaching and delivering content to learners in small, very specific bursts. The learners are in control of what and when they're learning. Microlearning in online sexual harassment training courses can include testimonials of victims of harassment. Use microlearning and online sexual harassment training modules to spell out exactly what harassment is and when a behavior crosses the line.
 
 Also, take advantage of the sexual harassment training to address the broader issue of general employee harassment concerns that are not necessarily sexual in nature. Definitions of harassment also include issues associated with race, age, disability, or national origin. Microlearning can be particularly impactful when expanding into these areas. Put an organizational stake in the ground against “bullying” of any kind in the work environment.
 
@@ -113,16 +114,20 @@ The #MeToo movement is speaking loud and clear. All employers have the immediate
 
 Today’s employers simply can’t afford to wait any longer to make effective online sexual harassment training a top priority.
 
-<strong>EdgePoint Learning can help you take a closer look at your company’s existing online sexual harassment programs, and make suggestions about making it more effective. [Get in touch today](https://www.edgepointlearning.com/).</strong>
+<strong>EdgePoint Learning can help you take a closer look at your company’s existing online sexual harassment programs, and make suggestions about making it more effective. [Get in touch today](/).</strong>
 
 [Contact Us](/contact/ ){:class="button"}
 
-<hr>
+---
+#### Holly Curtis
 
-<cite>Holly Curtis is a recognized executive business leader who provides senior-level human resource and organizational development consulting services in support of each organization's unique business circumstances. She has held HR leadership roles with a wide variety of organizations, from entrepreneurial start-ups to global industry giants.</cite>
-
-![Holly Curtis](/assets/images/blog/holly_curtis.jpg "Holly Curtis"){:class=""}
-<br>
-<strong>Holly Curtis</strong>
-<br>
 President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com){:target="_blank"}
+
+{% img 'blog/2018/2018-01-18-holly-curtis.jpg'
+   alt:'Holly Curtis'
+   class:'float-left thumbnail marginTopHalf marginRight'
+   magick:quality:92 %}
+
+*Holly Curtis is a recognized executive business leader who provides senior-level human resource and organizational development consulting services in support of each organization's unique business circumstances. She has held HR leadership roles with a wide variety of organizations, from entrepreneurial start-ups to global industry giants.*
+{: .clearfix }
+---

@@ -1,29 +1,21 @@
-<!doctype html>
-<html lang="en">
+{% include head.html %}
 
-  {% include head.html %}
+  <body class="layout-{{ page.layout }}{% if jekyll.environment == 'development' %} development{% endif %}">
+    <!--[if lt IE 8]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
 
-  <body
-    {% if page.title %}
-      id="page-{{ page.title | slugify}}"
-    {% endif %}
-    class="
-    {% if page.layout == 'post' %}
-      post
-    {% endif %}
-    {% if jekyll.environment == 'development' %}
-      development
-    {% endif %}
-    "
-  >
-
-    {{ content }}
-
-    {% if page.scripts %}
-      {% for js_file in page.scripts %}
-      <script src='{{ site.baseurl }}/assets/javascript/{{ js_file }}' type="text/javascript"></script>
-      {% endfor %}
-    {% endif %}
+    {% include off-canvas.html %}
+    <div class="off-canvas-content" data-off-canvas-content>
+      <nav>{% include nav.html %}</nav>
+      <main>
+        {{ content }}
+        {% include cards.html %}
+      </main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+    {% js main %}
+    <script>console.log("jekyll environment: {{ jekyll.environment }}");</script>
 
     {% if jekyll.environment != 'development' %}
       <!-- infusionsoft -->
@@ -34,10 +26,11 @@
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
         ga('create', 'UA-47645104-1', 'auto');
         ga('send', 'pageview');
       </script>
+    {% else %}
+     <!-- No infusionsoft or google trackers cuz jekyll.environment = development -->
     {% endif %}
   </body>
 

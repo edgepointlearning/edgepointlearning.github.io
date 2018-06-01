@@ -1,8 +1,9 @@
 ---
 title: How To Make A Successful Vendor Selection | Ask Yourself These 5 Customer Service Questions
 permalink: /blog/customer-service-vendor/
-author: Brian Oderkirk
-background: customer-service-vendor.jpg
+author:
+  name: Brian Oderkirk
+image: blog/2018/2018-01-01-customer-service-vendor.jpg
 excerpt: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon?
 related: false
 ---
@@ -50,6 +51,6 @@ Check and double check SLAs. If you are located on the West Coast of the U.S. an
 
 What do other questions about customer service you typically ask potential vendors?
 
-<strong>[Get in touch with EdgePoint Learning today](http://edgepointlearning.com) to talk about customer service training courses that are made for today's employees, for today's world.</strong>
+<strong>[Get in touch with EdgePoint Learning today](/) to talk about customer service training courses that are made for today's employees, for today's world.</strong>
 
 <em>This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/make-a-successful-vendor-selection-5-customer-service-questions-ask){:target="_blank"} on December 17, 2017.</em>

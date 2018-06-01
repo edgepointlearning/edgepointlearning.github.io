@@ -1,7 +1,8 @@
 ---
 title: Technical Training Best Practices
-author: Megan Dobransky
-background: 2015-06-15-technical-training-best-practices.jpg
+author:
+  name: Megan Dobransky
+image: blog/2015/2015-06-15-technical-training-best-practices.jpg
 excerpt: One of our specialties at EdgePoint Learning is technical training.
 redirect_from: "/2016/06/15/technical-training-best-practices/"
 ---

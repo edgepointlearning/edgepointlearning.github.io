@@ -1,0 +1,35 @@
+.layout-post .share {
+  a {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  li:not(:last-of-type) a {
+    margin-right: $global-margin;
+  }
+
+  svg {
+    width: 35px;
+    height: 35px;
+  }
+
+  span.has-tip {
+    border-bottom: none;
+    cursor: default;
+  }
+}
+
+.layout-post .share-bottom {
+  margin-top: $global-margin * 0.5;
+  padding-bottom: $global-padding;
+  border-bottom: 1px solid $light-gray;
+
+  h5 {
+    margin-top: 0.4em;
+    font-weight: 600;
+  }
+
+  ul {
+    margin-left: 2em;
+  }
+}

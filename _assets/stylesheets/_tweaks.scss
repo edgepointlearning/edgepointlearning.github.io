@@ -1,0 +1,129 @@
+.button.hollow {
+  border-color: $white;
+  color: $white;
+
+  &:hover,
+  &:focus {
+    color: $epl-blue-dark;
+    background-color: $white;
+  }
+}
+
+.testimony {
+  // margin-left: 0.4em;
+  // text-indent: -0.4em;
+  quotes: "“" "”" "‘" "’";
+
+  &::before {
+    content: open-quote;
+    font-weight: bold;
+  }
+
+  &::after {
+    content: close-quote;
+    font-weight: bold;
+  }
+}
+
+.squat {
+  font-weight: 900;
+  color: $epl-off-black;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.featured-image {
+  width: 100%;
+  text-align: center;
+  margin-top: $global-margin;
+  margin-bottom: $global-margin;
+
+  img,
+  svg {
+    width: 140px;
+    height: 140px;
+  }
+
+  @include breakpoint(medium) {
+    margin-left: $global-margin * 2;
+    margin-top: 0;
+    width: 200px;
+
+    img,
+    svg {
+      width: 200px;
+      height: 200px;
+    }
+  }
+
+  @include breakpoint(large) {
+    width: 310px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @include breakpoint(xlarge) {
+    width: 400px;
+  }
+}
+
+.thumbnail {
+  margin-bottom: $global-margin * 0.3;
+  // overrides Foundation component
+}
+
+.responsive-embed {
+  margin-top: $global-margin * 2;
+  margin-bottom: $global-margin * 2;
+}
+
+// MARGINS
+.marginTopNone {
+  margin-top: 0 !important;
+}
+
+.marginTopHalf {
+  margin-top: $global-margin * 0.5;
+}
+
+.marginTopEM {
+  margin-top: 1em;
+}
+
+.marginTop {
+  margin-top: $global-margin * 2;
+}
+
+.marginRight {
+  margin-right: $global-margin;
+}
+
+.marginBotNone {
+  margin-bottom: 0 !important;
+}
+
+.marginBotHalf {
+  margin-bottom: $global-margin * 0.5;
+}
+
+.marginBotEM {
+  margin-bottom: 1em;
+}
+
+.marginBot {
+  margin-bottom: $global-margin * 1.5;
+}
+
+.marginLeft {
+  margin-left: $global-margin;
+}
+
+.marginAll {
+  margin: $global-margin;
+}
+
+// development environment identification
+body.development .title-bar svg path,
+body.development .nav-logo svg path {
+  fill: red;
+}

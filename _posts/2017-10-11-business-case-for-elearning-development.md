@@ -1,8 +1,9 @@
 ---
 title: How To Make A Successful Business Case For eLearning Development
 permalink: /blog/business-case-for-elearning-development/
-author: Corey Bleich
-background: 2017-10-01-business-case-for-elearning-development.jpg
+author:
+  name: Corey Bleich
+image: blog/2017/2017-10-01-business-case-for-elearning-development.jpg
 excerpt: You know that eLearning can provide your company with the best training, but you have to convince your boss. Concerned? We've got it down to ten major steps.
 related: false
 ---
@@ -17,9 +18,9 @@ Simply put, eLearning is “electronic” learning that connects trainers and em
 
 There are a number of different options for eLearning.
 
-* <strong>mLearning:</strong> [mLearning](https://www.edgepointlearning.com/blog/what-is-mlearning/) allows you to provide employees with quick reference guides, troubleshooting pointers, and other reference materials, right to their mobile devices.
+* <strong>mLearning:</strong> [mLearning](/blog/what-is-mlearning/) allows you to provide employees with quick reference guides, troubleshooting pointers, and other reference materials, right to their mobile devices.
 * <strong>Web-based training (WBT):</strong> Web-based training can offer employees more interactive eLearning options. These courses may be more extensive and include collaboration among participants.
-* <strong>Microlearning:</strong> [Microlearning](https://www.edgepointlearning.com/blog/microlearning) consists of small, easily-digested bits of information, delivered to employees at regular intervals in two to three minute videos.
+* <strong>Microlearning:</strong> [Microlearning](/blog/microlearning) consists of small, easily-digested bits of information, delivered to employees at regular intervals in two to three minute videos.
 * <strong>[Gamification:](https://www.business.com/articles/5-statistics-that-prove-gamification-is-the-future-of-the-workplace/){:target="_blank"}</strong> Training employees by delivering information through a game takes advantage of our desire to compete, get recognized for our efforts, and be rewarded for hard work.
 
 No matter your workforce, resources, or budget, there's an eLearning solution that will work for your company.
@@ -37,7 +38,12 @@ If you're a company leader who is trying to convince your boss that eLearning is
 
 You know that eLearning solutions can provide your company with just-in-time training on cutting-edge topics for less money and with less hassle than traditional training, but it's up to you to share that knowledge with the people who make the training (and budget) decisions. Concerned? Don't worry--we've got it focused down to ten major steps.
 
-![Business Case For eLearning Development](/assets/images/blog/business-case-for-elearning-development.jpg "PBusiness Case For eLearning Development"){:class="img-responsive"}
+{% img 'blog/2017/2017-10-01-business-case-for-elearning-development-2.jpg'
+   alt:'10 Steps For A Successful Business Case For eLearning Development'
+   class:'marginTop marginBot'
+   magick:resize:1170
+   magick:quality:92  %}
+{: .wideImage }
 
 #### Step 1: Define the problem
 
@@ -70,11 +76,11 @@ You may also want to consider:
 
 #### Step 6: Show how eLearning makes important training materials evergreen
 
-Once your company has eLearning courses in place, those materials can provide lasting training over time and space. When you create a [custom eLearning course](https://www.edgepointlearning.com/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/), you can easily share it with new employees who can complete it on their own time, at their own pace.
+Once your company has eLearning courses in place, those materials can provide lasting training over time and space. When you create a [custom eLearning course](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/), you can easily share it with new employees who can complete it on their own time, at their own pace.
 
 #### Step 7: Decide how these new courses will roll out
 
-No matter the size of your company, [well-laid plans](https://www.edgepointlearning.com/blog/whats-the-key-to-creating-a-successful-elearning-project/){:target="_blank"} poorly executed are a recipe for disaster. Consider the following questions when planning your eLearning rollout:
+No matter the size of your company, [well-laid plans](/blog/whats-the-key-to-creating-a-successful-elearning-project/){:target="_blank"} poorly executed are a recipe for disaster. Consider the following questions when planning your eLearning rollout:
 
 * Who is responsible for what, from eLearning design to monitoring?
 * What resources will you need, inside and outside of the company?
@@ -98,6 +104,6 @@ More coordinated, efficient training is the future. 50% of millennials are [not 
 
 It's time to make the business case for your company to provide the competitive advantage your company needs to succeed in today's global environment.
 
-<strong>The world of eLearning is big and always growing. [Give us a call](https://www.edgepointlearning.com/contact/). EdgePoint Learning can help you evaluate your existing program to figure out which type of training is best for you.</strong>
+<strong>The world of eLearning is big and always growing. [Give us a call](/contact/). EdgePoint Learning can help you evaluate your existing program to figure out which type of training is best for you.</strong>
 
 [Contact Us](/contact/ ){:class="button"}

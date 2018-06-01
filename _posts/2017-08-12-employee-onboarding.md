@@ -1,8 +1,9 @@
 ---
 title: 5 Of The Best Practices For Employee Onboarding
 permalink: /blog/employee-onboarding/
-author: Nikki VanRy
-background: 2017-08-12-employee-onboarding.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-08-12-employee-onboarding.jpg
 excerpt: Providing an effective onboarding process can and will improve your employee retention. Here's how to do it right.
 related: false
 ---
@@ -30,7 +31,9 @@ While your exact onboarding tasks may differ, these best practices for employee 
 5. Always encourage questions and schedule time for open dialogue
 
 
-<div class='video-responsive'><iframe src="https://player.vimeo.com/video/229428936" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="responsive-embed widescreen marginTop">
+  <iframe src="https://player.vimeo.com/video/229428936" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 
 #### Use an employee onboarding checklist
@@ -79,13 +82,15 @@ Provide value from the start to show employees that you value them and their con
 
 #### Provide microlearning opportunities—for training and later reference
 
-Your new hires will have plenty of training courses to attend in those first few weeks—both [in-person](http://www.edgepointlearning.com/blog/Instructor-led-Training-vs-eLearning/) and digitally. Most of that will be forgotten in the haze of the information onslaught.
+Your new hires will have plenty of training courses to attend in those first few weeks—both [in-person](/blog/Instructor-led-Training-vs-eLearning/) and digitally. Most of that will be forgotten in the haze of the information onslaught.
 
 Instead, provide just-in-time, or microlearning, training that employees can access before they perform a task for the first time and as-needed as they start to practice these new tasks.
 
-[Microlearning training](http://www.edgepointlearning.com/blog/microlearning) allows new employees to review training on a smartphone on their own time. It can also result in a 17% improvement in knowledge transfer and take 300% less time and 50% less cost to produce on your end, in addition to other benefits.
+[Microlearning training](/blog/microlearning) allows new employees to review training on a smartphone on their own time. It can also result in a 17% improvement in knowledge transfer and take 300% less time and 50% less cost to produce on your end, in addition to other benefits.
 
-![Benefits of Microlearning](/assets/images/blog/benefits-of-microlearning.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2017/2017-07-31-benefits-of-microlearning.jpg'
+   alt:'Benefits of Microlearning' %}
+{: .wideImage }
 
 #### Always encourage questions and schedule time for open dialogue
 
@@ -100,6 +105,6 @@ Provide highly-engaging and just-in-time training to all of your new hires, for 
 
 To read more about employee training, check out our related posts on the topic:
 
-*  [This Is How Microlearning Creates Just-In-Time Training For Your Company](http://www.edgepointlearning.com/blog/microlearning)
-*  [Top 10 Types Of Employee Training](http://www.edgepointlearning.com/blog/top-10-types-of-employee-training/)
-*  [How To Create Your Custom eLearning Course](http://www.edgepointlearning.com/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)
+*  [This Is How Microlearning Creates Just-In-Time Training For Your Company](/blog/microlearning)
+*  [Top 10 Types Of Employee Training](/blog/top-10-types-of-employee-training/)
+*  [How To Create Your Custom eLearning Course](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/)

@@ -1,0 +1,70 @@
+.title-bar svg {
+  vertical-align: bottom;
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+
+  g {
+    fill: $white;
+  }
+}
+
+.nav-logo {
+  a {
+    padding-left: 0;
+  }
+
+  svg {
+    width: 240px;
+    height: 32px;
+  }
+}
+
+.nav-social {
+  .menu .menu-text {
+    font-weight: normal;
+    padding-right: 0;
+    padding-bottom: 13px;
+  }
+
+  .menu a { // li:not(:last-of-type) a {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: $global-margin;
+  }
+
+  svg {
+    width: 34px;
+    height: 33px;
+  }
+}
+
+.nav-pages {
+  background-color: $epl-blue;
+
+  .grid-container {
+    padding-right: 0;
+  }
+
+  .menu a {
+    color: white;
+    transition: background-color 0.25s ease-out;
+
+    &.active {
+      background: url(asset_path("ui/triangle.svg")) no-repeat center top/16px 6px;
+    }
+
+    &:hover {
+      background-color: $epl-blue-light;
+    }
+  }
+
+  .breadcrumbs {
+    margin-left: $global-margin;
+    margin-top: $global-margin * 0.5;
+
+    a {
+      color: $white;
+    }
+  }
+}

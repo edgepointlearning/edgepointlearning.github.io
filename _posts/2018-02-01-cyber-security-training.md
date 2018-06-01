@@ -1,8 +1,9 @@
 ---
 title: How To Create Effective Cyber Security Training For Your Employees
 permalink: /blog/cyber-security-training/
-author: M. Craig Cocciola, Director of IT and FSO at ABL Cyber Academy
-background: 2018-02-01-cyber-security-training.jpg
+author:
+  name: M. Craig Cocciola, Director of IT and FSO at ABL Cyber Academy
+image: blog/2018/2018-02-01-cyber-security-training.jpg
 excerpt: If an employee touches a computer, they need cyber security training. Here's how to make it actually worth their (and your) time.
 related: false
 ---
@@ -26,7 +27,10 @@ Information security training (infosec training) can help mitigate this exposure
 
 Creating an effective cyber security training for employees starts at the top, is meaningful, just-in-time, and ongoing. Here are ten tips to help you get there.
 
-![Cyber Security Training Infographic](/assets/images/blog/cyber-security-training-infographic.jpg "RESPONSIVE image"){:class="img-responsive"}
+{% img 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
+   alt:'Cyber Security Training Infographic'
+   class:'marginTop marginBot' %}
+{: .wideImage }
 
 #### 1. Get executive buy-in
 
@@ -50,7 +54,7 @@ Work with your cyber security training developers to evaluate employee awareness
 
 Chances are good that your company already has training resources at hand. Don’t re-invent the wheel. If your employees respond best to online training, don’t shuffle them into a room and make them stare at a four-hour presentation.
 
-Utilize the principles of [microlearning](https://www.edgepointlearning.com/blog/microlearning) to deliver essential small bites of information that address the most vital cyber security tips for employees.
+Utilize the principles of [microlearning](/blog/microlearning) to deliver essential small bites of information that address the most vital cyber security tips for employees.
 
 #### 5. Train employees about email and phone phishing scams
 
@@ -92,12 +96,17 @@ Instead, he advocates what he refers to as “people patching.” Similar to reg
 
 “Your people are your assets, and you need to invest in them continually. If you don't get your people patched continually, you're always going to have vulnerabilities."
 
-<strong>If it’s time to think about patching your people, [get in touch with EdgePoint Learning](http://edgepointlearning.com) to talk about your cybersecurity training needs. We have a dedicated team who are up-to-date on the latest cyber security developments and training methods.</strong>
+**If it’s time to think about patching your people, [get in touch with EdgePoint Learning](/) to talk about your cybersecurity training needs. We have a dedicated team who are up-to-date on the latest cyber security developments and training methods.**
 
-<hr>
+---
+#### Craig Cocciola
 
-<cite>Michael Craig Cocciola has been the Director of IT and FSO at (ABL) [Advanced Business Learning](http://ablcyberacademy.com/){:target="_blank"} for the past 12 of his 34 years in IT and Network Management. One year ago, Craig and his Cyber Team designed, developed, and launched a live [Cyber Skills Lab](https://ablcyberlab.com/){:target="_blank"} for hands-on student development of both offensive and defensive cyber tactics. The ABL Cyber Lab is so effective it was discovered and vetted by US NAVY SPAWAR for inclusion in their Cyber and IT education and training catalog. The ABL Cyber Lab course is the only Cyber Range now offered in this 200+ course catalog for SPAWAR Cyber and IT Security personnel skills development. Craig manages the ABL Cyber Lab team in developing new and effective training for both in-lab and remote VPN lab users, and is helping to fill the shortage of thousands of unfilled cyber job openings in Arizona. The ABL Cyber Lab is a training facility within the ABL Cyber Academy, offering top industry Certification courses in IT and Security assessment through ethical hacking.</cite>
+{% img 'blog/2018/2018-02-01-craig-cocciola.jpg'
+   alt:'Craig Cocciola'
+   class:'float-right thumbnail marginTopHalf marginLeft'
+   magick:resize:240
+   magick:quality:92 %}
 
-![Craig Cocciola](/assets/images/blog/craig-cocciola.jpg "Craig Cocciola"){:class=""}
-<br>
-<strong>Craig Cocciola</strong>
+*Michael Craig Cocciola has been the Director of IT and FSO at (ABL) [Advanced Business Learning](http://ablcyberacademy.com/){:target="_blank"} for the past 12 of his 34 years in IT and Network Management. One year ago, Craig and his Cyber Team designed, developed, and launched a live [Cyber Skills Lab](https://ablcyberlab.com/){:target="_blank"} for hands-on student development of both offensive and defensive cyber tactics. The ABL Cyber Lab is so effective it was discovered and vetted by US NAVY SPAWAR for inclusion in their Cyber and IT education and training catalog. The ABL Cyber Lab course is the only Cyber Range now offered in this 200+ course catalog for SPAWAR Cyber and IT Security personnel skills development. Craig manages the ABL Cyber Lab team in developing new and effective training for both in-lab and remote VPN lab users, and is helping to fill the shortage of thousands of unfilled cyber job openings in Arizona. The ABL Cyber Lab is a training facility within the ABL Cyber Academy, offering top industry Certification courses in IT and Security assessment through ethical hacking.*
+{: .clearfix }
+---

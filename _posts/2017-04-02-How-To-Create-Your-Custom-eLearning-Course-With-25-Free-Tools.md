@@ -1,7 +1,8 @@
 ---
 title: How To Create Your Custom eLearning Course, With 25 Free Tools
-author: Nikki VanRy
-background: 2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
 excerpt: You can create a custom eLearning course. We lay out the six steps every successful eLearning project follows, and then talk about the 25 free tools you can use today to make it happen.
 related: false
 redirect_from: "/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/"
@@ -13,7 +14,7 @@ Do you need to teach your employees about new software or processes? Would an eL
 If you're ready to create eLearning content for your team, there are a few basic steps any project will follow.
 
 #### Step 1: Establish the why of your project
-Simply put, what's the purpose of your training? Who's taking it? More importantly, why are they taking it? During this step, you'll want to define your [requirements and expectations](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/) for the course.
+Simply put, what's the purpose of your training? Who's taking it? More importantly, why are they taking it? During this step, you'll want to define your [requirements and expectations](/blog/is-it-time-to-evaluate-your-training-strategy/) for the course.
 
 #### Step 2: Gather your current materials
 Pull together all your existing source material for the project, including:
@@ -40,7 +41,8 @@ At this point, you've gathered all of the elements you'll need to create eLearni
 And then, bring those items together. Some free software programs can help you bring all your disparate elements into one cohesive course.
 After this step, you'll also send your new course out to SMEs or other company stakeholders to review, suggest any changes, and ultimately approve. Once that's done, you'll move your course to an [LMS or cloud platform](https://elearningindustry.com/subjects/elearning-software/learning-management-systems-lms).
 
-![How to create an eLearning course infographic](/assets/images/blog/how-to-create-an-elearning-course-infographic.svg)
+{% img 'blog/2017/2017-04-02-how-to-create-an-elearning-course-infographic@2x.png' alt:'How to create an eLearning course infographic' %}
+{: .wideImage .marginTop .marginBot}
 
 ### 25 Free tools for DIY eLearning
 You'll notice that, in those six steps, we identified a few key areas of development, namely:
@@ -103,12 +105,4 @@ A few leading authoring tools provide free options for creating your own custom 
 
 Find even more reviews and information on eLearning authoring tools at eLearning Industry. If you want to pay extra for more advanced features, Articulate 360 and Adobe Captivate are the industry-leading authoring tools.
 
-Finally, for some, DIYing your own eLearning course won't be worth the time or effort. If you're not sure if you have the time or expertise to create your own eLearning course, check out our post on the best times to [outsource your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/).
-
-
-To read more about how to create a learning program for your company, check out our related posts on the topic:
-
-*  [Instructor-led Training vs eLearning](http://www.edgepointlearning.com/2016/07/21/Instructor-led-Training-vs-eLearning/)
-*  [What's the Key to Creating a Successful eLearning Project?](http://www.edgepointlearning.com/2016/03/15/whats-the-key-to-creating-a-successful-elearning-project/)
-*  [When to Outsource Your eLearning](http://www.edgepointlearning.com/2015/12/15/when-to-outsource-your-elearning/)
-*  [Is It Time to Evaluate Your Training Strategy?](http://www.edgepointlearning.com/2016/06/01/is-it-time-to-evaluate-your-training-strategy/)
+Finally, for some, DIYing your own eLearning course won't be worth the time or effort. If you're not sure if you have the time or expertise to create your own eLearning course, check out our post on the best times to [outsource your eLearning](/blog/when-to-outsource-your-elearning/).

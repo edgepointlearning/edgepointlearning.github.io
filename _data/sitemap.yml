@@ -1,0 +1,17 @@
+- url: /
+  title: Home
+
+- url: /solutions/
+  title: Learning Solutions
+
+- url: /stories/
+  title: Success Stories
+
+- url: /blog/
+  title: Blog
+
+- url: /about/
+  title: About
+
+- url: /contact/
+  title: Contact

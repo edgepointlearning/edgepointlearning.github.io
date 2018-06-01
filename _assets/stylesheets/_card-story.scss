@@ -1,0 +1,49 @@
+.story-card {
+  border: 1px solid $dark-gray;
+  margin-top: $global-margin;
+  margin-bottom: $global-margin;
+  padding: 0 !important;
+
+  .story-text {
+    padding: $global-padding $global-padding 0;
+  }
+
+  .h5 {
+    font-weight: 600;
+  }
+
+  .h6 {
+    font-weight: 400;
+    background-color: $epl-off-black;
+    color: $white;
+    padding: $global-padding * 0.5 $global-padding;
+    margin: 0;
+  }
+
+  svg {
+    margin: $global-margin * 1.3 $global-margin $global-margin $global-margin;
+    width: 100px;
+    height: 100px;
+
+    @include breakpoint(mediumer) {
+      width: 60px;
+      height: 60px;
+    }
+
+    @include breakpoint(large) {
+      width: 100px;
+      height: 100px;
+    }
+
+  }
+}
+
+.story {
+  h2 {
+    padding: $global-padding * 2 0 $global-padding;
+  }
+
+  h3 {
+    @extend .h4;
+  }
+}

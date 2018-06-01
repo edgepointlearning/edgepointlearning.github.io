@@ -1,7 +1,7 @@
 .DS_Store
-bower_components
-_site
-.sass-cache
-node_modules
+.sass-cache/
+.asset-cache/
+.jekyll-metadata
 Gemfile.lock
+_site/
 vendor

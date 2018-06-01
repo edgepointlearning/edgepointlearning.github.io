@@ -1,8 +1,9 @@
 ---
 title: 7 Crucial Topics To Include In Your Employee Safety Training Program
 permalink: /blog/employee-safety-training-topics/
-author: Corey Bleich
-background: 2018-03-14-employee-safety-training-topics.jpg
+author:
+  name: Corey Bleich
+image: blog/2018/2018-03-14-employee-safety-training-topics.jpg
 excerpt: What makes an employee safety training program particularly effective? Start by covering seven key topics that are applicable to almost every industry.
 related: false
 ---
@@ -40,17 +41,17 @@ The Bureau of Labor Statistics estimated that these five conditions made up 34% 
 
 Teach employees how to lift, sit, and move throughout their day so you can be rewarded with fewer sick days, lowered healthcare costs, and happier employees.
 
-#### 2. Online safety and [cyber security](https://www.edgepointlearning.com/blog/cyber-security-training/)
+#### 2. Online safety and [cyber security](/blog/cyber-security-training/)
 
 Online safety training protects your employees, your customers, and your company by making sure employees are all following best practices when it comes to being online.
 
-These include following any [HIPAA guidelines](https://www.edgepointlearning.com/blog/hipaa-compliance-training/) for protecting sensitive health information but also covers things like standardized passwords and two-step verification procedures.
+These include following any [HIPAA guidelines](/blog/hipaa-compliance-training/) for protecting sensitive health information but also covers things like standardized passwords and two-step verification procedures.
 
 #### 3. Fire safety
 
 We take for granted that our adult employees understand [fire safety](https://www.osha.gov/SLTC/firesafety/standards.html){:target="_blank"}, but it’s an important (and OSHA-required) part of every industry. New employee safety training must cover employee egress in event of a fire. Many employers do not want employees fighting fires, but some industries may also train employees in the use of fire extinguishers.
 
-#### 4. [Workplace violence prevention](https://www.edgepointlearning.com/blog/workplace-violence-prevention/)
+#### 4. [Workplace violence prevention](/blog/workplace-violence-prevention/)
 
 The Federal Bureau of Investigation estimates that approximately two million people in the U.S. are victims of workplace violence annually, with 80% of all active shooter incidents occurring in the workplace.
 
@@ -93,6 +94,6 @@ Your workplace safety training is only as good as the materials you use and your
 
 *  <strong>Hold everyone accountable:</strong> From upper level managers and company owners to interns, all employees must be held accountable to the same safety standards. Modeling safety from the top sets the tone for the company.
 
-*  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](https://www.edgepointlearning.com/blog/microlearning/) resources into your program, or create [geofenced resources](https://www.edgepointlearning.com/blog/geofencing/) that employees can use when on a particular site.
+*  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](/blog/microlearning/) resources into your program, or create [geofenced resources](/blog/geofencing/) that employees can use when on a particular site.
 
-<strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help with that! [Get in touch](https://www.edgepointlearning.com/) to see how we can help you.</strong>
+<strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help with that! [Get in touch](/contact/) to see how we can help you.</strong>

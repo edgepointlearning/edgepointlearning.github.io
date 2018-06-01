@@ -1,8 +1,9 @@
 ---
 title: 6 Tips For Developing The Most Effective Corporate Sales Training Program
 permalink: /blog/corporate-sales-training/
-author: Brian Oderkirk
-background: 2018-03-28-corporate-sales-training.jpg
+author:
+  name: Brian Oderkirk
+image: blog/2018/2018-03-28-corporate-sales-training.jpg
 excerpt: When you're developing your employee training for the year, it's easy to lump the sales team into your wider net of corporate training. But, doing so can be a recipe for disaster (and unfinished courses). Here's how to create effective corporate sales training.
 related: false
 ---
@@ -58,7 +59,7 @@ Separate the training you have to do (compliance, regulatory, leadership, etc.) 
 
 For those topics that are mandatory and not going be perceived as helping with their performance, develop them into eLearning programs that the reps can do on their down time between appointments, traveling, or when they catch up on administrative items.
 
-For the items that are going to help their day-to-day, do them live if you can. For this type of training, you'll also want plenty of job-aids, leave behinds, and [microlearning](https://www.edgepointlearning.com/blog/microlearning/) resources that the reps can access regularly.
+For the items that are going to help their day-to-day, do them live if you can. For this type of training, you'll also want plenty of job-aids, leave behinds, and [microlearning](/blog/microlearning/) resources that the reps can access regularly.
 
 The more tools you can leave your reps to use out in the field, the better equipped they'll feel when having conversations with prospects and clients.  The key is to give them the right tools up-front so that they don’t have to keep telling a potential buyer, “Let me go check for you."
 
@@ -79,12 +80,12 @@ This tip is so easy that I’m surprised not every organization does it.
 
 For your corporate sales training program, make sure it's easy, accessible, and engaging.
 
-Do things to make your most important training topics easier to access. Can you create a video? Or could you record a sales rep giving a pitch on a product for the team to view? Maybe have a podcast that the reps can listen to while driving? Or, could you create a [mobile social learning](https://www.edgepointlearning.com/blog/what-is-mlearning/) opportunity where reps can share ideas and training tips? What about [region-specific push alerts](https://www.edgepointlearning.com/blog/geofencing/) that provide them with key information for their next sales meeting?
+Do things to make your most important training topics easier to access. Can you create a video? Or could you record a sales rep giving a pitch on a product for the team to view? Maybe have a podcast that the reps can listen to while driving? Or, could you create a [mobile social learning](/blog/what-is-mlearning/) opportunity where reps can share ideas and training tips? What about [region-specific push alerts](/blog/geofencing/) that provide them with key information for their next sales meeting?
 
 If you don’t have the internal resources available to develop a full eLearning suite, leverage what is free and already out there.  For example, I frequently binge listen to a great podcast called [The Brutal Truth About Sales & Selling](https://itunes.apple.com/us/podcast/brutal-truth-about-sales-selling-b2b-social-linkedin/id327760868?mt=2){:target="_blank"}, which I would highly recommend implementing into your blended learning solution.
 
 Whatever you can do to make your corporate sales training more easy to access, review, and use as a job aid, the more likely it is that your sales team will actually use it.
 
-<strong>Need help creating a program that works? Contact [EdgePoint Learning](https://www.edgepointlearning.com/contact/) today to see demos of our sales training courses.</strong>
+<strong>Need help creating a program that works? Contact [EdgePoint Learning](/contact/) today to see demos of our sales training courses.</strong>
 
 <em>This article was originally published on [eLearning Industry](https://elearningindustry.com/corporate-sales-training-program-6-tips-developing-effective){:target="_blank"} on March 18, 2018.</em>

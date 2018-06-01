@@ -1,8 +1,9 @@
 ---
 title: EdgePoint Announces Partnership With PinPoint Workforce, The First Mobile-Native Learning System
 permalink: /blog/pinpoint-partnership/
-author: Nikki VanRy
-background: 2017-09-09-pinpoint.jpg
+author:
+  name: Nikki VanRy
+image: blog/2017/2017-09-09-pinpoint.jpg
 excerpt: At EdgePoint Learning, we're thrilled to announce our new partnership with PinPoint Workforce, the world's first mobile-native learning and compliance system.
 related: false
 ---
@@ -11,7 +12,7 @@ At EdgePoint Learning, we're thrilled to announce our new exclusive partnership 
 
 ### Break free from the desk with location-aware content delivery
 
-As we wrote previously, most employees only have 24 minutes a week (about 1% of their workweek) to dedicate to training. [Microlearning](https://www.edgepointlearning.com/blog/microlearning) capitalizes on an employee's scant training time by making sure learning occurs right where and when they need it the most.
+As we wrote previously, most employees only have 24 minutes a week (about 1% of their workweek) to dedicate to training. [Microlearning](/blog/microlearning) capitalizes on an employee's scant training time by making sure learning occurs right where and when they need it the most.
 
 PinPoint helps companies harness the power of location-aware systems to provide that just-in-time learning. They do this with the push notifications you're already familiar with, along with:
 
@@ -32,7 +33,9 @@ Applications exist for all industries, but mobile-native technology is especiall
 *  Hospitality
 *  Food and beverage
 
-<div class='video-responsive'><iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="responsive-embed">
+  <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Manage employee learning from your mobile or desktop
 
@@ -47,7 +50,9 @@ And with PinPoint, that content creation can take place with the touch of a thum
 
 Need more than two thumbs? Access it all through a browser-based app from any device.
 
-<div class='video-responsive'><iframe src="https://player.vimeo.com/video/218986846" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="responsive-embed">
+  <iframe src="https://player.vimeo.com/video/218986846" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Capture your existing materials
 
@@ -61,9 +66,13 @@ As part of our partnership, EdgePoint Learning offers on-demand custom content f
 
 With our expert knowledge, we guide companies through the learning process, crafting materials and job aids to meet their specific needs. We help companies rapidly audit, develop, and deploy the best learning solutions for their employees.
 
-Whether you need to roll out customer service training, on-boarding materials, or professional development tools, we've [got you covered](https://www.edgepointlearning.com/solutions/). We also work with companies to align their legacy training materials to the PinPoint system, so they can optimize existing materials for the mobile environment.
+Whether you need to roll out customer service training, on-boarding materials, or professional development tools, we've [got you covered](/solutions/). We also work with companies to align their legacy training materials to the PinPoint system, so they can optimize existing materials for the mobile environment.
 
-![PinPoint Infographic](/assets/images/blog/pinpoint-infographic.jpg "PinPoint infographic"){:class="img-responsive"}
+{% img 'blog/2017/2017-09-09-pinpoint-infographic.jpg'
+   alt:'The PinPoint Workflow'
+   class:'marginTop marginBot'
+   magick:resize:670
+   magick:quality:92  %}
 
 ### Ready to learn more?
 

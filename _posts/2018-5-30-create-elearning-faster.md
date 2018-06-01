@@ -1,9 +1,10 @@
 ---
-title: How Can I Create My eLearning Courses Faster?
+title:  How Can I Create My eLearning Courses Faster?
 permalink: /blog/create-elearning-faster/
-author: Tyler Campbell
-background: 2018-05-30-create-elearning-faster.jpg
-excerpt:  A recent study found that it took an average of 71 hours to create a one-hour eLearning course with interactions. Developing an eLearning course takes time, but there are ways to speed up the process without compromising the quality of the final result. Here's how.
+author:
+  name: Tyler Campbell
+image: blog/2018/2018-05-30-create-elearning-faster.jpg
+excerpt: A recent study found that it took an average of 71 hours to create a one-hour eLearning course with interactions. Developing an eLearning course takes time, but there are ways to speed up the process without compromising the quality of the final result. Here's how.
 related: false
 ---
 
@@ -30,7 +31,7 @@ So no, you aren’t crazy. Developing an eLearning course takes time, but there 
 
 Many eLearning course developers make the mistake of enthusiastically diving into the course without laying a little groundwork. This goes beyond buying new hardware and updating the old software. Here are four ways to create your eLearning courses faster.
 
-#### 1. Don’t skip the [learning needs assessment](http://www.edgepointlearning.com/blog/training-needs-analysis)
+#### 1. Don’t skip the [learning needs assessment](/blog/training-needs-analysis)
 
 It seems obvious that you would take a hard look at what your employees actually need before you get started on course development, but many developers skip this step.
 
@@ -46,7 +47,7 @@ A learning needs assessment:
 
 Don’t reinvent the wheel. Chances are good that when you completed your learning needs assessment you uncovered some SMEs who can help provide the bulk of the information you need to deliver in your eLearning course.
 
-Even if your SMEs come from outside of the company, it’s important to come up with [a plan for success](https://www.edgepointlearning.com/blog/how-to-work-with-subject-matter-experts/) that includes:
+Even if your SMEs come from outside of the company, it’s important to come up with [a plan for success](/blog/how-to-work-with-subject-matter-experts/) that includes:
 
 *  <strong>Clear expectations:</strong> What information do they need to provide and in what format? Make sure they know this up-front.
 *  <strong>Clear time frame:</strong> When will you meet, and what do you expect to accomplish?
@@ -73,7 +74,7 @@ Maybe you have carefully followed the four recommendations and are still staring
 
 Nothing slows down eLearning development faster than a top-level executive who just doesn’t get why the 100-pound doorstop of a training manual is no longer effective.
 
-It’s not really their fault. Take the time at the beginning of the project to show them exactly why [eLearning will benefit the company](https://www.edgepointlearning.com/blog/business-case-for-elearning-development/) (and its bottom line!).
+It’s not really their fault. Take the time at the beginning of the project to show them exactly why [eLearning will benefit the company](/blog/business-case-for-elearning-development/) (and its bottom line!).
 
 #### Speed bump #2: Too many cooks in the kitchen
 
@@ -83,8 +84,8 @@ If you want everyone to feel included, think about sending tailored bits of the 
 
 ### Are there other ways to speed up eLearning course development?
 
-If this is your first foray into the world of eLearning course development, maybe it’s best to start small. If your learning needs assessment indicated a place for microlearning, start with that. [Microlearning](https://www.edgepointlearning.com/blog/microlearning/) courses are typically only a few minutes long and take, on average, about ten to 15 hours to develop. This might be a good place to learn the ropes.
+If this is your first foray into the world of eLearning course development, maybe it’s best to start small. If your learning needs assessment indicated a place for microlearning, start with that. [Microlearning](/blog/microlearning/) courses are typically only a few minutes long and take, on average, about ten to 15 hours to develop. This might be a good place to learn the ropes.
 
 You can also create an easily modifiable template that can be used in different courses. This allows for editing and changes as needed, functioning as a prototype that can be evaluated, tweaked, and reimagined when your company’s training needs change.
 
-<strong>Ultimately, you may decide to ask for help. Knowing [when to outsource your company’s eLearning course development](https://www.edgepointlearning.com/blog/when-to-outsource-your-elearning/) can be tricky. EdgePoint Learning can help you figure out the best approach. [Get in touch today!](https://www.edgepointlearning.com/)</strong>
+<strong>Ultimately, you may decide to ask for help. Knowing [when to outsource your company’s eLearning course development](/blog/when-to-outsource-your-elearning/) can be tricky. EdgePoint Learning can help you figure out the best approach. [Get in touch today!](https://www.edgepointlearning.com/)</strong>
