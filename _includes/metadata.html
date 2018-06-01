@@ -26,6 +26,8 @@
 
 {% if page.image %}
   <meta property ="og:image" content="{{ site.url }}{{ site.baseurl }}{% asset_path '{{ page.image }}' %}">
+  <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}{% asset_path '{{ page.image }}' %}" /> 
+
   <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% asset_path '{{ page.image }}' %}">
 {% else %}
   <meta property ="og:image" content="{{ '/static/seo/fbogimage02.jpg' | prepend: site.baseurl | prepend: site.url }}">
