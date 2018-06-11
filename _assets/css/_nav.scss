@@ -51,8 +51,7 @@
     transition: background-color 0.25s ease-out;
 
     &.active {
-      // <!-- TODO: jekyll-assets-v3 -->
-      background: url(asset_path("ui/triangle.svg")) no-repeat center top/16px 6px;
+      background: asset_url("ui/triangle.svg") no-repeat center top/16px 6px;
     }
 
     &:hover {

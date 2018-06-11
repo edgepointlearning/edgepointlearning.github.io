@@ -6,8 +6,7 @@ layout: default
 
   <div class="grid-x">
     <div class="cell cover">
-      <!-- TODO: jekyll-assets-v3 -->
-      {% img '{{ page.image }}' alt:'{{ page.title }}' width:'100%' magick:resize:1170 magick:quality:92 %}
+      {% asset '{{ page.image }}' alt='{{ page.title }}' width='100%' magick:resize=1170 magick:quality=92 %}
     </div>
   </div>
 

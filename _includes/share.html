@@ -18,8 +18,7 @@
        title="Copy link to clipboard"
        class="clipboard"
        target="_blank">
-         <!-- TODO: jekyll-assets-v3 -->
-         {% asset 'social/link.svg' alt:'link' %}
+         {% asset 'social/link.svg' @inline %}
       </a>
     </span>
   </li>
@@ -28,8 +27,7 @@
      href="https://facebook.com/sharer/sharer.php?u={{ share_url }}"
      title="Share to Facebook"
      target="_blank">
-       <!-- TODO: jekyll-assets-v3 -->
-       {% asset 'social/facebook.svg' alt:'Facebook logo' %}
+       {% asset 'social/facebook.svg' @inline %}
     </a>
   </li>
   <li>
@@ -37,8 +35,7 @@
      href="https://twitter.com/intent/tweet/?text='{{ share_title }}'&amp;url={{ share_url }}"
      title="Share to Twitter"
      target="_blank">
-       <!-- TODO: jekyll-assets-v3 -->
-       {% asset 'social/twitter.svg' alt:'Twitter logo' %}
+       {% asset 'social/twitter.svg' @inline %}
     </a>
   </li>
   <li>
@@ -46,8 +43,7 @@
      href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
      title="Share to LinkedIn"
      target="_blank">
-       <!-- TODO: jekyll-assets-v3 -->
-       {% asset 'social/linkedin.svg' alt:'LinkedIn logo' %}
+       {% asset 'social/linkedin.svg' @inline %}
     </a>
   </li>
   <li>
@@ -55,8 +51,7 @@
      href="mailto:?subject={{ share_title }}&amp;body={{ share_url }}"
      title="Share via Email"
      target="_self">
-       <!-- TODO: jekyll-assets-v3 -->
-       {% asset 'social/email.svg' alt:'Email icon' %}
+       {% asset 'social/email.svg' @inline %}
     </a>
   </li>
 </ul>
