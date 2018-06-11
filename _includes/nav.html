@@ -2,6 +2,7 @@
 <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle="offCanvas"></button>
   <div class="title-bar-right">
+    <!-- TODO: jekyll-assets-v3 -->
     {% asset 'logo/epl-lettermark.svg' %}
   </div>
 </div>
@@ -14,6 +15,7 @@
       <ul class="menu">
         <li>
           <a href="/">
+            <!-- TODO: jekyll-assets-v3 -->
             {% asset 'logo/epl-horizontal-combination-mark.svg' %}
           </a>
         </li>
@@ -23,6 +25,7 @@
     <div class="cell shrink nav-social">
       <ul class="menu align-right align-middle">
         {% for socialItem in site.data.social %}
+          <!-- TODO: jekyll-assets-v3 -->
           <li><a href="{{ socialItem.url }}">{% asset 'social/{{ socialItem.svg] }}.svg' %}</a></li>
         {% endfor %}
       </ul>

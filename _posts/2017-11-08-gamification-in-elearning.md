@@ -76,6 +76,7 @@ Do your players interact outside of the game? This is very important if the gami
 
 Is everyone participating? Gamification in the workplace is only as effective as the number of people who are actually using it. Build in times for employees to interact with the game, such as check-ins and posting of pictures. Also, don't make it drudgery. Give them resources in time and space to enjoy the training. They shouldn't have to worry about other deadlines when in the game space.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-11-08-gamification-in-elearning-2.jpg'
    alt:'How To Make Gamification in eLearning Successful'
    class:'marginTop marginBot' %}

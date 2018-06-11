@@ -42,6 +42,7 @@ Mix-and-matching these eLearning training methods for small businesses gives you
 
 So now you know what you need, and maybe you have even decided which type of SMB eLearning approach you want to focus on. What’s next? For any type of training approach, there will be a few steps to take to develop it for your company.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2018/2018-05-16-smb-elearning-infographic.jpg'
    alt:'eLearning For Small-Medium Businesses'
    class:'marginBot marginTop' %}

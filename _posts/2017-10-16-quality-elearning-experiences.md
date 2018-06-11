@@ -16,6 +16,7 @@ World-renowned chef, Nobuyuki Matsuhisa (Nobu), with over 40 restaurant location
 
 As the chef’s brand suggests, all the senses cannot be separated, they are interconnected. In [Newsweek](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html){:target="_blank"}, Chef Nobu’s self-description of his renowned restaurants are that the “... the food and concept are very simple, but always with a twist, like a new product or ingredients and presentations.” His passion is to make his restaurant goers say, “that’s beautiful!” during their culinary experience.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-nobu-group.jpg'
    alt:'Nobu Entrance'
    class:'thumbnail marginTop marginBot' %}
@@ -48,6 +49,7 @@ Stemming from the graphic design world, thesee are four principles for good visu
 To start, let's bring it back to Nobu.
 One of Nobu’s signature dishes, and a personal favorite, is the Black Miso Cod. One of the first things you might notice in its presentation is the contrasting colors. The cod itself is a light color, with purposeful grill marks. Additionally, there is a nice pink pickled ginger root used to cleanse the palate with green bamboo leafs to add elegance.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-nobu-dish'
    alt:'A Nobu dish'
    class:'marginTop marginBot'
@@ -80,6 +82,7 @@ The other reason we should care about this principle is because we want to free 
 
 An example where this comes into play is when designing an eLearning module where the navigation buttons are different from screen-to-screen. The action is not consistent so the learner has to think about how to simply advance through the course. This takes away valuable cognitive resources from learning what you want them to learn.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-nobu-repetition.jpg'
    alt:'An example of Nobu repetition'
    class:'marginTop marginBot'
@@ -97,6 +100,7 @@ You might have heard of the term screen real estate. Just like in real estate, y
 
 As an experiment, try creating a screen where nothing is aligned or only one thing is askew. Tell me how easy it is for the eye to pick up on that. It can be distracting.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-nobu-alignment'
    alt:'An example of Nobu alignment'
    class:'marginTop marginBot'
@@ -112,6 +116,7 @@ Proximity relates to creating relationships between objects or information. We u
 
 So, what we are really talking about is how to create relationships between images and text or images and other images in a tight space without confusing the learner.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-nobu-proximity'
    alt:'An example of Nobu proximity'
    class:'marginTop marginBot'
@@ -141,6 +146,7 @@ In the end, the most important thing is to simply be aware of the visual design 
 
 ---
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-10-16-quincy-conley.jpg'
    alt:'Quincy Conley'
    class:'float-right thumbnail marginLeft marginTopHalf'

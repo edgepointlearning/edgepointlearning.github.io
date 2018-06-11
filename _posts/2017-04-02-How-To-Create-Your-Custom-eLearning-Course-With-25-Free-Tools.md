@@ -41,6 +41,7 @@ At this point, you've gathered all of the elements you'll need to create eLearni
 And then, bring those items together. Some free software programs can help you bring all your disparate elements into one cohesive course.
 After this step, you'll also send your new course out to SMEs or other company stakeholders to review, suggest any changes, and ultimately approve. Once that's done, you'll move your course to an [LMS or cloud platform](https://elearningindustry.com/subjects/elearning-software/learning-management-systems-lms).
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-04-02-how-to-create-an-elearning-course-infographic@2x.png' alt:'How to create an eLearning course infographic' %}
 {: .wideImage .marginTop .marginBot}
 

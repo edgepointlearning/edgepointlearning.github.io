@@ -20,6 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ### Wide images are 1170px wide
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2014/2014-01-01-cat-treat.jpg'
    alt:'A well-behaved cat'
    class:'marginBot marginTopHalf'
@@ -31,6 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Normal images are 670px wide
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2014/2014-01-01-pink-chrysanthemum.jpg'
    alt:'A pink chrysanthemum'
    id:'chrysanthemum'
@@ -42,6 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Smaller images can be floated
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2014/2014-01-01-a-bouquet-of-nutrition.jpg'
    alt:'broc'
    class:'float-right thumbnail marginTopEM marginLeft'
@@ -51,6 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 **Don't forget to add a `.clearfix` class to the following paragraph or block element!** Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {: .clearfix }
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2014/2014-01-01-lemon.jpg'
    alt:'broc'
    class:'float-left thumbnail marginTopHalf marginRight'
@@ -145,6 +149,7 @@ Othewise, tables are full-width by default:
 ---
 #### An Esteemed Author
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2014/2014-01-01-today-pink-is-my-mood.jpg'
    alt:'Quincy Conley'
    class:'float-right thumbnail marginLeft marginTopHalf'

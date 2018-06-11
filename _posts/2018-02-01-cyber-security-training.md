@@ -27,6 +27,7 @@ Information security training (infosec training) can help mitigate this exposure
 
 Creating an effective cyber security training for employees starts at the top, is meaningful, just-in-time, and ongoing. Here are ten tips to help you get there.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
    alt:'Cyber Security Training Infographic'
    class:'marginTop marginBot' %}
@@ -101,6 +102,7 @@ Instead, he advocates what he refers to as “people patching.” Similar to reg
 ---
 #### Craig Cocciola
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2018/2018-02-01-craig-cocciola.jpg'
    alt:'Craig Cocciola'
    class:'float-right thumbnail marginTopHalf marginLeft'

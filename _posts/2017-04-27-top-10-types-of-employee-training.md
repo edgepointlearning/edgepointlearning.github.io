@@ -94,6 +94,7 @@ Finally, some topics are readily accessible through required readings. Case stud
 
 Case studies are a great option for focused topics, but more complex topics will likely require more advanced types of employee training.
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-04-27-types-of-employee-training@2x.png' alt:'Types of Employee Training' %}
 {: .wideImage .marginTop .marginBot}
 

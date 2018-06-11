@@ -84,6 +84,7 @@ Switching to eLearning isn't only financially savvy; it's also better for the en
 
 "Producing and providing distance learning courses consumes an average of <strong>90% less energy</strong> and produces <strong>85% fewer CO2 emissions</strong> per student than conventional face-to-face courses."
 
+<!-- TODO: jekyll-assets-v3 -->
 {% img 'blog/2017/2017-06-13-advantages-of-elearning.jpg'
    alt:'12 Advantages of eLearning For Your Employees'
    class:'marginTop marginBot'%}
