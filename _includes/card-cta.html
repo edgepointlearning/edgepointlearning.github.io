@@ -1,6 +1,7 @@
 <div class="cta-card cell medium-6">
   <h5>{{ card.title }}</h5>
-  {% asset 'icons8/{{ card.icon }}.svg' @inline %}
+  <!-- TODO: jekyll-assets-v3 -->
+  {% asset 'icons8/{{ card.icon }}.svg' %}
   <p>{{ card.desc }}</p>
   <a href="{{ card.link }}" class="button">{{ card.button }}</a>
 </div>

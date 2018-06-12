@@ -31,9 +31,8 @@
       <div class="cell medium-shrink">
         <h6>Follow us</h6>
         {% for socialItem in site.data.social %}
-          <a href="{{ socialItem.url }}">
-            {% asset 'social/{{ socialItem.svg] }}.svg' @inline %}
-          </a>
+          <!-- TODO: jekyll-assets-v3 -->
+          <a href="{{ socialItem.url }}">{% asset 'social/{{ socialItem.svg] }}.svg' %}</a>
         {% endfor %}
       </div>
     </div>
@@ -46,7 +45,8 @@
       <div class="cell auto">
         <div class="media-object">
           <div class="media-object-section align-self-middle show-for-medium">
-            {% asset 'logo/epl-lettermark.svg' @inline %}
+            <!-- TODO: jekyll-assets-v3 -->
+            {% asset 'logo/epl-lettermark.svg' %}
           </div>
           <div class="media-object-section main-section">
             <p>
