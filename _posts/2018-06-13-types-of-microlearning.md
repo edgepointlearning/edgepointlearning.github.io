@@ -121,4 +121,4 @@ PSTs – think checklists, quick-fix videos, or definitions – can help employe
 
 With so many different types of microlearning to choose from, [creating an individualized package of training](/blog/whats-the-key-to-creating-a-successful-elearning-project/) for your employees has never been easier. Using microlearning, companies know that they are creating effective, efficient, and affordable learning solutions for their employees. Find even more examples of [different types of employee training here](/blog/top-10-types-of-employee-training).
 
-If you are ready to get started developing your company’s microlearning, give EdgePoint Learning a call today. We can help.
+<strong>If you are ready to get started developing your company’s microlearning, [give EdgePoint Learning a call today](/contact/). We can help.</strong>
