@@ -123,11 +123,10 @@ Today’s employers simply can’t afford to wait any longer to make effective o
 
 President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com){:target="_blank"}
 
-<!-- TODO: jekyll-assets-v3 -->
-{% img 'blog/2018/2018-01-18-holly-curtis.jpg'
-   alt:'Holly Curtis'
-   class:'float-left thumbnail marginTopHalf marginRight'
-   magick:quality:92 %}
+{% asset 'blog/2018/2018-01-18-holly-curtis.jpg'
+   alt='Holly Curtis'
+   class='float-left thumbnail marginTopHalf marginRight'
+   magick:quality='92' %}
 
 *Holly Curtis is a recognized executive business leader who provides senior-level human resource and organizational development consulting services in support of each organization's unique business circumstances. She has held HR leadership roles with a wide variety of organizations, from entrepreneurial start-ups to global industry giants.*
 {: .clearfix }

@@ -88,9 +88,8 @@ Instead, provide just-in-time, or microlearning, training that employees can acc
 
 [Microlearning training](/blog/microlearning) allows new employees to review training on a smartphone on their own time. It can also result in a 17% improvement in knowledge transfer and take 300% less time and 50% less cost to produce on your end, in addition to other benefits.
 
-<!-- TODO: jekyll-assets-v3 -->
-{% img 'blog/2017/2017-07-31-benefits-of-microlearning.jpg'
-   alt:'Benefits of Microlearning' %}
+{% asset 'blog/2017/2017-07-31-benefits-of-microlearning.jpg'
+   alt='Benefits of Microlearning' %}
 {: .wideImage }
 
 #### Always encourage questions and schedule time for open dialogue

@@ -34,10 +34,9 @@ The benefits of on the job training for employers and employees alike make it a 
 
 On-the-job training delivered specifically through various microlearning modules is vital today because the [advantages can’t be beat](/blog/advantages-of-elearning/). It’s applicable, sensible for the bottom line, efficient, and flexible.
 
-<!-- TODO: jekyll-assets-v3 -->
-{% img 'blog/2018/2018-03-21-on-the-job-training-advantages-infographic.jpg'
-   alt:'On The Job Training Advantages'
-   class:'marginTop marginBot' %}
+{% asset 'blog/2018/2018-03-21-on-the-job-training-advantages-infographic.jpg'
+   alt='On The Job Training Advantages'
+   class='marginTop marginBot' %}
 {: .wideImage }
 
 #### Easily applicable
