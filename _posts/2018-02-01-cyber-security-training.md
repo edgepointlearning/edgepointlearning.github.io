@@ -27,9 +27,9 @@ Information security training (infosec training) can help mitigate this exposure
 
 Creating an effective cyber security training for employees starts at the top, is meaningful, just-in-time, and ongoing. Here are ten tips to help you get there.
 
-{% img 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
-   alt:'Cyber Security Training Infographic'
-   class:'marginTop marginBot' %}
+{% asset 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
+   alt='Cyber Security Training Infographic'
+   class='marginTop marginBot' %}
 {: .wideImage }
 
 #### 1. Get executive buy-in
@@ -101,11 +101,11 @@ Instead, he advocates what he refers to as “people patching.” Similar to reg
 ---
 #### Craig Cocciola
 
-{% img 'blog/2018/2018-02-01-craig-cocciola.jpg'
-   alt:'Craig Cocciola'
-   class:'float-right thumbnail marginTopHalf marginLeft'
-   magick:resize:240
-   magick:quality:92 %}
+{% asset 'blog/2018/2018-02-01-craig-cocciola.jpg'
+   alt='Craig Cocciola'
+   class='float-right thumbnail marginTopHalf marginLeft'
+   magick:resize='240'
+   magick:quality='92' %}
 
 *Michael Craig Cocciola has been the Director of IT and FSO at (ABL) [Advanced Business Learning](http://ablcyberacademy.com/){:target="_blank"} for the past 12 of his 34 years in IT and Network Management. One year ago, Craig and his Cyber Team designed, developed, and launched a live [Cyber Skills Lab](https://ablcyberlab.com/){:target="_blank"} for hands-on student development of both offensive and defensive cyber tactics. The ABL Cyber Lab is so effective it was discovered and vetted by US NAVY SPAWAR for inclusion in their Cyber and IT education and training catalog. The ABL Cyber Lab course is the only Cyber Range now offered in this 200+ course catalog for SPAWAR Cyber and IT Security personnel skills development. Craig manages the ABL Cyber Lab team in developing new and effective training for both in-lab and remote VPN lab users, and is helping to fill the shortage of thousands of unfilled cyber job openings in Arizona. The ABL Cyber Lab is a training facility within the ABL Cyber Academy, offering top industry Certification courses in IT and Security assessment through ethical hacking.*
 {: .clearfix }

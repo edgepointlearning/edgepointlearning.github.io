@@ -73,9 +73,9 @@ Just like instructor-led training, eLearning courses must focus on the core prin
 
 ### eLearning vs. traditional learning
 
-{% img 'blog/2017/2017-03-01-elearning-vs-traditional-learning-infographic@2x.png'
-   alt:'elearning vs traditional learning infographic'
-   class:'marginTopHalf marginBot' %}
+{% asset 'blog/2017/2017-03-01-elearning-vs-traditional-learning-infographic@2x.png'
+   alt='elearning vs traditional learning infographic'
+   class='marginTopHalf marginBot' %}
 {: .wideImage}
 
 ### The best of both worlds: Blended learning

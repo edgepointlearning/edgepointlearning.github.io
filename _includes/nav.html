@@ -2,7 +2,7 @@
 <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle="offCanvas"></button>
   <div class="title-bar-right">
-    {% asset 'logo/epl-lettermark.svg' %}
+    {% asset 'logo/epl-lettermark.svg' @inline %}
   </div>
 </div>
 
@@ -14,7 +14,7 @@
       <ul class="menu">
         <li>
           <a href="/">
-            {% asset 'logo/epl-horizontal-combination-mark.svg' %}
+            {% asset 'logo/epl-horizontal-combination-mark.svg' @inline %}
           </a>
         </li>
       </ul>
@@ -23,7 +23,11 @@
     <div class="cell shrink nav-social">
       <ul class="menu align-right align-middle">
         {% for socialItem in site.data.social %}
-          <li><a href="{{ socialItem.url }}">{% asset 'social/{{ socialItem.svg] }}.svg' %}</a></li>
+          <li>
+            <a href="{{ socialItem.url }}">
+              {% asset 'social/{{ socialItem.svg] }}.svg' @inline %}
+            </a>
+          </li>
         {% endfor %}
       </ul>
     </div>

@@ -51,7 +51,10 @@
     transition: background-color 0.25s ease-out;
 
     &.active {
-      background: url(asset_path("ui/triangle.svg")) no-repeat center top/16px 6px;
+      background-image: asset_url('ui/triangle.svg');
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: 16px 6px;
     }
 
     &:hover {

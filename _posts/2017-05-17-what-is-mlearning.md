@@ -69,9 +69,9 @@ For video content specifically, include easy volume control. If your sales perso
 
 You can create mobile learning courses based on your existing eLearning content, as long as you redesign those courses to actively play into the benefits of mobile. Your courses won't just be smaller—they'll be redesigned for each and every screen.
 
-{% img 'blog/2017/2017-05-17-what-is-mlearning@2x.png'
-   alt:'What is mLearning?'
-   class:'marginTopHalf marginBot' %}
+{% asset 'blog/2017/2017-05-17-what-is-mlearning@2x.png'
+   alt='What is mLearning?'
+   class='marginTopHalf marginBot' %}
 {: .wideImage}
 
 ### Mobile learning for your workforce

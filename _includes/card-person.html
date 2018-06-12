@@ -2,12 +2,12 @@
   <div class="media-object stack-for-small">
     <div class="media-object-section text-center">
       <div class="thumbnail">
-        <img
-         src="{% asset_path '{{ person.image }}' magick:resize:160 magick:quality:85 %}"
-         srcset="{% asset_path '{{ person.image }}' magick:resize:160 magick:quality:85 %} 1x,
-                 {% asset_path '{{ person.image }}' magick:resize:320 magick:quality:85 %} 2x"
-         alt="{{ person.name }}"
-        >
+        {% asset
+          '{{ person.image }}'
+          srcset:width='320 2x'
+          srcset:width='160 1x'
+          alt='{{ person.name }}'
+        %}
       </div>
     </div>
     <div class="media-object-section">

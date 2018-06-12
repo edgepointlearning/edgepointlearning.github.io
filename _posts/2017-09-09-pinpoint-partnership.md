@@ -68,11 +68,11 @@ With our expert knowledge, we guide companies through the learning process, craf
 
 Whether you need to roll out customer service training, on-boarding materials, or professional development tools, we've [got you covered](/solutions/). We also work with companies to align their legacy training materials to the PinPoint system, so they can optimize existing materials for the mobile environment.
 
-{% img 'blog/2017/2017-09-09-pinpoint-infographic.jpg'
-   alt:'The PinPoint Workflow'
-   class:'marginTop marginBot'
-   magick:resize:670
-   magick:quality:92  %}
+{% asset 'blog/2017/2017-09-09-pinpoint-infographic.jpg'
+   alt='The PinPoint Workflow'
+   class='marginTop marginBot'
+   magick:resize='670'
+   magick:quality='92'  %}
 
 ### Ready to learn more?
 
