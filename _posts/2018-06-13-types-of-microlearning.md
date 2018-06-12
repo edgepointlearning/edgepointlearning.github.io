@@ -2,7 +2,7 @@
 title:   The Top 11 Types Of Microlearning For Your Employees
 permalink: /blog/types-of-microlearning/
 author:
-  name: TBD
+  name: Nikki VanRy
 image: blog/2018/2018-06-13-types-of-microlearning.jpg
 excerpt: Microlearning is quick, accessible learning that offers your employees tidbits of information when they need it, where they need it. But, just like all types of training, different types of microlearning allow you to meet your varying goals.
 related: false
