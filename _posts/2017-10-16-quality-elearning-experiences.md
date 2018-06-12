@@ -48,7 +48,7 @@ Stemming from the graphic design world, thesee are four principles for good visu
 To start, let's bring it back to Nobu.
 One of Nobu’s signature dishes, and a personal favorite, is the Black Miso Cod. One of the first things you might notice in its presentation is the contrasting colors. The cod itself is a light color, with purposeful grill marks. Additionally, there is a nice pink pickled ginger root used to cleanse the palate with green bamboo leafs to add elegance.
 
-{% asset 'blog/2017/2017-10-16-nobu-dish'
+{% asset 'blog/2017/2017-10-16-nobu-dish.jpg'
    alt='A Nobu dish'
    class='marginTop marginBot'
    magick:resize='960'
@@ -97,7 +97,7 @@ You might have heard of the term screen real estate. Just like in real estate, y
 
 As an experiment, try creating a screen where nothing is aligned or only one thing is askew. Tell me how easy it is for the eye to pick up on that. It can be distracting.
 
-{% asset 'blog/2017/2017-10-16-nobu-alignment'
+{% asset 'blog/2017/2017-10-16-nobu-alignment.jpg'
    alt='An example of Nobu alignment'
    class='marginTop marginBot'
    magick:resize='960'
@@ -112,7 +112,7 @@ Proximity relates to creating relationships between objects or information. We u
 
 So, what we are really talking about is how to create relationships between images and text or images and other images in a tight space without confusing the learner.
 
-{% asset 'blog/2017/2017-10-16-nobu-proximity'
+{% asset 'blog/2017/2017-10-16-nobu-proximity.jpg'
    alt='An example of Nobu proximity'
    class='marginTop marginBot'
    magick:resize='960'
