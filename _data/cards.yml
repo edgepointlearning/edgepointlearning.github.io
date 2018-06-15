@@ -1,45 +1,46 @@
-- id     : blog
-  title  : We Love Learning!
-  icon   : heart
-  button : Read
-  link   : /blog/
-  desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working now and what’s on the horizon - and we’re more than happy to share our observations and insights with you.
 
 - id     : demos
-  title  : Check Out Our Demos
+  title  : Check Us Out
   icon   : puzzle
-  button : Explore
+  button : Request Demo
   link   : '/form/demo/'
-  desc   : EdgePoint can convert any training materials into engaging, interactive eLearning. Explore our demos to see how we transform complex topics into relevant learning experiences.
+  desc   : We transform complex training topics into engaging, interactive eLearning opportunities. Want to see our training in action?
 
 - id     : newsletter
-  title  : Stay Informed!
+  title  : Stay Informed
   icon   : paper-plane
-  button : Subscribe
+  button : Subscribe Now
   link   : '/form/newsletter/'
-  desc   : Keep up to date on learning industry news and the latest EdgePoint offerings.
+  desc   : Keep up on the latest in eLearning news and regulatory changes by subscribing to updates from our eLearning blog.
 
 - id     : solutions
-  title  : Solutions That Drive Your Business
+  title  : Our eLearning Solutions
   icon   : light-on
-  button : Learn
+  button : Learn More
   link   : /solutions/
-  desc   : EdgePoint’s team works closely with you to understand your business and craft a targeted learning solution that works.
-
-- id     : success
-  title  : Our Customers' Success Stories
-  icon   : rocket
-  button : Explore
-  link   : /success/
-  desc   : How do you measure success for your organizational learning initiatives? EdgePoint Learning focuses on clearly defining success metrics at the start of every project. Read how success was defined for these EdgePoint Learning clients, in their own words.
+  desc   : Want to see more of what we do? Check out all of our off-the-shelf and custom eLearning solutions.
 
 - id     : talk
   title  : Let's Talk
   icon   : chat
-  button : Talk
+  button : Contact Us
   link   : '/form/talk/'
-  desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working. Contact us to see how we can work together.
+  desc   : We know how to make the best use of your employee's time. Get in touch to see how we can help.
 
+# - id     : blog
+#   title  : We Love Learning!
+#   icon   : heart
+#   button : Read
+#   link   : /blog/
+#   desc   : As a learning professional, learning is your business. As learning experts, EdgePoint keeps our finger on the pulse of what’s working now and what’s on the horizon - and we’re more than happy to share our observations and insights with you.
+#
+# - id     : success
+#   title  : Our Customers' Success Stories
+#   icon   : rocket
+#   button : Explore
+#   link   : /success/
+#   desc   : How do you measure success for your organizational learning initiatives? EdgePoint Learning focuses on clearly defining success metrics at the start of every project. Read how success was defined for these EdgePoint Learning clients, in their own words.
+#
 # - id     : sampler
 #   title  : Learn More
 #   icon   : plane
