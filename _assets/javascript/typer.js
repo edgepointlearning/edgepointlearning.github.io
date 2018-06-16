@@ -166,5 +166,11 @@ function Typer (element, options, scenes) {
 
 if ($('#typed').length > 0) {
 	var typed = document.getElementById('typed');
-	var player = Typer(typed, ['productive', 'profitable', 'innovative', 'accountable', 'competitive']);
+	var player = Typer(typed,
+     ['employees more engaged',
+      'business more profitable',
+      'training more innovative',
+      'employees more productive',
+      'business more competitive',
+      'training more effective']);
 }

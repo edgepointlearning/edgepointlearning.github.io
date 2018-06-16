@@ -5,7 +5,6 @@ layout: default
 <div class="grid-x hero align-middle align-center">
   <div class="cell text-center">
     <h1 {% if page.title != 'Home' %} class="noWidows"{% endif %}>{{ page.hero-h1 }}</h1>
-    {% if page.hero-h2 %}<h2>{{ page.hero-h2 }}</h2>{% endif %}
     {% if page.hero-p %}<p>{{ page.hero-p }}</p>{% endif %}
     {% if page.hero-button-url %}<a class="button hollow" href="{{ page.hero-button-url }}">{{ page.hero-button-label }}</a>{% endif %}
   </div>
