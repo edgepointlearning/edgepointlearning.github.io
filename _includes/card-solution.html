@@ -1,9 +1,12 @@
-<div class="solution cell medium-6 large-4">
-  <div class="solution-icon text-center">
-    {% asset 'icons8/{{ solution.icon }}.svg' @inline %}
+{% assign filtered_solutions = site.data.solutions | sort:'title' %}
+{% for solution in filtered_solutions %}
+  <div class="solution cell medium-6 large-4">
+    <div class="solution-icon text-center">
+      {% asset 'icons8/{{ solution.icon }}.svg' @inline %}
+    </div>
+    <div class="solution-text">
+      <h3 class="h5">{{ solution.title }}</h3>
+      <p>{{ solution.desc }}</p>
+    </div>
   </div>
-  <div class="solution-text">
-    <h3 class="h5">{{ solution.title }}</h3>
-    <p>{{ solution.desc }}</p>
-  </div>
-</div>
+{% endfor %}

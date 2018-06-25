@@ -3,7 +3,6 @@ title: Contact
 permalink: /contact/
 
 excerpt: "EdgePoint Learning delivers custom eLearning solutions that work. Contact us today to learn more about how we can help you meet your business needs."
-keywords: "EdgePoint Learning"
 
 hero-h1: We'd Love to Hear From You
 
@@ -14,36 +13,39 @@ cards:
   - newsletter
 ---
 {% assign form = site.forms | where:"title", "Contact Us" | first %}
+<div class="grid-container">
+  <div class="grid-x grid-margin-x content">
 
-  <div class="cell">
-    <h2>EdgePoint Enables Learning Program Partnerships</h2>
+    <div class="cell">
+      <h2>EdgePoint Enables Learning Program Partnerships</h2>
 
-    <figure class="featured-image float-right">
-      {% asset 'icons8/chat.svg' @inline %}
-    </figure>
+      <figure class="featured-image float-right">
+        {% asset 'icons8/chat.svg' @inline %}
+      </figure>
 
-    <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
-  </div>
-
-  <div class="cell medium-8 large-6">
-    <h2>{{ form.title }}</h2>
-    {{ form.content }}
-  </div>
-</div><!-- overriding _layouts/page.html -->
-
-<div class="grid-x grid-margin-x content"><!-- overriding _layouts/page.html -->
-  <div class="cell marginTop">
-    <h2>Follow Us On Social!</h2>
-  </div>
-  {% for socialItem in site.data.social %}
-    <div class="cell social-card medium-4" style="background-color:{{ socialItem.color }}">
-      <a href="{{ socialItem.url }}">
-        <h3 class="h5">
-          {% asset 'social/{{ socialItem.svg] }}.svg' @inline %}
-          {{ socialItem.title }}
-        </h3>
-      </a>
+      <p>At EdgePoint Learning, our business is built on solid relationships and good communication. We look forward to hearing from you with any questions you may have or to talk about how EdgePoint can support you and your organization.</p>
     </div>
-  {% endfor %}
 
-<!-- the </div> is in _layouts/page.html -->
+    <div class="cell medium-8 large-6">
+      <h2>{{ form.title }}</h2>
+      {{ form.content }}
+    </div>
+
+
+    <div class="cell marginTop">
+      <h2>Follow Us On Social!</h2>
+    </div>
+
+    {% for socialItem in site.data.social %}
+      <div class="cell social-card medium-4" style="background-color:{{ socialItem.color }}">
+        <a href="{{ socialItem.url }}">
+          <h3 class="h5">
+            {% asset 'social/{{ socialItem.svg] }}.svg' @inline %}
+            {{ socialItem.title }}
+          </h3>
+        </a>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>

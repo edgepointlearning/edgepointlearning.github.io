@@ -3,12 +3,9 @@ title: eLearning Blog
 permalink: /blog/
 
 excerpt: "On our eLearning blog, you’ll find informative and actionable insights into the learning industry. Subscribe to get the latest delivered to your inbox."
-keywords: "EdgePoint Learning, eLearning blog"
 
 hero-h1: We Love Learning!
 
-blog: true
-teasers: true
 pagination:
   enabled: true
   title: ':title - page :num'
@@ -23,16 +20,33 @@ cards:
   - talk
   - newsletter
 ---
-<div class="cell">
-  <h2>EdgePoint Enables Better Training Delivery</h2>
+<div class="grid-container">
 
-  <figure class="featured-image float-right">
-    {% asset 'icons8/heart.svg' @inline %}
-  </figure>
+  <div class="grid-x grid-margin-x content">
+    <div class="cell">
+      <h2>EdgePoint Enables Better Training Delivery</h2>
 
-  <p>As learning experts, we are also voracious learners who never stop seeking knowledge. On our blog, you’ll find informative, actionable and fun insights about the learning industry—new trends, new technologies, best practices, customer stories and more.</p>
-  <p>Have a topic you’d like us to delve into or to contribute yourself? <a href="/form/talk/">Click here to let us know.</a></p>
+      <figure class="featured-image float-right">
+        {% asset 'icons8/heart.svg' @inline %}
+      </figure>
+
+      <p>As learning experts, we are also voracious learners who never stop seeking knowledge. On our blog, you’ll find informative, actionable and fun insights about the learning industry—new trends, new technologies, best practices, customer stories and more.</p>
+      <p>Have a topic you’d like us to delve into or to contribute yourself? <a href="/form/talk/">Click here to let us know.</a></p>
+    </div>
+  </div>
+
+  <div class="grid-x grid-margin-x grid-padding-x align-center">
+    {% for post in paginator.posts %}
+      {% include card-teaser.html %}
+    {% endfor %}
+  </div>
+
+  <div class="grid-x grid-margin-x grid-padding-x">
+    {% include paginator.html %}
+  </div>
+
 </div>
+
 
 <!-- MODAL -->
 <aside class="reveal" id="autoModal" data-reveal>

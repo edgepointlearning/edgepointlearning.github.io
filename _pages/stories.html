@@ -3,24 +3,38 @@ title: Success Stories
 permalink: /stories/
 
 excerpt: "Our eLearning examples and case studies share success stories from businesses in all industries, in countries around the world. Read on."
-keywords: "EdgePoint Learning, eLearning examples"
 
 hero-h1: Better Training, Bigger Wins
-
-stories: true
 
 cards:
   - demos
   - talk
 ---
-<div class="cell">
-  <h2>EdgePoint Enables Results</h2>
+<div class="grid-container">
+  <div class="grid-x grid-margin-x content align-center">
 
-  <figure class="featured-image float-right">
-    {% asset 'icons8/rocket.svg' @inline %}
-  </figure>
+    <div class="cell">
+      <h2>EdgePoint Enables Results</h2>
+      <figure class="featured-image float-right">
+        {% asset 'icons8/rocket.svg' @inline %}
+      </figure>
+      <p>At EdgePoint, we believe learning program success means your training has a measurable impact on performance at the enterprise, team or individual level.</p>
+      <p>EdgePoint enables you to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.</p>
+      <p><a href="/form/talk/">Contact us</a> to talk about how we can work together.</p>
+    </div>
 
-  <p>At EdgePoint, we believe learning program success means your training has a measurable impact on performance at the enterprise, team or individual level.</p>
-  <p>EdgePoint enables you to rapidly develop and deploy best-fit learning programs designed to meet your specific business needs.</p>
-  <p><a href="/form/talk/">Contact us</a> to talk about how we can work together.</p>
+    {% assign filtered_stories = site.stories | sort:'solution' %}
+    {% for story in filtered_stories %}
+      {% include card-story.html %}
+    {% endfor %}
+
+    <div class="cell">
+      <h2 class="marginTop">These companies like us.</h2>
+    </div>
+
+    {% for client in site.data.clients %}
+      {% include card-client.html %}
+    {% endfor %}
+
+  </div>
 </div>
