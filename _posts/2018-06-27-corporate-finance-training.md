@@ -2,7 +2,7 @@
 title:   How To Create The Best Corporate Finance Training Program
 permalink: /blog/corporate-finance-training/
 author:
-name: Corey Bleich
+  name: Corey Bleich
 image: blog/2018/2018-06-27-corporate-finance-training.jpg
 excerpt: Corporate finance training goes beyond keeping employees up-to-date on developments in the world of finance. Here's what you need to include.
 related: false
