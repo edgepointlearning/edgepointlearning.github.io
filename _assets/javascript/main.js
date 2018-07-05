@@ -21,9 +21,9 @@ clip.on('success', function(e) {
     e.clearSelection();
 });
 
-// newsletter form modal
+// quiz-02.html modal
 if ( ($('#autoModal').length > 0) && (Foundation.MediaQuery.atLeast('medium')) ){
-  // $('#autoModal').foundation('open');
+  $('#autoModal').foundation('open');
 }
 
 $(".noWidows").each(function() {
