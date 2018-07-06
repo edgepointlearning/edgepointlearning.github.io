@@ -170,7 +170,9 @@ if ($('#typed').length > 0) {
      ['employees more engaged',
       'business more profitable',
       'training more innovative',
+      'customers more satisfied',
       'employees more productive',
       'business more competitive',
-      'training more effective']);
+      'training more effective',
+      'customers more fulfilled']);
 }
