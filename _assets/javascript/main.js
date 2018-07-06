@@ -21,11 +21,6 @@ clip.on('success', function(e) {
     e.clearSelection();
 });
 
-// newsletter form modal
-if ( ($('#autoModal').length > 0) && (Foundation.MediaQuery.atLeast('medium')) ){
-  // $('#autoModal').foundation('open');
-}
-
 $(".noWidows").each(function() {
     var wordArray = $(this).html().split(" ");
     if (wordArray.length > 1) {
@@ -51,4 +46,7 @@ $(function () { objectFitImages() }); //https://github.com/bfred-it/object-fit-i
 //   h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
 // })(document);
 
-// console.log("Yo.");
+// show modal on pageload
+// if ( ($('#autoModal').length > 0) && (Foundation.MediaQuery.atLeast('medium')) ){
+//   $('#autoModal').foundation('open');
+// }
