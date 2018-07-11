@@ -15,3 +15,24 @@
   command = "jekyll build --future --config _config.yml,_config.staging.yml"
   [context.branch-deploy.environment]
     JEKYLL_ENV = "development"
+
+# redirect to https
+[[redirects]]
+from = "http://www.edgepointlearning.com/*"
+to = "https://www.edgepointlearning.com/:splat"
+status = 301
+force = true
+
+# redirect to fix infusionsoft link typo to static document
+[[redirects]]
+from = "/assets/BuildingAStrongFoundationForTrainingWithSolidLearningObjectings.pdf"
+to = "/static/BuildingAStrongFoundationForTrainingWithSolidLearningObjectives.pdf"
+status = 301
+force = false
+
+# redirect to fix old links to static document
+[[redirects]]
+from = "/assets/EdgePointLearningGeneralInformationBrochure.pdf"
+to = "/static/EdgePointLearningGeneralInformationBrochure.pdf"
+status = 301
+force = false
