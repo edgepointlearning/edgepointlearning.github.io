@@ -129,7 +129,18 @@
 // development environment identification
 body.development .title-bar svg path,
 body.development .nav-logo svg path {
-  fill: red;
+  @include breakpoint(mediumer) {
+    fill: #6e3ab7;
+  }
+  @include breakpoint(large) {
+    fill: #cc4b37;
+  }
+  @include breakpoint(large) {
+    fill: #3adb76;
+  }
+  @include breakpoint(xlarge) {
+    fill: #ffae00;
+  }
 }
 
 .measure {
@@ -151,4 +162,14 @@ body.development .nav-logo svg path {
     margin-right: 0;
   }
 
+}
+
+
+.blogheart {
+  text-align: center;
+
+  svg {
+    width: 12.5em;
+    height: 12.5em;
+  }
 }
