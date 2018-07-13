@@ -4,7 +4,7 @@
   background: linear-gradient($epl-blue, $epl-blue-dark);
 
   @include breakpoint(medium) {
-    min-height: 300px;
+    min-height: 14em;
   }
 
   .cell {

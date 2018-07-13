@@ -4,7 +4,7 @@ permalink: /blog/
 
 excerpt: "On our eLearning blog, you’ll find informative and actionable insights into the learning industry. Subscribe to get the latest delivered to your inbox."
 
-hero-h1: We Love Learning!
+hero-h1: Always-On eLearning Blog
 
 pagination:
   enabled: true
@@ -21,28 +21,6 @@ cards:
   - newsletter
 ---
 <div class="grid-container">
-  <div class="grid-x grid-margin-x content">
-
-    <div class="cell large-6">
-      <h2>Always-On eLearning Blog</h2>
-    </div>
-
-    <div class="cell large-6 show-for-only-large"></div>
-
-    <div class="cell large-6">
-      <p>As learning experts, you can't pry the books and blogs and research articles out of our hands. (Or podcasts out of our ears.) We're always focused on learning and we never stop seeking knowledge on the topics that are most relevant to employee engagement, motivation, and knowledge retention.</p>
-      <p>On the EdgePoint eLearning blog, you’ll find informative, actionable, and fun insights into the learning industry. What does that mean for us? Posts that tie into recent mainstream news stories. In-depth looks into the newest trends and technologies that are shaping the future of employee training. And, it also means articles that cover best practices, customer stories, employee engagement tips, and more. You'll also get updates about our newest offerings and partnerships.</p>
-    </div>
-
-    <div class="cell large-5 large-offset-1">
-      <p>Make sure to <a href="/form/newsletter/">subscribe now</a> to get the latest eLearning blogs and news delivered straight to your inbox.</p>
-      <figure class="blogheart show-for-large">
-        {% asset 'icons8/heart.svg' @inline %}
-      </figure>
-      <p>Have a topic you’d like us to cover? Or, do you want to submit a guest post to our eLearning blog? <a href="/contact/">We want to hear from you!</a></p>
-    </div>
-
-  </div>
 
   <div class="grid-x grid-margin-x grid-padding-x align-center marginTop">
     {% for post in paginator.posts %}
@@ -52,6 +30,24 @@ cards:
 
   <div class="grid-x grid-margin-x grid-padding-x">
     {% include paginator.html %}
+  </div>
+
+  <div class="grid-x grid-margin-x grid-padding-x content">
+
+    <div class="cell large-7">
+      <h2 class="h3">We Love Learning!</h2>
+      <p>As learning experts, you can't pry the books and blogs and research articles out of our hands. (Or podcasts out of our ears.) We're always focused on learning and we never stop seeking knowledge on the topics that are most relevant to employee engagement, motivation, and knowledge retention.</p>
+      <p>On the EdgePoint eLearning blog, you’ll find informative, actionable, and fun insights into the learning industry. What does that mean for us? Posts that tie into recent mainstream news stories. In-depth looks into the newest trends and technologies that are shaping the future of employee training. And, it also means articles that cover best practices, customer stories, employee engagement tips, and more. You'll also get updates about our newest offerings and partnerships.</p>
+      <p>Make sure to <a href="/form/newsletter/">subscribe now</a> to get the latest eLearning blogs and news delivered straight to your inbox.</p>
+      <p>Have a topic you’d like us to cover? Or, do you want to submit a guest post to our eLearning blog? <a href="/contact/">We want to hear from you!</a></p>
+    </div>
+
+    <div class="cell large-5 show-for-large">
+      <figure class="blogheart">
+        {% asset 'icons8/heart.svg' @inline %}
+      </figure>
+    </div>
+
   </div>
 
 </div>
