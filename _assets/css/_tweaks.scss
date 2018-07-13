@@ -131,3 +131,24 @@ body.development .title-bar svg path,
 body.development .nav-logo svg path {
   fill: red;
 }
+
+.measure {
+  max-width: $content-maxwidth;
+}
+
+.contact-image {
+  display: block;
+  width: 140px;
+  height: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: $global-margin;
+
+  @include breakpoint(medium) {
+    display: inline;
+    float: right;
+    margin-left: $global-margin;
+    margin-right: 0;
+  }
+
+}
