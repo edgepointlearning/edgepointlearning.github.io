@@ -14,13 +14,13 @@
   a {
     display: block;
     height: 100%;
-    border: 2px solid $epl-blue;
+    background-image: asset_url('icons8/external-link.svg');
+    background-repeat: no-repeat;
+    background-position: right 4px top 4px;
+    background-size: 16px 16px;
 
     &:hover {
-    }
-
-    h3 {
-      color: $epl-blue-dark;
+      outline: 1px solid $epl-blue;
     }
   }
 
@@ -28,6 +28,10 @@
     padding: $global-padding;
     font-weight: 900;
     text-transform: uppercase;
+
+    img {
+      vertical-align: middle;
+    }
   }
 
   svg {

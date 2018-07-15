@@ -1,14 +1,15 @@
-- abercrombie&fitch.svg
-- AKeed.svg
-- avisbudgetgroup.svg
-- botw-bnpp-default.svg
-
-- dolby.svg
-- molsoncoors.svg
-- nyse.svg
-- pepsico-simple.svg
-
-- pnnl.svg
-- swca.svg
-- synopsys.svg
-- thomson-reuters.svg
+- logo: abercrombie&fitch.png
+- logo: AKeed.png
+- logo: avisbudgetgroup.png
+- logo: botw-bnpp-default.png
+  story: /story/botw/
+- logo: dolby.png
+- logo: molsoncoors.png
+  story: /story/molson/
+- logo: nyse.png
+- logo: pepsico-simple.png
+- logo: pnnl.png
+- logo: swca.png
+  story: /story/swca/
+- logo: synopsys.png
+- logo: thomson-reuters.png

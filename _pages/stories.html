@@ -43,9 +43,7 @@ cards:
       <h2 class="h3 marginTop">These companies like us.</h2>
     </div>
     {% for client in site.data.clients %}
-      <div class="card-client cell small-6 medium-4 large-3 flex-container align-middle align-center align-stretch">
-        {% asset 'clients/{{ client }}' @inline %}
-      </div>
+      {% include card-client.html %}
     {% endfor %}
   </div>
 </div>

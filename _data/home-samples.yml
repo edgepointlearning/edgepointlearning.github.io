@@ -1,7 +1,7 @@
-- title: Highly-interactive custom eLearning
+- title: Highly-interactive<br> custom eLearning
   icon : paint-palette
 
-- title: Gamified employee training courses
+- title: Gamified employee<br> training courses
   icon : leaderboard
   link : /blog/gamification-in-elearning/
 
@@ -9,7 +9,7 @@
   icon : touchscreen-smartphone
   link : /blog/what-is-mlearning/
 
-- title: Blended online and instructor-led programs
+- title: Blended online and<br> instructor-led programs
   icon : training
   link : /blog/Instructor-led-Training-vs-eLearning/
 
@@ -19,16 +19,3 @@
 - title: Microlearning options
   icon : watch
   link : /blog/microlearning/
-
-# books
-# courses
-# design
-# exercise
-# leaderboard
-# paint-palette
-# present
-# touchscreen-smartphone
-# training
-# tree-structure
-# vector
-# watch
