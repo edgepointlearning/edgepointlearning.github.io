@@ -1,0 +1,16 @@
+{% for sample in site.data.home-samples %}
+  <div class="cell medium-6 large-4 text-center home-sample">
+    {% if sample.link %}
+      <a href="{{ sample.link}}">
+    {% endif %}
+
+    <div>
+      {% asset 'icons8/{{ sample.icon }}.svg' @inline %}
+    </div>
+    <h3 class="h5">{{ sample.title }}</h3>
+
+    {% if sample.link %}
+      </a>
+    {% endif %}
+  </div>
+{% endfor %}
