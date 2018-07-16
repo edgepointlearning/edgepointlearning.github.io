@@ -29,3 +29,10 @@
     outline: 1px solid $epl-blue;
   }
 }
+
+.card-client#AKeed,
+.card-client#nyse {
+  .client-logo {
+    width: 60%;
+  }
+}
