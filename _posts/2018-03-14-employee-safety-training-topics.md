@@ -9,7 +9,8 @@ related: false
 ---
 
 Employee safety training: It’s one of those things we recognize as critical, but what makes an employee safety training program particularly effective? Start by covering seven key topics that are applicable to almost every industry.
-### Where to start with employee safety training topics
+
+## Where to start with employee safety training topics
 
 While there are industry-specific employee safety training topics, the [Occupational Safety and Health Administration](https://www.osha.gov/dte/){:target="_blank"} (OSHA) provides general guidelines for all companies. Here are seven industry-wide topics that you should consider covering in your new employee safety training program:
 
@@ -23,7 +24,7 @@ While there are industry-specific employee safety training topics, the [Occupati
 
 Each of these employee safety training topics are an important part of your company-wide commitment to keeping your employees (and your company) safe.
 
-#### 1. Workplace ergonomics
+### 1. Workplace ergonomics
 
 Maybe your employees work in a cushy office with windows that don’t open and climate controlled conditions. What could possibly go wrong?
 
@@ -41,17 +42,17 @@ The Bureau of Labor Statistics estimated that these five conditions made up 34% 
 
 Teach employees how to lift, sit, and move throughout their day so you can be rewarded with fewer sick days, lowered healthcare costs, and happier employees.
 
-#### 2. Online safety and [cyber security](/blog/cyber-security-training/)
+### 2. Online safety and [cyber security](/blog/cyber-security-training/)
 
 Online safety training protects your employees, your customers, and your company by making sure employees are all following best practices when it comes to being online.
 
 These include following any [HIPAA guidelines](/blog/hipaa-compliance-training/) for protecting sensitive health information but also covers things like standardized passwords and two-step verification procedures.
 
-#### 3. Fire safety
+### 3. Fire safety
 
 We take for granted that our adult employees understand [fire safety](https://www.osha.gov/SLTC/firesafety/standards.html){:target="_blank"}, but it’s an important (and OSHA-required) part of every industry. New employee safety training must cover employee egress in event of a fire. Many employers do not want employees fighting fires, but some industries may also train employees in the use of fire extinguishers.
 
-#### 4. [Workplace violence prevention](/blog/workplace-violence-prevention/)
+### 4. [Workplace violence prevention](/blog/workplace-violence-prevention/)
 
 The Federal Bureau of Investigation estimates that approximately two million people in the U.S. are victims of workplace violence annually, with 80% of all active shooter incidents occurring in the workplace.
 
@@ -59,7 +60,7 @@ The statistics on domestic violence that seeps into the workplace are sobering a
 
 Employee safety training must include strategies for workplace violence prevention, including recognizing the risk factors and signs of potential workplace and domestic violence that spreads to the workplace. This can literally save your employees’ life.
 
-#### 5. Employee resources
+### 5. Employee resources
 
 Of all the safety topics for office workers, clearly outlining available employee resources for mental and physical health and well-being may be the most pro-active step you can take.
 
@@ -67,7 +68,7 @@ It used to be that employee resources consisted of a few pamphlets in the HR dep
 
 If your company has an outstanding mental health support policy, share it with them. Maybe you offer incentives for exercise or include employees in physical fundraising challenges like Race for the Cure. Make these benefits a part of your recruitment strategy and your employees will recognize you as a company that cares. Employees who feel valued will work harder, stay longer, and be more productive for your company.
 
-#### 6. Environmental safety
+### 6. Environmental safety
 
 Environmental safety is not just about respect for the planet and its resources. Environmental safety training for employees includes strategies that can vary widely by industry. Some environmental safety training topics may include:
 
@@ -78,13 +79,13 @@ Environmental safety is not just about respect for the planet and its resources.
 
 The more your company deals with hazardous materials, the more crucial environmental safety training becomes. All companies can benefit from environmental safety training, but dealing with biohazards and hazardous waste definitely requires more than a passing mention.
 
-#### 7. Equipment safety
+### 7. Equipment safety
 
 Safe use of job-specific equipment is a must, even if employees come to your company with skills and experience. While there is something to be said for on-the-job experience, some employees may not know the ins and outs of a particular piece of machinery (including what it can do and any special safety features).
 
 This aspect is particularly dependent on the industry you're in. Make sure to account for every piece of machinery or equipment your employees will come into contact with.
 
-### How to create effective workplace safety training programs
+## How to create effective workplace safety training programs
 
 Your workplace safety training is only as good as the materials you use and your system of delivery. A solid employee safety training must do the following:
 

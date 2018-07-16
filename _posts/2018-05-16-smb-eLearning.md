@@ -10,11 +10,11 @@ related: false
 
 You know you need eLearning or some type of training for your employees. After all, your company is growing and you are moving towards your big business goals. Adding employees and expanding your reach means training new staff and updating your veteran employees. Just like grains of sand on the beach, the possibilities for eLearning for small business seem endless. So where should you start?
 
-### Start by asking yourself these two questions
+## Start by asking yourself these two questions
 
 How do you eat an elephant? One bite at a time. Start your SMB eLearning development by asking yourself these two questions.
 
-#### 1. What are my overall goals?
+### 1. What are my overall goals?
 
 Start with a [learning needs assessment](http://www.edgepointlearning.com/blog/training-needs-analysis). You can’t very well figure out what route to take if you don’t know what your destination is. A learning needs assessment uses data to lock on to the best approach to training for your company.
 
@@ -22,7 +22,7 @@ After all, your business isn’t the same as your competitor’s. You may be in 
 
 Take a hard look at what you have and capitalize on your strengths before you focus on what areas need work. Chances are good you have untapped experts with a wide array of skills. They may be willing to help mentor new employees. Your learning needs assessment can help find those hidden gems and polish them until they shine.
 
-#### 2. What type of training will work best for my company?
+### 2. What type of training will work best for my company?
 
 You have a ton of options when it comes to deciding which type of training will work best for your small-medium size company. If you have a good mix of senior employees, interns straight out of college, and mid-career changers, [eLearning](https://www.edgepointlearning.com/blog/advantages-of-elearning/) saves time and money but delivers the goods just as effectively (if not more) than a day spent staring at a Smart Board in a conference room.
 
@@ -38,7 +38,7 @@ eLearning also encompasses a variety of other methods for training. Using your l
 
 Mix-and-matching these eLearning training methods for small businesses gives you flexibility and agility in your training options.
 
-### How to develop an eLearning module
+## How to develop an eLearning module
 
 So now you know what you need, and maybe you have even decided which type of SMB eLearning approach you want to focus on. What’s next? For any type of training approach, there will be a few steps to take to develop it for your company.
 
@@ -47,7 +47,7 @@ So now you know what you need, and maybe you have even decided which type of SMB
    class='marginBot marginTop' %}
 {: .wideImage }
 
-#### Start with buy-in from the top
+### Start with buy-in from the top
 
 Upper management needs to be on board before you even begin to think about revamping your training.
 
@@ -55,7 +55,7 @@ Get buy-in from upper management and supervisors by presenting them with the [ad
 
 Use the tips here to make a solid [business case for eLearning](https://www.edgepointlearning.com/blog/business-case-for-elearning-development/).
 
-#### Decide who will be responsible for development
+### Decide who will be responsible for development
 
 Who is going to be responsible for the development of your company’s new eLearning program? You have three main choices when it comes to the actual building.
 
@@ -67,25 +67,25 @@ Who is going to be responsible for the development of your company’s new eLear
 
 Who develops your courses is a matter of preference and budget. It is best to consider all of your options before you begin.
 
-#### Outline a timeframe for development and rollout
+### Outline a timeframe for development and rollout
 
 Just as with any large project, you need to set goals and outline dates so that redeveloping your eLearning is not a never-ending process.
 
 Plus, that management buy-in earlier? They are going to want updates. Make it easy on yourself by mapping out your development strategy.
 
-#### Allot resources
+### Allot resources
 
 Resources covers not only money but also time. If you are committing to keeping it in-house, you will need to give your course developer time to work. That same course developer needs to be familiar with the LMS you choose or have time for additional training.
 
 Other resources include materials, money, and physical space to house any hardware needed.
 
-#### Design your training and pick an LMS
+### Design your training and pick an LMS
 
 Whether you build your eLearning for small business from scratch, use a template, or build from existing training materials, knowing [how to create a custom training](https://www.edgepointlearning.com/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/) is important.
 
 Use free resources for graphics and templates for design, and [select your learning management system wisely](https://elearningindustry.com/choosing-lms-for-small-business-consider-5-things), depending on your needs, your budget, and your future goals.
 
-#### Assess yourself
+### Assess yourself
 
 How’d you do? Are your employees accessing the eLearning modules you set up and getting the information they need, when they need it?
 

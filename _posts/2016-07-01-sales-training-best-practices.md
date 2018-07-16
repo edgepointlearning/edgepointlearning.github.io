@@ -9,16 +9,16 @@ redirect_from: "/2016/07/01/sales-training-best-practices/"
 
 Two of our specialties here at EdgePoint Learning are business skills and sales training. Here are a few best practices we’d like to share.
 
-### Know your audience
+## Know your audience
 Not all sales organizations are the same, so be sure you know their needs and expectations before you design or deliver any training.
 
-### Respect time
+## Respect time
 Remember that sales people tend to be really busy. All the time they spend training is time theyʹre not selling, so make your training easily accessible and quick.
 
-### Scenarios are great
+## Scenarios are great
 Try adding scenarios, role playing games and practice engagements to help transfer topics and knowledge.
 
-### Sharing is caring
+## Sharing is caring
 Create opportunities for the sales organization to share their experiences and ideas. Make sure to record the information shared so you can use it in later sessions.
 
 Learn more about our [sales training options.](/solutions/)

@@ -9,7 +9,8 @@ related: false
 ---
 The recent deluge of sexual harassment allegations getting public attention across a wide variety of industries in the U.S. is shining a spotlight on employer responsibility. Many organizations have responded by increasing their offering of sexual harassment trainings, a good first step. But what will ensure the effectiveness of online sexual harassment training after the recent #MeToo movement?
 
-### Who is #MeToo, and what does it all mean?
+## Who is #MeToo, and what does it all mean?
+
 More than just a hashtag, [the #MeToo movement](https://www.npr.org/sections/thetwo-way/2017/12/06/568773208/-metoo-movement-is-person-of-the-year-time-says){:target="_blank"} represents a tidal wave of women (and men) standing up for themselves by speaking out against harassment that is still pervasive in many of today’s organizational cultures. #MeToo was first used by social activist [Tarana Burke](http://justbeinc.wixsite.com/justbeinc/the-me-too-movement-cmml){:target="_blank"}, and recently popularized by actress Alyssa Milano who encouraged women to use the hashtag if they had been harassed.
 
 Responses flooded in, with the number of hashtags climbing into the thousands within hours. Each #MeToo represents an incidence of harassment, but it’s difficult to pinpoint actual statistics on sexual harassment. The numbers vary wildly depending on [industry](https://www.vox.com/identities/2017/11/21/16685942/sexual-harassment-industry-service-retail){:target="_blank"}, [race](https://www.thenation.com/article/sexual-harassment-law-was-shaped-by-the-battles-of-black-women/){:target="_blank"}, [socioeconomic status](https://www.vice.com/en_us/article/d3yn7m/working-women-and-the-sexual-harassment-we-dont-hear-about){:target="_blank"}, and [age group](https://www.huffingtonpost.com/entry/sexual-assault-statistics_us_58e24c14e4b0c777f788d24f){:target="_blank"}. Accurately identifying the number of occurrences of workplace harassment relies on victim reporting, which for many, is just not possible.
@@ -18,7 +19,7 @@ The #MeToo movement is addressing an issue that’s more than simply an annoyanc
 
 Employers have always had the responsibility to protect their employees from harassment and provide effective methods of addressing any potential incidents that occur. Many employers have turned to online sexual harassment training to bridge this gap. However, as is obvious from the victims self-identifying in the #MeToo movement, many existing online sexual harassment training courses have simply not been effective.
 
-### How can you make online sexual harassment training effective?
+## How can you make online sexual harassment training effective?
 
 Effective online anti-harassment training means more than sitting employees in front of a screen that displays the legal definition of sexual harassment with the words, “Don’t do it.” Employers must focus on more than providing online training that simply allows each employee to check off the box as "Trained," and, in doing so, claim that the organization is demonstrating a good faith effort.
 
@@ -34,7 +35,7 @@ With the following seven steps, employers can ensure the design and development 
 
 Let's explore more about each of these.
 
-#### Step 1: Walk the talk
+### Step 1: Walk the talk
 
 Now is the time to review your current sexual harassment policies and practices.
 
@@ -44,7 +45,7 @@ Be brutally honest regarding whether existing written policies and enforcement a
 
 It may also be a good time to seek individual employee input. Consider involving a consultant as an independent third party to gather feedback from the employee group and provide a summary report on current policies and practices – and changes that are needed.
 
-#### Step 2: Create the right culture, and it absolutely has to start at the top
+### Step 2: Create the right culture, and it absolutely has to start at the top
 
 Effective online sexual harassment training is not just about changing behavior –it’s about changing minds.
 
@@ -62,7 +63,7 @@ Professor Vicki Magley is a psychologist who studies sexual harassment trainings
 
 Sexual harassment training for leaders in a company sends a signal that your company takes harassment allegations seriously, so seriously that it’s worth their time to refresh their own understanding of it.
 
-#### Step 3: Consider your audience
+### Step 3: Consider your audience
 
 Do management training first. Any employee who is responsible for managing or supervising the work of any other employee has a specific personal legal liability to ensure a work environment free from sexual harassment. It is imperative that the company provides specific and separate training for managers so that they know how to behave in order to protect, not only the company, but themselves.
 
@@ -70,7 +71,7 @@ Regarding individual employee training: it may seem to make sense, from an effic
 
 This can allow HR to provide more personal attention and support. The goal is to make sure the message is received, which includes offering a method for employees to ask questions (in person or online) and provide personal feedback.
 
-#### Step 4: Choose the right format
+### Step 4: Choose the right format
 
 An hour-long lecture on sexual harassment isn’t what your employees need. It’s clear that these old-school [traditional sexual harassment trainings don’t work](http://www.motherjones.com/media/2017/11/theres-little-evidence-sexual-harassment-trainings-work/){:target="_blank"}.
 
@@ -86,7 +87,7 @@ Also, take advantage of the sexual harassment training to address the broader is
 
 Go beyond legal or corporate compliance and give individual employees the tools they need to better identify harassment of any kind and what it looks like in the workplace.
 
-#### Step 5: Provide a safe open door environment for victim and witness reporting
+### Step 5: Provide a safe open door environment for victim and witness reporting
 
 If the #MeToo movement has brought up the prevalence of sexual harassment in general it has also specifically pointed out a curious feature of many sexual harassment claims and the reason why so many harassed people remain silent: the perception that the victim will not be believed or will be blamed.
 
@@ -94,13 +95,13 @@ Hearing from, and listening very carefully to, victims is a crucial part of this
 
 Prove to all employees that the company has a variety of safe open doors with the goal of really listening to concerned individuals. Set up a clear system for reporting sexual harassment that includes who to report to, specific actions that will be taken during the complaint process, and the time frame for investigating a complaint. Ensure that individuals voicing concerns need not fear retribution of any kind.
 
-#### Step 6: Make online harassment training for employees an ongoing exercise
+### Step 6: Make online harassment training for employees an ongoing exercise
 
 From the employee onboarding to their retirement from the company, anti-harassment training should be an ongoing, [proactive](https://www.tlnt.com/how-to-use-predictive-analytics-to-prevent-workplace-sexual-harassment/){:target="_blank"}, and regular part of employee training.
 
 Include it as part of the new hire orientation process. Provide managerial training the minute an individual employee is promoted into a supervisory position. And, it would be wise to offer all employees a refresher course annually.
 
-#### Step 7: Go beyond compliance and consider customization
+### Step 7: Go beyond compliance and consider customization
 
 ure, employers often post a couple videos and make employees take a quiz to check on their comprehension, but that doesn’t truly change the work environment.
 
@@ -108,7 +109,7 @@ Go beyond mere compliance and design an online sexual harassment training that m
 
 Any customization that can be added to online training will be an opportunity to hit home with employees and help demonstrate the company’s commitment to the quality of the training content.
 
-### Learning from the #MeToo movement
+## Learning from the #MeToo movement
 
 The #MeToo movement is speaking loud and clear. All employers have the immediate opportunity to demonstrate to their employees that they hear it too!
 
@@ -119,7 +120,7 @@ Today’s employers simply can’t afford to wait any longer to make effective o
 [Contact Us](/contact/ ){:class="button"}
 
 ---
-#### Holly Curtis
+### Holly Curtis
 
 President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com){:target="_blank"}
 

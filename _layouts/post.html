@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include post-header-replacement.html %}
 
 <div class="grid-container">
 
@@ -31,7 +32,7 @@ layout: default
 
   <div class="grid-x align-center content">
     <div class="cell">
-      {{ content }}
+      {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : h4, h4_styled }}
     </div>
   </div>
 

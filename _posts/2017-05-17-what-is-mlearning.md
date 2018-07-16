@@ -10,7 +10,7 @@ related: false
 
 Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/){:target="_blank"}, twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
 
-### What is mLearning?
+## What is mLearning?
 When it comes to your workforce, you want a variety of training solutions that can meet all of their needs. Some training needs to be in-depth, some needs to be in-person, and some needs to be interactive. We talked a bit about the differences between [eLearning and instructor-led learning](/blog/Instructor-led-Training-vs-eLearning/) in an earlier post, but one topic we didn't cover in that post was mLearning.
 
 With mLearning, you can capture another of your employee's most important needs—on-demand training.
@@ -21,7 +21,7 @@ In 2017, 47% of organizations are using mobile devices for training, and that nu
 
 The world of mLearning is only going to get bigger. By laying the groundwork now for effective mLearning, we can guarantee even better opportunities for on-the-job training for our future employees.
 
-### What's the difference between mLearning and eLearning?
+## What's the difference between mLearning and eLearning?
 To understand the difference between mLearning and eLearning, consider that you're creating training materials for new pilots.
 
 You'll need them to review all of the need-to-know information for flying your aircrafts before transferring that knowledge to real-world simulations. But, you'll also need to create a visual checklist for them to go through before beginning each and every flight.
@@ -36,7 +36,7 @@ mLearning is training that takes place right where your employees need it, when 
 
 You can learn about more of the differences between mLearning and eLearning on the [eLearning Industry blog](https://elearningindustry.com/mlearning-the-way-of-learning-tomorrow){:target="_blank"}.
 
-### What are the major mLearning advantages and disadvantages?
+## What are the major mLearning advantages and disadvantages?
 Not every training topic will benefit from mLearning modules, but when used correctly, mLearning provides training that is:
 
 *  Just-in-time
@@ -53,7 +53,7 @@ Mobile learning for workforce training can be a great option for:
 
 However, mLearning doesn't take the place of eLearning or in-person training. For effective mLearning, it needs to be focused on a specific topic or goal. That means it's not good for larger introductory modules or nuanced topics that require a lot of explanation and practice. Likewise, it's difficult to show complex graphics or flow charts on mobile. mLearning can and should complement these larger topics, but it simply isn't the ideal primary mode of training in these cases.
 
-### How do I create an effective mLearning course?
+## How do I create an effective mLearning course?
 Once you've found a topic that will benefit from mLearning, create a course with mobile in mind. The design itself shouldn't just be an eLearning course made smaller. It must be created for the mobile environment.
 
 That means an mLearning course should be:
@@ -74,7 +74,7 @@ You can create mobile learning courses based on your existing eLearning content,
    class='marginTopHalf marginBot' %}
 {: .wideImage}
 
-### Mobile learning for your workforce
+## Mobile learning for your workforce
 
 Your workforce has already gone mobile. Capture key training moments while they're waiting for a meeting to start, when they're standing somewhere in line, or while they're out on the floor talking to customers.
 

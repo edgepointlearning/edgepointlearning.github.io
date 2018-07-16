@@ -10,7 +10,7 @@ related: false
 
 One of my favorite splurges in life is to dine at one of the famous Nobu restaurants. Why I enjoy it so much is not solely based on the food… it’s also the experience. That experience is something we can take to create better and higher-quality eLearning experiences. But what does a gastronomic experience have to do with the visual design of eLearning? Let me explain.
 
-### What is Nobu?
+## What is Nobu?
 
 World-renowned chef, Nobuyuki Matsuhisa (Nobu), with over 40 restaurant locations around the globe, is regarded as one of the top chefs of our time. Referred to as Nobu Style, what makes visiting one of his restaurants a delight isn’t just the impeccable service and decadent menu options; it is also about presentation of the food as well as the restaurant atmosphere.
 
@@ -21,7 +21,7 @@ As the chef’s brand suggests, all the senses cannot be separated, they are int
    class='thumbnail marginTop marginBot' %}
 {: .wideImage }
 
-### What makes for high-quality eLearning experiences?
+## What makes for high-quality eLearning experiences?
 
 Like dining out at one of the finest restaurants in the world, learning should also be inclusive of more than just one or two dimensions of our senses. Moreover, effective eLearning is about how it looks and feels as much as it is about the content. In fact, the visual design aspects of eLearning can improve learning, if we can figure out how to use them correctly, as noted in [The eLearning Developers' Journal](http://paperpile.com/b/HEMGz4/sAlN){:target="_blank"}.
 
@@ -43,7 +43,7 @@ Stemming from the graphic design world, thesee are four principles for good visu
 *  Repetition
 *  Proximity
 
-#### Contrast
+### Contrast
 
 To start, let's bring it back to Nobu.
 One of Nobu’s signature dishes, and a personal favorite, is the Black Miso Cod. One of the first things you might notice in its presentation is the contrasting colors. The cod itself is a light color, with purposeful grill marks. Additionally, there is a nice pink pickled ginger root used to cleanse the palate with green bamboo leafs to add elegance.
@@ -63,7 +63,7 @@ More simply, you could also use tools like the [color wheel](https://www.session
 
 Other methods are to simply use the embedded themes available in a tool like Articulate or Captivate. They usually look nice, so I trust my eyes and build on something that is already done that I feel suits the project. There are no concrete rule (unless you are an artist or graphic designer).
 
-#### Repetition
+### Repetition
 
 There are two reasons why we care about repetition in my purview.
 
@@ -89,7 +89,7 @@ An example where this comes into play is when designing an eLearning module wher
 
 At Nobu, they focus on repetition by presenting dishes in an excruciatingly-detailed way in order to create the same impression on each guest. To provide a consistently enjoyable experience, every bite should be just as delicious as the previous.
 
-#### Alignment
+### Alignment
 
 Alignment is of course related to location, location, location.
 
@@ -106,7 +106,7 @@ As an experiment, try creating a screen where nothing is aligned or only one thi
 
 Another international hit that sets the tone at Nobu is the Yellowtail Sashimi with Jalapeño. The alignment between the subtleness of the tuna combined with the heat of the jalapeño combines to create an epic full flavor that would make [Kanye walk to Nobu](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"} to get it.
 
-#### Proximity
+### Proximity
 
 Proximity relates to creating relationships between objects or information. We usually don’t have a lot of real estate to work with when designing instructional materials. This is especially true when we're trying to create quality eLearning experiences.
 
@@ -121,7 +121,7 @@ So, what we are really talking about is how to create relationships between imag
 
 To create new relationships for your palate, Chef Nobu often deconstructs some of his signature dishes to accentuate the intended flavors. For instance, using ingredients similar to tiramisu, the Suntory Cappuccino is layered valrhona chocolate almond crunch, coffee cream, whisky foam, and milk ice cream. This technique only heightens the best of the flavors.
 
-### Other tips and tricks for quality eLearning experiences
+## Other tips and tricks for quality eLearning experiences
 
 To improve the look and feel of training, there is no one-size-fits-all approach to the design of eLearning, as [Steen](http://paperpile.com/b/HEMGz4/hmnV){:target="_blank"} notes.
 
@@ -140,12 +140,13 @@ In the end, the most important thing is to simply be aware of the visual design 
 <strong>What methods have you used to create quality eLearning experiences for your employees? </strong>
 
 ---
-
 {% asset 'blog/2017/2017-10-16-quincy-conley.jpg'
    alt='Quincy Conley'
    class='float-right thumbnail marginLeft marginTopHalf'
    magick:resize='300'
    magick:quality='92' %}
+
+### Quincy Conley
 
 *Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and research for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
 {: .clearfix }

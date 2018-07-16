@@ -10,7 +10,7 @@ related: false
 
 You are committed to revamping your company’s training and have decided to work on your eLearning courses. Early on, you find yourself getting bogged down and lost as you work through course development, and you wonder if eLearning is really the way to go. After all, you could have just fired up the PC and made some quick edits to the old PowerPoints and training manuals. Turns out, though, that faster is not always better. Once you have decided that eLearning is the best fit for you, here’s how to streamline your development process to develop your courses more efficiently.
 
-### How long does it take to create one hour of learning?
+## How long does it take to create one hour of learning?
 
 If you are questioning the time it takes to create an hour of learning you are not alone. Entire fields of study are dedicated to answering this question. In 2017, Dr. Karl Kapp and Robyn Defelice took a third pass at this, looking at data from studies in both 2003 and 2009 before comparing the average time to develop an hour of learning.
 
@@ -27,11 +27,11 @@ Most of the courses developed were Level 1 or 2. Lapp and Defelice found that it
 
 So no, you aren’t crazy. Developing an eLearning course takes time, but there are ways to speed up the process without compromising the quality.
 
-### How can I create eLearning courses faster?
+## How can I create eLearning courses faster?
 
 Many eLearning course developers make the mistake of enthusiastically diving into the course without laying a little groundwork. This goes beyond buying new hardware and updating the old software. Here are four ways to create your eLearning courses faster.
 
-#### 1. Don’t skip the [learning needs assessment](/blog/training-needs-analysis)
+### 1. Don’t skip the [learning needs assessment](/blog/training-needs-analysis)
 
 It seems obvious that you would take a hard look at what your employees actually need before you get started on course development, but many developers skip this step.
 
@@ -43,7 +43,7 @@ A learning needs assessment:
 
 (Spoiler alert: you may not actually need a full one-hour eLearning course).
 
-#### 2. Identify your subject matter experts (SME) and set clear expectations
+### 2. Identify your subject matter experts (SME) and set clear expectations
 
 Don’t reinvent the wheel. Chances are good that when you completed your learning needs assessment you uncovered some SMEs who can help provide the bulk of the information you need to deliver in your eLearning course.
 
@@ -55,34 +55,34 @@ Even if your SMEs come from outside of the company, it’s important to come up 
 
 Setting clear expectations and time frames with your SMEs ahead of time can drastically reduce any waiting time during reviews.
 
-#### 3. Set targets and outline how you’ll meet them
+### 3. Set targets and outline how you’ll meet them
 
 Estimate how long it might take you [create your eLearning course](https://elearningindustry.com/6-tips-estimate-elearning-course-development-time){:target="_blank"} and get out your calendar.
 Commit to milestones and targets, and then plan your activities accordingly. Factor in time for your testing and assessment of the course when you are done.
 
-#### 4. Commit the appropriate resources
+### 4. Commit the appropriate resources
 
 You’ve completed the learning needs assessment, set up interviews with the SMEs, and have a project plan outlined. Now’s not the time to skimp on resources, and this isn’t just about money.
 
 If you are creating courses in-house, find your best-qualified course developer and free them up to do the work. Picking a rookie may save money, but it may also double the time spent on the course.
 
-### What factors are slowing me down?
+## What factors are slowing me down?
 
 Maybe you have carefully followed the four recommendations and are still staring down the barrel of a 100+ hour course development time. Even with the best intentions, you may still find some speed bumps that are slowing you down. Here's the most common roadblocks we help our clients navigate.
 
-#### Speed bump #1: You didn’t get buy-in from the top, first
+### Speed bump #1: You didn’t get buy-in from the top, first
 
 Nothing slows down eLearning development faster than a top-level executive who just doesn’t get why the 100-pound doorstop of a training manual is no longer effective.
 
 It’s not really their fault. Take the time at the beginning of the project to show them exactly why [eLearning will benefit the company](/blog/business-case-for-elearning-development/) (and its bottom line!).
 
-#### Speed bump #2: Too many cooks in the kitchen
+### Speed bump #2: Too many cooks in the kitchen
 
 You set up your targets and review dates, but when the time comes there are too many fingers in the pie. While it is a great idea to get input from all affected departments, giving them carte blanche in the review process can stop development in its tracks.
 
 If you want everyone to feel included, think about sending tailored bits of the course to the appropriate people. HR doesn’t need to review the actual process for filling in a pothole, but they certainly can help proofread the section on workman’s comp on the jobsite. Pick the best reviewer for the job.
 
-### Are there other ways to speed up eLearning course development?
+## Are there other ways to speed up eLearning course development?
 
 If this is your first foray into the world of eLearning course development, maybe it’s best to start small. If your learning needs assessment indicated a place for microlearning, start with that. [Microlearning](/blog/microlearning/) courses are typically only a few minutes long and take, on average, about ten to 15 hours to develop. This might be a good place to learn the ropes.
 

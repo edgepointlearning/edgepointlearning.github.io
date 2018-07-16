@@ -10,7 +10,7 @@ related: false
 
 When you're developing your employee training for the year, it's easy to lump the sales team into your wider net of corporate training. But, doing so can be a recipe for disaster (and unfinished courses), as sales has specific challenges and motivators when it comes to training. Doing it right, though, can lead to more productivity over the course of the year and make your sales team feel more appreciated. Here's how to develop corporate sales training programs that work, and work well.
 
-### Carrying the bag: My journey into corporate sales training
+## Carrying the bag: My journey into corporate sales training
 
 Early in my career, I was on a roll as a corporate trainer. I liked being in front of people, hearing myself talk, learning about products and processes, and I liked sharing that with other people. Not only did I genuinely enjoy the work, I was good at it.
 
@@ -30,20 +30,21 @@ Unfortunately, that last question was asked with a sneer. I gave some run-around
 
 I didn’t get the job.
 
-### Towards a better corporate sales training program
+## Towards a better corporate sales training program
 
 Now that I have carried a bag and held a quota for several years, I'm glad I didn’t get the job. Training sales reps isn’t easy, especially without direct sales experience.
 
 Now that I'm in that role, I've learned techniques to motivate sales teams and make the best use of their time when it comes to training. There are specific actions your training team can take now to make your corporate sales training program more effective. Here's how.
 
-#### 1. Don’t deploy any non-essential training around quarter or year-end… whatever you do
+### 1. Don’t deploy any non-essential training around quarter or year-end… whatever you do
 
 For those of us in sales, this seems common sense. However, spend some time outside of sales and it becomes easy to forget that these are the times that reps are working their hardest to close deals and meet goals. It's also when they're likely generating the most revenue.
 
 Make sure you are communicating with sales leadership during this time to ensure you aren’t creating competitive priorities, such as incentives that would consume the rep’s time and attention.
 
 If you do have mandatory compliance or regulatory training to deploy during that time (which sometimes you can’t avoid), be sure to collaborate with the sales team on the best time to roll it out.
-#### 2. Bring individuals with sales experience into your training team
+
+### 2. Bring individuals with sales experience into your training team
 
 It's incredibly important that you don’t operate in a vacuum with corporate sales training.
 
@@ -53,7 +54,7 @@ If you are unable to have somebody in your training team with sales experience, 
 
 A few minutes spent getting the perspective from sales can uncover things that you may have not considered while developing your corporate sales training strategy.
 
-#### 3. Segment your compliance and corporate sales training
+### 3. Segment your compliance and corporate sales training
 
 Separate the training you have to do (compliance, regulatory, leadership, etc.) and the training that sales will use to help them drive sales (product training, solutions, sales processes, etc.)
 
@@ -63,12 +64,12 @@ For the items that are going to help their day-to-day, do them live if you can. 
 
 The more tools you can leave your reps to use out in the field, the better equipped they'll feel when having conversations with prospects and clients.  The key is to give them the right tools up-front so that they don’t have to keep telling a potential buyer, “Let me go check for you."
 
-#### 4. Acknowledge that reps see training as time they aren’t making money
+### 4. Acknowledge that reps see training as time they aren’t making money
 
 Tie your training back to the bottom line, more specifically their bottom line.
 People stay in sales because the money is good. Embrace that concept and tie the training back into how they can make more money because of their time spent in training.
 
-#### 5. Make it competitive
+### 5. Make it competitive
 
 In my opinion, sales should be all about leaderboards. Reps want to be at the top of the list. Seeing somebody else’s name ahead of their own will drive them to work harder, sell more, or…. finish their training.
 
@@ -76,7 +77,7 @@ It’s fairly cheap and easy to implement.
 
 This tip is so easy that I’m surprised not every organization does it.
 
-#### 6. Finally, make it easy
+### 6. Finally, make it easy
 
 For your corporate sales training program, make sure it's easy, accessible, and engaging.
 
