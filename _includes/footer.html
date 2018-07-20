@@ -31,7 +31,7 @@
       <div class="cell medium-shrink">
         <h6>Follow us</h6>
         {% for socialItem in site.data.social %}
-          <a href="{{ socialItem.url }}">
+          <a href="{{ socialItem.url }}" target="_blank">
             {% asset 'social/{{ socialItem.svg] }}.svg' @inline %}
           </a>
         {% endfor %}
