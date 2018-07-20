@@ -10,7 +10,7 @@ related: false
 
 You wouldn’t hand a new high school graduate the keys to a Tesla and let them go, but this is an exaggerated equivalent of some company training programs. Learning how to train new employees effectively is the cornerstone of success for any company.
 
-### Why is a new hire training program necessary?
+## Why is a new hire training program necessary?
 
 It’s a common mistake that even the most successful businesses make: not formally training new employees.
 
@@ -22,7 +22,7 @@ The [cost of each turnover](http://www.recruiteze.com/cost-hire-new-employee/){:
 
 The difference? Managers who know how to train new employees effectively.
 
-### How to train new employees effectively
+## How to train new employees effectively
 
 Developing a solid new hire training program is an important management skill. More than just showing new employees where the coffee maker is and how to get their parking permit, training new employees procedures helps employees settle into the rhythm of the company to focus on the most important thing: their job.
 
@@ -31,7 +31,7 @@ Developing a solid new hire training program is an important management skill. M
    class='marginTop marginBot' %}
 {: .wideImage }
 
-#### 1. Put together new employee procedures
+### 1. Put together new employee procedures
 
 Before you begin developing a new hire training program, you need to know where you are going. If your company has never identified exactly what each new employee should know, now’s the time to do it.
 
@@ -43,7 +43,7 @@ Putting together new employee procedures helps you to articulate the what, why, 
 *  <strong>Train:</strong> This one word encompasses a range of activities, from [online training](/blog/advantages-of-elearning/) to [microlearning](/blog/microlearning/) to hands-on practice. Identify the best way to deliver the information for the best chance of success.
 *  <strong>Check for understanding:</strong> It’s not enough to just offer the information and hope it sticks. Check employee understanding after training by tailoring employee assignments to the training they received. This helps you to know if employees feel confident in what they have learned or if they need more information.
 
-#### 2. Ensure that all managers use a new hire training checklist
+### 2. Ensure that all managers use a new hire training checklist
 
 It’s easy to forget where each employee is in the onboarding process. Creating a new employee checklist can help.
 
@@ -58,7 +58,7 @@ This new hire checklist can include:
 
 Checklists make life easier to manage, and a new employee training checklist is no different.
 
-#### 3. Include onboarding best practices into your procedures
+### 3. Include onboarding best practices into your procedures
 
 Successful companies are successful because of their employees. And employees are successful because their smart managers understand and utilize [best practices for employee onboarding](/blog/employee-onboarding/). Here's what makes for more effective onboarding.
 
@@ -72,7 +72,7 @@ Successful companies are successful because of their employees. And employees ar
 
 *  <strong>Allow ample time for questions and dialogue:</strong> Allowing space and time for questions and concerns is arguably the most important part of the onboarding process. Employees need to know they can get more information if they need it. Make them feel comfortable asking questions by building time into the process.
 
-#### 4. Train for culture, not just topics
+### 4. Train for culture, not just topics
 
 Company culture (think [Google’s nap pods](https://blog.kissmetrics.com/googles-culture-of-success/){:target="_blank"} and their plethora of freebies from food to massage) can vary wildly. Train for your company’s culture, not just the practical information.
 
@@ -80,7 +80,7 @@ Does your company pride itself on its environmental conservation? Highlight that
 
 Whatever your company’s culture, sharing it is an important part of any new hire training program.
 
-#### 5. Build in regular reviews and adjustments to your training program
+### 5. Build in regular reviews and adjustments to your training program
 
 You can spend all the time you want developing a training program, but unless you review your employees and their work you won’t know how effective your program is. Make regular reviews a part of your company’s culture, and adjust your training as needed.
 

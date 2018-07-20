@@ -1,7 +1,7 @@
 ---
 title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
 permalink: /blog/geofencing/
-author: 
+author:
   name: Corey Bleich
 image: blog/2017/2017-12-13-geofencing.jpg
 excerpt: Geofencing technology—originally used for retail sales—is increasingly providing cutting-edge and immediate access for recruitment and employee training programs.
@@ -12,13 +12,13 @@ Picture this: you need to figure out a way to effectively design and deliver on-
 
 The next-level solution for your employee training program? Geofencing.
 
-### What is a geofence?
+## What is a geofence?
 
 A geofence is an electronic boundary placed around a particular area. It's typically used to notify businesses when a customer enters that area. Geofencing apps can help design and implement a geofence through Google maps.
 
 While it may have started as a sales technique, now geofencing has found expanded use in training and recruitment. For example, new employee training programs can target employees in very specific regions and provide them with the training materials they need.
 
-### How does geofencing work for sales?
+## How does geofencing work for sales?
 
 Right now geofencing is used primarily in marketing to attract customers. Businesses use radiofrequency identification to set up a perimeter in a zip code, around a neighborhood, or even surrounding an entire town. The more densely-populated an area is, the smaller the geofence can be. For example, an urban location would use a smaller geofence than a rural business.
 
@@ -32,7 +32,7 @@ The push notification is an important part of geofencing. Although both texts an
 
 Geofencing also makes tracking customers easier for businesses. The geofence can glean information about how long a potential customers lingers inside its boundaries, how often they visit, and at what times. Targeting your message to this real-time data can make for highly effective use of geofencing applications and push notifications for sales.
 
-### What about geofencing for recruitment?
+## What about geofencing for recruitment?
 
 Geofencing isn’t just for sales and marketing anymore. Increasingly, tech savvy businesses are using a [geofence for recruitment](https://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work){:target="_blank"} and training.
 
@@ -40,7 +40,7 @@ Take, for example, the shortage of specialty nurses in one Florida city. Johns H
 
 The result? An increase in job applications from none to three or four every week.
 
-### What about geofencing for employee training?
+## What about geofencing for employee training?
 
 Expanding even further, say you are a company that sends employees out into the field to work with compliance-related issues. A geofencing application could be designed to send out a push notification with a reminder to check for compliance updates that are delivered as a two-minute video to employees.
 
@@ -50,7 +50,7 @@ Utility workers can receive notifications on the areas for utility wires, underg
 
 With more employees working from home, some companies are also using geofencing applications to [remind employees to clock in and out electronically](https://www.tsheets.com/resources/geofencing-apps-survey){:target="_blank"}. Contrary to what you might think, the majority of employees who clock in and out after geofencing alerts have a positive feeling about it.
 
-### What geofencing apps are available for training?
+## What geofencing apps are available for training?
 
 These innovative uses for geofencing are great, but with training and recruitment technology this new it’s challenging to find quality training tools.
 
@@ -58,7 +58,7 @@ PinPoint Workforce is one of the [leading providers of geofence training apps](h
 
 In the [retail and small business sector](https://smallbiztrends.com/2017/01/location-based-marketing-beacons-geofencing.html){:target="_blank"}, geofencing continues to grow and offers a great return on investment. [Bkon](https://bkon.com/){:target="_blank"} and [PurpleDeck](https://www.purpledeck.com/){:target="_blank"} are affordable ways to build retail-specific apps to enhance your customer experience. While few things can replace in-person customer service, geofencing alerts can allow stores to get to know their customers before they even set foot in the store.
 
-### What's the future of geofencing?
+## What's the future of geofencing?
 
 GPS tracking is not a new technology, but geofencing for workforce training has unlimited potential. Think of workforce training that uses geofencing as the difference between learning how to perform CPR and actually performing CPR. When you learn how to perform CPR, the data is just numbers and steps. When you actually have to perform CPR, there is a real human being involved in a life-and-death situation.
 

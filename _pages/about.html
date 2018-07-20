@@ -13,20 +13,16 @@ cards:
   - solutions
 ---
 <div class="grid-container">
+  <div class="grid-x grid-margin-x align-center content">
 
-  <div class="grid-x grid-margin-x content">
     <div class="cell">
-      <h2>Our Approach To eLearning Development</h2>
+      <h2 class="h3">Our Approach To eLearning Development</h2>
 
-      <figure class="featured-image float-right">
-        {% asset 'logo/epl-stacked-combination-mark.svg' @inline %}
-      </figure>
-
-      <h3>Engagement-focused</h3>
+      <h3 class="h4">Engagement-focused</h3>
       <p>As an eLearning development company, we know that employee training is only effective when it's engaging.</p>
       <p>That's the case if we're talking about front-line employees who need <a href="/blog/microlearning/">microlearning</a> resources right on their <a href="/blog/what-is-mlearning/">phones</a>, or full corporate compliance programs with a blended <a href="/blog/Instructor-led-Training-vs-eLearning/">online and instructor-led</a> approach.</p>
 
-      <h3>Collaborative</h3>
+      <h3 class="h4">Collaborative</h3>
       <p>We also know that it takes a thoughtful collaborative approach between our team and yours to create successful programs that meet the needs your company and employees. For every project, we ensure we're:</p>
       <ul>
         <li>Communicating often and honestly, making sure you know where we're at every step of the way</li>
@@ -34,25 +30,50 @@ cards:
         <li>Always developing your training with your end-goal in mind</li>
       </ul>
 
-      <h3>Expertly-designed</h3>
+      <h3 class="h4">Expertly-designed</h3>
       <p>Further, we know that creating the right program for your employees does take time and expertise. Our team approaches every new project with their years of training experience and your business needs guiding them.</p>
       <p>Our team's <a href="/blog/learning-objectives-ebook/">foundational knowledge</a> in instructional design allows us to map out the best way to organize your training topics. Innovative design practices help us stand apart from the look-and-feel of traditional training.</p>
       <p>We're here for better eLearning experiences, and we hope you are too. Ready to learn more about our recent success stories? Read on.</p>
       <p><a class="button" href="/stories">Success Stories</a></p>
 
-      <h2>Meet The EdgePoint Learning Team</h2>
+      <h2 class="h3">Meet The EdgePoint Learning Team</h2>
       <p>Headquartered in Scottsdale, Arizona, our team has an average of 12 years of experience in eLearning development.</p>
       <p>When you work with us, you’re collaborating with a stellar lineup of instructional designers, courseware developers, graphic designers, project managers, and voiceover talent. We come from a variety of backgrounds, but our love of learning has led us to providing the best in employee training programs to our clients.</p>
+    </div>
 
-      <h3>The Faces Behind The Screen</h3>
+  </div>
+</div>
+
+<div class="people">
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+
+      <div class="cell text-center marginBot">
+        <h3 class="h4 squat">The faces behind the screen</h3>
+      </div>
+
+      {% assign filtered_people = site.data.people %}
+      {% for person in filtered_people %}
+      <div class="cell large-6 person">
+        <div class="media-object stack-for-small">
+          <div class="media-object-section text-center">
+            <div class="thumbnail">
+              {% asset
+                '{{ person.image }}'
+                srcset:width='320 2x'
+                srcset:width='160 1x'
+                alt='{{ person.name }}'
+              %}
+            </div>
+          </div>
+          <div class="media-object-section">
+            <h4 class="h5 squat">{{ person.name }}</h4>
+            <h4 class="h5 subheader">{{ person.role }}</h4>
+            <p>{{ person.bio }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
   </div>
-
-  <div class="grid-x grid-margin-x grid-padding-x align-center">
-    {% assign filtered_people = site.data.people %}
-    {% for person in filtered_people %}
-      {% include card-person.html %}
-    {% endfor %}
-  </div>
-
 </div>

@@ -10,7 +10,7 @@ related: false
 
 We should not have to have this conversation, but increasingly, workplace violence is something that we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791){:target="_blank"} while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"}, but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.
 
-### Who is at risk for workplace violence?
+## Who is at risk for workplace violence?
 
 There are four major types of workplace violence, including:
 
@@ -21,13 +21,13 @@ There are four major types of workplace violence, including:
 
 While workplace violence can affect anyone, there are certain risk factors that increase a person’s risk.
 
-#### Gender
+### Gender
 
 Women in particular are vulnerable to domestic violence in the workplace.
 
 They have more than [double the rate of on-the-job homicides](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"} than men (19% to 8%), with 32% of the homicides committed by a domestic partner.
 
-#### Occupation
+### Occupation
 
 While taxi drivers, healthcare workers, and other social work occupations have some of the highest rates of workplace violence, other sectors of employment are seeing a gradual increase in workplace violence, too. The publication Injury Facts 2016 cites the following [workplace violence statistics for 2013](http://www.nsc.org/Membership%20Site%20Document%20Library/2015%20Injury%20Facts/NSC_InjuryFacts2015Ed.pdf){:target="_blank"}:
 
@@ -39,7 +39,7 @@ For these employees, workplace violence is the third leading cause of death on t
 
 In general, the occupations with the highest risk of workplace violence include any that interact with the public, are open after dark, and serve alcohol.
 
-### How can workplace violence training help?
+## How can workplace violence training help?
 
 There is a serious lack of research on the effectiveness of different types of workplace violence prevention training programs.
 
@@ -47,7 +47,7 @@ However, what research exists shows that preventing workplace violence is possib
 
 Your company’s violence prevention may need to go deeper than that, but it is encouraging that even small changes can yield big results.
 
-### 7 ways to make your workplace violence prevention programs work
+## 7 ways to make your workplace violence prevention programs work
 
 In general, workplace violence is the product of the interaction between three factors.
 
@@ -57,7 +57,7 @@ In general, workplace violence is the product of the interaction between three f
 
 Workplace violence prevention training can help mitigate all three factors. Here are seven ways to make your training work.
 
-#### 1. Analyze your workplace
+### 1. Analyze your workplace
 
 A [thorough analysis of your workplace](https://www.osha.gov/Publications/osha3153.pdf){:target="_blank"} is necessary to understand where the bulk of your workplace violence prevention training should focus. Ask yourself these questions to figure out where you are in terms of workplace violence prevention:
 
@@ -71,27 +71,27 @@ A [thorough analysis of your workplace](https://www.osha.gov/Publications/osha31
 
 Some companies have never considered how a simple look at existing organizational systems can help target potential risk factors for workplace violence. These questions can help.
 
-#### 2. Create a supportive environment
+### 2. Create a supportive environment
 
 Every training program starts with developing a relationship with employees. It is important that you and your HR department make employees feel heard and supported at work. This could help workers who are experiencing domestic violence to be more open with you. Should the domestic partner show up at work, you are then able to respond accordingly.
 
 This also means that workers reporting potential violence or verbally threatening remarks should be supported and not face reprisals, regardless of whom they are reporting. Workplace violence policies apply all the way up the corporate ladder.
 
-#### 3. Offer communication and empathy training
+### 3. Offer communication and empathy training
 
 Workplace violence training is often about how to handle a violent episode as it is occurring, but offering workers training in effective, empathic communication can prevent it before it starts.
 
-#### 4. Establish a clear workplace violence policy
+### 4. Establish a clear workplace violence policy
 
 How will you handle workplace violence? What supports or disciplinary actions are in place for verbal and nonverbal threats and actions?
 
 If you haven’t answered these questions for your company, start there, then let employees know, with consistent, constant training.
 
-#### 5. Commit to a non-violent workplace
+### 5. Commit to a non-violent workplace
 
 Commitment to a non-violent workplace means regularly allocating resources – money and time – to training workers and preventing workplace violence.
 
-#### 6. Train employees to recognize warning signs
+### 6. Train employees to recognize warning signs
 
 Training employees to be alert to warning signs of potential workplace violence can stop violence before it starts. Warning signs of potential violence include some or all of the following:
 
@@ -104,7 +104,7 @@ Training employees to be alert to warning signs of potential workplace violence 
 *  Paranoia
 *  It is important to note that workplace violence can be committed by people who are not mentally ill. There exists a tendency to [oversimplify the cause of workplace violence](http://workplacementalhealth.org/Mental-Health-Topics/Violence-in-the-Workplace){:target="_blank"} as prompted by mental illness, but in most cases that is not true.
 
-#### 7. Create an action plan, share it with employees, and practice
+### 7. Create an action plan, share it with employees, and practice
 
 The 1950s had nuclear attack drills; these have been replaced in the 21st century by active shooter simulations and lockdown drills. No one wants to think about the worst-case scenario, much less practice it regularly, but having a plan in place could save lives.
 

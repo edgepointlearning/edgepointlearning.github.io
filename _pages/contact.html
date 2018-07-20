@@ -12,28 +12,27 @@ cards:
   - demos
   - newsletter
 ---
-{% assign form = site.forms | where:"title", "Contact Us" | first %}
 <div class="grid-container">
-  <div class="grid-x grid-margin-x content">
+  <div class="grid-x grid-margin-x align-center content">
 
-    <div class="cell">
-      <h2>Get In Touch With EdgePoint Learning</h2>
-      <figure class="featured-image float-right">
-        {% asset 'icons8/chat.svg' @inline %}
-      </figure>
-      <p>At EdgePoint Learning, our business is built on solid relationships with our customers and great communication.</p>
+    <div class="cell xlarge-6 marginBot">
+      <h2 class="h3 marginBot">Get In Touch With EdgePoint Learning</h2>
+      <p>{% asset 'icons8/chat.svg' class="contact-image" %}At EdgePoint Learning, our business is built on solid relationships with our customers and great communication.</p>
       <p>We're always ready to talk about your employee training project and any challenges you have. Our team of expert eLearning development professionals can guide you through the process and your options so you can find the eLearning solution that's right for you.</p>
       <p>We look forward to hearing from you with any questions you have or to talk about how EdgePoint Learning can support your organization in its training efforts.</p>
     </div>
 
-    <div class="cell medium-8 large-6 marginTop">
-      <h2>{{ form.title }}</h2>
+    <div class="cell xlarge-5 xlarge-offset-1 measure">
+      <h2 class="h3 marginBot">Contact Us</h2>
+      {% assign form = site.forms | where:"title", "Contact Us" | first %}
       {{ form.content }}
     </div>
 
+  </div>
 
+  <div class="grid-x grid-margin-x">
     <div class="cell marginTop">
-      <h2>Follow Us On Social!</h2>
+      <h2 class="h3">Follow Us On Social!</h2>
     </div>
 
     {% for socialItem in site.data.social %}
@@ -46,6 +45,6 @@ cards:
         </a>
       </div>
     {% endfor %}
-
   </div>
+
 </div>

@@ -10,7 +10,7 @@ related: false
 
 Even the most experienced and educated employees still require training when they join your company. Maybe they just need to learn about the company culture or procedures, but this is still an important part of the onboarding process. For employees and employers, on-the-job training is the best way to get up and running in the most efficient and effective way possible.
 
-### What do we mean by on-the-job training?
+## What do we mean by on-the-job training?
 
 On-the-job training isn’t quite the same thing as learning by experience. Learning by experience is a simple concept that primarily occurs via mistakes. Maybe you try something one way, find it doesn’t work, then modify it until it does.
 
@@ -28,7 +28,7 @@ The best on-the-job trainings are:
 
 Learning by experience may eventually be all of these things, but on-the-job training is a great way to help new employees learn procedures, programs, company culture, and other important concepts quickly.
 
-### What are the on-the-job training advantages that make it vital today?
+## What are the on-the-job training advantages that make it vital today?
 
 The benefits of on the job training for employers and employees alike make it a better option than paying for conferences, guest speakers, or dodgy paper manuals that may just gather dust. No more sitting in windowless rooms for entire weeks of training. No more learning what does not apply or is not necessary.
 
@@ -39,13 +39,13 @@ On-the-job training delivered specifically through various microlearning modules
    class='marginTop marginBot' %}
 {: .wideImage }
 
-#### Easily applicable
+### Easily applicable
 
 No more wasted time for employees paging their way through a dusty manual. No more scattershot approaches to designing training courses. On-the-job training is specific and focused on the needs of employees. If an employee needs to access a specific training module, they can use just-in-time online learning to locate courses they have already completed on their devices.
 
 Employees will also appreciate the ability to get to important information quickly without paging through PowerPoint slides or calling multiple people in the company for help.
 
-#### It makes good (money) sense
+### It makes good (money) sense
 
 Employee training is one of the most expensive parts of onboarding. [HR Onboard](https://hronboard.me/blog/how-much-does-it-really-cost-to-onboard-a-new-candidate-employee-onboarding/){:target="_blank"} found that the average cost of onboarding a new employee can reach up to $40,000. In technology industries, that [cost can soar](https://medium.com/@kristenmaeve/the-cost-of-not-onboarding-your-new-hire-5ba94d83c57c){:target="_blank"} even higher. But here’s the catch: these price tags do not even mention the cost of training.
 
@@ -55,7 +55,7 @@ Yes, it’s true that most (all?) employees wouldn’t turn down the opportunity
 
 In the end, on-the-job training makes more sense for protecting the bottom line through ongoing and always-accessible resources. It may make sense to create a combined approach, but even then, you're still cutting overall costs of in-person training and travel.
 
-#### Saves time
+### Saves time
 
 Time is a precious commodity for both employers and employees, and one of the best advantages of on-the-job training is that it delivers information when and where your employees need it most.
 
@@ -63,19 +63,19 @@ If your company is managing a large construction project that is under ever-chan
 
 A geofence can be set for as little as 250 feet, so it’s good for hospital or university complexes, too. This type of microlearning is an ultra-efficient and effective way to integrate on-the-job training into an employee’s day, making the best use of their time (and your resources).
 
-#### Flexibility
+### Flexibility
 
 Your employees won’t need all of the information all of the time. They also won’t need it in the same format.
 
 With many different types of eLearning tools available, you can choose the ones that make the best sense for you and your employees.
 
-#### Social-ready
+### Social-ready
 
 Co-workers may be the best source of on-the-job training support, a practice that can help build good employee relationships.
 
 If microlearning, geofencing, and other eLearning methods are experienced together in a social learning environment, co-workers get an opportunity to support each other through tricky concepts or challenging procedures.
 
-### So, what makes on-the-job training stand out?
+## So, what makes on-the-job training stand out?
 
 If you are the person tasked with developing employee trainings, there is a [strong case for eLearning](/blog/business-case-for-elearning-development/){:target="_blank"} when it comes to on-the-job training. Skills are learned where they will actually be applied, with tools that will actually be used. Often, on-the-job training uses real-time experiences combined with microlearning support to help employees go deeper.
 

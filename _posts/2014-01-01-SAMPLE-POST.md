@@ -143,13 +143,15 @@ Othewise, tables are full-width by default:
 | col 3 is | right-aligned |    $1 |
 
 ---
-#### An Esteemed Author
-
 {% asset 'blog/2014/2014-01-01-today-pink-is-my-mood.jpg'
-   alt='Quincy Conley'
+   alt='Author Name'
    class='float-right thumbnail marginLeft marginTopHalf'
    magick:resize='120'
    magick:quality='92' %}
+
+### An Esteemed Author
+
+Founder and CEO
 
 *Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco.*
 {: .clearfix }

@@ -129,5 +129,48 @@
 // development environment identification
 body.development .title-bar svg path,
 body.development .nav-logo svg path {
-  fill: red;
+  @include breakpoint(mediumer) {
+    fill: #6e3ab7;
+  }
+  @include breakpoint(large) {
+    fill: #cc4b37;
+  }
+  @include breakpoint(large) {
+    fill: #3adb76;
+  }
+  @include breakpoint(xlarge) {
+    fill: #ffae00;
+  }
+}
+
+.measure {
+  max-width: $content-maxwidth;
+}
+
+.contact-image {
+  display: block;
+  width: 140px;
+  height: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: $global-margin;
+
+  @include breakpoint(medium) {
+    display: inline;
+    float: right;
+    margin-left: $global-margin;
+    margin-right: 0;
+  }
+
+}
+
+
+.blogheart {
+  text-align: center;
+  margin-top: 40px;
+
+  svg {
+    width: 12.5em;
+    height: 12.5em;
+  }
 }

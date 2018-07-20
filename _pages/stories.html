@@ -11,10 +11,10 @@ cards:
   - talk
 ---
 <div class="grid-container">
-  <div class="grid-x grid-margin-x content align-center">
 
+  <div class="grid-x grid-margin-x content align-center">
     <div class="cell">
-      <h2>Training That Delivers Big Business Results</h2>
+      <h2 class="h3 marginBot">Training That Delivers Big Business Results</h2>
       <figure class="featured-image float-right">
         {% asset 'icons8/rocket.svg' @inline %}
       </figure>
@@ -25,24 +25,25 @@ cards:
       <p>Get in touch today to learn how we can help you find the one that works best for your employees.</p>
       <p><a class="button" href="/contact/">Contact Us</a></p>
 
-      <h2>eLearning Examples in Action</h2>
+      <h2 class="h3 marginBot">eLearning Examples in Action</h2>
       <p>Want to learn more about how eLearning and other custom-fit training solutions can help your business? These eLearning examples share success stories from businesses in all industries, in countries around the world.</p>
       <p>Read on for more information or get in contact today to see a <a href="/form/demo/">demo</a> of our courses.</p>
-
     </div>
+  </div>
 
+  <div class="grid-x grid-margin-x align-center">
     {% assign filtered_stories = site.stories | sort:'solution' %}
     {% for story in filtered_stories %}
       {% include card-story.html %}
     {% endfor %}
+  </div>
 
+  <div class="grid-x grid-margin-x align-center">
     <div class="cell">
-      <h2 class="marginTop">These companies like us.</h2>
+      <h2 class="h3 marginTop">These companies like us.</h2>
     </div>
-
     {% for client in site.data.clients %}
       {% include card-client.html %}
     {% endfor %}
-
   </div>
 </div>

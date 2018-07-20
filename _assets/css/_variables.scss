@@ -3,6 +3,8 @@ $epl-blue-dark: #0b315e;
 $epl-blue-light: #186dd2;
 $epl-off-black: #434343;
 
+$content-maxwidth: 670px;
+
 // header loop function
 @function headings($from:1, $to:6) {
     @if $from == $to {

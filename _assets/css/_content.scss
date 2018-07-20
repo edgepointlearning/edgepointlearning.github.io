@@ -1,4 +1,6 @@
 .content {
+  margin-top: $global-margin * 3;
+
   #{headings(1,6)} {
     line-height: 1.2;
   }
@@ -8,7 +10,7 @@
   blockquote,
   ul,
   ol {
-    max-width: 670px;
+    max-width: $content-maxwidth;
     margin-left: auto;
     margin-right: auto;
   }
@@ -40,30 +42,7 @@
   }
 }
 
-.layout-page .content {
-  margin-top: $global-margin * 3;
-
-  h2 {
-    margin-bottom: $global-margin * 2;
-  }
-
-  h2,
-  h3 {
-    max-width: 100%;
-  }
-
-  #{headings(2,6)},
-  p,
-  blockquote,
-  ul,
-  ol {
-    margin-left: 0;
-  }
-}
-
 .layout-story .content {
-  margin-top: $global-margin * 3;
-
   h1 {
     margin-bottom: $global-margin * 3;
   }
@@ -72,8 +51,4 @@
     margin-top: $global-margin * 2;
     @extend .h3;
   }
-}
-
-.layout-post .content {
-  margin-top: $global-margin * 3;
 }

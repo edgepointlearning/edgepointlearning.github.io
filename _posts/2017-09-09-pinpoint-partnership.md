@@ -10,7 +10,7 @@ related: false
 
 At EdgePoint Learning, we're thrilled to announce our new exclusive partnership with [PinPoint Workforce](https://www.pinpointworkforce.com/){:target="_blank"}, the world's first mobile-native learning and compliance system. Today's workforce is increasingly mobile. To better serve employees and give them access to the vital information they need, learning and compliance must go that way as well. PinPoint's location-aware system is the first to make information delivery easy whether employees are on in a factory or in the field. And EdgePoint Learning strengthens the PinPoint mobile platform with custom-made content for your learning team.
 
-### Break free from the desk with location-aware content delivery
+## Break free from the desk with location-aware content delivery
 
 As we wrote previously, most employees only have 24 minutes a week (about 1% of their workweek) to dedicate to training. [Microlearning](/blog/microlearning) capitalizes on an employee's scant training time by making sure learning occurs right where and when they need it the most.
 
@@ -37,7 +37,7 @@ Applications exist for all industries, but mobile-native technology is especiall
   <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-### Manage employee learning from your mobile or desktop
+## Manage employee learning from your mobile or desktop
 
 It's not only employees who benefit from microlearning. These resources take 300% less time and 50% less cost to produce than traditional learning courses. That means more time for your content creators and training specialists to focus on employee questions and new company initiatives.
 
@@ -54,13 +54,13 @@ Need more than two thumbs? Access it all through a browser-based app from any de
   <iframe src="https://player.vimeo.com/video/218986846" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-### Capture your existing materials
+## Capture your existing materials
 
 You likely already have an extensive training library. It doesn't make sense to lose that work by going mobile. PinPoint's webhooks instantly turn desktop-based training into mobile-ready content for your employees.
 
 Further, PinPoint's integrated workflow and API can serve as a hub for your existing services. That means single sign-on and LMS integration to make your life just a bit easier.
 
-### Your training, made simple
+## Your training, made simple
 
 As part of our partnership, EdgePoint Learning offers on-demand custom content for companies on the PinPoint system.
 
@@ -74,7 +74,7 @@ Whether you need to roll out customer service training, on-boarding materials, o
    magick:resize='670'
    magick:quality='92'  %}
 
-### Ready to learn more?
+## Ready to learn more?
 
 We're excited to launch this new partnership with PinPoint, the worldwide leader in mobile-native learning. It represents the employee-driven learning we advocate for every day at EdgePoint. Learning doesn't have to be boring, and it certainly shouldn't lock you to your desk for an hour.
 
