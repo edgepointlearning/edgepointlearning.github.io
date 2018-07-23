@@ -161,9 +161,7 @@ body.development .nav-logo svg path {
     margin-left: $global-margin;
     margin-right: 0;
   }
-
 }
-
 
 .blogheart {
   text-align: center;
@@ -173,4 +171,12 @@ body.development .nav-logo svg path {
     width: 12.5em;
     height: 12.5em;
   }
+}
+
+.pillar {
+  border: 1px solid $medium-gray;
+  background: $light-gray;
+  max-width: $content-maxwidth;
+  padding: 0 $global-padding;
+  margin: 0 auto $global-margin * 2;
 }
