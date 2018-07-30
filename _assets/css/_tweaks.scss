@@ -161,9 +161,7 @@ body.development .nav-logo svg path {
     margin-left: $global-margin;
     margin-right: 0;
   }
-
 }
-
 
 .blogheart {
   text-align: center;
@@ -172,5 +170,33 @@ body.development .nav-logo svg path {
   svg {
     width: 12.5em;
     height: 12.5em;
+  }
+}
+
+.pillar {
+  border-left: 6px solid $epl-blue-light;
+  background: $light-gray;
+  max-width: $content-maxwidth;
+  padding: $global-padding * 1.5 $global-padding $global-padding * 0.5;
+  margin: 0 auto $global-margin * 2;
+
+  .squat {
+    color: $black;
+  }
+}
+
+ul.home-training li {
+  margin-left: 0;
+  margin-bottom: $global-margin;
+  padding: $global-padding;
+  list-style-type: none;
+  background: $light-gray;
+  vertical-align: bottom;
+
+  svg {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: $global-margin * 0.5;
+    margin-bottom: -5px;
   }
 }
