@@ -1,5 +1,5 @@
 ---
-title: Thank You for Contacting Us!
+title: Thanks for Contacting Us!
 layout: form-thanks
 cards:
  - newsletter
