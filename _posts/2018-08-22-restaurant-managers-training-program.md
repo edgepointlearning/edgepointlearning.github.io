@@ -35,7 +35,7 @@ Knowing where to start and how to implement your training is key, no matter the 
 If your boss’s boss doesn’t like the idea of revamping your existing restaurant managers training program, it won’t get off the ground.
 Show your CEO just how important restaurant management training is and how it can affect their bottom line in the best way possible.
 
-## Step 2: Know where you are starting
+### Step 2: Know where you are starting
 
 Does your restaurant group already have an in-place restaurant managers training program? Even if the program is bare bones, it’s a starting point.
 Identifying existing resources can save time (and money!) as you design your training and move forward. You can also take EdgePoint's [eLearning quiz](/elearning-quiz/) to quickly test if your training is overdue for an update.
