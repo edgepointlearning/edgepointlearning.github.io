@@ -109,5 +109,16 @@ EdgePoint worked first with their CEO to identify goals and evaluate their exist
 Across the board, employees found these new training tools engaging, informative, and useful. Most importantly, they craved more of the same kinds of learning experiences. Hungry employees are the best kind of employees to have in a restaurant!
 
 ---
+{% asset 'blog/2014/2014-01-01-today-pink-is-my-mood.jpg'
+   alt='Author Name'
+   class='float-right thumbnail marginLeft marginTopHalf'
+   magick:resize='120'
+   magick:quality='92' %}
+
 ### Steve Pruniski
-Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has help to mold him into a knowledgeable leader in the industry.
+
+GM at the The Vig at McCormick Ranch
+
+*Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has help to mold him into a knowledgeable leader in the industry.*
+{: .clearfix }
+---
