@@ -109,8 +109,8 @@ EdgePoint worked first with their CEO to identify goals and evaluate their exist
 Across the board, employees found these new training tools engaging, informative, and useful. Most importantly, they craved more of the same kinds of learning experiences. Hungry employees are the best kind of employees to have in a restaurant!
 
 ---
-{% asset 'blog/2014/2014-01-01-today-pink-is-my-mood.jpg'
-   alt='Author Name'
+{% asset 'blog/2018/steve-pruniski.jpg'
+   alt='Steve Pruniski'
    class='float-right thumbnail marginLeft marginTopHalf'
    magick:resize='120'
    magick:quality='92' %}
