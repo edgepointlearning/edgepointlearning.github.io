@@ -29,6 +29,7 @@
 }
 
 .layout-form .hero,
+.layout-404 .hero,
 .layout-page .hero {
   h1 {
     font-weight: 300;
@@ -55,5 +56,33 @@
     max-width: 700px;
     font-weight: 300;
     line-height: 1.2;
+  }
+}
+
+.layout-404 .hero {
+  position: relative;
+  background-image: asset_url('ui/404bg@2x-fade.jpg');
+  background-size: cover;
+  overflow: hidden;
+
+  .cell {
+    z-index: 2;
+  }
+
+  h1 {
+    font-weight: 700;
+  }
+
+  #monkey {
+    z-index: 1;
+    position: absolute;
+    right: 20px;
+    bottom: -30px;
+    width: 132px;
+    height: 89px;
+
+    @include breakpoint(medium) {
+      bottom: 0;
+    }
   }
 }
