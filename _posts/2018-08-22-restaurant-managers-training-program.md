@@ -119,6 +119,6 @@ Across the board, employees found these new training tools engaging, informative
 
 GM at the The Vig at McCormick Ranch
 
-*Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has help to mold him into a knowledgeable leader in the industry.*
+*Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has helped to mold him into a knowledgeable leader in the industry.*
 {: .clearfix }
 ---
