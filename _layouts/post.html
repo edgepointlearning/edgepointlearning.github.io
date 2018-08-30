@@ -23,7 +23,7 @@ layout: default
   <div class="grid-x align-justify align-middle meta">
     <div class="cell shrink">
       <span class="squat">{% if page.author %}{{ page.author.name }}</span><br>{% endif %}
-      {{ page.date | date: '%b %d, %Y' }}
+      {% include reading-time.html %}
     </div>
     <div class="cell shrink">
       {% include share.html %}
