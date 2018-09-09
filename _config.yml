@@ -49,6 +49,7 @@ exclude :
   - docker-compose.yml
 
 # Collections
+collections_dir: collections
 collections   :
   stories     :
     output    : true
@@ -56,6 +57,9 @@ collections   :
   forms       :
     output    : true
     permalink : /form/:path/
+  demos       :
+    output    : true
+    permalink : /demo/:path/
 
 # Defaults
 defaults :
@@ -95,8 +99,18 @@ defaults :
     values      :
       layout    : 'form'
       noindex   : true
-      cards     : no
       sitemap   : false
+      cards     : no
+  -
+    scope       :
+      type      : demos
+    values      :
+      layout    : 'demo'
+      noindex   : true
+      sitemap   : false
+      cards     :
+       - solutions
+       - newsletter
   -
     scope       :
       path      : 'static/**/*.pdf'
