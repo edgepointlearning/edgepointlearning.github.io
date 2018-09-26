@@ -2,4 +2,4 @@
 title : Goal Setting
 vimeo : 291538200
 ---
-Venenatis curae primis eget magna lobortis auctor dictumst porttitor, nisi justo nibh aptent sagittis arcu. Nec facilisi non diam eget purus litora est imperdiet, urna at pretium himenaeos sociis platea risus feugiat etiam, ultrices ridiculus lorem magnis vel proin euismod.
+A large US bank needed training on a new performance management process which they were rolling out to their 600 branches across the Midwest and Western United States. EdgePoint created a series of videos to educate their employees on this new process and what to expect.
