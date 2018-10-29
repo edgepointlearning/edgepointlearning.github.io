@@ -44,9 +44,9 @@ This type of training ([gamification](/blog/gamification-in-elearning/) being a 
 
 Maybe you've scoffed at the idea that focused training for soft skills is imperative to the success of your business, but it’s time to reexamine that belief.
 
-The Stanford Research Institute International and the Carnegie Mellon Foundation found that [75% of long-term job success](https://www.amanet.org/training/articles/the-hard-truth-about-soft-skills.aspx) depends upon soft skills mastery and only 25% on technical skills.
+The Stanford Research Institute International and the Carnegie Mellon Foundation found that [75% of long-term job success](https://www.amanet.org/training/articles/the-hard-truth-about-soft-skills.aspx){:target="_blank"} depends upon soft skills mastery and only 25% on technical skills.
 
-Other research from LinkedIn identified [soft skills as the number one training priority](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2016/most-indemand-soft-skills) among CEOs. Soft skills are going to be the future of workplace training in 2019.
+Other research from LinkedIn identified [soft skills as the number one training priority](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2016/most-indemand-soft-skills){:target="_blank"} among CEOs. Soft skills are going to be the future of workplace training in 2019.
 
 ### 5. Virtual reality
 
@@ -56,9 +56,9 @@ Would you want to be a neurosurgeon’s very first patient? Probably not. VR all
 
 ### 6. Online mentorship programs
 
-You may be hiring employees fresh out of college who have [never had a job before](https://www.linkedin.com/pulse/7-reasons-why-millennials-cant-find-job-taylor-monnig). Why? The competitive job market has sent many millennials (and beyond) into college in order to compete. However, the resulting college graduates have great technical skills but no understanding of how to apply them.
+You may be hiring employees fresh out of college who have [never had a job before](https://www.linkedin.com/pulse/7-reasons-why-millennials-cant-find-job-taylor-monnig){:target="_blank"}. Why? The competitive job market has sent many millennials (and beyond) into college in order to compete. However, the resulting college graduates have great technical skills but no understanding of how to apply them.
 
-[Online mentorship programs](https://www.inc.com/john-boitnott/9-top-platforms-for-finding-a-mentor-in-2016.html), either through your own company or outside of it, can help coach these inexperienced workers to increase their productivity, longevity, and chances of success.
+[Online mentorship programs](https://www.inc.com/john-boitnott/9-top-platforms-for-finding-a-mentor-in-2016.html){:target="_blank"}, either through your own company or outside of it, can help coach these inexperienced workers to increase their productivity, longevity, and chances of success.
 
 ### 7. Improvised instruction
 
@@ -76,7 +76,7 @@ You have probably heard groans when announcing the next wave of training to empl
 
 While much of this has to do with the quality and relevance of the training itself, on-the-job training can help employees improve their skills and advance their careers, all on company time and without paying a dime.
 
-Packaging this as the holistic development of your employees as people (instead of cogs performing one function over and over) is more in line with the expressed values of the [younger generations of workers](https://www.fastcompany.com/3046989/what-millennial-employees-really-want).
+Packaging this as the holistic development of your employees as people (instead of cogs performing one function over and over) is more in line with the expressed values of the [younger generations of workers](https://www.fastcompany.com/3046989/what-millennial-employees-really-want){:target="_blank"}.
 
 ### 10. Microlearning
 
