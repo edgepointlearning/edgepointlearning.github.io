@@ -81,4 +81,4 @@ While this can be very helpful to fill in gaps when an employee is out sick (esp
 
 Imagine if a doctor in your medical practice was also responsible for checking in patients and dealing with the complexities of filing insurance claims. While it’s important for doctors to have a working understanding of the ever-changing landscape of insurance, having an expert in the office is crucial – both for the doctoring and for dealing with insurance companies. Let your specialists be specialists, even as they dip a toe into other aspects of the company.
 
-There is a fine line between overloading your employees and reaping the benefits of cross-training employees. Let EdgePoint Learning help you review all of your options to find balance. [Get in touch today](/contact/)!
+<strong>There is a fine line between overloading your employees and reaping the benefits of cross-training employees. Let EdgePoint Learning help you review all of your options to find balance. [Get in touch today](/contact/)!</strong>
