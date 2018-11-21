@@ -49,7 +49,7 @@ Nothing stops employee initiative faster than the perception of a dead-end job. 
 
 If employees know there are opportunities within the company for growth, their motivation to seek out those training opportunities (and the corresponding increase in pay) grows. More motivated employees will gravitate towards additional opportunities for career growth and mobility.
 
-### 4. Cross-training employees increases sustainability
+### 4. Increases workforce sustainability
 
 Imagine the three legs of a stool. If one leg falls off, the stool is useless. Now imagine a company in which only one employee knows anything about a process or a procedure. What happens if that person takes maternity leave or becomes ill and needs time off?
 
