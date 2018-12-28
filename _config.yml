@@ -60,6 +60,9 @@ collections   :
   demos       :
     output    : true
     permalink : /demo/:path/
+  solutions   :
+    output    : true
+    permalink : /:path/
 
 # Defaults
 defaults :
