@@ -3,6 +3,23 @@
 
 - url: /solutions/
   title: Learning Solutions
+  dropdown: parent
+
+- url: /co-development-services/
+  title: Co-Development
+  dropdown: child
+
+- url: /custom-elearning-course-development/
+  title: Custom Development
+  dropdown: child
+
+- url: /elearning-consulting-services/
+  title: Consulting Services
+  dropdown: child
+
+- url: /technology-partners/
+  title: Technology Partners
+  dropdown: child
 
 - url: /stories/
   title: Success Stories

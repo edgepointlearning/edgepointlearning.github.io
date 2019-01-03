@@ -40,6 +40,7 @@
     <div class="grid-container">
       <div class="cell">
         <ul class="menu">
+          <!-- https://foundation.zurb.com/sites/docs/dropdown-menu.html -->
           {% for navItem in site.data.sitemap %}
             {% if navItem.url == page.dir %}
                 {% assign class = "active" %}
