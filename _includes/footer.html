@@ -5,14 +5,16 @@
         <ul class="menu vertical">
           <li class="menu-text h5">Our Site</li>
           {% for navItem in site.data.sitemap %}
-            <li><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+            {% if navItem.dropdown != "parent" %}
+              <li><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>
       <div class="cell medium-7 mediumer-7 large-8">
         <ul class="menu vertical">
           <li class="menu-text h5">Our Latest Posts</li>
-          {% for post in site.posts limit:4 %}
+          {% for post in site.posts limit:7 %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>

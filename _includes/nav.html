@@ -39,9 +39,9 @@
   <div class="cell">
     <div class="grid-container">
       <div class="cell">
-        <ul class="menu">
-          <!-- https://foundation.zurb.com/sites/docs/dropdown-menu.html -->
+        <ul class="dropdown menu" data-dropdown-menu>
           {% for navItem in site.data.sitemap %}
+
             {% if navItem.url == page.dir %}
                 {% assign class = "active" %}
             {% elsif navItem.url == '/stories/' and page.story == true %}
@@ -51,8 +51,25 @@
             {% else %}
                 {% assign class = "normal" %}
             {% endif %}
-            <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
-            {% endfor %}
+
+            {% if navItem.dropdown == null %}
+              <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+            {% elsif navItem.dropdown == 'parent' %}
+            <!-- https://foundation.zurb.com/sites/docs/dropdown-menu.html -->
+              <li>
+                <a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a>
+                <ul class="menu">
+                    {% for navItem in site.data.sitemap %}
+                      {% if navItem.dropdown == 'child' %}
+                        <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+              </li>
+
+            {% endif %}
+
+          {% endfor %}
         </ul>
       </div>
 
