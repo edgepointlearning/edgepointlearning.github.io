@@ -53,15 +53,14 @@
             {% endif %}
 
             {% if navItem.dropdown == null %}
-              <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+              <li class="pages-topmenuitem"><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
             {% elsif navItem.dropdown == 'parent' %}
-            <!-- https://foundation.zurb.com/sites/docs/dropdown-menu.html -->
-              <li>
+              <li class="pages-topmenuitem">
                 <a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a>
                 <ul class="menu">
                     {% for navItem in site.data.sitemap %}
                       {% if navItem.dropdown == 'child' %}
-                        <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+                        <li class="pages-submenuitem"><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
                       {% endif %}
                     {% endfor %}
                 </ul>
