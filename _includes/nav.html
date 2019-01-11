@@ -43,13 +43,15 @@
           {% for navItem in site.data.sitemap %}
 
             {% if navItem.url == page.dir %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
             {% elsif navItem.url == '/stories/' and page.story == true %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
+            {% elsif navItem.url == '/solutions/' and page.solution == true %}
+              {% assign class = "active" %}
             {% elsif navItem.url == '/blog/' and page.blog == true %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
             {% else %}
-                {% assign class = "normal" %}
+              {% assign class = "normal" %}
             {% endif %}
 
             {% if navItem.dropdown == null %}

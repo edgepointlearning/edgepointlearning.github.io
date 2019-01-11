@@ -88,6 +88,12 @@ defaults :
        - newsletter
   -
     scope       :
+      type      : 'solutions'
+    values      :
+      layout    : 'solution'
+      solution  : true
+  -
+    scope       :
       type      : 'stories'
     values      :
       layout    : 'story'
