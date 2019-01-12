@@ -5,12 +5,12 @@
   title: Learning Solutions
   dropdown: parent
 
-- url: /co-development-services/
-  title: Co-Development
-  dropdown: child
-
 - url: /custom-elearning-course-development/
   title: Custom Development
+  dropdown: child
+
+- url: /co-development-services/
+  title: Co-Development
   dropdown: child
 
 - url: /elearning-consulting-services/

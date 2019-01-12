@@ -92,6 +92,7 @@ defaults :
     values      :
       layout    : 'solution'
       solution  : true
+      last_modified_at: 2019-01-11T00:00:00-07:00
   -
     scope       :
       type      : 'stories'

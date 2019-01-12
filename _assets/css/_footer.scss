@@ -26,6 +26,10 @@
       background-color: $epl-blue;
     }
   }
+ 
+  li.child a {
+    text-indent: 0.8em;
+  }
 
   .cell:first-child {
     margin-bottom: $global-margin * 2;

@@ -40,6 +40,14 @@
     }
   }
 
+  li.child a {
+    text-indent: 1.8em;
+
+    &:hover {
+      text-indent: 2.2em;
+    }
+  }
+
   ul.no-bullet {
     text-align: center;
     line-height: 1;

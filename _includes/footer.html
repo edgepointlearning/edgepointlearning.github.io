@@ -1,20 +1,20 @@
 <div class="footer-sitemap">
   <div class="grid-container">
     <footer class="grid-x">
-      <div class="cell medium-3 large-2">
+      <div class="cell medium-4 large-3">
         <ul class="menu vertical">
           <li class="menu-text h5">Our Site</li>
           {% for navItem in site.data.sitemap %}
-            {% if navItem.dropdown != "parent" %}
-              <li><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
-            {% endif %}
+            <li {% if navItem.dropdown == "child" %} class="child" {% endif %}>
+              <a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a>
+            </li>
           {% endfor %}
         </ul>
       </div>
-      <div class="cell medium-7 mediumer-7 large-8">
+      <div class="cell medium-6 mediumer-7 large-8">
         <ul class="menu vertical">
           <li class="menu-text h5">Our Latest Posts</li>
-          {% for post in site.posts limit:7 %}
+          {% for post in site.posts limit:8 %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
