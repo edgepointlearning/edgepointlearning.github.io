@@ -39,19 +39,38 @@
   <div class="cell">
     <div class="grid-container">
       <div class="cell">
-        <ul class="menu">
+        <ul class="dropdown menu" data-dropdown-menu>
           {% for navItem in site.data.sitemap %}
+
             {% if navItem.url == page.dir %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
             {% elsif navItem.url == '/stories/' and page.story == true %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
+            {% elsif navItem.url == '/solutions/' and page.solution == true %}
+              {% assign class = "active" %}
             {% elsif navItem.url == '/blog/' and page.blog == true %}
-                {% assign class = "active" %}
+              {% assign class = "active" %}
             {% else %}
-                {% assign class = "normal" %}
+              {% assign class = "normal" %}
             {% endif %}
-            <li><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
-            {% endfor %}
+
+            {% if navItem.dropdown == null %}
+              <li class="pages-topmenuitem"><a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+            {% elsif navItem.dropdown == 'parent' %}
+              <li class="pages-topmenuitem">
+                <a class="{{ class }}" href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a>
+                <ul class="menu">
+                    {% for navItem in site.data.sitemap %}
+                      {% if navItem.dropdown == 'child' %}
+                        <li class="pages-submenuitem"><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+              </li>
+
+            {% endif %}
+
+          {% endfor %}
         </ul>
       </div>
 

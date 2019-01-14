@@ -12,7 +12,9 @@
       <ul class="vertical menu">
         <li class="menu-text">Our Website</li>
         {% for navItem in site.data.sitemap %}
-          <li><a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a></li>
+            <li {% if navItem.dropdown == "child" %} class="child" {% endif %}>
+              <a href="{{ navItem.url  | prepend: site.baseurl }}">{{ navItem.title }}</a>
+            </li>
         {% endfor %}
       </ul>
 
