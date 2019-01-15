@@ -1,5 +1,5 @@
 ---
-title:    How To Get Employees Excited About Training: 10 Ways To Motivate Them
+title:    "How To Get Employees Excited About Training: 10 Ways To Motivate Them"
 permalink: /blog/get-employees-excited-about-training/
 author:
   name: Michael Hansen
