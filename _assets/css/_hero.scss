@@ -42,7 +42,8 @@
   }
 
   p {
-    margin-top: $global-margin * 1.5;
+    margin-top: $global-margin * 2;
+    max-width: 640px;
 
     @include breakpoint(medium) {
       font-size: $lead-font-size;
