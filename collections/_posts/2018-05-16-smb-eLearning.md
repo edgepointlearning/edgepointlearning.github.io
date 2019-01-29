@@ -2,7 +2,7 @@
 title:  Where Should Small-Medium Businesses Start With eLearning?
 permalink: /blog/smb-eLearning/
 author:
-  name: Corey Bleich
+  name: Michael Hansen
 image: blog/2018/2018-05-16-smb-eLearning.jpg
 excerpt: It's possible for small-medium businesses to find sustainable and affordable eLearning solutions to train their employees. From assessment to ongoing audits, here's how to get started with eLearning for your SMB.
 related: false
