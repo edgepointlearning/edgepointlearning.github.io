@@ -5,4 +5,4 @@ cards:
  - newsletter
  - demos
 ---
-We appreciate your feedback.
+Thanks for leaving a comment. We appreciate it!
