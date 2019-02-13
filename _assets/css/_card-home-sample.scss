@@ -42,20 +42,6 @@
 
 }
 
-.home-sample.blue {
+.home-samples.blue {
   background-color: $epl-blue;
-
-  h3 {
-    padding-top: 2em;
-    padding-bottom: 2em;
-  }
-
-  a {
-    background-image: none;
-    color: $white;
-
-    &:hover {
-      background-color: $epl-blue-light;
-    }
-  }
 }

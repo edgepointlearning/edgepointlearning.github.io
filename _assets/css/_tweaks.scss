@@ -183,6 +183,22 @@ body.development .nav-logo svg path {
   .squat {
     color: $black;
   }
+
+  .squat a {
+    color: $epl-blue;
+
+    &:hover {
+      color: $epl-blue-dark;
+    }
+  }
+
+  svg {
+    height: 0.6em;
+    width: 0.6em;
+    vertical-align: top;
+    margin-top: 0.2em;
+    margin-left: 0.1em;
+  }
 }
 
 ul.home-training li {
