@@ -3,16 +3,17 @@ layout: default
 ---
 <div class="grid-x hero align-middle align-center">
   <div class="cell text-center">
-    <h1 class="noWidows">Hey, Thanks!</h1>
+    {% asset 'ui/bear.svg' @inline %}
+    {% asset 'ui/bear-paws.svg' @inline %}
   </div>
 </div>
 
 <div class="grid-container">
   <div class="grid-x align-center content">
     <div class="cell">
-      <h2>{{ page.title }}</h2>
-      <p class="marginTop">{{ content }}</p>
-      <p class="marginTop"><a href='{{ '/' | prepend: site.baseurl }}' class='button' id='go-home-button'>Home</a></p>
+      <h1 class="h2">{{ page.title }}</h1>
+      <p>{{ content }}</p>
+      <p class="marginTop"><a href='{{ '/' | prepend: site.baseurl }}' class='button' id='go-home-button'>Go Home</a></p>
     </div>
   </div>
 </div>
