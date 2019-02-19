@@ -3,7 +3,7 @@ title:    "Your Guide To Effective Ergonomics Training Courses For Your Employee
 permalink: /blog/ergonomics-training/
 author:
   name: Clint Everton
-image: blog/2019/2019-02-06-cost-of-training-new-employees.jpg
+image: blog/2019/2019-02-20-ergonomics-training.jpg
 excerpt: "Here’s how to create the best ergonomics training courses for your employees (and why it matters!)."
 related: false
 ---
