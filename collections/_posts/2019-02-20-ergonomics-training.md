@@ -106,6 +106,6 @@ These are just a few examples of the ways in which ergonomics training becomes a
 
 ### Clint Everton
 
-*Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at [pinpointworkforce.com](pinpointworkforce.com){:target="_blank"}.*
+*Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at [pinpointworkforce.com](https://wwww.pinpointworkforce.com/){:target="_blank"}.*
 {: .clearfix }
 ---
