@@ -2,7 +2,7 @@
 title:  How Can I Create My eLearning Courses Faster?
 permalink: /blog/create-elearning-faster/
 author:
-  name: Tyler Campbell
+  name: Michael Hansen
 image: blog/2018/2018-05-30-create-elearning-faster.jpg
 excerpt: A recent study found that it took an average of 71 hours to create a one-hour eLearning course with interactions. Developing an eLearning course takes time, but there are ways to speed up the process without compromising the quality of the final result. Here's how.
 related: false
