@@ -25,9 +25,11 @@ layout: default
       <span class="squat">{% if page.author %}{{ page.author.name }}</span><br>{% endif %}
       {% include reading-time.html %}
     </div>
-    <div class="cell shrink">
-      {% include share.html %}
-    </div>
+    {% if page.sharesheet %}
+      <div class="cell shrink">
+        {% include share.html %}
+      </div>
+    {% endif %}
   </div>
 
   <div class="grid-x align-center content">
@@ -35,15 +37,16 @@ layout: default
       {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : h4, h4_styled }}
     </div>
   </div>
-
-  <div class="grid-x align-center align-middle share-bottom">
-    <div class="cell shrink">
-      <h5>Like this post? Share it!</h5>
+  
+  {% if page.sharesheet %}
+    <div class="grid-x align-center align-middle share-bottom">
+      <div class="cell shrink">
+        <h5>Like this post? Share it!</h5>
+      </div>
+      <div class="cell shrink">
+        {% include share.html %}
+      </div>
     </div>
-    <div class="cell shrink">
-      {% include share.html %}
-    </div>
-  </div>
-
+  {% endif %}
 
 </div>
