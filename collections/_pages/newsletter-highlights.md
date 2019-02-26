@@ -85,9 +85,9 @@ Most companies recognize the importance of employee training and want to dive ri
 
 ## (?) Want More? Subscribe to our Newsletter
 
-(?) Keep up to date on learning industry news and the latest EdgePoint offerings.
+Keep up to date on learning industry news and the latest EdgePoint offerings.
 
-<form style="max-width: 670px; margin: auto;" accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/d83fbd0779271f1cce2372a977f92bf9" class="infusion-form marginBot" id="inf_form_d83fbd0779271f1cce2372a977f92bf9" method="POST">
+<form style="max-width: 670px; margin-left:auto; margin-right: auto;" accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/d83fbd0779271f1cce2372a977f92bf9" class="infusion-form marginBot marginTop" id="inf_form_d83fbd0779271f1cce2372a977f92bf9" method="POST">
     <input name="inf_form_xid" type="hidden" value="d83fbd0779271f1cce2372a977f92bf9" />
     <input name="inf_form_name" type="hidden" value="Newsletter Subscribe" />
     <input name="infusionsoft_version" type="hidden" value="1.69.0.47575" />
