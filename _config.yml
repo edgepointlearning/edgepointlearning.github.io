@@ -83,6 +83,8 @@ defaults :
       layout    : 'post' # will default to the post layout
       permalink : /blog/:title/
       blog      : true
+      sharesheet: true
+      breadcrumb: true
       cards     :
        - talk
        - newsletter
