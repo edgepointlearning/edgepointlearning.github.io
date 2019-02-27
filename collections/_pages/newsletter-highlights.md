@@ -14,7 +14,7 @@ cards:
   - demos
 ---
 <div class="pillar">
-    <p>Every month, EdgePoint Learning crafts an informative newsletter showcasing our latest and most relevant blogs, articles and discussions within the learning industry and beyond. Here’s a sampling of some recent highlights that our readers have enjoyed.</p>
+    <p>Every month, EdgePoint Learning crafts an informative newsletter showcasing our latest and most relevant blogs, articles, and discussions within the learning industry and beyond. Here’s a sampling of some recent highlights that our readers have enjoyed.</p>
 </div>
 
 {% asset 'blog/2018/2018-07-25-adult-learning-theory.jpg'
