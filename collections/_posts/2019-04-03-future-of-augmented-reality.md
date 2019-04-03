@@ -35,7 +35,7 @@ The major components of today’s AR systems are:
 
 Usually, the camera and display screen are fitted for the user with goggles of some sort. However, as long as the user looks through a display screen, the AR device will augment whatever he or she looks at with or without goggles. Conversely, the microprocessor with software can come in many forms, i.e. a desktop, laptop computer, or cell phone.
 
-{% asset 'blog/2019/019-04-03-future-of-augmented-reality-01.jpg'
+{% asset 'blog/2019/2019-04-03-future-of-augmented-reality-01.jpg'
    alt='Six benefits of cross training employees'
    class='marginTop marginBot' %}
 {: .wideImage }
