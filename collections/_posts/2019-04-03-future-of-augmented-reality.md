@@ -86,7 +86,7 @@ Technology prognosticators posit that the highly visual and interactive format h
 
 Augmented reality in corporate training has been shown to improve critical aspects for an organization such as communication, collaboration, training, and more. Here's some of the leading augmented reality training ideas for tomorrow's corporate training spaces.
 
-{% asset 'blog/2019/019-04-03-future-of-augmented-reality-02.jpg'
+{% asset 'blog/2019/2019-04-03-future-of-augmented-reality-02.jpg'
    alt='Six benefits of cross training employees'
    class='marginTop marginBot' %}
 {: .wideImage }
@@ -156,7 +156,7 @@ Finally, one of the more interesting augmented reality in corporate training exa
 
 The ability to superimpose virtual objects on the real world while undergoing a complex project has been shown to be a huge help for salespeople and their customers while developing their decision-making skills. Same goes for engineers, designers, and other professions where team-work and decision-making come into play. AR has the innate ability to visualize abstract ideas in concrete ways to plans and designs more real (Faldi, 2018).
 
-{% asset 'blog/2019/019-04-03-future-of-augmented-reality-ig.jpg'
+{% asset 'blog/2019/2019-04-03-future-of-augmented-reality-ig.jpg'
    alt='Six benefits of cross training employees'
    class='marginTop marginBot' %}
 {: .wideImage }
