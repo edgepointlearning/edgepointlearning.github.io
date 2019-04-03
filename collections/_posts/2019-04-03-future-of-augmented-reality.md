@@ -18,7 +18,7 @@ A notable research leader on AR defines it as "an environment that includes both
 
 It is worth differentiating AR from virtual reality or [gamification](/blog/gamification-in-elearning/). Virtual reality is a computer-generated environment that is a full simulation of the real world, sometimes called an imaginary world. Whereas, an AR system supplements only a portion of the environment, and are designed to coexist with the real world. Also, note that the definition of AR is not limited to just sense of sight. It can incorporate other human senses such as hearing, touch, and smell (Azuma et al., 2001) which could lead to richer user experiences. Gamifiction can be a part of augmented reality, but it can also complement a more traditional eLearning course.
 
-AR has been around longer than most people realize. An early example that you might remember from TV is the [FoxTrax system](https://ethw.org/Tracking_the_Ice_Hockey_Puck_-_FoxTrax_(Glow_Puck)), which was used to highlight the hard-to-see hockey puck as it moved around the ice. Even earlier than that, you may remember seeing AR while watching the evening news. AR was used for during a news broadcast to indicate the names of the reporters or location of the scene. In addition to television networks, movie production studios have been doing similar things with graphics for decades (Cavallaro, 1997).
+AR has been around longer than most people realize. An early example that you might remember from TV is the [FoxTrax system](https://ethw.org/Tracking_the_Ice_Hockey_Puck_-_FoxTrax_(Glow_Puck)){:target="_blank"}, which was used to highlight the hard-to-see hockey puck as it moved around the ice. Even earlier than that, you may remember seeing AR while watching the evening news. AR was used for during a news broadcast to indicate the names of the reporters or location of the scene. In addition to television networks, movie production studios have been doing similar things with graphics for decades (Cavallaro, 1997).
 
 ## How does augmented reality work?
 
@@ -46,15 +46,15 @@ The technology behind AR has already been shown to have many purposes, most wide
 
 ### AR for shopping
 
-[Rayban](https://www.ray-ban.com), the popular eyewear manufacturer, offers an online application that allows shoppers to see themselves wearing the sunglasses before buying or even having to see them in person. Executives of the brand have stated that this function has helped drive up sales and shopping satisfaction over their competitors. Brilliant idea, right?!?
+[Rayban](https://www.ray-ban.com){:target="_blank"}, the popular eyewear manufacturer, offers an online application that allows shoppers to see themselves wearing the sunglasses before buying or even having to see them in person. Executives of the brand have stated that this function has helped drive up sales and shopping satisfaction over their competitors. Brilliant idea, right?!?
 
-Home decorating vendors have also begun to take advantage of this trend. Just by downloading an AR app, DIY’ers shopping at [Build.com](http://www.build.com) can re-design a space all in the palm of their hand. Using AR technology, users can see what color paint would look like on walls. They can also see and adjust furniture around a room (without the sore back from actually moving it).
+Home decorating vendors have also begun to take advantage of this trend. Just by downloading an AR app, DIY’ers shopping at [Build.com](http://www.build.com){:target="_blank"} can re-design a space all in the palm of their hand. Using AR technology, users can see what color paint would look like on walls. They can also see and adjust furniture around a room (without the sore back from actually moving it).
 
 ### AR in entertainment
 
 Video game companies are quickly hopping aboard the augmented reality trend, too. Major gaming console manufacturers like Nintendo and Microsoft are leading the charge, because they realize AR can free gamers from their couches and usher them into the real world to play.
 
-For example in the game Human Pac-Man, users chase after each other in real life while wearing goggles that make them look like characters in Pac-Man. Digital Trends provides a [list of the top 10 best AR apps](https://www.digitaltrends.com/mobile/best-augmented-reality-apps/) for mobile entertainment (Jansen, 2018).
+For example in the game Human Pac-Man, users chase after each other in real life while wearing goggles that make them look like characters in Pac-Man. Digital Trends provides a [list of the top 10 best AR apps](https://www.digitaltrends.com/mobile/best-augmented-reality-apps/){:target="_blank"} for mobile entertainment (Jansen, 2018).
 
 Some of the more notable AR games are:
 
@@ -63,11 +63,11 @@ Some of the more notable AR games are:
 * Zombies Go takes the zombie apocalypse the action to the streets, anywhere and anytime, for runners and walkers alike
 * Quiver takes kids coloring books from 2-D to 3-D with animated images
 
-These video games are just the beginning. Probably the most popular AR game ever we've seen is [Pokémon Go](https://www.pokemongo.com/en-us/). Released in 2016, the mobile AR game instantly became a sensation. All across the globe, people took to the streets to find and capture various Pokémons. Consider it a scavenger-hunt game that uses virtual objects. You could use your phone to "locate” Pokémons around town, and gamers would use their phones to find these invisible objects.
+These video games are just the beginning. Probably the most popular AR game ever we've seen is [Pokémon Go](https://www.pokemongo.com/en-us/){:target="_blank"}. Released in 2016, the mobile AR game instantly became a sensation. All across the globe, people took to the streets to find and capture various Pokémons. Consider it a scavenger-hunt game that uses virtual objects. You could use your phone to "locate” Pokémons around town, and gamers would use their phones to find these invisible objects.
 
 ### Other uses of AR
 
-There are many other augmented reality apps out there -- and many more in development. According to [Tom’s Guide](https://www.tomsguide.com/us/pictures-story/657-best-augmented-reality-apps.html#s3), some of the most popular AR apps currently are:
+There are many other augmented reality apps out there -- and many more in development. According to [Tom’s Guide](https://www.tomsguide.com/us/pictures-story/657-best-augmented-reality-apps.html#s3){:target="_blank"}, some of the most popular AR apps currently are:
 
 * Google Lens helps to identify objects in your photos
 * BBC Civilisations AR to take a history lesson
@@ -121,19 +121,19 @@ Here's some of the innovative ways augmented reality in corporate training is al
 
 ### Maintenance repairs
 
-[ThyssenKrupp](https://www.thyssenkruppelevator.com/) leverages the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) to train maintenance crews how to repair elevators while viewing AR digital overlays of manuals and guides.
+[ThyssenKrupp](https://www.thyssenkruppelevator.com/){:target="_blank"} leverages the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens){:target="_blank"} to train maintenance crews how to repair elevators while viewing AR digital overlays of manuals and guides.
 
-The technicians in the field also have the ability to collaborate with remote experts using the technology so offsite workers can see what the engineers are seeing and advise accordingly. An article on [Forbes](http://fortune.com/2017/07/22/augmented-reality-corporate-training/) gives even more examples of this type of AR training.
+The technicians in the field also have the ability to collaborate with remote experts using the technology so offsite workers can see what the engineers are seeing and advise accordingly. An article on [Forbes](http://fortune.com/2017/07/22/augmented-reality-corporate-training/){:target="_blank"} gives even more examples of this type of AR training.
 
 ### Assembly processes
 
-Similarly, at [Boeing](https://www.boeing.com/), AR headsets are used by employees to view each step of the complex assembly process of an aircraft directly in their field of view without having to repeatedly refer to a computer.
+Similarly, at [Boeing](https://www.boeing.com/){:target="_blank"}, AR headsets are used by employees to view each step of the complex assembly process of an aircraft directly in their field of view without having to repeatedly refer to a computer.
 
 Assembly time has been reduced by 25 percent and reduced the error rate to nearly zero (Kroc, 2017).
 
 ### Diagnostic software
 
-[Medical Surgeon Simulator](https://www.surgeonsim.com/surgeon-simulator/) CPR allows users to go online and download their software to practice diagnoses on patients.
+[Medical Surgeon Simulator](https://www.surgeonsim.com/surgeon-simulator/){:target="_blank"} CPR allows users to go online and download their software to practice diagnoses on patients.
 
 The software is used in conjunction with a webcam that recognizes the symptoms of a patient and then displays related video on the user’s computer screen. If the user moves the webcam over a patient and his or her symptoms, the 3-D figure on the screen will provide suggested actions to treat possible ailments.
 
@@ -141,18 +141,18 @@ AR unlocks the potential to put medical professionals in situations otherwise di
 
 ### Healthcare assistant
 
-[AccuVein](https://www.accuvein.com/home/) is an AR handheld device that allows nurses and doctors to scan a patient’s body to make a vein appear visible.
+[AccuVein](https://www.accuvein.com/home/){:target="_blank"} is an AR handheld device that allows nurses and doctors to scan a patient’s body to make a vein appear visible.
 
 According to a study presented at the Infusion Nurses Society Conference, there was a 45 percent reduction in escalation calls following the deployment of this AR device. Plus, 81 percent of nurses reported that using AccuVein resulted in an improved ability to cannulate (the procedure to introduce a thin tube into a vein) (Ismail, 2018).
 
 ### Automotive overlay
 
-[Bosch Auto Parts](https://www.boschautoparts.com/en/news/quarterly-news/first-qtr-2017/augmented-reality) created their own AR platform called CAP to provide a composite view of intricate automotive parts.
+[Bosch Auto Parts](https://www.boschautoparts.com/en/news/quarterly-news/first-qtr-2017/augmented-reality){:target="_blank"} created their own AR platform called CAP to provide a composite view of intricate automotive parts.
 Using a mobile device to view CAP, the technician can view useful additional information with detailed explanations, pictures, and drawings overlaid on top of the live image of a part.
 
 ### [Soft skills training](/blog/train-for-soft-skills/)
 
-Finally, one of the more interesting augmented reality in corporate training examples is from [Arcane Technologies](https://www.arcane-technologies.com/). They've developed an AR head-mounted display for training sales and project management personnel on decision-making skills.
+Finally, one of the more interesting augmented reality in corporate training examples is from [Arcane Technologies](https://www.arcane-technologies.com/){:target="_blank"}. They've developed an AR head-mounted display for training sales and project management personnel on decision-making skills.
 
 The ability to superimpose virtual objects on the real world while undergoing a complex project has been shown to be a huge help for salespeople and their customers while developing their decision-making skills. Same goes for engineers, designers, and other professions where team-work and decision-making come into play. AR has the innate ability to visualize abstract ideas in concrete ways to plans and designs more real (Faldi, 2018).
 
@@ -187,10 +187,9 @@ Thought leaders on the topic believe that AR has already delivered on the promis
 
 Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.com/) specializes in custom solutions specially tailored to your employees’ needs. With a combination of traditional, digital, and mobile-first training options, EdgePoint Learning can help you ready your learning content for a future AR-enabled pathway.
 
-[Contact us today](/contact/) to talk about our custom training solutions!
+[Contact us today](/contact/){:target="_blank"} to talk about our custom training solutions!
 
-[DEV: Add contact button here]
-[DEV: See this post for formatting rest of this article: https://www.edgepointlearning.com/blog/quality-elearning-experiences/]
+[Contact Us](/contact/ ){:class="button"}
 
 ### Quincy Conley
 
@@ -209,25 +208,25 @@ Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.
 * Augmented reality is an always-changing world. Beyond this post, you can learn more about augmented reality in the following studies and articles.
 * Azuma, R. T. (1997). A survey of augmented reality. Presence: Teleoperators and Virtual Environments, 6(4), 355–385.
 * Azuma, R. T., Baillot, Y., Behringer, R., Feiner, S., Julier, S., & MacIntyre, B. (2001). Recent advances in augmented reality. IEEE Computer Graphics and Applications, 21(6), 34–47.
-* Blippar. (2018). Easily create your own interactive augmented reality experiences. Retrieved from [https://www.layar.com/]{:target="_blank"}
+* Blippar. (2018). Easily create your own interactive augmented reality experiences. Retrieved from [https://www.layar.com/](https://www.layar.com/){:target="_blank"}
 * Brodkin, J. (2010). The future of human-computer interaction. Southborough, MA: Emotiv Systems.
 * Cavallaro, R. (1997). The FoxTrax hockey puck tracking system. IEEE Computer Graphics and Applications, 17(2), 6–12.
 * Chang, H.-Y., Wu, H.-K., & Hsu, Y.-S. (2013). Integrating a mobile augmented reality activity to contextualize student learning of a socioscientific issue. British Journal of Educational Technology: Journal of the Council for Educational Technology, 44(3), E95–E99.
-* Conley, Q. (2013). Exploring the impact of varying levels of augmented reality to teach probability and sampling with a mobile device (Doctoral dissertation). Retrieved from [https://search.proquest.com/docview/1475262379]{:target="_blank"}
-* Dell EMC. (2018, August 30). Coming to a workplace near you — Augmented and virtual reality [Web log post]. Retrieved from [https://www.computerworld.com/article/3301879/coming-to-a-workplace-near-you-augmented-and-virtual-reality.html]{:target="_blank"}
-* DisruptHR. (2018, March 7). AR Is already in your workplace, how will HR use it? Talent Management & HR. Retrieved from [https://www.tlnt.com/ar-is-already-in-your-workplace-how-will-hr-use-it/]{:target="_blank"}
-* Eaton, K. (2009). MIT’s Sixth Sense machine makes reality better. Retrieved from [https://www.fastcompany.com/1150913/mits-sixth-sense-machine-makes-reality-better]{:target="_blank"}
-* Faldi, F. (2018, August 27). Augmented reality in the workplace. My TechDecisions. Retrieved from [https://mytechdecisions.com/unified-communications/augmented-reality-in-the-workplace/]{:target="_blank"}
-* Hemming, A. (2019, March 2). AR and VR need to move from what developers like to what consumers want [Web log post]. Retrieved from [https://venturebeat.com/2019/03/02/ar-and-vr-need-to-move-from-what-developers-like-to-what-consumers-want/]{:target="_blank"}
-* Ismail, K. (2018, October 3). 8 augmented reality companies changing the digital workplace [Web log post]. Retrieved from [https://www.cmswire.com/digital-workplace/8-augmented-reality-companies-changing-the-digital-workplace/]{:target="_blank"}
-* Jansen, M. (2018). Escape reality with the best augmented reality apps for Android and iOS. Retrieved from [https://www.digitaltrends.com/mobile/best-augmented-reality-apps/]{:target="_blank"}
+* Conley, Q. (2013). Exploring the impact of varying levels of augmented reality to teach probability and sampling with a mobile device (Doctoral dissertation). Retrieved from [https://search.proquest.com/docview/1475262379](https://search.proquest.com/docview/1475262379){:target="_blank"}
+* Dell EMC. (2018, August 30). Coming to a workplace near you — Augmented and virtual reality [Web log post]. Retrieved from [https://www.computerworld.com/article/3301879/coming-to-a-workplace-near-you-augmented-and-virtual-reality.html](https://www.computerworld.com/article/3301879/coming-to-a-workplace-near-you-augmented-and-virtual-reality.html){:target="_blank"}
+* DisruptHR. (2018, March 7). AR Is already in your workplace, how will HR use it? Talent Management & HR. Retrieved from [https://www.tlnt.com/ar-is-already-in-your-workplace-how-will-hr-use-it/](https://www.tlnt.com/ar-is-already-in-your-workplace-how-will-hr-use-it/){:target="_blank"}
+* Eaton, K. (2009). MIT’s Sixth Sense machine makes reality better. Retrieved from [https://www.fastcompany.com/1150913/mits-sixth-sense-machine-makes-reality-better](https://www.fastcompany.com/1150913/mits-sixth-sense-machine-makes-reality-better){:target="_blank"}
+* Faldi, F. (2018, August 27). Augmented reality in the workplace. My TechDecisions. Retrieved from [https://mytechdecisions.com/unified-communications/augmented-reality-in-the-workplace/](https://mytechdecisions.com/unified-communications/augmented-reality-in-the-workplace/){:target="_blank"}
+* Hemming, A. (2019, March 2). AR and VR need to move from what developers like to what consumers want [Web log post]. Retrieved from [https://venturebeat.com/2019/03/02/ar-and-vr-need-to-move-from-what-developers-like-to-what-consumers-want/](https://venturebeat.com/2019/03/02/ar-and-vr-need-to-move-from-what-developers-like-to-what-consumers-want/){:target="_blank"}
+* Ismail, K. (2018, October 3). 8 augmented reality companies changing the digital workplace [Web log post]. Retrieved from [https://www.cmswire.com/digital-workplace/8-augmented-reality-companies-changing-the-digital-workplace/](https://www.cmswire.com/digital-workplace/8-augmented-reality-companies-changing-the-digital-workplace/){:target="_blank"}
+* Jansen, M. (2018). Escape reality with the best augmented reality apps for Android and iOS. Retrieved from [https://www.digitaltrends.com/mobile/best-augmented-reality-apps/](https://www.digitaltrends.com/mobile/best-augmented-reality-apps/){:target="_blank"}
 * Javornik, A., Kostopoulou, E., Rogers, Y., Fatah gen Schieck, A., Koutsolampros, P., Maria Moutinho, A., & Julier, S. (2019). An experimental study on the role of augmented reality content type in an outdoor site exploration. Behaviour & Information Technology, 38(1), 9–27.
-* Kim, T., Hwang, S., Kim, S., Ahn, H., & Chung, D. (2016). Smart contact lenses for augmented reality and methods of manufacturing and operating the same. U.S. Patent 20160091737:A1. U.S. Patent and Trademark Office. Retrieved from [https://patentimages.storage.googleapis.com/d5/ba/5c/5e8ce33928c19c/US20160091737A1.pdf]{:target="_blank"}
-* Kroc, N. (2017, September 20). Augmented reality comes to the workplace. Society for Human Resource Management. Retrieved from [https://www.shrm.org/hr-today/news/hr-magazine/1017/pages/augmented-reality-comes-to-the-workplace.aspx]{:target="_blank"}
-* Mirt, J. (2018, June 21). 5 ways you can use virtual reality in the workplace Web log post. Retrieved from [https://www.viar360.com/blog/5-ways-can-use-virtual-reality-workplace/]{:target="_blank"}
-* Newman, D. (2016, September 20). Hyper-training and the future augmented reality workplace. Forbes Magazine. Retrieved from [https://www.forbes.com/sites/danielnewman/2016/09/20/hyper-training-and-the-future-augmented-reality-workplace/]{:target="_blank"}
-* Niantic. (2016). Catch Pokémon in the real world with Pokémon GO! Retrieved from [https://www.pokemongo.com/en-us/]{:target="_blank"}
-* Sait, D. (2018, July 12). Study says virtual reality spending will double each tear through 2021. My TechDecisions. Retrieved from [https://mytechdecisions.com/video/study-says-virtual-reality-spending-will-double-each-year-through-2021/]{:target="_blank"}
-* Sharma, T. (2018, April 20). How AR in the workplace can enhance training [Web log post]. Retrieved from [https://www.blippar.com/blog/2018/04/20/how-augmented-reality-workplace-can-enhance-training]{:target="_blank"}
-* Shelton, B. E. (2003). How augmented reality helps students learn dynamic spatial relationships (Doctoral dissertation). Retrieved from [https://search.proquest.com/docview/305274787]{:target="_blank"}
-* Smith, S. L., & Corpuz, J. (2018). Best augmented reality apps. Retrieved from [https://www.tomsguide.com/us/pictures-story/657-best-augmented-reality-apps.html]{:target="_blank"}
+* Kim, T., Hwang, S., Kim, S., Ahn, H., & Chung, D. (2016). Smart contact lenses for augmented reality and methods of manufacturing and operating the same. U.S. Patent 20160091737:A1. U.S. Patent and Trademark Office. Retrieved from [https://patentimages.storage.googleapis.com/d5/ba/5c/5e8ce33928c19c/US20160091737A1.pdf](https://patentimages.storage.googleapis.com/d5/ba/5c/5e8ce33928c19c/US20160091737A1.pdf){:target="_blank"}
+* Kroc, N. (2017, September 20). Augmented reality comes to the workplace. Society for Human Resource Management. Retrieved from [https://www.shrm.org/hr-today/news/hr-magazine/1017/pages/augmented-reality-comes-to-the-workplace.aspx](https://www.shrm.org/hr-today/news/hr-magazine/1017/pages/augmented-reality-comes-to-the-workplace.aspx){:target="_blank"}
+* Mirt, J. (2018, June 21). 5 ways you can use virtual reality in the workplace Web log post. Retrieved from [https://www.viar360.com/blog/5-ways-can-use-virtual-reality-workplace/](https://www.viar360.com/blog/5-ways-can-use-virtual-reality-workplace/){:target="_blank"}
+* Newman, D. (2016, September 20). Hyper-training and the future augmented reality workplace. Forbes Magazine. Retrieved from [https://www.forbes.com/sites/danielnewman/2016/09/20/hyper-training-and-the-future-augmented-reality-workplace/](https://www.forbes.com/sites/danielnewman/2016/09/20/hyper-training-and-the-future-augmented-reality-workplace/){:target="_blank"}
+* Niantic. (2016). Catch Pokémon in the real world with Pokémon GO! Retrieved from [https://www.pokemongo.com/en-us/](https://www.pokemongo.com/en-us/){:target="_blank"}
+* Sait, D. (2018, July 12). Study says virtual reality spending will double each tear through 2021. My TechDecisions. Retrieved from [https://mytechdecisions.com/video/study-says-virtual-reality-spending-will-double-each-year-through-2021/](https://mytechdecisions.com/video/study-says-virtual-reality-spending-will-double-each-year-through-2021/){:target="_blank"}
+* Sharma, T. (2018, April 20). How AR in the workplace can enhance training [Web log post]. Retrieved from [https://www.blippar.com/blog/2018/04/20/how-augmented-reality-workplace-can-enhance-training](https://www.blippar.com/blog/2018/04/20/how-augmented-reality-workplace-can-enhance-training){:target="_blank"}
+* Shelton, B. E. (2003). How augmented reality helps students learn dynamic spatial relationships (Doctoral dissertation). Retrieved from [https://search.proquest.com/docview/305274787](https://search.proquest.com/docview/305274787){:target="_blank"}
+* Smith, S. L., & Corpuz, J. (2018). Best augmented reality apps. Retrieved from [https://www.tomsguide.com/us/pictures-story/657-best-augmented-reality-apps.html](https://www.tomsguide.com/us/pictures-story/657-best-augmented-reality-apps.html){:target="_blank"}
