@@ -191,9 +191,9 @@ Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.
 
 [Contact Us](/contact/ ){:class="button"}
 
+---
 ### Quincy Conley
 
----
 {% asset 'blog/2017/2017-10-16-quincy-conley.jpg'
    alt='Quincy Conley'
    class='float-right thumbnail marginLeft marginTopHalf'
