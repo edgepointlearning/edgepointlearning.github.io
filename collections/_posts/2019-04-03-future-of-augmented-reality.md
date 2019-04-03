@@ -200,7 +200,7 @@ Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.
    magick:resize='300'
    magick:quality='92' %}
 
-*Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and research for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
+*Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and researcher for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
 {: .clearfix }
 ---
 
