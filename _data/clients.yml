@@ -1,15 +1,23 @@
-- logo: abercrombie&fitch.png
 - logo: AKeed.png
-- logo: avisbudgetgroup.png
 - logo: botw-bnpp-default.png
   story: /story/botw/
-- logo: dolby.png
+- logo: cargill.png
+- logo: henryschein.png
+- logo: hershey.png
+- logo: honeywell.png
+- logo: marriott.png
 - logo: molsoncoors.png
   story: /story/molson/
 - logo: nyse.png
 - logo: pepsico-simple.png
-- logo: pnnl.png
-- logo: swca.png
-  story: /story/swca/
-- logo: synopsys.png
-- logo: thomson-reuters.png
+- logo: toshiba.png
+- logo: walgreens.png
+# the following were removed on 2019-04-24
+# - logo: abercrombie&fitch.png
+# - logo: avisbudgetgroup.png
+# - logo: dolby.png
+# - logo: pnnl.png
+# - logo: swca.png
+#   story: /story/swca/
+# - logo: synopsys.png
+# - logo: thomson-reuters.png
