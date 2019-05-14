@@ -96,10 +96,10 @@ Most companies recognize the importance of employee training and want to dive ri
 
 <p class="marginBot">Keep up to date on learning industry news and the latest EdgePoint offerings.</p>
 
-<form accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/d83fbd0779271f1cce2372a977f92bf9" class="infusion-form marginBot" id="inf_form_d83fbd0779271f1cce2372a977f92bf9" method="POST">
+<form accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/d83fbd0779271f1cce2372a977f92bf9" class="infusion-form" id="inf_form_d83fbd0779271f1cce2372a977f92bf9" method="POST">
     <input name="inf_form_xid" type="hidden" value="d83fbd0779271f1cce2372a977f92bf9" />
     <input name="inf_form_name" type="hidden" value="Newsletter Subscribe" />
-    <input name="infusionsoft_version" type="hidden" value="1.69.0.47575" />
+    <input name="infusionsoft_version" type="hidden" value="1.70.0.99309" />
     <div class="infusion-field">
         <label for="inf_field_Email">Email *</label>
         <input class="infusion-field-input" id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
@@ -112,9 +112,12 @@ Most companies recognize the importance of employee training and want to dive ri
         </div>
     </div>
     <div class="infusion-submit">
-        <button type="submit" class="button">Subscribe to Newsletter</button>
+        <button class="infusion-recaptcha" id="recaptcha_d83fbd0779271f1cce2372a977f92bf9" type="submit">Subscribe to Newsletter</button>
     </div>
 </form>
-<script type="text/javascript" src="https://lf225.infusionsoft.com/app/webTracking/getTrackingCode"></script>
+<script type="text/javascript" src="https://lf225.infusionsoft.app/app/webTracking/getTrackingCode"></script>
+<script type="text/javascript" src="https://lf225.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.99309"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
 <script type="text/javascript" src="https://lf225.infusionsoft.com/app/timezone/timezoneInputJs?xid=d83fbd0779271f1cce2372a977f92bf9"></script>
+
 </div>
