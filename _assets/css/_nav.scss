@@ -1,3 +1,4 @@
+// small screens
 .title-bar svg {
   vertical-align: bottom;
   width: 24px;
@@ -8,37 +9,47 @@
     fill: $white;
   }
 }
-
-.nav-logo {
-  a {
-    padding-left: 0;
-  }
-
-  svg {
-    width: 240px;
-    height: 32px;
+// medium-and-up screens
+.navigation-link {
+  font-size: 1.2rem;
+  font-weight: 600;
+  &:hover {
+    color: $black;
   }
 }
-
-.nav-social {
-  .menu .menu-text {
-    font-weight: normal;
-    padding-right: 0;
-    padding-bottom: 13px;
-  }
-
-  .menu a { // li:not(:last-of-type) a {
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: $global-margin;
-  }
-
-  svg {
-    width: 34px;
-    height: 33px;
+.navigation-link--home {
+  margin-top: -0.05em;
+}
+.navigation-link--book-demo {
+  background: $epl-blue;
+  color: $white;
+  margin-left: 0.4em;
+  border-radius: 5px;
+  &:hover {
+    background-color: $black;
+    color: $white;
   }
 }
+.navigation-link--submenu {
+  font-size: 1rem;
+}
 
+.navigation-icon {
+  height: 1.4em;
+  margin-right: 1em;
+  margin-top: -0.1em;
+}
+
+//HACK: foundation dropdown active menu parent styling
+.dropdown.menu > li.is-active > a.navigation-link {
+  color: $black;
+}
+//HACK: foundation dropdown active menu parent arrow styling
+.dropdown.menu > li.is-active > a.navigation-link::after {
+  border-color: $black rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+}
+
+// breadcrumbs
 .nav-pages {
   background-color: $epl-blue;
 
@@ -53,29 +64,5 @@
     a {
       color: $white;
     }
-  }
-}
-
-.pages-topmenuitem a {
-  color: $white;
-  transition: background-color 0.25s ease-out;
-
-  &.active {
-    background-image: asset_url('ui/triangle.svg');
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: 16px 6px;
-  }
-
-  &:hover {
-    background-color: $epl-blue-light;
-  }
-}
-
-.pages-submenuitem a {
-  color: get-color(primary);
-
-  &:hover {
-    color: $white;
   }
 }
