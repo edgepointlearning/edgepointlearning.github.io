@@ -9,10 +9,12 @@
     fill: $white;
   }
 }
+
 // medium-and-up screens
 .navigation-link {
   font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: 700;
+  color: $black;
   &:hover {
     color: $black;
   }
@@ -32,6 +34,10 @@
 }
 .navigation-link--submenu {
   font-size: 1rem;
+  font-weight: 600;
+  &:hover {
+    background-color: $light-gray;
+  }
 }
 
 .navigation-icon {
@@ -44,25 +50,61 @@
 .dropdown.menu > li.is-active > a.navigation-link {
   color: $black;
 }
-//HACK: foundation dropdown active menu parent arrow styling
-.dropdown.menu > li.is-active > a.navigation-link::after {
+//HACK: foundation dropdown arrow styling
+.dropdown.menu > li > a.navigation-link::after {
   border-color: $black rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
 }
+//HACK: foundation dropdown active menu parent arrow styling
+// .dropdown.menu > li.is-active > a.navigation-link::after {
+//   border-color: $black rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+// }
 
-// breadcrumbs
-.nav-pages {
-  background-color: $epl-blue;
+.heroic {
+  background: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.3)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
+  background-position: center center;
+  background-size: cover;
+}
 
-  .grid-container {
-    padding-right: 0;
+.billboard h1 {
+  font-weight: 900;
+  max-width: 12ch;
+  line-height: 1em;
+  margin-top: 1em;
+  @include breakpoint(large) {
+    font-size: 6em;
   }
-
-  .breadcrumbs {
-    margin-left: $global-margin;
-    margin-top: $global-margin * 0.5;
-
-    a {
-      color: $white;
-    }
+}
+.billboard p {
+  margin: 1em 0;
+  font-weight: 600;
+}
+.billboard p.h4 {
+  max-width: 24ch;
+  @include breakpoint(large) {
+    font-size: 2.5em;
+    line-height: 1.1em;
+  }
+}
+.billboard p.h5 {
+  text-align: center;
+}
+.billboard__button {
+  display: block;
+  width: 10em;
+  border-radius: 5px;
+  padding: 0.6em 0.8em;
+  background: $epl-blue;
+  color: $white;
+  &:hover {
+    background: $black;
+    color: $white;
+  }
+}
+.billboard__button--secondary {
+  background: $light-gray;
+  color: $epl-blue;
+  &:hover {
+    background: $epl-off-black;
+    color: $white;
   }
 }
