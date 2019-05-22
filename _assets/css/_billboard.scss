@@ -1,0 +1,45 @@
+.heroic {
+  background: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
+  background-position: center center;
+  background-size: cover;
+}
+.billboard {
+  padding-left: 1em;
+  max-width: $content-maxwidth;
+}
+.billboard__title {
+  font-weight: 900;
+  margin: 1em 0;
+  line-height: 1.1em;
+  font-size: 2.5em;
+  @include breakpoint(large) {
+    font-size: 4em;
+  }
+}
+.billboard__subtitle {
+  font-weight: 600;
+  margin-bottom: 2em;
+  line-height: 1.3em;
+  font-size: 1.5em;
+  @include breakpoint(large) {
+    font-size: 2em;
+  }
+}
+
+.billboard__button {
+  display: block;
+  white-space: nowrap;
+  width: 18ch;
+  border-radius: 5px;
+  padding: 0.6em 0;
+  background: $epl-blue;
+  color: $white;
+  &:hover {
+    background: $black;
+    color: $white;
+  }
+}
+.billboard__button--secondary {
+  background: $white;
+  color: $epl-blue;
+}

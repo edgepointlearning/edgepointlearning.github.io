@@ -1,0 +1,11 @@
+// small screens
+.title-bar svg {
+  vertical-align: bottom;
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+
+  g {
+    fill: $white;
+  }
+}
