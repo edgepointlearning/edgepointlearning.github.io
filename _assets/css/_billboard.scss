@@ -42,4 +42,8 @@
 .billboard__button--secondary {
   background: $white;
   color: $epl-blue;
+  border: 1px solid $epl-blue;
+  &:hover {
+    border: 1px solid $black;
+  }
 }
