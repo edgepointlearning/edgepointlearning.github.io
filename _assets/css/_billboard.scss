@@ -1,13 +1,20 @@
 .heroic {
-  background: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
   background-position: center center;
   background-size: cover;
 }
+.heroic--home {
+  background: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
+}
+.heroic--default {
+  background: transparent;
+}
+
+
 .billboard {
   padding-left: 1em;
   max-width: $content-maxwidth;
 }
-.billboard__title {
+.billboard__headline {
   font-weight: 900;
   margin: 1em 0;
   line-height: 1.1em;
@@ -16,7 +23,7 @@
     font-size: 4em;
   }
 }
-.billboard__subtitle {
+.billboard__tagline {
   font-weight: 600;
   margin-bottom: 2em;
   line-height: 1.3em;
@@ -26,7 +33,7 @@
   }
 }
 
-.billboard__button {
+.billboard__cta {
   display: block;
   white-space: nowrap;
   width: 18ch;
@@ -39,7 +46,7 @@
     color: $white;
   }
 }
-.billboard__button--secondary {
+.billboard__cta--secondary {
   background: $white;
   color: $epl-blue;
   border: 1px solid $epl-blue;

@@ -3,6 +3,8 @@ layout: default
 ---
 {% include post-header-replacement.html %}
 
+{% include nav-breadcrumbs.html %}
+  
 <div class="grid-container">
 
   <div class="grid-x">
@@ -17,7 +19,7 @@ layout: default
       %}
     </div>
   </div>
-
+  
   <h1><a href="{{ page.url }}"> {% if page.h1 %} {{ page.h1 }} {% else %} {{ page.title }} {% endif %} </a></h1>
 
   <div class="grid-x align-justify align-middle meta">

@@ -1,32 +1,19 @@
-<div class="grid-x show-for-medium nav-pages">
-  <div class="cell">
-    <div class="grid-container">
-
-
-      {% if page.layout == 'story' %}
-      <div class="cell show-for-medium">
-        <nav aria-label="You are here:" role="navigation">
-          <ul class="breadcrumbs">
-            <li><a href="/">Home</a></li>
+<div class="grid-container show-for-medium">
+  <div class="grid-x grid-padding-x ">
+    
+    <div class="cell clearfix>
+      <nav aria-label="You are here:" role="navigation">
+        <ul class="breadcrumbs breadcrumbs--epl float-right">
+          <li><a href="/">Home</a></li>
+          {% if page.breadcrumb == true %}
+            <li><a href="/blog/">Blog</a></li>
+          {% elsif page.layout == 'story' %}
             <li><a href="/stories/">Success Stories</a></li>
-            <li><a href="{{ page.url }}"><span class="show-for-sr">Current: </span>{{ page.title }}</a></li>
-          </ul>
-        </nav>
-      </div>
-      {% endif %}
-
-      {% if page.breadcrumb == true %}
-        <div class="cell show-for-mediumer">
-          <nav aria-label="You are here:" role="navigation">
-            <ul class="breadcrumbs">
-              <li><a href="/">Home</a></li>
-              <li><a href="/blog/">Blog</a></li>
-              <li><a href="{{ page.url }}"><span class="show-for-sr">Current: </span>{{ page.title }}</a></li>
-            </ul>
-          </nav>
-        </div>
-      {% endif %}
-
+          {% endif %}
+          <li><a href="{{ page.url }}"><span class="show-for-sr">Current: </span>{{ page.title }}</a></li>
+        </ul>
+      </nav>
     </div>
+  
   </div>
 </div>

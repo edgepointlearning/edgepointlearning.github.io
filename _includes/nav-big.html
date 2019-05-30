@@ -1,5 +1,5 @@
 <div class="grid-container">
-  <div class="heroic">
+  <div class="heroic heroic--{{ page.id }}">
 
     <div class="grid-x grid-padding-y grid-padding-x align-right show-for-medium navigation">
       <div class="cell shrink">
@@ -27,14 +27,7 @@
       </div>  
     </div>
 
-    <div class="grid-x grid-padding-y grid-margin-x grid-padding-x align-center">
-      <div class="cell billboard">
-        <h1 class="h1 billboard__title">Let's make<br> learning fun.</h1>
-        <p class="h2 billboard__subtitle">Employee training made<br> for today's employees.</p>
-        <p class="text-center"><a class="billboard__button" href="/form/demo/">Book Your Demo</a></p>
-        <p class="text-center"><a class="billboard__button billboard__button--secondary" href="/solutions/">How We Help</a></p>
-      </div>
-    </div>
+    {% include billboard.html %}
 
   </div>
 </div>
