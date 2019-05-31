@@ -1,0 +1,24 @@
+{
+  "name": "edgepointlearning.com",
+  "version": "1.0.0",
+  "description": "EdgePoint Learning website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgepointlearning/edgepointlearning.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgepointlearning/edgepointlearning.com/issues"
+  },
+  "homepage": "https://github.com/edgepointlearning/edgepointlearning.com#readme",
+  "devDependencies": {
+    "foundation-sites": "^6.5.3",
+    "jquery": "^3.4.1",
+    "what-input": "^5.2.1"
+  }
+}
