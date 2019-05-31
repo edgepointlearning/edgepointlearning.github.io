@@ -2,6 +2,8 @@
 layout: default
 story: true
 ---
+{% include nav-breadcrumbs.html %}
+
 {% assign solution = site.data.solutions | where:'id', page.solution | first %}
 
 <div class="grid-x hero align-middle align-center">

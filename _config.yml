@@ -71,6 +71,7 @@ defaults :
       path      : '' # an empty string here means all files in the project
     values      :
       layout    : 'page'
+      id        : 'default' #hack for new navigation with hero bg
       cards     :
        - talk
        - solutions
@@ -94,7 +95,7 @@ defaults :
     values      :
       layout    : 'page'
       solution  : true
-      last_modified_at: 2019-01-11T00:00:00-07:00
+      last_modified_at: 2019-05-29T00:00:00-07:00
   -
     scope       :
       type      : 'stories'

@@ -1,0 +1,33 @@
+<div class="grid-container">
+  <div class="heroic heroic--{{ page.id }}">
+
+    <div class="grid-x grid-padding-y grid-padding-x align-right show-for-medium navigation">
+      <div class="cell shrink">
+        <ul class="dropdown menu" data-dropdown-menu>      
+          <li>
+            <a class="navigation__link navigation__link--home" href="/">
+              {% asset 'logo/epl-lettermark.svg' class='navigation-icon' %} 
+              <span>Home</span>
+            </a>
+          </li>  
+          <li>
+            <a class="navigation__link" href="/solutions/">Solutions</a>
+            <ul class="menu">
+              <li><a class="navigation__link navigation__link--submenu" href="/custom-elearning-course-development/">Custom Development</a></li>
+              <li><a class="navigation__link navigation__link--submenu" href="/co-development-services/">Co-Development</a></li>
+              <li><a class="navigation__link navigation__link--submenu" href="/elearning-consulting-services/">Consulting Services</a></li>                
+              <li><a class="navigation__link navigation__link--submenu" href="/delivery-technology/">Delivery Technology</a></li>
+            </ul>
+          </li>
+          <li><a class="navigation__link" href="/about/">About</a></li>
+          <li><a class="navigation__link" href="/blog/">Blog</a></li>
+          <li><a class="navigation__link" href="/contact/">Contact</a></li>
+          <li><a class="navigation__link navigation__link--book-demo" href="/form/demo/">Book Demo</a></li>
+        </ul>
+      </div>  
+    </div>
+
+    {% include billboard.html %}
+
+  </div>
+</div>

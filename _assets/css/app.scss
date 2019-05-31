@@ -2,14 +2,17 @@
   'variables',
   'source-sans-pro',
   'settings',
-  'vendor/foundation/foundation'
+  'foundation/foundation'
 ;
 
 @include foundation-everything;
 
 @import
   'off-canvas',
-  'nav',
+  'nav-small',
+  'nav-big',
+  'nav-breadcrumbs',
+  'billboard',
   'hero',
   'footer',
   'card-cta',
