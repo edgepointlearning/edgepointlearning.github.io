@@ -1,14 +1,13 @@
-.heroic {
-  background-position: center center;
-  background-size: cover;
-}
 .heroic--home {
   background: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
 }
 .heroic--default {
-  background: transparent;
+  // background: transparent;
 }
-
+.heroic {
+  background-position: center center;
+  background-size: cover;
+}
 
 .billboard {
   padding-left: 1em;
