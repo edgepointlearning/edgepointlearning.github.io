@@ -4,7 +4,8 @@ permalink: /blog/
 
 excerpt: "On our eLearning blog, you’ll find informative and actionable insights into the learning industry. Subscribe to get the latest delivered to your inbox."
 
-hero-h1: Always-On eLearning Blog
+headline: Always-On eLearning Blog
+id: blog
 
 pagination:
   enabled: true
@@ -22,9 +23,54 @@ cards:
 ---
 <div class="grid-container">
 
-  <div class="grid-x grid-margin-x grid-padding-x align-center marginTop">
+  <div class="grid-x grid-margin-x grid-padding-x align-center">
     {% for post in paginator.posts %}
-      {% include card-teaser.html %}
+      {% if forloop.index == 1 %}
+        <div class="cell teaser teaser--primary">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="teaser-image">
+            {% asset
+              '{{ post.image }}'
+              magick:resize='1200'
+              magick:quality='92'
+              alt='{{ post.title }}'
+            %}
+            <div class="teaser-text">
+              <h3>{{ post.title }}</h3>
+              <p class="featured">{{ index }} {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
+            </div>
+          </a>
+        </div>
+      {% elsif forloop.index == 2 or forloop.index == 3 %}
+        <div class="cell medium-6 teaser teaser--secondary">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="teaser-image">
+            {% asset
+              '{{ post.image }}'
+              magick:resize='740'
+              magick:quality='90'
+              alt='{{ post.title }}'
+            %}
+            <div class="teaser-text">
+              <h3 class="h5">{{ post.title }}</h3>
+              <p>{{ index }} {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
+            </div>
+          </a>
+        </div>  
+      {% else %}
+        <div class="cell medium-6 large-4 teaser">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="teaser-image">
+            {% asset
+              '{{ post.image }}'
+              magick:resize='570'
+              magick:quality='80'
+              alt='{{ post.title }}'
+            %}
+            <div class="teaser-text">
+              <h3 class="h5">{{ post.title }}</h3>
+              <p>{{ index }} {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
+            </div>
+          </a>
+        </div>  
+      {% endif %}
     {% endfor %}
   </div>
 

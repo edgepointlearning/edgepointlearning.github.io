@@ -1,10 +1,18 @@
 ---
 title: Contact
 permalink: /contact/
-
 excerpt: "EdgePoint Learning delivers custom eLearning solutions that work. Contact us today to learn more about how we can help you meet your business needs."
 
-hero-h1: We'd Love to Hear From You
+id: contact
+
+headline: "Let's talk."
+tagline: "We'd love to<br> hear from you."
+
+cta1: Contact
+cta1-url: "#form"
+
+cta2: Book Your Demo
+cta2-url: /form/demo/
 ---
 <div class="grid-container">
   <div class="grid-x grid-margin-x align-center content">
@@ -17,7 +25,7 @@ hero-h1: We'd Love to Hear From You
     </div>
 
     <div class="cell xlarge-5 xlarge-offset-1 measure">
-      <h2 class="h3 marginBot">Contact Us</h2>
+      <h2 class="h3 marginBot" id="form">Contact Us</h2>
       {% assign form = site.forms | where:"title", "Let's Talk" | first %}
       {{ form.content }}
     </div>
