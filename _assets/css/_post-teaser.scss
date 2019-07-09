@@ -26,7 +26,6 @@
     font-weight: 600;
     padding-bottom: $global-padding * 0.3;
   }
-
   a {
     color: $black;
     height: 100%;
@@ -43,5 +42,24 @@ ul.pagination {
 
   li {
     margin-left: 0;
+  }
+}
+
+.teaser--primary {
+  .teaser-image img {
+    @include breakpoint (medium) {
+      height: 480px;
+    }
+  }
+  .teaser-text p {
+    @include breakpoint (medium) {
+      font-size: 1.2em;
+    }   
+  }
+}
+
+.teaser--secondary .teaser-image img {
+  @include breakpoint (large) {
+    height: 280px;
   }
 }

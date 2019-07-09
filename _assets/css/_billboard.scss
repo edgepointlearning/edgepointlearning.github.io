@@ -1,13 +1,3 @@
-.heroic--home {
-  background: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/heroic-bg-01.jpg magick:resize=1200");
-}
-// .heroic--default {
-//   background: transparent;
-// }
-.heroic {
-  background-position: center center;
-  background-size: cover;
-}
 .billboard {
   padding-left: 1em;
   max-width: map-get($breakpoints, large);
@@ -51,4 +41,49 @@
   &:hover {
     border: 1px solid $black;
   }
+}
+
+.heroic--default {
+  background-image: none;
+} 
+.heroic--home {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-891625526.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center center;
+}
+.heroic--solutions {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-913346608.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center center;
+  .billboard__cta {
+    width: 22ch;
+  }
+}
+.heroic--about {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-614875202.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center top;
+}
+.heroic--blog {
+  .billboard {
+    max-width: 100%;
+  }
+  .billboard__headline {
+    margin: 1em -1*$global-margin $global-margin;
+  }
+}
+.heroic--contact {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-1149693396.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center top;
+}
+.heroic--stories {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-899355378.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center top;
+}
+.heroic--demo {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.9), rgba(255,255,255,0)), asset_url("heroic/GettyImages-825083146.jpg magick:resize=1200");
+  background-size: cover;
+  background-position: center center;
 }
