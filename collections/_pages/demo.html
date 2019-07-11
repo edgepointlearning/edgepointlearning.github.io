@@ -5,6 +5,8 @@ permalink: /form/demo/
 
 id: demo
 
+excerpt: "Ready to learn more about how we can help with your specific training materials or needs? Find our demo library below to see more of our courses in action."
+
 headline: "See our courses<br> in action."
 tagline: "View our library or<br> book a one-on-one demo."
 cta1: Book Your Demo
@@ -13,10 +15,43 @@ cta2: Contact Us
 cta2-url: /contact/
 ---
 <div class="grid-container">
+  <div class="grid-x grid-margin-x grid-margin-y marginTopEM">
+
+    {% assign demos = site.demos | where:'type', 'lifting' %}
+    {% assign sorted-demos = demos | sort:'order' %}
+    {% for demo in sorted-demos %}
+
+      <div class="cell large-4 teaser">
+        <a href="{{ demo.url | prepend: site.baseurl }}">
+          <div class="grid-x">
+            <div class="cell medium-4 large-12 teaser__image">
+              {% asset
+                '{{ demo.thumbnail }}'
+                magick:resize='570'
+                magick:quality='80'
+                alt='{{ demo.title }}'
+              %}
+            </div>
+            <div class="cell medium-8 large-12 teaser__text">
+              <h3 class="h5">{{ demo.title | remove: 'Proper Lifting - '}}</h3>
+              <p>{{ index }} {{ demo.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
+            </div>
+          </div>
+        </a>
+      </div>  
+
+    {% endfor %}
+
+  </div>
+</div>
+
+
+<div class="grid-container">
   <div class="grid-x grid-margin-x content">
     <div class="cell">
+      <h2>Find Your Style</h2>
       <p>At EdgePoint Learning, we transform complex training topics into engaging, interactive eLearning opportunities that are made with today's employees in mind. Want to see more of what we do? Check out our demo videos below.</p>
-      <h2 class="marginTop">Find Your Style</h2>
+      
       <p>Creating learning opportunities is only the beginning of what we can do at EdgePoint. Whether you're looking for a partner for your project, or a team to take on full custom development, we can help.</p>
       <ul>
         <li><a href="/co-development-services/">Co-Development</a></li>
