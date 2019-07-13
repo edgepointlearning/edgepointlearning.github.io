@@ -15,13 +15,24 @@ cta2: Contact Us
 cta2-url: /contact/
 ---
 <div class="grid-container">
+  <div class="grid-x grid-margin-x content">
+    <div class="cell large-4 xlarge-3">
+      <h2>Find Your Style</h2>
+    </div>
+    <div class="cell large-8 xlarge-9">
+      <p>At EdgePoint Learning, we transform complex training topics into engaging, interactive eLearning opportunities that are made with today's employees in mind. Want to see more of what we do? Check out our demo videos below.</p>   
+    </div>
+  </div>
+</div>
+
+<div class="grid-container">
   <div class="grid-x grid-margin-x grid-margin-y marginTopEM">
 
     {% assign demos = site.demos | where:'type', 'lifting' %}
     {% assign sorted-demos = demos | sort:'order' %}
     {% for demo in sorted-demos %}
 
-      <div class="cell large-4 teaser">
+      <div class="cell large-4 teaser teaser--demo">
         <a href="{{ demo.url | prepend: site.baseurl }}">
           <div class="grid-x">
             <div class="cell medium-4 large-12 teaser__image">
@@ -49,9 +60,7 @@ cta2-url: /contact/
 <div class="grid-container">
   <div class="grid-x grid-margin-x content">
     <div class="cell">
-      <h2>Find Your Style</h2>
-      <p>At EdgePoint Learning, we transform complex training topics into engaging, interactive eLearning opportunities that are made with today's employees in mind. Want to see more of what we do? Check out our demo videos below.</p>
-      
+      <h2>Why We're Different</h2>    
       <p>Creating learning opportunities is only the beginning of what we can do at EdgePoint. Whether you're looking for a partner for your project, or a team to take on full custom development, we can help.</p>
       <ul>
         <li><a href="/co-development-services/">Co-Development</a></li>

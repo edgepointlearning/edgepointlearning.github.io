@@ -56,3 +56,28 @@ ul.pagination {
     margin-left: 0;
   }
 }
+
+.teaser--demo {
+  border-radius: 1em;
+  overflow: hidden;
+  .teaser__image {
+    overflow: hidden;
+  }
+  img {
+    transition: all .2s ease-in-out;
+  }
+  &:first-of-type {
+    background: $epl-sky;
+  }
+  &:nth-of-type(2) {
+    background: $epl-yellow;
+  }
+  &:nth-of-type(3) {
+    background: $epl-pink;
+  }
+  &:hover {
+    img {
+      transform: scale(1.1);
+    }
+  }
+}
