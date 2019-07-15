@@ -1,5 +1,25 @@
+$epl-blue: #12529e;
+$epl-blue-dark: #0b315e;
+$epl-blue-light: #186dd2;
+$epl-off-black: #434343;
+$epl-pink: #ffd6d3;
+$epl-yellow:  #fffad3;
+$epl-sky: #cee0f5; 
+
+$content-maxwidth: 670px;
+
+
+// header loop function
+@function headings($from:1, $to:6) {
+    @if $from == $to {
+        @return 'h#{$from}';
+    } @else {
+        @return 'h#{$from},' + headings($from+1, $to);
+    }
+}
+
+
 @import
-  'variables',
   'source-sans-pro',
   'settings',
   'foundation/foundation'
@@ -22,7 +42,7 @@
   'card-client',
   'card-person',
   'card-social',
-  'post-teaser',
+  'teaser',
   'post',
   'content',
   'tweaks',
