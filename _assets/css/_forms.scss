@@ -9,3 +9,10 @@ button.infusion-recaptcha {
 form#inf_form_625576a0d9f5921988dffbbec7438ec0 span.infusion-option {
   display: block;
 }
+
+.content--form {
+  background: $light-gray;
+  border-radius: 1em;
+  border-bottom: 5px solid $medium-gray;
+  padding: $global-padding * 1.5 $global-padding * 2 $global-padding;
+}

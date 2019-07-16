@@ -21,14 +21,21 @@ layout: default
 </div>
 
 
-<div class="grid-container">
+<div class="grid-container marginBot">
   <div class="grid-x align-center content">
+
     <div class="cell">
-
       <h1 class="h2">{{ page.title }}</h1>
-
       {{ content }}
-
     </div>
+
+    {% assign forms = site.forms | where:'is-id', '686' %}
+    {% for form in forms %}
+    <div class="cell medium-8 large-6 content--form marginTop">
+      <h2 class="h3 marginBot">{{ form.title }}</h2>
+      {{ form.content }}
+    </div>  
+    {% endfor %}
+
   </div>
 </div>

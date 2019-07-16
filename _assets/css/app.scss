@@ -8,7 +8,6 @@ $epl-sky: #cee0f5;
 
 $content-maxwidth: 670px;
 
-
 // header loop function
 @function headings($from:1, $to:6) {
     @if $from == $to {
