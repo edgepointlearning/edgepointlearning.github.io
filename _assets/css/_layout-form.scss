@@ -2,7 +2,8 @@
   margin-bottom: 1em;
 }
 
-button.infusion-recaptcha {
+button.infusion-recaptcha,
+div.infusion-submit button {
   @extend .button;
 }
 
@@ -16,3 +17,4 @@ form#inf_form_625576a0d9f5921988dffbbec7438ec0 span.infusion-option {
   border-bottom: 5px solid $medium-gray;
   padding: $global-padding * 1.5 $global-padding * 2 $global-padding;
 }
+
