@@ -1,6 +1,6 @@
 ---
 title: Check Us Out
-infusionsoft id: 686
+is-did: 686
 permalink: /form/demo/
 sitemap: true
 noindex: false
@@ -11,6 +11,7 @@ excerpt: "Ready to learn more about how we can help with your specific training 
 
 headline: "See our courses<br> in action."
 tagline: "View our library or<br> book a one-on-one demo."
+image: heroic/GettyImages-899355378.jpg
 cta1: Book Your Demo
 cta1-url: "#form"
 cta2: Contact Us
@@ -18,12 +19,14 @@ cta2-url: /contact/
 ---
 <div class="grid-container">
   <div class="grid-x grid-margin-x content">
+
     <div class="cell large-4 xlarge-3">
       <h2>Find Your Style</h2>
     </div>
     <div class="cell large-8 xlarge-9">
       <p>At EdgePoint Learning, we transform complex training topics into engaging, interactive eLearning opportunities that are made with today's employees in mind. Want to see more of what we do? Check out our demo videos below.</p>   
     </div>
+
   </div>
 </div>
 
@@ -60,7 +63,8 @@ cta2-url: /contact/
 
 
 <div class="grid-container">
-  <div class="grid-x grid-margin-x content">
+  <div class="grid-x grid-margin-x align-center content">
+
     <div class="cell">
       <h2>Why We're Different</h2>    
       <p>Creating learning opportunities is only the beginning of what we can do at EdgePoint. Whether you're looking for a partner for your project, or a team to take on full custom development, we can help.</p>
@@ -72,75 +76,14 @@ cta2-url: /contact/
       </ul>
       <p>Ready to learn more about how we can help with your specific training materials or needs? Find our demo library below to see more of our courses in action. Our team of eLearning experts is always here to make your job easier, too. Request a free one-on-one demo now and an eLearning specialist will be in touch shortly!</p>
     </div>
-  </div>
-</div>
 
+    {% assign forms = site.forms | where:'is-id', '686' %}
+    {% for form in forms %}
+    <div class="cell medium-8 large-6 content--form marginTop">
+      <h2 class="h3 marginBot">{{ form.title }}</h2>
+      {{ form.content }}
+    </div>  
+    {% endfor %}
 
-<div class="grid-container">
-  <div class="grid-x align-center content">
-    <div class="cell medium-8 large-6">
-
-      <h2 class="marginTop marginBot" id="form">Request A Demo</h2>
-
-      <form accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/625576a0d9f5921988dffbbec7438ec0" class="infusion-form" id="inf_form_625576a0d9f5921988dffbbec7438ec0" method="POST">
-          <input name="inf_form_xid" type="hidden" value="625576a0d9f5921988dffbbec7438ec0" />
-          <input name="inf_form_name" type="hidden" value="Demo Request Form" />
-          <input name="infusionsoft_version" type="hidden" value="1.70.0.99309" />
-          <div class="infusion-field">
-              <label for="inf_field_FirstName">First Name *</label>
-              <input class="infusion-field-input" id="inf_field_FirstName" name="inf_field_FirstName" placeholder="First Name *" type="text" />
-          </div>
-          <div class="infusion-field">
-              <label for="inf_field_LastName">Last Name *</label>
-              <input class="infusion-field-input" id="inf_field_LastName" name="inf_field_LastName" placeholder="Last Name *" type="text" />
-          </div>
-          <div class="infusion-field">
-              <label for="inf_field_Email">Email *</label>
-              <input class="infusion-field-input" id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
-          </div>
-          <div class="infusion-field">
-              <label for="inf_option_Pleaseselectademo">Please select a demo *</label>
-              <div class="infusion-radio">
-                  <div class="options-container">
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1414" name="inf_option_Pleaseselectademo" type="radio" value="1414" />
-                          <label for="inf_option_Pleaseselectademo_1414">Compliance and Regulatory</label>
-                      </span>
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1416" name="inf_option_Pleaseselectademo" type="radio" value="1416" />
-                          <label for="inf_option_Pleaseselectademo_1416">Customer Service</label>
-                      </span>
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1420" name="inf_option_Pleaseselectademo" type="radio" value="1420" />
-                          <label for="inf_option_Pleaseselectademo_1420">New Employee On-Boarding</label>
-                      </span>
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1422" name="inf_option_Pleaseselectademo" type="radio" value="1422" />
-                          <label for="inf_option_Pleaseselectademo_1422">New Process &amp; System Rollout</label>
-                      </span>
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1424" name="inf_option_Pleaseselectademo" type="radio" value="1424" />
-                          <label for="inf_option_Pleaseselectademo_1424">Product Education &amp; Sales</label>
-                      </span>
-                      <span class="infusion-option">
-                          <input id="inf_option_Pleaseselectademo_1426" name="inf_option_Pleaseselectademo" type="radio" value="1426" />
-                          <label for="inf_option_Pleaseselectademo_1426">Professional Development</label>
-                      </span>
-                  </div>
-              </div>
-          </div>
-          <div>
-              <div>&nbsp;</div>
-          </div>
-          <div class="infusion-submit">
-              <button class="infusion-recaptcha" id="recaptcha_625576a0d9f5921988dffbbec7438ec0" type="submit">Submit</button>
-          </div>
-      </form>
-      <script type="text/javascript" src="https://lf225.infusionsoft.app/app/webTracking/getTrackingCode"></script>
-      <script type="text/javascript" src="https://lf225.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.99309"></script>
-      <script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
-      <script type="text/javascript" src="https://lf225.infusionsoft.com/app/timezone/timezoneInputJs?xid=625576a0d9f5921988dffbbec7438ec0"></script>
-
-    </div>
   </div>
 </div>

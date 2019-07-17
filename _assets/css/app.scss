@@ -8,7 +8,6 @@ $epl-sky: #cee0f5;
 
 $content-maxwidth: 670px;
 
-
 // header loop function
 @function headings($from:1, $to:6) {
     @if $from == $to {
@@ -20,7 +19,7 @@ $content-maxwidth: 670px;
 
 
 @import
-  'source-sans-pro',
+  'font',
   'settings',
   'foundation/foundation'
 ;
@@ -28,25 +27,29 @@ $content-maxwidth: 670px;
 @include foundation-everything;
 
 @import
-  'off-canvas',
-  'nav-small',
-  'nav-big',
-  'nav-breadcrumbs',
-  'billboard',
-  'hero',
-  'footer',
-  'card-cta',
-  'card-home-sample',
-  'card-solution',
-  'card-story',
-  'card-client',
-  'card-person',
-  'card-social',
-  'teaser',
-  'post',
-  'content',
-  'tweaks',
-  'forms',
-  'share',
-  'demo'
-;
+'card-client',
+'card-cta',
+'card-home-sample',
+'card-person',
+'card-social',
+'card-solution',
+'card-story',
+'card-teaser',
+
+'content',
+
+'include-billboard',
+'include-footer',
+'include-hero',
+'include-share',
+
+'layout-demo',
+'layout-form',
+'layout-post',
+
+'nav-big',
+'nav-breadcrumbs',
+'nav-off-canvas',
+'nav-small',
+
+'tweaks';

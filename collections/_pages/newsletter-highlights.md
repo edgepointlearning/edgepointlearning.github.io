@@ -91,31 +91,11 @@ We have all been there, trudging into a boardroom for a three-day conference on 
 Most companies recognize the importance of employee training and want to dive right in. While this enthusiasm is great, it skips a crucial step. Conducting a training needs analysis (TNA) is the first step to developing a successful training program. [Read more here.](/blog/training-needs-analysis/)
 {: .marginBot }
 
-<div class="pillar marginTop" style="padding-top: 0.8em">
-<h2>Hungry For Ideas & News? Subscribe Now!</h2>
-
-<p class="marginBot">Keep up to date on learning industry news and the latest EdgePoint offerings.</p>
-
-<form accept-charset="UTF-8" action="https://lf225.infusionsoft.com/app/form/process/d83fbd0779271f1cce2372a977f92bf9" class="infusion-form" id="inf_form_d83fbd0779271f1cce2372a977f92bf9" method="POST">
-    <input name="inf_form_xid" type="hidden" value="d83fbd0779271f1cce2372a977f92bf9" />
-    <input name="inf_form_name" type="hidden" value="Newsletter Subscribe" />
-    <input name="infusionsoft_version" type="hidden" value="1.70.0.108776" />
-    <div class="infusion-field">
-        <label for="inf_field_Email">Email *</label>
-        <input class="infusion-field-input" id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
-    </div>
-    <div>
-        <div class="text">
-                    <div class="text" contentid="paragraph">
-                        <div> </div>
-                    </div>
-        </div>
-    </div>
-    <div class="infusion-submit">
-        <button type="submit">Subscribe to Newsletter</button>
-    </div>
-</form>
-<script type="text/javascript" src="https://lf225.infusionsoft.app/app/webTracking/getTrackingCode"></script>
-<script type="text/javascript" src="https://lf225.infusionsoft.com/app/timezone/timezoneInputJs?xid=d83fbd0779271f1cce2372a977f92bf9"></script>
-
+<div class="pillar marginTop">
+  {% assign forms = site.forms | where:'is-id', '547' %}
+  {% for form in forms %}
+    <h2 style="margin-top:0.2em">{{ form.title }}</h2>
+    <p class="marginBot marginTop">{{ form.intro }}</p>
+    {{ form.content }}
+  {% endfor %}
 </div>

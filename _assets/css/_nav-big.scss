@@ -15,12 +15,9 @@
   margin-top: -0.05em;
 }
 .navigation__link--book-demo {
-  background: $epl-blue;
   color: $white;
   margin-left: 0.4em;
-  border-radius: 5px;
   &:hover {
-    background-color: $black;
     color: $white;
   }
 }

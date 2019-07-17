@@ -25,14 +25,7 @@
   display: block;
   white-space: nowrap;
   width: 18ch;
-  border-radius: 5px;
-  padding: 0.6em 0;
-  background: $epl-blue;
-  color: $white;
-  &:hover {
-    background: $black;
-    color: $white;
-  }
+  font-size: inherit;
 }
 .billboard__cta--secondary {
   background: $white;

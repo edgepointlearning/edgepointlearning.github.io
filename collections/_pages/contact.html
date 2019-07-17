@@ -8,6 +8,7 @@ id: contact
 headline: "Let's talk."
 tagline: "We'd love to<br> hear from you."
 
+image: heroic/GettyImages-1149693396.jpg
 cta1: Contact
 cta1-url: "#form"
 
@@ -24,9 +25,9 @@ cta2-url: /form/demo/
       <p>We look forward to hearing from you with any questions you have or to talk about how EdgePoint Learning can support your organization in its training efforts.</p>
     </div>
 
-    <div class="cell xlarge-5 xlarge-offset-1 measure">
-      <h2 class="h3 marginBot" id="form">Contact Us</h2>
-      {% assign form = site.forms | where:"title", "Let's Talk" | first %}
+    <div class="cell xlarge-5 xlarge-offset-1 measure content--form">
+      {% assign form = site.forms | where:"is-id", "688" | first %}
+      <h2 class="h3 marginBot" id="form">{{ form.title }}</h2>
       {{ form.content }}
     </div>
 
