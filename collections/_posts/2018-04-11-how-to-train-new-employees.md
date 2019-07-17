@@ -27,8 +27,10 @@ The difference? Managers who know how to train new employees effectively.
 Developing a solid new hire training program is an important management skill. More than just showing new employees where the coffee maker is and how to get their parking permit, training new employees procedures helps employees settle into the rhythm of the company to focus on the most important thing: their job.
 
 {% asset 'blog/2018/2018-04-11-how-to-train-new-employees-infographic.jpg'
-   alt='How To Train New Employees Effectively'
-   class='marginTop marginBot' %}
+  alt='How To Train New Employees Effectively'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
 {: .wideImage }
 
 ### 1. Put together new employee procedures

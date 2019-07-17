@@ -28,8 +28,10 @@ Information security training (infosec training) can help mitigate this exposure
 Creating an effective cyber security training for employees starts at the top, is meaningful, just-in-time, and ongoing. Here are ten tips to help you get there.
 
 {% asset 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
-   alt='Cyber Security Training Infographic'
-   class='marginTop marginBot' %}
+  alt='Cyber Security Training Infographic'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
 {: .wideImage }
 
 ### 1. Get executive buy-in

@@ -5,18 +5,15 @@ author:
   name: Tyler Campbell
 image: blog/2014/2014-01-01-dog-face.jpg
 excerpt: This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page. This text shows up in search engines and on the blog listings page.
-date: 2025-01-02
+date: 2025-01-01
 related: false
 redirect_from: "/blog/2001/01/01/sample-post"
 ---
-
 ## Howdy! (This is an H2. Don't use H1.)
 
-This is an example blog post that shows several types of HTML content supported in this theme. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.
+This is an example blog post that shows several types of HTML content supported in this theme.
 
 ## Images
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ### Wide images are 1170px wide
 
@@ -27,8 +24,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
    magick:quality='92' %}
 {: .wideImage }
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ### Normal images are 670px wide
 
 {% asset 'blog/2014/2014-01-01-pink-chrysanthemum.jpg'
@@ -38,8 +33,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
    magick:resize='670'
    magick:quality='92' %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ### Smaller images can be floated
 
 {% asset 'blog/2014/2014-01-01-a-bouquet-of-nutrition.jpg'
@@ -48,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
    magick:resize='240'
    magick:quality='92' %}
 
-**Don't forget to add a `.clearfix` class to the following paragraph or block element!** Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Don't forget to add a `.clearfix` class to the paragraph or block element that follows a floated image!** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {: .clearfix }
 
 {% asset 'blog/2014/2014-01-01-lemon.jpg'
@@ -57,20 +50,18 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
    magick:resize='240'
    magick:quality='92' %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+**Don't forget to add a `.clearfix` class to the paragraph or block element that follows a floated image!** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {: .clearfix }
 
 
 ## Embeds
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+### Wide
 <div class="responsive-embed widescreen marginBot marginTop">
   <iframe src="https://player.vimeo.com/video/229428936" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
+## Normal
 <div class="responsive-embed">
   <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
