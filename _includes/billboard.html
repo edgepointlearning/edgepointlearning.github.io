@@ -3,8 +3,8 @@
     <div class="cell billboard">
       <h1 class="h1 billboard__headline">{{ page.headline }}</h1>
       {% if page.tagline %}<p class="h2 billboard__tagline">{{ page.tagline }}</p>{% endif %}
-      {% if page.cta1 %}<p class="text-center"><a class="billboard__cta" href="{{ page.cta1-url }}">{{ page.cta1 }}</a></p>{% endif %}
-      {% if page.cta2 %}<p class="text-center"><a class="billboard__cta billboard__cta--secondary" href="{{ page.cta2-url }}">{{ page.cta2 }}</a></p>{% endif %}
+      {% if page.cta1 %}<p class="text-center"><a class="button billboard__cta" href="{{ page.cta1-url }}">{{ page.cta1 }}</a></p>{% endif %}
+      {% if page.cta2 %}<p class="text-center"><a class="button billboard__cta billboard__cta--secondary" href="{{ page.cta2-url }}">{{ page.cta2 }}</a></p>{% endif %}
     </div>
   </div>
 {% endif %}
