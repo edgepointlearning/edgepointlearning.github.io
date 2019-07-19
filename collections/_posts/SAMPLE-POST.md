@@ -93,7 +93,7 @@ This paragraph has an ID, a Title, and a class applied to it.
 
 ### Inline Attributes
 
-This is *red*{: style="color: red"}.
+This is *red*{: style="color: red"} but only that one word.
 
 ### Abbreviations:
 
