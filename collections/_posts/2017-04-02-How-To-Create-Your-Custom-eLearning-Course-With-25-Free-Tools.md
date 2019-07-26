@@ -98,7 +98,7 @@ Surveys, polls, quizzes, and other assessment tools can help you ensure student 
 A few leading authoring tools provide free options for creating your own custom eLearning course. Many provide all the tools you need to create screens, add graphics or video, include interactions, and ultimately compile your course.
 
 +  [CourseLab](http://www.courselab.com/view_doc.html?mode=home){:target="_blank"}: Provides an easy-to-use eLearning authoring tool with both paid and free options
-+  [iSpring](http://www.ispringsolutions.com/free-elearning-suite){:target="_blank"}: Take your current PowerPoint presentations, add quizzes, and publish directly to your LMS or other content management system.
++  [iSpring](https://www.ispringsolutions.com/ispring-free){:target="_blank"}: Take your current PowerPoint presentations, add quizzes, and publish directly to your LMS or other content management system.
 +  [Easygenerator](https://www.easygenerator.com){:target="_blank"}: Their free option allows you to create up to ten courses, with pre-packaged interactions and cloud publishing
 +  [SmartBuilder](http://www.smartbuilder.com/){:target="_blank"}: Create Flash eLearning courses within their easy-to-use interface
 +  [Udutu](http://www.udutu.com/){:target="_blank"}: Access templates, assessments, interactions, and SCORM conversion options on their free eLearning platform
