@@ -46,7 +46,7 @@ Each company might have a different answer to this complex question, but in gene
 
 Here are 11 suggestions for engaging and thoughtful leadership building activities.
 
-{% asset '2019-08-14-leadership-training-activities-for-employees.png'
+{% asset 'blog/2019/2019-08-14-leadership-training-activities-for-employees.png'
   alt='Quality Leadership'
   class='marginTop marginBot'
   magick:resize='1170'
