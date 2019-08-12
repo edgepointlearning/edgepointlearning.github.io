@@ -1,10 +1,10 @@
 ---
-title: "How To Create LGBTQ Diversity Training That Promotes Equality"
+title: "11 Powerful Leadership Training Activities For Employees For 2019"
 permalink: /blog/leadership-training-activities-for-employees/
 author:
   name: Michael Hansen
 image: blog/2019/2019-08-14-leadership-training-activities-for-employees.jpg
-excerpt: Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives. 
+excerpt: Leadership training for employees can be engaging, thought-provoking, and truly productive when it comes to building teams. Here's how. 
 related: false
 ---
 
