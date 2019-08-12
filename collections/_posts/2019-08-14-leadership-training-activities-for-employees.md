@@ -8,7 +8,7 @@ excerpt: Leadership training for employees can be engaging, thought-provoking, a
 related: false
 ---
 
-Leadership training for employees can be engaging, thought-provoking, and truly productive. Here's how.{:.lead}
+#### Leadership training for employees can be engaging, thought-provoking, and truly productive. Here's how.
 
 Few things in business are more guaranteed to produce groans than ice-breaking or team-building activities. Why? Because most of these feel forced and inauthentic, placing employees in uncomfortable situations with strangers and forcing them to make the best of it. What happens is that people are on their best behavior, ice remains firmly in place, and your teams are no stronger than before. But it doesn’t have to be that way. Leadership training for employees can be engaging, thought-provoking, and truly productive when it comes to building teams. Here's how. 
 
