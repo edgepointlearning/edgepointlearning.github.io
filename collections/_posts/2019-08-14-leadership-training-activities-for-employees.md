@@ -16,7 +16,7 @@ Few things in business are more guaranteed to produce groans than ice-breaking o
 
 Maybe you have focused on leadership training for your management teams alone, or maybe your new hires came fully equipped with comprehensive management skills that didn’t require new training. But have you considered leadership building activities for all employees?
 
-[Consider the following benefits](https://www.hrdconnect.com/2017/08/17/advantages-of-leadership-training-for-employees-and-impact-on-employee-engagement/).
+[Consider the following benefits](https://www.hrdconnect.com/2017/08/17/advantages-of-leadership-training-for-employees-and-impact-on-employee-engagement/){:target="_blank"}.
 
 ### Leadership training promotes more engagement
 
@@ -53,7 +53,7 @@ Here are 11 suggestions for engaging and thoughtful leadership building activiti
   magick:quality='92' %}
 {: .wideImage }
 
-### 1. [Simple icebreaking questions](https://museumhack.com/list-icebreakers-questions/)
+### 1. [Simple icebreaking questions](https://museumhack.com/list-icebreakers-questions/){:target="_blank"}
 
 For the number of employees you have, write a list of questions that are light-hearted but potentially revealing. Have employees randomly pick a number and answer the question that corresponds. Examples include:
 
@@ -98,13 +98,13 @@ Working in teams, employees begin to develop a plan to implement the idea. Think
 
 ### 8. Explore virtual reality (VR)
 
-In everything from [surgical training](https://jnjinstitute.com/news/introducing-global-virtual-reality-training-surgeons-and-nurses) to [car design](https://www.cnbc.com/2019/05/08/ford-designers-using-virtual-reality-to-work-with-colleagues-remotely.html) to [accident damage assessment](https://www.farmers.com/news/2017/farmers-insurance-pioneers-innovative-virtual-reality-training-program-for-claims-representatives/), virtual reality is a leadership training activity that helps not only strengthen current leadership but also identify and develop potential leaders among your employees. For example, [Wal-Mart](http://edg.pt/XKndOB) recently used VR technology to identify new leaders within their stores.
+In everything from [surgical training](https://jnjinstitute.com/news/introducing-global-virtual-reality-training-surgeons-and-nurses){:target="_blank"} to [car design](https://www.cnbc.com/2019/05/08/ford-designers-using-virtual-reality-to-work-with-colleagues-remotely.html){:target="_blank"} to [accident damage assessment](https://www.farmers.com/news/2017/farmers-insurance-pioneers-innovative-virtual-reality-training-program-for-claims-representatives/){:target="_blank"}, virtual reality is a leadership training activity that helps not only strengthen current leadership but also identify and develop potential leaders among your employees. For example, [Wal-Mart](http://edg.pt/XKndOB){:target="_blank"} recently used VR technology to identify new leaders within their stores.
 
 What happens in the headset will be different depending on your industry, but VR can build a variety of leadership skills (and assess training progress at the same time).
 
 ### 9. Use augmented reality (AR)
 
-Remember [Pokémon Go](https://www.cinemablend.com/games/1533430/what-is-pokemon-go-and-why-is-it-such-a-big-deal)? When this [augmented reality](blog/future-of-augmented-reality/) (AR) app came out in 2016 it was hard to avoid people stopped in the middle of the sidewalk, capturing a Pokémon with their mobile device. 
+Remember [Pokémon Go](https://www.cinemablend.com/games/1533430/what-is-pokemon-go-and-why-is-it-such-a-big-deal){:target="_blank"}? When this [augmented reality](blog/future-of-augmented-reality/) (AR) app came out in 2016 it was hard to avoid people stopped in the middle of the sidewalk, capturing a Pokémon with their mobile device. 
 
 AR leadership exercises could include things like a competition for teams to locate defined targets (e.g., examples of new codes in action or a properly assembled piece of equipment). AR uses GPS locations, just like [geofencing](/blog/geofencing/) does, so whenever the whole team is together the target can send a push notification to their devices. 
 
@@ -118,7 +118,7 @@ Just like gamers the world over play World of Warcraft together online, so, too,
 
 This one takes some planning but can be a great way to promote teamwork (and help employees get to know each other). Set up landmarks to visit and items to “gather” (real or virtually), and offer prizes upon completion. 
 
-Your [scavenger hunt](http://scavenger-hunt.org/funny-scavenger-hunt-list/) need not be related to your industry. This is really a way for teams to work together and get to know one another in a relaxed atmosphere.
+Your [scavenger hunt](http://scavenger-hunt.org/funny-scavenger-hunt-list/){:target="_blank"} need not be related to your industry. This is really a way for teams to work together and get to know one another in a relaxed atmosphere.
 
 ## Suggestions for success
 
