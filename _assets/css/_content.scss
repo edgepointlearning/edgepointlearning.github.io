@@ -43,10 +43,10 @@
   }
 
   .featured-text {
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 500;
     @include breakpoint(mediumer) {
-      font-size: 21px;
+      font-size: 26px;
     }
   }
 
