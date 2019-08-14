@@ -41,6 +41,43 @@
   li a {
     font-weight: bold;
   }
+
+  .featured-text {
+    font-size: 21px;
+    font-weight: 500;
+    @include breakpoint(mediumer) {
+      font-size: 26px;
+    }
+  }
+
+  .fancy-text {
+    font-size: 19px;
+    background: #f9f9f9;
+    border-left: 10px solid $epl-sky;
+    margin: 1.5em auto;
+    padding: 0 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+    padding: 10px 20px;
+    line-height: 1.4;
+    @include breakpoint(mediumer) {
+      font-size: 24px;
+    }
+  }
+
+  .fancy-quote {
+    @extend .fancy-text;
+    &:before {
+      content: open-quote;
+      display: inline;
+      height: 0;
+      line-height: 0;
+      left: -10px;
+      position: relative;
+      top: 30px;
+      color: $medium-gray;
+      font-size: 3em;
+    }
+  }
 }
 
 .layout-story .content {
