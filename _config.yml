@@ -114,6 +114,7 @@ defaults :
       noindex   : true
       sitemap   : false
       cards     : no
+      newsletterfooter: false
   -
     scope       :
       type      : demos
@@ -124,6 +125,7 @@ defaults :
       cards     :
        - solutions
        - newsletter
+      newsletterfooter: false
   -
     scope       :
       path      : 'static/**/*.pdf'

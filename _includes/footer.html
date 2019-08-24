@@ -27,11 +27,13 @@
   <div class="grid-container">
     <div class="grid-x align-justify">
       <div class="cell medium-6 large-5">
-        <h6>Sign Up for EdgePoint Updates</h6>
-        {% assign forms = site.forms | where:'is-id', '547' %}
-        {% for form in forms %}
-          {{ form.content }}
-        {% endfor %}
+        {% if page.newsletterfooter != false %}
+          <h6>Sign Up for EdgePoint Updates</h6>
+          {% assign forms = site.forms | where:'is-id', '547' %}
+          {% for form in forms %}
+            {{ form.content }}
+          {% endfor %}
+        {% endif %}
       </div>
       <div class="cell medium-shrink">
         <h6>Follow us</h6>
