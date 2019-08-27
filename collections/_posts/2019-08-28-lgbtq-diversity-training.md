@@ -17,9 +17,6 @@ Companies with [powerful and effective diversity training](/blog/types-of-divers
 
 There’s no real argument here for or against diversity training. The fact is that the U.S. and its workforce is more diverse than ever—racially, ethnically, linguistically, sexually, religiously, and also in terms of gender, socio-economic status, age, and physical and mental ability. 
 
-Whether you train for it or not, your employees are diverse. Making sure they feel valued and included is simply the right thing to do.
-{: .fancy-text }
-
 Gender diversity training in the workplace, and LGBTQ diversity training in general, creates a company climate with tremendous benefits. 
 
 Beyond feeling welcomed at work, here are just a few (research-based) benefits of LGBTQ diversity training and diversity training as a whole:
