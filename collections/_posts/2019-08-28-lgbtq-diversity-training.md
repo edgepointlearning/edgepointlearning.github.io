@@ -97,4 +97,4 @@ For remote workplaces, mobile learning ([mLearning](/blog/what-is-mlearning/)) i
 
 <strong>EdgePoint Learning understands the value of developing effective trainings of all kinds. If you need help getting started with LGBTQ diversity training in your workplace, get in touch today.</strong>
 
-This post originally appeared on [eLearning Industry](https://elearningindustry.com/lgbtq-diversity-training-promotes-inclusion-equality-workplace){:target="_blank"}."
+This post originally appeared on [eLearning Industry](https://elearningindustry.com/lgbtq-diversity-training-promotes-inclusion-equality-workplace){:target="_blank"}.
