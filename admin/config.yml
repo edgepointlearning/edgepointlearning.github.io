@@ -26,5 +26,5 @@ collections:
         name: 'author'
         widget: 'object'
         fields:
-          - { label: 'Name', name: 'name', widget: 'text', default: 'Michael Hansen' }
+          - { label: 'Name', name: 'name', widget: 'string', default: 'Michael Hansen' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
