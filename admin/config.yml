@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: netlifycms # Branch to update (optional; defaults to master)
 media_folder: '_assets/images/' 
-public_folder: 'assets/images/'
+public_folder: 'assets/'
 
 collections:
   - name: 'blog'
@@ -18,8 +18,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Permalink:', name: 'permalink', widget: 'string', hint: '/blog/post-title/' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text', hint: 'Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives.' }
+      - { label: 'Permalink:', name: 'permalink', widget: 'string', hint: '/blog/lgbtq-diversity-training/' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string', hint: 'Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives.' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Show Related Posts', name: 'related', widget: 'hidden', default: 'false' }
       - label: 'Author'
