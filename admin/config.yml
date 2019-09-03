@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   branch: netlifycms # Branch to update (optional; defaults to master)
-media_folder: '_assets/images/blog/{{year}}'
+media_folder: '_assets/images/blog/2019' #this will have to be changed in 2020
 
 collections:
   - name: 'blog'
@@ -17,7 +17,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Permalink: /blog/post-title/', name: 'title', widget: 'string' }
+      - { label: 'Permalink:', name: 'title', widget: 'string', default: '/blog/post-title/' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Show Related Posts', name: 'related', widget: 'boolean', default: 'false' }
