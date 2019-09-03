@@ -1,0 +1,26 @@
+# https://www.netlifycms.org/docs/configuration-options/
+backend:
+  name: git-gateway
+  branch: netlifycms # Branch to update (optional; defaults to master)
+media_folder: '_assets/images/blog/{{year}}'
+
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'collections/_posts/'
+    create: true
+    delete: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields: #MISSING AUTHOR
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Permalink: /blog/post-title/', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Featured Image', name: 'image', widget: 'image' }
+      - { label: 'Show Related Posts', name: 'related', widget: 'boolean', default: 'false' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+#author:
+#  name: Michael Hansen
