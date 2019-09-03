@@ -2,7 +2,8 @@
 backend:
   name: git-gateway
   branch: netlifycms # Branch to update (optional; defaults to master)
-media_folder: '_assets/images/blog/2019' #this will have to be changed in 2020
+media_folder: '_assets/images/' 
+public_folder: 'assets/images/'
 
 collections:
   - name: 'blog'
@@ -17,10 +18,13 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Permalink:', name: 'permalink', widget: 'string', default: '/blog/post-title/' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Permalink:', name: 'permalink', widget: 'string', hint: '/blog/post-title/' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text', hint: 'Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives.' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
-      - { label: 'Show Related Posts', name: 'related', widget: 'boolean', default: 'false' }
+      - { label: 'Show Related Posts', name: 'related', widget: 'hidden', default: 'false' }
+      - label: 'Author'
+        name: 'author'
+        widget: 'object'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'text', default: 'Michael Hansen' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-#author:
-#  name: Michael Hansen
