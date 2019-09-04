@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   branch: netlifycms # Branch to update (optional; defaults to master)
-#site_url: https://netlifycms--edgepointlearning.netlify.com/
+site_url: https://netlifycms--edgepointlearning.netlify.com/
 media_folder: '_assets/images/' 
 public_folder: 'assets/'
 
