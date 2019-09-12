@@ -86,6 +86,7 @@ defaults :
       blog      : true
       sharesheet: true
       breadcrumb: true
+      related   : false
       cards     :
        - talk
        - newsletter
