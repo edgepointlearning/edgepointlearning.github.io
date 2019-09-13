@@ -8,9 +8,6 @@ image: blog/2019/2019-09-12-nikki-sample.jpg
 #date: 2019-09-12
 #redirect_from: "/blog/2001/01/01/sample-post"
 ---
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
 Few things in business are more guaranteed to produce groans than ice-breaking or team-building activities. Why? Because most of these feel forced and inauthentic, placing employees in uncomfortable situations with strangers and forcing them to make the best of it.
 {: .featured-text }
 
