@@ -27,12 +27,9 @@
 <meta property="og:site_name" content="{{ site.title }}">
 
 {% if page.image %}
-  <meta property ="og:image" content="{{ site.url }}{{ site.baseurl }}{% asset '{{ page.image }}' @path %}">
-  <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}{% asset '{{ page.image }}' @path %}">
-  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% asset '{{ page.image }}' @path %}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% asset '{{ page.image }}' magick:resize='1200' magick:quality='92' @path %}">
 {% else %}
-  <meta property ="og:image" content="{{ '/static/seo/fbogimage02.jpg' | prepend: site.baseurl | prepend: site.url }}">
-  <meta name="twitter:image" content="{{ '/static/seo/fbogimage02.jpg' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og-image }}">
 {% endif %}
 
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">

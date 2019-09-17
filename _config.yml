@@ -5,6 +5,7 @@ keywords   : "EdgePoint Learning, eLearning, eLearning development company, cust
 color      : '#12529e'
 url        : 'https://www.edgepointlearning.com'
 baseurl    : '' # '/example'
+og-image   : '/static/seo/og-image-02.jpg'
 
 # Plugins & Settings
 plugins :
@@ -60,9 +61,6 @@ collections   :
   demos       :
     output    : true
     permalink : /demo/:path/
-  solutions   :
-    output    : true
-    permalink : /:path/
 
 # Defaults
 defaults :
@@ -90,13 +88,6 @@ defaults :
       cards     :
        - talk
        - newsletter
-  -
-    scope       :
-      type      : 'solutions'
-    values      :
-      layout    : 'page'
-      solution  : true
-      last_modified_at: 2019-05-29T00:00:00-07:00
   -
     scope       :
       type      : 'stories'
