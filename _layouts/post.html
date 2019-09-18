@@ -52,3 +52,25 @@ layout: default
   {% endif %}
 
 </div>
+
+{% if page.previous.url %}
+<div class="grid-container">
+  <div class="grid-x align-center content post-next">
+    <a class="next" href="{{page.previous.url}}">
+      <div class="cell">
+        <h2 class="h5">{{page.previous.title}}</h2>
+        <p>{{ page.previous.excerpt }}<p>
+        <figure>
+          {% asset
+            '{{ page.previous.image }}'
+            alt:'{{ page.previous.title }}'
+            width:'100%'
+            magick:resize='670'
+            magick:quality='92'
+          %}
+        </figure>
+      </div>
+    </a>
+  </div>
+</div>
+{% endif %}
