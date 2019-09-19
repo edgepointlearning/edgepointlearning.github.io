@@ -4,7 +4,7 @@ permalink: /blog/reduce-training-friction/
 author:
   name: Corey Bleich
 image: blog/2018/2018-09-26-reduce-training-friction.jpg
-excerpt: Every employee needs training, but many will unfortunately resist it because of time or other factors. Here's how you can reduce training friction for your employees.
+excerpt: Every employee needs training, but many will unfortunately resist it because of time or other factors. This is how you can reduce training friction for your employees.
 related: false
 ---
 
@@ -14,13 +14,13 @@ Every employee needs training, but many will unfortunately resist it because of 
 
 The push-pull between what executives need their employees to know and how employees respond to different training methods may be a holdover from the early days of corporate training. Unfortunately during this time, too often employees suffered through dull, company-wide training that did not apply to their daily work.
 
-Fast-forward to today when we have multiple training options that can be used when and where employees have the time, but the resistance is sometimes still the same. Is it possible to forget the past and reduce training friction for today’s employees while getting them the training and the tools they need to do their job? We think so.
+Fast-forward to today when we have multiple training options that can be used when and where employees have the time, but the resistance still remains. Is it possible to forget the past and reduce training friction for today’s employees while getting them the training and the tools they need to do their job? We think so.
 
 ## The future of employee training
 
 In his article “[A New Paradigm For Corporate Training: Learning In The Flow of Work](https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/){:target="_blank"},” Josh Bersin traces the evolution of corporate training from slide projectors and CD-ROMs with static information delivered in a sterile conference room to what he refers to as “learning in the flow of work.”
 
-This change began to take shape when Google smashed the idea that only certain expert people had access to information. With the introduction of this powerful search engine, people all over the globe had access to nearly unlimited information.
+This change began to take shape when Google smashed the idea that only certain expert people should have access to information. With the introduction of this powerful search engine, people all over the globe had access to nearly unlimited information.
 
 Bersin points out that this unlimited information intrigued employees and changed their behavior outside of work. He notes:
 
@@ -28,7 +28,7 @@ Bersin points out that this unlimited information intrigued employees and change
 
 ### Always-on learning opportunities
 
-Sites like YouTube and Khan Academy and are learning tools disguised as entertainment. When you want to know how to troubleshoot problems with your drivers on your laptop or design a floorplan for a shed, YouTube has thousands of short videos that can teach you. These videos are relevant, engaging, and straight to the point. The sites are easy to navigate and, because they generate income through engagement (clicks), the goal is to keep people on the site as long as possible.
+Sites like YouTube and Khan Academy are learning tools disguised as entertainment. When you want to know how to troubleshoot problems with your drivers on your laptop or design a floorplan for a shed, YouTube has thousands of short videos that can teach you. These videos are relevant, engaging, and straight to the point. The sites are easy to navigate and, because they generate income through engagement (clicks), the goal is to keep people on the site as long as possible.
 
  Bersin points out that while this approach is great for life outside of work:
 
