@@ -4,7 +4,7 @@ permalink: /blog/customer-service-vendor/
 author:
   name: Brian Oderkirk
 image: blog/2018/2018-01-01-customer-service-vendor.jpg
-excerpt: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon?
+excerpt: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon? How to choose a vendor based on customer service standards.
 related: false
 ---
 
