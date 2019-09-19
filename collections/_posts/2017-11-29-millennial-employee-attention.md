@@ -2,7 +2,7 @@
 title: Capturing Millennial Employee Attention In a World Where We Work from Anywhere
 permalink: /blog/millennial-employee-attention/
 author:
-  name: Brian Oderkirk
+  name: Corey Bleich
 image: blog/2017/2017-11-25-millennial-employee-attention.jpg
 excerpt: You can capture millennial employees' attention by knowing what drives them, what you can learn from them, and how to capture their attention in a world where we work from anywhere.
 related: false
@@ -12,7 +12,7 @@ Millennial employee attention can seem like a moving target. If you believe the 
 
 ## Beyond the stereotypes: What drives millennials?
 
-What motivates millennial employees may not be the same things that drove the Greatest Generation to success, but don’t write them off.
+What motivates millennial employees may not be the same things that drove other generations to success, but don’t write them off.
 
 Millennials may seem like they are more play than work, but that’s just not the case. Millennial employees are all about a different kind of work that is just as productive and important as your dad’s desk job.
 
@@ -28,11 +28,11 @@ This generation of digital natives isn’t satisfied with basic internet surfing
 
 *  Social media networks
 *  Gamified courses
-*  Video – on-demand and interactive
+*  Video, on-demand and interactive
 *  Blogs
 *  Virtual and augmented reality
-*  Mobile learning
-*  Microlearning
+*  [Mobile learning](/blog/what-is-mlearning/){:target="_blank"}
+*  [Microlearning](/blog/types-of-microlearning/){:target="_blank"}
 
 ### Not your parent’s science project: Millennial employees expect group work
 
@@ -69,7 +69,7 @@ Revisit training materials to see if you are making negative assumptions about m
 
 Millennial employees are digital natives. Don’t hand them a 3-ring binder as a training manual unless you want to see it being used as a doorstop.
 
-Keep training tools agile (and earth-friendly) by ditching the binder and making the majority of your employee trainings electronic.
+Keep training tools agile (and earth-friendly) by ditching the binder and making the majority of your employee training electronic.
 
 ### 3. Make life (and corporate training strategies) one big game
 
@@ -88,7 +88,7 @@ mLearning is an electronic training tool that can replace those clunky 3-ring bi
 
 Millennial employees can access this just-in-time training whenever they need a refresher on a procedure.
 
-### 6. Offer learning fosters community
+### 6. Offer learning that fosters community
 
 Sometimes training should feel like going out for a beer with friends.
 
