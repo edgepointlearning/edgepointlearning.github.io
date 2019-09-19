@@ -4,7 +4,7 @@ permalink: /blog/lgbtq-diversity-training/
 author:
   name: Michael Hansen
 image: blog/2019/2019-08-28-lgbtq-diversity-training.jpg
-excerpt: Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives. 
+excerpt: Want to create a more inclusive work enviroment? Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives. 
 related: false
 ---
 
@@ -46,7 +46,7 @@ Inclusion recognizes that diversity of employees ensures a company’s success �
 
 When it comes to LGBTQ employees, inclusion considers factors that many heterosexual or cisgender people take for granted. It encourages inclusion for those across the wide spectrum of sexualities and gender identities. 
 
-For example, some people are born as a biological gender that does not match their gender identity or they may be non-binary. Non-binary employees may [use different pronouns](https://www.theguardian.com/commentisfree/2018/jun/04/gender-neutral-pronouns-they-he-she-why-deny){:target="_blank"} (e.g., they instead of he or she). Denying them the right to do so in the workplace essentially denies their rights as a person. Instead, inclusion respects every employee and encourages meaningful training and conversations about sometimes-complex topics.
+For example, some people are born as a biological gender that does not match their gender identity or they may be non-binary. Non-binary employees may [use different pronouns](https://www.theguardian.com/commentisfree/2018/jun/04/gender-neutral-pronouns-they-he-she-why-deny){:target="_blank"} (e.g., they, instead of he or she). Denying them the right to do so in the workplace essentially denies their rights as a person. Instead, inclusion respects every employee and encourages meaningful training and conversations about sometimes-complex topics.
 
 This is important because employees who experience harassment due to their sexuality or gender identity, or feel like they need to hide who they are at work, experience higher levels of stress that result in missed work and [higher levels of anxiety and other health issues](http://williamsinstitute.law.ucla.edu/wp-content/uploads/Business-Impact-LGBT-Policies-Full-Report-May-2013.pdf){:target="_blank"}. 
 
@@ -54,7 +54,7 @@ While outright racism, homophobia, and sexism may have been banished from most w
 
 ## How to create your LGBTQ diversity training program 
 
-LGBTQ diversity in the workplace is increasing as more companies recognize the value of creating spaces that welcome a full variety of people. 
+LGBTQ diversity in the workplace is increasing as more companies recognize the value of creating spaces that welcome all employees.
 
 It can be challenging to create truly inclusive diversity training, but here are five actionable first steps to start with. 
 
@@ -72,7 +72,7 @@ As part of your [training needs assessment](/blog/training-needs-analysis/), tak
 
 ### 3. Involve LGBTQ employees
 
-Remember those shots of panels of men making decisions about women’s health? Don’t be that company. How can you make decisions, training resources, and policies about something you don’t truly understand? Engage with the LGBTQ employees in your company and meaningfully involve them in the decision-making process.
+Remember those photos of panels of men making decisions about women’s health? Don’t be that company. How can you make decisions, training resources, and policies about something you may not truly understand? Engage with the LGBTQ employees in your company and meaningfully involve them in the decision-making process.
 
 Pro-tip, though: not every employee will want to be involved, for a variety of reasons. Open the opportunity and then allow each employee to decide for themselves. Also, ensure employees receive appropriate compensation and/or time to work on these initiatives. 
 
