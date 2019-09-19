@@ -4,11 +4,11 @@ permalink: /blog/train-for-soft-skills/
 author:
   name: Michael Hansen
 image: blog/2018/2018-10-24-train-for-soft-skills.jpg
-excerpt: Workers with soft skills training are 12% more productive, which translates into a 256% ROI. Here's how you can develop soft skills in the workplace effectively.
+excerpt: Workers with soft skills training are 12% more productive, which translates into a 256% ROI. Here's how to develop soft skills in the workplace effectively.
 related: false
 ---
 
-You know your new hire has the hard technical skills they need to do their job. What remains a mystery is how to combine the practical knowledge they already have with the soft skills they may be lacking, especially if this job is their first or they're transitioning into a new role. As digital natives chiefly accustomed to the online world enter the workforce, soft skills training is more important than ever. Here's how you can develop soft skills in the workplace consistently and effectively.
+You know your new hire has the hard technical skills they need to do their job. What remains a mystery is how to combine the practical knowledge they already have with the soft skills they may be lacking, especially if this is their first job or they're transitioning into a new role. As digital natives chiefly accustomed to the online world enter the workforce, soft skills training is more important than ever. Here's how you can develop soft skills in the workplace consistently and effectively.
 
 ## What are the major soft skill training topics for employees?
 
@@ -35,11 +35,9 @@ In addition to conducting extensive research on the [changing face of workplace 
 
 Thankfully, soft skills are highly trainable. Unlike IQ, which is largely static our whole lives, our emotional intelligence – the ability to learn and apply empathy, organization, and leadership – is malleable. Development of our [emotional intelligence is nearly limitless](https://hbr.org/2013/05/can-you-really-improve-your-em){:target="_blank"}, and it’s crucial for success in every field of business.
 
-Even when two employees’ IQs are different, soft skills can predict which one will learn more, even [beyond the ability predicted by their IQ](http://journals.sagepub.com/doi/abs/10.1177/0956797614535810){:target="_blank"}. While all employees will improve over time and with practice, those with more highly developed soft skills are more likely to exceed their colleagues without them.
+Even when two employees’ IQs are different, soft skills can predict which one will learn more, even [beyond the ability predicted by their IQ](http://journals.sagepub.com/doi/abs/10.1177/0956797614535810){:target="_blank"}. While all employees will improve over time and with practice, those with more highly-developed soft skills are more likely to exceed their colleagues without them.
 
-As more millennials (and the generation behind them) enter the workforce, employers are increasingly concerned with the lack of soft skills in the pool of potential employees.  Many recent college graduates have made it across the stage without ever actually holding a job, even babysitting, dog walking, or car washing.
-
-These crucial first forays into the job market teach people the importance of being on time, organizing their responsibilities, and dealing with people of all ages and from all walks of life. Lacking this early experience, workers in 2018 experience less longevity and stability in their jobs than their counterparts from previous generations.
+As more millennials (and the generation behind them) enter the workforce, employers are increasingly concerned with the lack of soft skills in the pool of potential employees.  Many recent college graduates have made it across the stage without ever actually holding a job, even babysitting, dog walking, or car washing. These crucial first forays into the job market teach people the importance of being on time, organizing their responsibilities, and dealing with people of all ages and from all walks of life. Lacking this early experience, workers may experience less longevity and stability in their jobs than their counterparts from previous generations.
 
 ### The ROI of training for soft skills
 
@@ -79,7 +77,7 @@ Start there. This engages employees and gets them personally invested in the tra
 
 ### 3. Find an excellent and intuitive learning management system (LMS)
 
-Finding [the best LMS for your business](/blog/best-lms-for-small-business/) is crucial. An LMS helps to deliver and track your employee’s learning. The best ones can monitor progress towards your employees’ individual goals (as well as tracking licenses and certifications).
+Finding [the best LMS for your business](/blog/best-lms-for-small-business/) is crucial. An LMS helps to deliver and track your employee’s learning. The best ones can monitor progress towards your employees’ individual goals (as well as [tracking licenses and certifications](/blog/how-to-keep-track-of-training/)).
 
 You don’t need to burden HR with these tasks. Let a learning management system do the heavy lifting when it comes to keeping these types of records.
 
@@ -98,6 +96,6 @@ Offer opportunities for practice and application, with plenty of time for reflec
 
 It can be challenging to start a training program for skills that don’t necessarily have solid lines to define them. If you don’t have much experience developing employee training to begin with, this can make it even harder.
 
-<strong>Don’t wait for soft skills development to occur on its own. At EdgePoint Learning, we can help you get started wherever you are. [Get in touch today!](/contact/)</strong>
+<strong>Don’t wait for soft skills development to occur on its own, though. At EdgePoint Learning, we can help you get started wherever you are. [Get in touch today!](/contact/)</strong>
 
-<em>This post was originally published on [eLearning Industry](https://elearningindustry.com/soft-skills-in-the-workplace-develop-train){:target="_blank"} on October 11.</em>
+<em>This post was originally published on [eLearning Industry](https://elearningindustry.com/soft-skills-in-the-workplace-develop-train){:target="_blank"}.</em>
