@@ -4,11 +4,11 @@ permalink: /blog/ergonomics-training/
 author:
   name: Clint Everton
 image: blog/2019/2019-02-20-ergonomics-training.jpg
-excerpt: "Here’s how to create the best ergonomics training courses for your employees (and why it matters!)."
+excerpt: "Ergonomics goes far beyond watching your posture. This is how to create the best ergonomics training courses for your employees (and why it matters!)."
 related: false
 ---
 
-Ergonomics is sometimes referred to as the science of sitting, but it goes far beyond just watching your posture in your chair. The goal of ergonomics is to adapt the workplace for your employees to keep them healthy, safe, and productive. But not all ergonomics training courses are created equal. Here’s how to create the best ergonomics training course for your employees (and why it matters!).
+Ergonomics is sometimes referred to as the science of sitting, but it goes far beyond watching your posture in your chair. The goal of ergonomics is to adapt the workplace for your employees to keep them healthy, safe, and productive. But not all ergonomics training courses are created equal. Here’s how to create the best ergonomics training course for your employees (and why it matters!).
 
 ## Why is ergonomics training so important?
 
@@ -35,7 +35,7 @@ Even if it's not technically mandatory, consider the following workplace injury 
 * Overexertion injuries (e.g., pushing, lifting, or pulling incorrectly) alone cost almost $14 billion annually
 * MSDs require more time off than other workplace injuries (e.g., trips and falls) and make up more than one-third of all workplace injuries every year
 
-So regardless of whether or not ergonomics training is required, if you want to keep employees healthy, happy, and at work, it’s not optional for your company. Doing so can save your employees from a painful experience and your company from additional health insurance costs.
+So regardless of whether or not ergonomics training is required, if you want to keep your employees healthy, happy, and at work, it’s not optional for your company. Doing so can save your employees from a painful experience and your company from additional health insurance costs.
 
 ## How can I develop ergonomic training that works?
 
@@ -50,7 +50,7 @@ For most companies, a customized approach to ergonomics training begins with a t
 
 ### Run an ergonomic training evaluation
 
-Every great training program starts with a [training needs analysis](/blog/training-needs-analysis/). Your human resources department can give you information on workplace injuries, illness, and workers’ compensation claims that are actually occurring within your company. This is the starting point for your training.
+Every great training program starts with a [training needs analysis](/blog/training-needs-analysis/). Ask your human resources department for information on workplace injuries, illness, and workers’ compensation claims that are actually occurring within your company. This is the starting point for your training.
 
 For example, if workers in your company experience excessive carpal tunnel syndrome and lower back pain, you might want to start by auditing everyone’s work space to see how they are positioning (and using) their bodies all day.
 
@@ -61,14 +61,14 @@ If your company is just starting out, or there are no injuries related to poor e
 You'll need buy-in for ergonomics training from multiple groups across your organization. Before you consider rolling out training to employees, ensure these groups understand their roles and responsibilities both before and after training:
 
 * <strong>Leadership:</strong> Your location's leadership team likely won't be directly involved in planning your ergonomics initiatives, but they should be ready to lead by example to communicate the importance of these training programs.
-* <strong>Your safety team:</strong> These team members have the expert knowledge to act as subject matter experts for your training. Afterwards, they should be ready to work with your facilities staff to respond to any ergonomics issues employees report after training and upgrade processes or areas, as needed.
+* <strong>Your safety team:</strong> These team members have the knowledge to act as subject matter experts for your training. Afterwards, they should be ready to work with your facilities staff to respond to any ergonomics issues employees report after training and upgrade processes or areas, as needed.
 * <strong>Supervisors:</strong> As always, your supervisors are your front line when it comes to employee issues. Equip them with comprehensive ergonomics training before employees receive it, so they can assist employees with adjusting their workspaces, answering questions, and encouraging employees to report any discomfort or pain they're experiencing in the workplace.
 
 Once you have the right people involved, you can move onto actually developing your training program.
 
 ### Consider including these eight topics
 
-Regardless of industry, there are many misconceptions about ergonomics training. Some companies think of it as a blue-collar issue and associate ergonomics with strained backs. Others picture people in suits wearing wrist braces. In truth, it’s all of the above. Whether your employees work in an office or on a job site or both, ergonomics addresses the ways that workers use their bodies to fit their job.
+Regardless of industry, there are many misconceptions about ergonomics training. Some companies think of it as a blue-collar issue and associate ergonomics with strained backs. Others picture people in suits wearing wrist braces. In truth, it’s all of the above and more. Whether your employees work in an office, at home, or on a job site, ergonomics addresses the ways that workers use their bodies to fit their job.
 
 Addressing [specific ergonomics topics](https://www.osha.gov/SLTC/ergonomics/training.html){:target="_blank"} help to make the job better fit the worker. These ergonomics topics might include:
 
@@ -78,7 +78,7 @@ Addressing [specific ergonomics topics](https://www.osha.gov/SLTC/ergonomics/tra
 4. Learning how to sit
 5. Proper lifting techniques
 6. Recognizing symptoms of injury
-7. How to report workplace injuries (your rights and responsibilities)
+7. How to report workplace injuries (rights and responsibilities)
 8. Stretching exercises to relieve strain in the hands, back, neck, shoulders, etc.
 
 These topics have many branches that apply to nearly every industry. Think nurses lifting patients and also using computers at workstations, construction workers who have to fill in reports and paperwork, and data entry workers unpacking deliveries of office supplies. Ergonomics support needs to occur during every part of the day.
@@ -93,9 +93,9 @@ Mobile-first training apps can make that happen. For example, you can:
 * Alert employee phones with [geofencing-enabled notifications](/blog/geofencing/) when they enter a job site to give them important on-the-ground safety reminders
 * Roll out an [interactive training game](/blog/gamification-in-elearning/) that delivers information on proper hand position over a laptop and is designed to correct misalignment while it’s being played
 
-These are just a few examples of the ways in which ergonomics training becomes a daily part of life, not an isolated event. Along with PinPoint, we've developed a [library of microlearning courses](https://www.pinpointworkforce.com/content){:target="_blank"} that were made for today's mobile-first employees. With topics on proper ergonomics to back safety to hearing conservation, these courses are ready to roll out today to your team.
+These are just a few examples of the ways in which ergonomics training becomes a daily part of life, not an isolated event. Together, PinPoint and EdgePoint developed a [library of microlearning courses](https://www.pinpointworkforce.com/content){:target="_blank"} that were made for today's mobile-first employees. With topics on proper ergonomics to back safety to hearing conservation, these courses are ready to roll out today to your team.
 
-<strong>EdgePoint Learning can help you develop an ergonomics training course that works for your company. [Get in touch today](/contact/) for a demo of our ergonomics training options, including mobile-first options.</strong>
+<strong>[Get in touch today](/contact/) for a demo of our ergonomics training options, including mobile-first options.</strong>
 
 ---
 {% asset 'blog/2019/clint-everton.jpg'
