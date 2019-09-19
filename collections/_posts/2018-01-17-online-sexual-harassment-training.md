@@ -7,7 +7,7 @@ image: blog//2018/2018-01-17-online-sexual-harassment-training.jpg
 excerpt: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
 related: false
 ---
-The recent deluge of sexual harassment allegations getting public attention across a wide variety of industries in the U.S. is shining a spotlight on employer responsibility. Many organizations have responded by increasing their offering of sexual harassment trainings, a good first step. But what will ensure the effectiveness of online sexual harassment training after the recent #MeToo movement?
+The recent deluge of sexual harassment allegations getting public attention across a wide variety of industries in the U.S. is shining a spotlight on employer responsibility. Many organizations have responded by increasing their offering of sexual harassment trainings, a good first step. But what will ensure the effectiveness of online sexual harassment training after the #MeToo movement?
 
 ## Who is #MeToo, and what does it all mean?
 
@@ -25,9 +25,9 @@ Effective online anti-harassment training means more than sitting employees in f
 
 With the following seven steps, employers can ensure the design and development of online sexual harassment training that is truly effective:
 
-*  Walk the talk – communicate, and demonstrate, organizational commitment in policy and practice
+*  Walk the talk – communicate and demonstrate organizational commitment in policy and practice
 *  Create the right culture, starting at the top
-*  Consider your audience – managerial responsibilities vs. individual employee awareness
+*  Consider your audience, including managerial responsibilities vs. individual employee awareness
 *  Choose the right format to ensure training that will stick
 *  Provide a safe open door environment for victim and witness reporting
 *  Make online harassment training for employees an ongoing exercise
@@ -47,7 +47,7 @@ It may also be a good time to seek individual employee input. Consider involving
 
 ### Step 2: Create the right culture, and it absolutely has to start at the top
 
-Effective online sexual harassment training is not just about changing behavior –it’s about changing minds.
+Effective online sexual harassment training is not just about changing behavior; it’s about changing minds.
 
 Mindset starts at the top with company executives that believe in the value of all employees, regardless of gender or job. This includes not only telling employees they are valuable but also showing them.
 
@@ -65,9 +65,9 @@ Sexual harassment training for leaders in a company sends a signal that your com
 
 ### Step 3: Consider your audience
 
-Do management training first. Any employee who is responsible for managing or supervising the work of any other employee has a specific personal legal liability to ensure a work environment free from sexual harassment. It is imperative that the company provides specific and separate training for managers so that they know how to behave in order to protect, not only the company, but themselves.
+Do management training first. Any employee who is responsible for managing or supervising the work of any other employee has a specific personal legal liability to ensure a work environment free from sexual harassment. It is imperative that the company provides specific and separate training for managers so that they know how to behave in order to protect not only the company, but themselves.
 
-Regarding individual employee training: it may seem to make sense, from an efficiency standpoint, to roll it out to the entire organization all at once. However, when this happens, your message may be lost on a large group of people. The training may be even more effective if the organization provides the training to smaller employee groups at a given point in time.
+Regarding individual employee training: it may seem to make sense, from an efficiency standpoint, to roll it out to the entire organization all at once. However, when this happens, your message may be lost on a large group of people. Your training may be even more effective if you provide it to smaller employee groups at a given point in time.
 
 This can allow HR to provide more personal attention and support. The goal is to make sure the message is received, which includes offering a method for employees to ask questions (in person or online) and provide personal feedback.
 
@@ -81,7 +81,7 @@ While the intentions behind harassment may be the same, the approach should look
 
 Choosing the right training format to fit the organization is critical. Training is only valuable if it sticks over the long term. What has been proven most effective is small bits of information delivered in a personal way.
 
-[Microlearning](/blog/microlearning) is a way of teaching and delivering content to learners in small, very specific bursts. The learners are in control of what and when they're learning. Microlearning in online sexual harassment training courses can include testimonials of victims of harassment. Use microlearning and online sexual harassment training modules to spell out exactly what harassment is and when a behavior crosses the line.
+[Microlearning](/blog/microlearning) is a way of teaching and delivering content to learners in small, very specific bursts. The learners are in control of what and when they're learning. Microlearning in online sexual harassment training courses can include testimonials from victims of harassment. Use microlearning and online sexual harassment training modules to spell out exactly what harassment is and when a behavior crosses the line.
 
 Also, take advantage of the sexual harassment training to address the broader issue of general employee harassment concerns that are not necessarily sexual in nature. Definitions of harassment also include issues associated with race, age, disability, or national origin. Microlearning can be particularly impactful when expanding into these areas. Put an organizational stake in the ground against “bullying” of any kind in the work environment.
 
@@ -103,7 +103,7 @@ Include it as part of the new hire orientation process. Provide managerial train
 
 ### Step 7: Go beyond compliance and consider customization
 
-ure, employers often post a couple videos and make employees take a quiz to check on their comprehension, but that doesn’t truly change the work environment.
+Sure, employers often post a couple videos and make employees take a quiz to check on their comprehension, but that doesn’t truly change the work environment.
 
 Go beyond mere compliance and design an online sexual harassment training that makes a difference within the organization. Companies whose [employees feel valued and protected](https://www.ft.com/content/6081b1fc-d0b2-11e5-92a1-c5e23ef99c77){:target="_blank"} are more successful. Anti-harassment trainings should reinforce an employee’s worth and value to the organization, not just be one more box to check off.
 
