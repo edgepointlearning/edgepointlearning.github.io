@@ -4,7 +4,7 @@ permalink: /blog/learning-research-2017/
 author:
   name: Corey Bleich
 image: blog/2017/2017-11-27-learning-research-2017.jpg
-excerpt: What we learned about the brain and training.
+excerpt: What we learned about the brain and training in 2017, and how to apply it to your employee learning programs. 
 related: false
 ---
 
@@ -34,7 +34,7 @@ Creative skills that employees bring to work aren’t being tapped as much as th
 
 Research has proven again and again that [poverty has a negative effect](https://www.nature.com/articles/nn.3983){:target="_blank"} on the way a brain develops.
 
-From motor skills to cognitive speed, people raised in low-income families start behind the eight ball when it comes to learning and processing new information. Games can actually help reverse this, [improving attention, efficiency, and visual-spatial skills](https://www.sciencedaily.com/releases/2017/06/170622103824.htm){:target="_blank"}.
+From motor skills to cognitive speed, people raised in low-income families start behind when it comes to learning and processing new information. Games can actually help reverse this, [improving attention, efficiency, and visual-spatial skills](https://www.sciencedaily.com/releases/2017/06/170622103824.htm){:target="_blank"}.
 
 ## 5. Scientists create virtual brain cells in the lab
 
@@ -52,7 +52,7 @@ Eric Schumacher and his team at Georgia Tech found that people who report freque
 
 ## 7. There are no shortcuts to success
 
-Behavioral neuroscience that offers insight into how people make decisions at work can also point out where unethical behavior originates in a company. Recent research from Penn State found that middle management played a [key role in setting the bar for ethics](http://news.psu.edu/story/485920/2017/10/05/research/middle-managers-may-turn-unethical-behavior-face-unrealisticm){:target="_blank"} in their companies.
+Behavioral neuroscience that offers insight into how people make decisions at work can also point out where unethical behavior originates in a company. Research from Penn State found that middle management played a [key role in setting the bar for ethics](http://news.psu.edu/story/485920/2017/10/05/research/middle-managers-may-turn-unethical-behavior-face-unrealisticm){:target="_blank"} in their companies.
 
 When it comes to reaching sales targets and other goals set by upper management, many in the middle of the ladder made moves to preserve their jobs, says Linda Treviño, distinguished professor of organizational behavior and ethics, Smeal College of Business, Penn State:
 
@@ -104,7 +104,7 @@ Now more than ever, faster (and deeper) learning is needed for your employees. S
 *  Improve outreach and growth efforts with middle managers, encouraging them to prioritize ethics over sales targets and goals
 *  Focus on innovation and creativity in your training to encourage widespread organizational growth
 
-<strong>What other insights did you pull from these studies, and how can you see them being applicable to your workforce?</strong>
+<strong>What other insights did you pull from these studies, and how can you see them being applicable to your workforce? Want to incorporate them into your training strategy? The EdgePoint team would love to help!</strong>
 
 [Contact Us](/contact/ ){:class="button"}
 

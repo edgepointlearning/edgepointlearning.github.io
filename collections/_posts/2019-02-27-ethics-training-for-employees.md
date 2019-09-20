@@ -12,13 +12,13 @@ While you could loosely define ethical behavior as knowing the difference betwee
 
 ## What is the purpose of ethics training?
 
-What does it mean to have an ethical workplace? An ethical workplace has well-established codes of professional and personal conduct that not only stay in compliance with all regulations and laws that govern your business, but also moral codes of conduct that include honesty, diversity, compassion, and good citizenship. Both of these aspects provide two main functions for your business.
+What does it mean to have an ethical workplace? An ethical workplace has well-established codes of professional and personal conduct that not only comply with all regulations and laws that govern your business, but also moral codes of conduct that include honesty, diversity, compassion, and good citizenship. Both of these aspects provide two main functions for your business.
 
 ### Protects your company’s bottom line
 
 [Unethical behavior](https://www.shrm.org/hr-today/news/hr-magazine/pages/0414-ethical-workplace-culture.aspx){:target="_blank"} impacts profits when [multi-million dollar fines](https://www.nytimes.com/2017/04/17/business/dealbook/when-money-gets-in-the-way-of-corporate-ethics.html){:target="_blank"} are levied on unethical corporations.
 
-This same behavior can cost the company in terms of [lower stock prices, fewer customers](https://strategiccfo.com/ethics-affects-the-financial-results-of-a-company/){:target="_blank"}, and inability to do business with those who don’t trust you.
+This same behavior can cost the company in terms of [lower stock prices, fewer customers](https://strategiccfo.com/ethics-affects-the-financial-results-of-a-company/){:target="_blank"}, and a damaged reputation in your industry and with vendors.
 
 ### Makes your company a great place to work
 
@@ -85,8 +85,8 @@ Sure, it’s easy to make fun of ethics training for employees – seems like ev
 
 However, if your goal is for employees to represent your company with respect and consideration, functioning as a team where everyone is appreciated, supported, and heard, you need to take this type of training seriously. Give it the time, space, and resources it needs to be done well.
 
-## Get started developing an ethics training program
+## Start developing your ethics training program
 
-With everything there is to consider, ethics training for employees can feel difficult to handle and complicated to roll-out. At EdgePoint Learning, we have all the tools you need to get started. From mobile-first microlearning resources to more custom eLearning courses, we're here to help.
+With everything there is to consider, ethics training for employees can feel difficult to handle and complicated to roll-out. At EdgePoint Learning, we have all the tools you need to get started. From mobile-first microlearning resources to fully custom eLearning courses, we're here to help.
 
 <strong>Whether you need a nudge in the right direction or a complete overhaul of your current ethics training, [get in touch today](/contact/)!</strong>

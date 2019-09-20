@@ -1,5 +1,5 @@
 ---
-title: 12 Tips For Creating Accessible eLearning Programs For All of Your Learners
+title: 12 Tips For Creating Accessible eLearning Programs For Employees
 permalink: /blog/accessible-elearning-programs/
 author:
   name: Corey Bleich
@@ -8,17 +8,30 @@ excerpt: How to create accessible eLearning programs that comply with WCAG and S
 related: false
 ---
 
-Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336){:target="_blank"} (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/){:target="_blank"} in another way. Chances are also good that you have employees who may have [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php){:target="_blank"} that need accommodation. This is how to create accessible eLearning programs for those employees.
+Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336){:target="_blank"} (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/){:target="_blank"} in another way. Chances are also good that you have employees with [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php){:target="_blank"} that need accommodation. This is how to create accessible eLearning programs for all of your employees.
 
 ## How to create accessible eLearning programs
 
-In the early years of the 21st century, few people understood how important and widespread the internet might become, however this is changing—and quickly. In December of 2000, the [Section 508 Standards for Electronic and Information Technology](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){:target="_blank"} were formally laid out as an amendment to the [United States Rehabilitation Act of 1973](https://www.ada.gov/cguide.htm#anchor65610). In September of 2018, the EU Web Accessibility Directive required all public websites and apps in Europe to meet the standards of the [Web Content Accessibility Guidelines ](https://www.w3.org/blog/2018/09/wcag-2-1-adoption-in-europe/){:target="_blank"}(WCAG).
+In the early years of the 21st century, few people understood how important and widespread the internet might become, however this is changing quickly. In December of 2000, the [Section 508 Standards for Electronic and Information Technology](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){:target="_blank"} were formally laid out as an amendment to the [United States Rehabilitation Act of 1973](https://www.ada.gov/cguide.htm#anchor65610){:target="_blank"}. In September of 2018, the EU Web Accessibility Directive required all public websites and apps in Europe to meet the standards of the [Web Content Accessibility Guidelines ](https://www.w3.org/blog/2018/09/wcag-2-1-adoption-in-europe/){:target="_blank"}(WCAG).
 
 Both of these standards look to the future with the goal of technology access for all. These forward-thinking standards make it law to accommodate everyone online.
 
 You would not deny a wheelchair-bound employee ramp access, and the same is true for designing accessible eLearning. Accessibility means giving all employees the appropriate tools needed to do their job and participate in all professional development activities. Creating accessible eLearning programs for all of your employees is crucial.
 
-Here are 12 tips for designing and implementing accessible eLearning courses, starting with five whole-program considerations and moving towards more practical, specific design tips.
+Here are 12 tips for designing and implementing accessible eLearning courses for your employees:
+
+* Understand Section 508 standards and compliance 
+* Know your Web Content Accessibility Guidelines (WCAG)
+* Understand the types of challenges learners may face
+* Design with the end in mind 
+* Imagine yourself as the learner
+* Think about font
+* Avoid drag-and-drop prompts and activities
+* Employ specific navigational words
+* Use appropriate labels, headings, alt text, and captions for images and video
+* Keep an eye out for new technology
+* Provide access to assistance
+* Measure your accessibility
 
 ### 1. Understand 508 compliance
 eLearning that does not meet the basic accessibility guide standards is not only discriminatory; it also makes no sense. Why design an eLearning course that your employees cannot use?
@@ -72,7 +85,7 @@ If drag-and-drop is a crucial part of your design, add easy keyboard shortcuts f
 ### 8. Use specific navigational words
 
 “Click here” is a black hole when it comes to navigational accessibility, while, “click ‘Next’” is much more straightforward.
-In fact, using simple, direct language is best for all aspects of your eLearning courses and for all users.
+In fact, using simple, direct language is best for all aspects of your eLearning courses and all users.
 
 ### 9. Use appropriate labels, headings, alt text, and captions for images and video
 
@@ -91,7 +104,7 @@ From new [voice-to-text apps from Google](https://www.blog.google/outreach-initi
 Make sure that all of your accessible eLearning courses come with help.
 When possible, give learners multiple methods of contact to ask for help, including live chat, phone, and email. This offers all employees a way to get assistance that works best for them.
 
-### 12. Check your accessibility
+### 12. Measure your accessibility
 
 When your eLearning course is about to launch, take the time (and spend the money) to make sure it is truly accessible.
 

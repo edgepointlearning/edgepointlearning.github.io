@@ -4,15 +4,15 @@ permalink: /blog/create-elearning-faster/
 author:
   name: Michael Hansen
 image: blog/2018/2018-05-30-create-elearning-faster.jpg
-excerpt: A recent study found that it took an average of 71 hours to create a one-hour eLearning course with interactions. Developing an eLearning course takes time, but there are ways to speed up the process without compromising the quality of the final result. Here's how.
+excerpt: It takes 71 hours to create a one-hour eLearning course. Developing an eLearning course takes time, but there are ways to speed up the process without compromising quality. Here's how.
 related: false
 ---
 
-You are committed to revamping your company’s training and have decided to work on your eLearning courses. Early on, you find yourself getting bogged down and lost as you work through course development, and you wonder if eLearning is really the way to go. After all, you could have just fired up the PC and made some quick edits to the old PowerPoints. Turns out, though, that faster is not always better. Once you have decided that eLearning is the best fit for you, here’s how to streamline your development process to develop your courses more efficiently.
+You are committed to revamping your company’s training and have decided to work on your eLearning courses. Early on, you find yourself getting bogged down and lost as you work through course development, and you wonder if eLearning is really the way to go. After all, you could have just fired up the PC and made some quick edits to your old PowerPoints. Turns out, though, that faster is not always better. Once you have decided that eLearning is the best fit for your needs, here’s how to streamline your development process to develop your courses more efficiently.
 
 ## How long does it take to create one hour of learning?
 
-If you are questioning the time it takes to create an hour of learning you are not alone. Entire fields of study are dedicated to answering this question. In 2017, Dr. Karl Kapp and Robyn Defelice took a third pass at this, looking at data from studies in both 2003 and 2009 before comparing the average time to develop an hour of learning. Their results were published by [ATD here](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017){:target="_blank"}.
+Entire fields of study are dedicated to answering this question. In 2017, Dr. Karl Kapp and Robyn Defelice took a third pass at this, looking at data from studies in both 2003 and 2009 before comparing the average time to develop an hour of learning. Their results were published by [ATD here](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017){:target="_blank"}.
 
 What they found was this: although eLearning course development is getting more efficient, developing a quality learning experiences takes time.
 
@@ -44,7 +44,7 @@ A learning needs assessment:
 
 (Spoiler alert: you may not actually need a full one-hour eLearning course).
 
-### 2. Identify your subject matter experts (SME) and set clear expectations
+### 2. Identify your subject matter experts (SMEs) and set clear expectations
 
 Don’t reinvent the wheel. Chances are good that when you completed your learning needs assessment you uncovered some SMEs who can help provide the bulk of the information you need to deliver in your eLearning course.
 
@@ -70,28 +70,28 @@ If you are creating courses in-house, find your best-qualified course developer 
 
 ## What factors are slowing me down?
 
-Maybe you have carefully followed the four recommendations and are still staring down the barrel of a 100+ hour course development time. 
+Maybe you have carefully followed the four recommendations and are still staring at 100+ hours of development time. 
 
 Even with the best intentions, you may still find some speed bumps that are slowing you down. Here’s the most common roadblocks I've helped clients navigate.
 
 ### Speed bump #1: You didn’t get buy-in from the top, first
 
-Nothing slows down eLearning development faster than a top-level executive who just doesn’t get why the 100-pound doorstop of a training manual is no longer effective.
+Nothing slows down eLearning development faster than a top-level executive who just doesn’t get why the doorstop of a training manual is no longer effective.
 
 It’s not really their fault. Take the time at the beginning of the project to show them exactly why eLearning will benefit the company (and its bottom line!).
 
 ### Speed bump #2: Too many cooks in the kitchen
 
-You set up your targets and review dates, but when the time comes there are too many fingers in the pie. While it is a great idea to get input from all affected departments, giving them carte blanche in the review process can stop development in its tracks.
+You set up your targets and review dates, but when the time comes there are too many people involved. While it is a great idea to get input from all affected departments, giving them carte blanche in the review process can stop development in its tracks.
 
 If you want everyone to feel included, think about sending tailored bits of the course to the appropriate people. HR doesn’t need to review the actual process for filling in a pothole, but they certainly can help proofread the section on workman’s comp on the jobsite. Pick the best reviewer for the job.
 
 ## Are there other ways to speed up eLearning course development?
 
-If this is your first foray into the world of eLearning course development, maybe it’s best to start small. If your learning needs assessment indicated a place for microlearning, start with that. [Microlearning](/blog/microlearning/) courses are typically only a few minutes long and take, on average, about ten to 15 hours to develop. This might be a good place to learn the ropes.
+If this is your first foray into the world of eLearning course development, it’s best to start small. If your learning needs assessment indicated a place for microlearning, start with that. [Microlearning](/blog/microlearning/) courses are typically only a few minutes long and take, on average, about ten to 15 hours to develop. This might be a good place to learn the ropes.
 
 You can also create an easily modifiable template that can be used in different courses. This allows for editing and changes as needed, functioning as a prototype that can be evaluated, tweaked, and reimagined when your company’s training needs change.
 
 Finally, your last option is outsourcing the development to an eLearning provider who has the tools to create courses efficiently and quickly. 
 
-Have more questions? I'm always available to discuss eLearning tips! Find my contact details on [eLearning Industry](https://elearningindustry.com/directory/elearning-companies/edgepoint-learning){:target="_blank"} or [edgepointlearning.com](/).
+<strong>Have more questions? The team at EdgePoint is always ready to help! [Get in touch today](/contact/).</strong>
