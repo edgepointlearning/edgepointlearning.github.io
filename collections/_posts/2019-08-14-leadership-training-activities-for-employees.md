@@ -1,5 +1,5 @@
 ---
-title: "11 Powerful Leadership Training Activities For Employees For 2019"
+title: "11 Powerful Leadership Training Activities For Employees In 2019"
 permalink: /blog/leadership-training-activities-for-employees/
 author:
   name: Michael Hansen
@@ -132,6 +132,6 @@ For all trainings, both IRL and online, following a few simple guidelines can he
 * Ask for suggestions for make the process better
 * Observe: Watch groups as they work
 * Be consistent: Make these activities a regular part of employee training
-* Provide refreshments: Good food is always a good training incentive
+* Provide refreshments: Simply put, good food is always a good training incentive
 
 <strong>EdgePoint Learning can help you design engaging leadership training activities for employees (that won’t be met with eyerolls!). [Get in touch to get started today](/contact/).</strong>
