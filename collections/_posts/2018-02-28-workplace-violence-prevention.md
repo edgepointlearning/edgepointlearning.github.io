@@ -1,5 +1,5 @@
 ---
-title: How To Prevent Workplace Violence: 7 Steps To Take Right Now
+title: "How To Prevent Workplace Violence: 7 Steps To Take Right Now"
 permalink: /blog/workplace-violence-prevention/
 author:
   name: Corey Bleich
