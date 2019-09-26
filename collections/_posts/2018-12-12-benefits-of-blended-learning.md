@@ -8,11 +8,13 @@ excerpt: There are many benefits of blended learning in the workplace. Here are 
 related: false
 ---
 
-Chances are good that your memories of learning anything as a child are dominated by rows of desks and, depending on your generation, endless worksheets or boring, cookie-cutter activities online. It’s also a good chance that when they hear the word “training,” many of your employees are remembering the same type of scenario. But it doesn’t have to be that way. There are many benefits of blended learning in the workplace. Here are eight of the best.
+Chances are good that your memories of learning anything as a child are dominated by rows of desks and, depending on your generation, endless worksheets or boring, cookie-cutter activities on the computer. It’s also a good chance that when they hear the word “training,” many of your employees are remembering the same type of scenario. But it doesn’t have to be that way. There are many benefits of blended learning in the workplace. Here are eight of the best.
 
 ## What is blended learning?
 
-Blended learning combines traditional, instructor-led learning with independent computer-based learning. It's not a new concept in education, but it provides a welcome and sometimes much-needed antidote to a recent approach to training that's only focused on computers. Instead, it simply blends the best of both approaches.
+Blended learning combines traditional, instructor-led learning with independent computer-based learning. It's not a new concept in education, but it provides a welcome and sometimes much-needed antidote to a recent approach to training that's only focused on computers. 
+
+Instead, it simply blends the best of both approaches.
 
 ### Blended learning vs traditional learning
 
@@ -52,7 +54,7 @@ A [high-quality LMS](/blog/best-lms-for-small-business/) can track employee prog
 
 Some employees will resist traditional training in a conference room with every fiber of their being, but will happily embrace the work they do online. Likewise, some employees who are reluctant to engage with online learning activities may find themselves completing them more easily when they know a group discussion will follow.
 
-While it’s hard to develop a training that all employees will embrace, this offers both types of learners (those who thrive online and those who prefer traditional trainings) something they are comfortable with.
+While it’s hard to develop training that all employees will embrace, this offers both types of learners (those who thrive online and those who prefer traditional trainings) something they are comfortable with.
 
 ### 4. Blended learning increases the effectiveness of your training
 
@@ -71,7 +73,8 @@ For very technical courses, self-paced learning opportunities is a major benefit
 ### 6. Blended learning is easy to track
 
 It can be challenging to collect feedback from an in-person employee training. Self-reporting in the form of surveys is notoriously unreliable.
-With an LMS that tracks employee activity and task completion, however, the efficacy of blended learning in the workplace is easily measured and tracked.
+
+With an LMS that tracks employee activity and task completion in online courses, however, the efficacy of blended learning in the workplace is more easily measured and tracked, and you can also use it to gather feedback. 
 
 ### 7. Blended learning can be customized
 

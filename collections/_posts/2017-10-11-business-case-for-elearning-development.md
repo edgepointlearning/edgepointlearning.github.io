@@ -8,7 +8,7 @@ excerpt: You know that eLearning can provide your company with the best training
 related: false
 ---
 
-Training, teaching, and learning has changed dramatically over the past few years. With new research into the ways in which people learn, eLearning has become one of the most effective options for companies that are looking for a consistent, high-quality method of training for their employees. If you're the champion of eLearning at your company, however, it can take some time to convince your boss that the switch from traditional, in-person training to eLearning is worth their time.
+Training, teaching, and learning has changed dramatically over the past few years. With new research into the ways people learn, eLearning has become one of the most effective options for companies that are looking for a consistent, high-quality method of training for their employees. If you're the champion of eLearning at your company, however, it can take some time to convince your boss that the switch from traditional, in-person training to eLearning is worth their time.
 
 Spoiler alert: It absolutely is. From cost savings to consistency, here’s why.
 
@@ -21,7 +21,7 @@ There are a number of different options for eLearning.
 * <strong>mLearning:</strong> [mLearning](/blog/what-is-mlearning/) allows you to provide employees with quick reference guides, troubleshooting pointers, and other reference materials, right to their mobile devices.
 * <strong>Web-based training (WBT):</strong> Web-based training can offer employees more interactive eLearning options. These courses may be more extensive and include collaboration among participants.
 * <strong>Microlearning:</strong> [Microlearning](/blog/microlearning) consists of small, easily-digested bits of information, delivered to employees at regular intervals in two to three minute videos.
-* <strong>[Gamification:](https://www.business.com/articles/5-statistics-that-prove-gamification-is-the-future-of-the-workplace/){:target="_blank"}</strong> Training employees by delivering information through a game takes advantage of our desire to compete, get recognized for our efforts, and be rewarded for hard work.
+* <strong>[Gamification:]</strong> Training employees by delivering information through a game takes advantage of our desire to compete, get recognized for our efforts, and be rewarded for hard work.
 
 No matter your workforce, resources, or budget, there's an eLearning solution that will work for your company.
 
@@ -29,7 +29,7 @@ The benefits of switching to eLearning go far beyond dollars and cents (although
 
 1. <strong>eLearning saves time:</strong> Because there is no need for travel, lunch breaks, and overnight stays, eLearning is the most efficient way deliver information.
 2. <strong>eLearning saves money:</strong> The 2012-2017 Ambient Insight Executive Report found that 42% of companies participating in eLearning across the globe saw an [increase in revenue](http://www.ambientinsight.com/Resources/Documents/Ambient-Insight-2012-2017-Worldwide-Mobile-Learning-Market-Executive-Overview.pdf){:target="_blank"}.
-3. <strong>eLearning</strong> is more consistent: When your eLearning course is in place, training is consistent and standard across the board for all employees, regardless of where they're located and when they take the training.
+3. <strong>eLearning is more consistent:</strong> When your eLearning course is in place, training is consistent and standard across the board for all employees, regardless of where they're located and when they take the training.
 4. <strong>eLearning may save the world:</strong> Seriously. According to [Articulate](http://blogs.articulate.com/rapid-elearning/why-e-learning-is-so-effective/){:target="_blank"}, producing and delivering an eLearning course uses 90% less energy and produces 85% fewer carbon emissions than traditional in-person courses.
 
 ## How can I convince my boss?
@@ -47,13 +47,13 @@ You know that eLearning solutions can provide your company with just-in-time tra
 
 ### Step 1: Define the problem
 
-Before you start any training programs, figure out exactly what the problem is before you roll-out solutions for it. Are your issues really tied to inadequate training? Have you talked to employees to get their take? Before moving forward, know exactly what your company's challenge is so you can more effectively sold it.
+Before you start any training programs, figure out exactly what the problem is before you roll-out solutions for it. Are your issues really tied to inadequate training? Have you talked to employees to get their take? Before moving forward, know exactly what your company's challenge is so you can more effectively sell it.
 
 ### Step 2: Show your boss what they need before they know they need it
 
 You may see a managerial need for a broader understanding of your global company’s overall structure. Or, maybe your company is small but mighty and needs more consistent implementation of its current practices. Perhaps your company is working in an industry that has many specific compliance issues that employees must be consistently aware of.
 
-If in-person training isn’t meeting the needs of your local or global organization, or in-person trainings are inconsistent and ineffective, eLearning can help standardize your training (and protect your business). Start mentioning, off-hand, these options and challenges to your boss so they're primed when you do talk to them about eLearning.
+If in-person training isn’t meeting the needs of your local or global organization, or in-person trainings are inconsistent and ineffective, eLearning can help standardize your training (and protect your business). Start mentioning these opportunities and challenges to your boss so they're primed when you do talk to them about eLearning.
 
 ### Step 3: Figure out who needs to be involved
 
@@ -61,7 +61,7 @@ Before you start thinking about including employees, figure out which members of
 
 ### Step 4: Find an executive sponsor
 
-Better than a golden ticket, an executive sponsor will champion your proposal at the highest levels. Find a C-suite sponsor to increase the odds of a positive response.
+Better than a golden ticket, an executive sponsor will champion your proposal at the highest levels. Find a C-suite sponsor to increase the odds of a positive overall response.
 
 ### Step 5: Work out all of the costs
 
@@ -70,7 +70,8 @@ eLearning development does have upfront costs that will diminish over time. Outl
 You may also want to consider:
 
 * Which employee resources you'll have for testing and creating the new training materials
-* What hardware you have that employees can use to access this training The saved costs for reducing in-person training
+* What hardware you have that employees can use to access this training 
+* The saved costs for reducing in-person training
 * What parts of your training you can develop in-house and which would be best served by bringing in an eLearning development company
 * How much you could save by reducing employee turnover and dissatisfaction with appropriate training
 
@@ -80,9 +81,9 @@ Once your company has eLearning courses in place, those materials can provide la
 
 ### Step 7: Decide how these new courses will roll out
 
-No matter the size of your company, [well-laid plans](/blog/whats-the-key-to-creating-a-successful-elearning-project/){:target="_blank"} poorly executed are a recipe for disaster. Consider the following questions when planning your eLearning rollout:
+No matter the size of your company, well-laid plans poorly executed are a recipe for disaster. Consider the following questions when planning your eLearning rollout:
 
-* Who is responsible for what, from eLearning design to monitoring?
+* Who is responsible for what, from eLearning design to tracking to updating?
 * What resources will you need, inside and outside of the company?
 * What is the timeline for rollout?
 * Who will need additional training prior to rollout?
@@ -96,7 +97,7 @@ Your successful proposal anticipates objections and questions that might arise a
 
 When it comes to convincing your boss that eLearning makes sense, the bottom line IS the bottom line.
 
-Lay out the per-employee expenditures for in-person training vs. eLearning to show just how much eLearning can save your company. Once you've shown them the bottom-line, also bring in evidence that further bolsters your case. This could include talking about employee retention, recycling certain materials for these newer courses, or providing the just-in-time training your workforce actually needs.
+Lay out the per-employee expenditures for in-person training vs. eLearning to show just how much eLearning can save your company. Once you've shown them the bottom-line, also bring in evidence that further bolsters your case. This could include talking about employee retention, recycling certain materials for these newer courses, or providing the just-in-time training your workforce actually needs to do their jobs effectively.
 
 ### Step 10: Welcome your boss to the future
 

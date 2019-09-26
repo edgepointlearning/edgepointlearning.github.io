@@ -8,7 +8,7 @@ excerpt: Knowing how to identify training needs of employees is the foundation o
 related: false
 ---
 
-Developing a new employee training (or revitalizing an old one) is a big endeavor, but one that is often doomed to fail right out of the gate. Why? Companies that skip the crucial first step – a training needs analysis – may find their training ineffective on every level. Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how. 
+Developing a new employee training program (or revitalizing an old one) is a big endeavor, but it's often doomed to fail right out of the gate. Why? Companies that skip the crucial first step – a training needs analysis – may find their training ineffective on every level. Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how. 
 
 ## Why do a training needs analysis? 
 
@@ -72,11 +72,12 @@ Once you figure out what employees know and have taken the temperature of your m
 
 If you have only ever conducted employee trainings in a few marathon sessions in a stuffy conference room, you may not want to use any of your old tools. These days, just-in-time employee training meets employees exactly where they are with technology that makes training efficient and effective. You might consider replacing your old three-ring binders, Power Points, and workbooks with:
 
-Geofenced learning opportunities that are delivered to specific job sites
+* Geofenced learning opportunities that are delivered to specific job sites
 * Experiential learning
 * Microlearning modules
 * Gamified assets and delivery methods
-* Your training needs assessment might also uncover how employees prefer to learn, which can reduce training friction once you do roll the training out.
+
+Your training needs assessment might also uncover how employees prefer to learn, which can reduce training friction once you do roll the training out.
 
 ### 8. Match your training to your needs 
 

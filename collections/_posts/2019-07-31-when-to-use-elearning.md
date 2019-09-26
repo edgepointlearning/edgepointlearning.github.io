@@ -37,7 +37,7 @@ Which format works for you will depend on you company’s objectives as well as 
 
 Regardless of the format, it’s clear that the most [effective trainings are being delivered online](https://elearningindustry.com/elearning-trends-for-2019-miss-4){:target="_blank"}. 
 
-<strong>When to use eLearning: 5 examples</strong>
+## When to use eLearning: 5 examples
 
 If you're considering a new learning program at your company and wondering whether to use eLearning vs. instructor-led trainings, here are five examples when eLearning is likely your best option.
 

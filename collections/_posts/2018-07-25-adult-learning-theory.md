@@ -4,11 +4,11 @@ permalink: /blog/adult-learning-theory/
 author:
   name: Corey Bleich
 image: blog/2018/2018-07-25-adult-learning-theory.jpg
-excerpt: We tend to think of adults as being able to sit in a classroom (or boardroom) and absorb another boring presentation. In truth, that’s just as ineffective as it would be for a toddler. Adult learning theory is a way into the minds of adults – and getting there can help you create better eLearning. Here's how.
+excerpt: Adult learning theory is the data-backed way into the minds of adults. Understanding it can help you create better eLearning opportunities for your employees. Here's how.
 related: false
 ---
 
-Referred to collectively as andragogy, adult learning is not a one-size-fits-all model. Just as children need a variety of techniques to engage them, adults also require different approaches. We tend to think of adults as able to sit in a classroom (or boardroom) and absorb another boring presentation. In truth, that’s just as ineffective as it would be for a toddler. Adult learning theory is a way into the minds of adults – and getting there can help you create better eLearning.
+Referred to collectively as andragogy, adult learning is not a one-size-fits-all model. Just as children need a variety of techniques to engage them, adults also require different approaches. We tend to think of adults as able to sit in a classroom (or boardroom) and absorb another presentation after boring presentation. In truth, that’s just as ineffective as it would be for a toddler. Adult learning theory is a way into the minds of adults. Understanding it can help you create better eLearning opportunities for your employees. Here's how.
 
 ## How do adults learn differently from children?
 
@@ -22,11 +22,11 @@ Many adults bristle at being told what to do and micro-managed every step of the
 
 ### 2. Adults have experience
 
-From the boardroom to the mailroom, the adults in your company have lived complex lives. Your eLearning needs to acknowledge and incorporate the importance of their experience.
+From the boardroom to the mailroom, the adults in your company have lived complex lives. Your eLearning needs to acknowledge and incorporate the importance of their experiences.
 
 ### 3. Adults need tailored eLearning
 
-Adults will approach a training more enthusiastically if they can see how their skills will grow as a result. This is especially important as it relates to building their social and professional network in meaningful ways.
+Adults will approach a training more enthusiastically if they can see how their skills will grow directly as a result. This is especially important as it relates to building their social and professional network in meaningful ways.
 
 ### 4. Adults need application
 
@@ -67,7 +67,7 @@ Learning of this type involves task-based assignments in which a learner has roo
 
 [Experiential learning](https://explorance.com/2015/02/i-do-and-i-understand-kolbs-experiential-learning-theory-explained/){:target="_blank"} satisfies the adult need for proper motivation and application of new learning. Designed as an immersive experience, experiential learning requires adults to apply their newly learned skills to a set of problems or towards a common goal.
 
-This [type of learning](https://www.edgepointlearning.com/blog/top-10-types-of-employee-training/) uses simulations and scenarios to engage the learner. These are followed by reflective observation of case studies or other applicable demonstrations. Adult learners then look at abstract scenarios before actively experimenting at applying their new knowledge.
+This [type of learning](/blog/top-10-types-of-employee-training/) uses simulations and scenarios to engage the learner. These are followed by reflective observation of case studies or other applicable demonstrations. Adult learners then look at abstract scenarios before actively experimenting at applying their new knowledge.
 
 Experiential learning honors adults for what they bring to the table. It gives them ample opportunity for practice and refinement of practical, applicable skills. Examples of this might be training on a new computer design software by leading learners through a completed, set design (e.g., a building schematic that already exists) before allowing them to experiment with their own designs.
 
@@ -81,16 +81,16 @@ Considering how to incorporate self-directed learning into your eLearning course
 
 ### Neuroscience
 
-Finally, the very best eLearning designers consider the actual [structure and function of an adult brain](http://kimberlysheppard.wiki.westga.edu/file/view/Neuroscience+and+adult+learning..pdf/238867707/Neuroscience%20and%20adult%20learning..pdf){:target="_blank"} when designing their eLearning courses.
+Finally, the very best eLearning designers consider the actual [structure and function of an adult brain](/blog/learning-research-2017/){:target="_blank"} when designing their eLearning courses.
 
-This theory of adult learning examines the manner in which the brain functions to maximize an adult’s ability to learn. Just as you would not try to force a baby to walk before they could support their head, the neuroscience theory of adult education take into consideration what a brain is ready for. This might mean tailoring the time, method of delivery, and configuration of the eLearning to enhance its benefits.
+This theory of adult learning examines the manner in which the brain functions to maximize an adult’s ability to learn. Just as you would not try to force a baby to walk before they could support their head, the neuroscience theory of adult education take into consideration what a brain is ready for. This might mean tailoring the time, method of delivery, and configuration of the training to enhance its benefits.
 
 Understanding how adults learning differently and applying adult learning theory in different situations affects every part of your eLearning offerings. These factors can help you choose an appropriate mode of delivery as you tailor your information, activity, and assignments to your adult learners.
 
 ## Learn more
 
-At [EdgePoint Learning](https://www.edgepointlearning.com/), we get that your employees may drag their feet when it comes to learning something new. Applying adult learning theory to your eLearning experiences can help by engaging adult learners and giving them the motivation to participate.
+At [EdgePoint Learning](https://www.edgepointlearning.com/), we get that your employees may drag their feet when it comes to learning something new. Applying adult learning theory to your eLearning experiences can help engage adult learners and give them the motivation to participate.
 
 <strong>We are experts at designing engaging, relevant, and useful eLearning for every industry. [Get in touch today](https://www.edgepointlearning.com/contact/) to learn more about adult learning theory and see how we can help you!</strong>
 
-This post was originally published on [eLearning Industry](https://elearningindustry.com/adult-learning-theory-helps-elearning-development){:target="_blank"} on July 8, 2018.
+This post was originally published on [eLearning Industry](https://elearningindustry.com/adult-learning-theory-helps-elearning-development){:target="_blank"}.
