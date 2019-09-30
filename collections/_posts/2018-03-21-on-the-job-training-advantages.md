@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-03-21-on-the-job-training-advantages.jpg
 excerpt: On-the-job training is explicit, prescribed, and delivered at the workplace. It prepares your employees for real-time engagement wherever they need it most, along with other major advantages.
-related: false
 ---
 
 Even the most experienced and educated employees still require training when they join your company. Maybe they just need to learn about the company culture or procedures, but this is still an important part of the onboarding process. For employees and employers, on-the-job training is the best way to get up and running in the most efficient and effective way possible.

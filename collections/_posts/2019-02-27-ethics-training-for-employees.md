@@ -5,7 +5,6 @@ author:
   name: Michael Hansen
 image: blog/2019/2019-02-27-ethics-training-for-employees.jpg
 excerpt: "Here are eight ways to develop more effective and engaging ethics trainings for employees in your workforce."
-related: false
 ---
 
 While you could loosely define ethical behavior as knowing the difference between right and wrong, in the workplace it’s not quite so simple. Now more than ever, ethics trainings for employees needs to cover a variety of topics and a broad range of learning styles. Here are eight ways to develop more effective and engaging ethics trainings for employees.

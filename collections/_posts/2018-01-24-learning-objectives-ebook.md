@@ -5,7 +5,6 @@ author:
   name: Carrie Lewis Miller and Quincy Conley
 image: blog/2018/2018-01-24-learning-objectives-ebook.jpg
 excerpt: Ready to create a strong foundation for your eLearning initiatives? Learn the basics of creating solid learning objectives from industry experts.
-related: false
 ---
 
 How many of us would be willing to move into a house with no floor or foundation?

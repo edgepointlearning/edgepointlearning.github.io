@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-09-26-reduce-training-friction.jpg
 excerpt: Every employee needs training, but many will unfortunately resist it because of time or other factors. This is how you can reduce training friction for your employees.
-related: false
 ---
 
 Every employee needs training, but many will unfortunately resist it because of time or other factors. Here's how you can reduce training friction so your employees get the information they need to do their jobs successfully.

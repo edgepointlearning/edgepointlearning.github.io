@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-09-11-best-lms-for-small-business.jpg
 excerpt: Using an LMS for small business takes the guesswork out of employee training. Here's how to find the best one for your small business.
-related: false
 ---
 
 Even if you are a small business, we know your training needs are epic. Regardless of size, the challenges you face when it comes to delivering effective, comprehensive, and ongoing training for your employees and your business can be daunting. Here’s how to find the best LMS for small business – and why it matters.

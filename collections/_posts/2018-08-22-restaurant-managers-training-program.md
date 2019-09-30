@@ -5,7 +5,6 @@ author:
   name: Steve Pruniski, GM at the The Vig at McCormick Ranch
 image: blog/2018/2018-08-22-restaurant-managers-training-program.jpg
 excerpt: You know restaurants don’t run themselves; here’s how to train your people to run them even better with a dedicated restaurant managers training program.
-related: false
 ---
 
 You know restaurants don’t run themselves; here’s how to train your people to run them even better with a dedicated restaurant managers training program.

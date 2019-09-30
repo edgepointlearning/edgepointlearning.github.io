@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2019/2019-04-17-how-to-train-employees-on-new-system.jpg
 excerpt: "Not sure how to train employees on a new system or technology? Here are five of our favorite tips for doing it effectively and hassle-free."
-related: false
 ---
 
 The popular saying may be, “The only constant is change,” but we’d like to tailor that specifically for you: the only constant is changing technology. Seems like the moment your employees become comfortable with a new system, technology, or software, another one comes along. This ever-evolving (but often improving) access to new software can be good for business but frustrating for employees. The key is knowing how to train employees on a new system or technology. Here are five of our favorite tips for doing it effectively and hassle-free.

@@ -5,7 +5,6 @@ author:
   name: Michael Hansen
 image: blog/2019/2019-04-24-how-to-keep-track-of-training.jpg
 excerpt: "Make sure your employees are on track, in compliance, and keeping up with all of their training. Here's how to keep track of training right. "
-related: false
 ---
 
 You realize the importance of training your employees and have spent time and money on the best learning courses to meet their needs. Six months in, you realize that you have some employees with expired certifications because they haven’t completed their required hours, and some compliance issues are still not addressed on the job. You realize that even with months of careful planning, you didn't consider how to keep track of training for employees under your supervision. An employee training tracker can be an invaluable tool to make sure that everyone is on track, in compliance, and keeping up with all of their training. Here's how to do it right.

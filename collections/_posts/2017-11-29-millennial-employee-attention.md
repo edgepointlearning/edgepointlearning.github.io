@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2017/2017-11-25-millennial-employee-attention.jpg
 excerpt: You can capture millennial employees' attention by knowing what drives them, what you can learn from them, and how to capture their attention in a world where we work from anywhere.
-related: false
 ---
 
 Millennial employee attention can seem like a moving target. If you believe the hype of people who don’t know better, capturing (and keeping!) the attention of millennial employees can seem a Sisyphean task. Many of the strategies for professional development and workplace management that worked for Gen Xers and Baby Boomers just don’t resonate with the demographic born somewhere between the early 1980s and late 1990s. Projected to be 75% of the workforce by 2025, however, millennial employees simply learn and work differently. Companies that want to engage and retain this growing part of the workforce need to know what drives them, what we can learn from them, and how to capture their attention in a world where we work from anywhere.

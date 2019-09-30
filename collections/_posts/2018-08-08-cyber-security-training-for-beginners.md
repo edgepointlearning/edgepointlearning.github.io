@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-08-08-cyber-security-training-for-beginners.jpg
 excerpt: Cyber security training for beginners is a crucial element of any employee training program. Here's what to include in yours.
-related: false
 ---
 
 We live in an era where online privacy or safety is not always guaranteed. Every little blip of information sent out across the internet is subject to attack. From your family photos to your social security number, everything is up for grabs. Even digital natives struggle with identity theft and hacking. For those who are unfamiliar with online threats, these risks can be even greater. While this open season on personal information may seem an insurmountable obstacle, your company cannot afford to give up sensitive customer and company data. Cyber security training for beginners is a crucial element of any employee training.

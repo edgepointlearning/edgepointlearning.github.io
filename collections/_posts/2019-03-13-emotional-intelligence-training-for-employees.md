@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2019/2019-03-13-emotional-intelligence-training-for-employees.jpg
 excerpt: "Emotional intelligence in the workplace is one of a number of soft skills that make employees better at their jobs (and more satisfied in them!). Here's how to train for it."
-related: false
 ---
 
 Imagine a workplace where employees feel valued and grounded. They know that they are part of a larger mission, working with others to create a space where even the most diametrically opposed people can come together and build consensus. If this sounds like a magical, mythical place, don’t despair. Emotional intelligence training for employees can help you get there.

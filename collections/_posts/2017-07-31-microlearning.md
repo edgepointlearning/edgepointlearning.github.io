@@ -5,7 +5,6 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-07-31-microlearning.jpg
 excerpt: Microlearning was born out of the necessity to create quick, accessible training for employees—right when they need it the most.
-related: false
 ---
 
 In your company, think about when employees most need assistance. It's likely during critical moments—while dealing with a customer issue, when responding to an alarm, or out in the field itself. These employees don't need drawn-out (and frequently boring) hour-long training courses once a year. They need that help right where they are. That's where microlearning comes in.

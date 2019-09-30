@@ -5,7 +5,6 @@ author:
   name: Michael Hansen
 image: blog/2018/2018-05-16-smb-eLearning.jpg
 excerpt: It's possible for small-medium businesses to find sustainable and affordable eLearning solutions to train employees. From assessment to ongoing audits, here's how to get started with eLearning for your SMB.
-related: false
 ---
 
 You know you need eLearning or some type of training for your employees. After all, your company is growing and you are moving towards bigger business goals. Adding employees and expanding your reach means training new staff and updating your veteran employees. Just like grains of sand on the beach, the possibilities for eLearning for small business seem endless. So where should you start?

@@ -5,7 +5,6 @@ author:
   name: Tyler Campbell
 image: blog/2017/2017-10-23-html5-because-flash-is-dead.jpg
 excerpt: From massive security scares to clunky frights, it's time to switch your outdated Flash courses to HTML5. Here's why and how to get started.
-related: false
 ---
 
 In 1996, Macromedia acquired a little web animation tool that began to revolutionize the way we experienced media on the desktop (and eventually our cellphones). Now owned by Adobe, Flash was the go-to web-streaming and animation software for everything from eLearning to The Simpsons. That was then; this is now. Turns out, Flash has been plagued with issues nearly since its birth, and its death is upon us. It's seriously time to move your eLearning to HTML5. Here's why.

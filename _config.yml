@@ -1,10 +1,10 @@
 # SEO
+url        : 'https://www.edgepointlearning.com'
+baseurl    : ''
 title      : EdgePoint Learning
 description: "From microlearning to blended learning opportunities, EdgePoint Learning designs eLearning solutions for today's employees."
 keywords   : "EdgePoint Learning, eLearning, eLearning development company, custom eLearning, custom eLearning solutions, employee training, corporate compliance training, microlearning"
 color      : '#12529e'
-url        : 'https://www.edgepointlearning.com'
-baseurl    : '' # '/example'
 og-image   : '/static/seo/og-image-02.jpg'
 
 # Plugins & Settings
@@ -18,8 +18,11 @@ livereload : true
 
 pagination : # https://github.com/sverrirs/jekyll-paginate-v2
   enabled  : true
-autopages  : # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-AUTOPAGES.md
+autopages  :
   enabled  : false
+include:
+  - _pages # hack to paginate blog page
+
 
 assets         :  # https://github.com/envygeeks/jekyll-assets/tree/v2.4.0
   autoprefixer :
@@ -32,22 +35,6 @@ assets         :  # https://github.com/envygeeks/jekyll-assets/tree/v2.4.0
   # cache      : false # TEMPORARILY FIXES FONT CACHING BUG
   features     :
     automatic_img_size: false
-
-# Includes & Excludes
-include :
-  - _pages
-  - _redirects
-  - _headers
-
-exclude :
-  - .asset-cache
-  - .ruby-version
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - node_modules
-  - netlify.toml
-  - docker-compose.yml
 
 # Collections
 collections_dir: collections
@@ -123,3 +110,14 @@ defaults :
       path      : 'static/**/*.pdf'
     values      :
       sitemap   : false
+
+exclude :
+  - .asset-cache
+  - .jekyll-cache
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - netlify.toml
+  - docker-compose.yml

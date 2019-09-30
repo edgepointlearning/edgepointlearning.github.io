@@ -5,7 +5,6 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-08-12-employee-onboarding.jpg
 excerpt: Providing an effective onboarding process can and will improve your employee retention. Here's how to do it right.
-related: false
 ---
 
 According to the [Bureau of Labor Statistics](https://www.bls.gov/news.release/jolts.nr0.htm){:target="_blank"}, 20% of U.S. workers leave their new job within the first 45 days after hire. For hourly workers, up to 50% may leave within the first four months. Providing an effective onboarding process can and will improve your employee retention. Onboarding encompasses those things that occur after an employee's hire and beyond signing a packet of papers from HR. It can include workspace set-up, team intros, on-the-job training, and ongoing mentorship programs. Here's why it's so important to do it right.

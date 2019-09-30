@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-10-31-future-of-corporate-training-2019.jpg
 excerpt: As we near the end of 2018, it’s time to look forward to what’s next in the future of corporate training. Here's what you can expect.
-related: false
 ---
 
 As we near the end of 2018, it’s time to look forward to what’s next in the future of corporate training. It seems that new corporate training trends are embracing technology now more than ever, but what does the future of employee training look like for your business?

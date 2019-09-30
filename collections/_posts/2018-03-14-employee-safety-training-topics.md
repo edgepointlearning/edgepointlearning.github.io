@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-03-14-employee-safety-training-topics.jpg
 excerpt: What makes an employee safety training program particularly effective? Start by covering seven key topics that are applicable to almost every industry.
-related: false
 ---
 
 Employee safety training: It’s one of those things we recognize as critical, but what makes an employee safety training program particularly effective? Start by covering seven key topics that are applicable to almost every industry.

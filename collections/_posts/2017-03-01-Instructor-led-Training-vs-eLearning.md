@@ -2,11 +2,8 @@
 title: Instructor-led Training vs. eLearning
 author:
   name: Megan Dobransky & Nikki VanRy
-image: blog/2014/2018-09-17-349094.jpg #notepad
-# image: blog/2014/2018-09-17-588064.jpg #white lady
+image: blog/2014/2018-09-17-349094.jpg
 excerpt: Instructor-led or eLearning, find out what type of training is right for you.
-related: false
-#permalink: /2016/07/21/Instructor-led-Training-vs-eLearning/
 redirect_from:
   - "/blog/2013/7/19/instructor-led-training-vs-elearning"
   - "/2016/07/21/Instructor-led-Training-vs-eLearning/"

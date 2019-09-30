@@ -5,7 +5,6 @@ author:
   name: Quincy Conley, PhD
 image: blog/2017/2017-10-16-quality-elearning-experiences.jpg
 excerpt: Quincy Conley, a Learning Scientist, explains how we can apply culinary lessons to create enchanting and quality eLearning experiences for our employees.
-related: false
 ---
 
 One of my favorite splurges in life is to dine at one of the famous Nobu restaurants. Why I enjoy it so much is not solely based on the food… it’s also the experience. That experience is something we can take to create better and higher-quality eLearning experiences. But what does a gastronomic experience have to do with the visual design of eLearning? Let me explain.

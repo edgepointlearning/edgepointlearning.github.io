@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2019/2019-06-12-healthcare-customer-service-training.jpg
 excerpt: Not sure where to start with healthcare customer service training? This is how to build your customer service in healthcare training from the ground up.
-related: false
 ---
 
 From receiving an unexpected lab result to answering questions about their personal health history, many people dread talking to their healthcare provider. Healthcare customer service training is key to bringing compassionate and skilled customer service to every person your employees interact with in order to make your patients feel more at ease every step of the way. Here's how to roll out customer service in healthcare training. 

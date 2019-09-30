@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2017/2017-10-01-business-case-for-elearning-development.jpg
 excerpt: You know that eLearning can provide your company with the best training, but you have to convince your boss. Concerned? We've got it down to ten major steps.
-related: false
 ---
 
 Training, teaching, and learning has changed dramatically over the past few years. With new research into the ways people learn, eLearning has become one of the most effective options for companies that are looking for a consistent, high-quality method of training for their employees. If you're the champion of eLearning at your company, however, it can take some time to convince your boss that the switch from traditional, in-person training to eLearning is worth their time.

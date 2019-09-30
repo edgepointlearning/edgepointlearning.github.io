@@ -5,7 +5,6 @@ author:
   name: Michael Hansen
 image: blog/2017/2017-12-13-geofencing.jpg
 excerpt: Geofencing technology—originally used for retail sales—is increasingly providing cutting-edge and immediate access for recruitment and employee training programs.
-related: false
 ---
 
 Picture this: you need to figure out a way to effectively design and deliver on-the-ground employee training, but the fact that many employees are out in the field more often than not makes this a challenge. You already know about [microlearning](/blog/microlearning) and have developed multiple small bites of training to be accessed by employees, but they only need parts of it at certain times and in certain locations.

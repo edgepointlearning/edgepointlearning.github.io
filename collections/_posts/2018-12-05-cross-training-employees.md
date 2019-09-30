@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-12-05-cross-training-employees.jpg
 excerpt: Cross-training employees goes far beyond showing everyone how the copier works in case an administrative assistant is out for the day.
-related: false
 ---
 
 Cross-training isn’t just adding a little yoga to your daily running routine. Cross-training employees can actually provide a major boost to your workforce's productivity (and your bottom line!). Here are six major benefits of cross-training employees.

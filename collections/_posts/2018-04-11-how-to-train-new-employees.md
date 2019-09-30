@@ -5,7 +5,6 @@ author:
   name: Brian Oderkirk
 image: blog/2018/2018-04-11-how-to-train-new-employees.jpg
 excerpt:  It’s a common mistake that even the most successful businesses make&#58; not formally training new employees. Here's how to train your new employees effectively.
-related: false
 ---
 
 You wouldn’t hand a new high school graduate the keys to a Tesla and let them go, but this is an exaggerated equivalent of some company training programs. Learning how to train new employees effectively is the cornerstone of success for any company.

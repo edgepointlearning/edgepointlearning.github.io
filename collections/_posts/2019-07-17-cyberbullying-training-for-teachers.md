@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2019/2019-07-17-cyberbullying-training-for-teachers.jpg
 excerpt: Cyberbullying training for teachers can help create a safe, supportive environment for all kids--even after school hours. This is how to roll out this type of training.
-related: false
 ---
 
 Before digital media, bullies in school focused on their targets in person. Teachers and schools could witness the bullying and take steps to prevent it during the school day. Cyberbullying has taken school-day bullying to the next level, however, seeping into evenings and weekends and making it harder for schools to intervene. But cyberbullying training for teachers can change all of that, creating a safe, supportive environment for all kids—even after school hours. Here's how to roll out this type of training for your teachers and administrative staff.

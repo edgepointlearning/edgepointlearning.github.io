@@ -5,7 +5,6 @@ author:
   name: Clint Everton
 image: blog/2019/2019-02-20-ergonomics-training.jpg
 excerpt: "Ergonomics goes far beyond watching your posture. This is how to create the best ergonomics training courses for your employees (and why it matters!)."
-related: false
 ---
 
 Ergonomics is sometimes referred to as the science of sitting, but it goes far beyond watching your posture in your chair. The goal of ergonomics is to adapt the workplace for your employees to keep them healthy, safe, and productive. But not all ergonomics training courses are created equal. Here’s how to create the best ergonomics training course for your employees (and why it matters!).

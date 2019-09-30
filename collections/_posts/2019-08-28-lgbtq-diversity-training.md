@@ -4,8 +4,7 @@ permalink: /blog/lgbtq-diversity-training/
 author:
   name: Michael Hansen
 image: blog/2019/2019-08-28-lgbtq-diversity-training.jpg
-excerpt: Want to create a more inclusive work enviroment? Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives. 
-related: false
+excerpt: Want to create a more inclusive work enviroment? Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives.
 ---
 
 Whether you train for it or not, your employees are diverse. Making sure they feel valued and included is simply the right thing to do.

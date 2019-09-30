@@ -4,7 +4,6 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-04-27-top-10-types-of-employee-training.jpg
 excerpt: Matching the types of employee training to your employee needs can ensure your employees receive the information they need, in the format best suited for it.
-related: false
 redirect_from: "/2017/04/27/top-10-types-of-employee-training/"
 ---
 

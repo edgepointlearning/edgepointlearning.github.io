@@ -5,7 +5,6 @@ author:
   name: Quincy Conley, Ph.D.
 image: blog/2019/2019-04-03-future-of-augmented-reality-hero.jpg
 excerpt: "Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today."
-related: false
 ---
 
 Augmented reality (AR) is well on its way of being considered a mainstream technology that will soon become part of our everyday lives. It's already begun to change how marketing, advertising, and entertainment industries operate. Despite the growing attention given to the potential of AR, I feel like its potential in the workplace has yet to be realized. Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today.

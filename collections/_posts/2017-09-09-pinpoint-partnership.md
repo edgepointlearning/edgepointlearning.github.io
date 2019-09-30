@@ -5,7 +5,6 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-09-09-pinpoint.jpg
 excerpt: At EdgePoint Learning, we're thrilled to announce our new partnership with PinPoint Workforce, the world's first mobile-native learning and compliance system.
-related: false
 ---
 
 At EdgePoint Learning, we're thrilled to announce our new exclusive partnership with [PinPoint Workforce](https://www.pinpointworkforce.com/){:target="_blank"}, the world's first mobile-native learning and compliance system. Today's workforce is increasingly mobile. To better serve employees and give them access to the vital information they need, learning and compliance must go that way as well. PinPoint's location-aware system is the first to make information delivery easy whether employees are on in a factory or in the field. And EdgePoint Learning strengthens the PinPoint mobile platform with custom-made content for your learning team.

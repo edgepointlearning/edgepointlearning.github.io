@@ -5,7 +5,6 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-06-13-hero-advantages-of-elearning.jpg
 excerpt: Saving money and employee time? These are only two of the many advantages of eLearning for your workforce.
-related: false
 ---
 
 We love some good alliteration around here, but especially when it comes to the absolutely amazing advantages of eLearning programs for your employees. Not only does eLearning save your company money, as compared to instructor-led training, it also boosts employee morale and better fits the needs of your global company. Here's how.

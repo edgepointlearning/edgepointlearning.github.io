@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-11-14-benefits-of-experiential-learning.jpg
 excerpt: Experiential learning in the workplace is an opportunity to revolutionize how companies train their employees and develop leaders from within.
-related: false
 ---
 
 Today’s modern learner is distracted, often untethered to a physical building, and overwhelmed by their responsibilities. Where does this leave time for training and development? Basically, shoehorned into an average of 24 minutes per week. Let’s face it: working smarter, not harder means finding ways to offer valuable training that employees can use (and that sticks for longer than a few minutes). For companies of every size, these five benefits of experiential learning may just point towards the answer.

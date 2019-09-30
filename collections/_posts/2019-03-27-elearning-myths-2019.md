@@ -5,7 +5,6 @@ author:
   name: Michael Hansen
 image: blog/2019/2019-03-27-elearning-myths-2019.jpg
 excerpt: "We all know eLearning is a growing industry and what may have been par for course in 2014 is no longer a best practice. In 2019, these are the six eLearning myths we can leave completely behind."
-related: false
 ---
 
 It’s easy to get swept up in new eLearning trends and technologies without realizing that not all training is created equal. Further, eLearning is a growing industry and what may have been par for course in 2014 is no longer a best practice. In 2019, these are the six eLearning myths we can leave completely behind.

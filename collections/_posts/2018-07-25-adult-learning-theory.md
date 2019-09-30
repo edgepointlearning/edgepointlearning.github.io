@@ -5,7 +5,6 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-07-25-adult-learning-theory.jpg
 excerpt: Adult learning theory is the data-backed way into the minds of adults. Understanding it can help you create better eLearning opportunities for your employees. Here's how.
-related: false
 ---
 
 Referred to collectively as andragogy, adult learning is not a one-size-fits-all model. Just as children need a variety of techniques to engage them, adults also require different approaches. We tend to think of adults as able to sit in a classroom (or boardroom) and absorb another presentation after boring presentation. In truth, that’s just as ineffective as it would be for a toddler. Adult learning theory is a way into the minds of adults. Understanding it can help you create better eLearning opportunities for your employees. Here's how.

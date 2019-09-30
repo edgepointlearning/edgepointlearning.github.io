@@ -5,7 +5,6 @@ author:
   name: M. Craig Cocciola, Director of IT and FSO at ABL Cyber Academy
 image: blog/2018/2018-02-01-cyber-security-training.jpg
 excerpt: If an employee touches a computer, they need cyber security training. Here's how to make it actually worth their (and your) time.
-related: false
 ---
 Cyber security training for employees may not be on the top of your list of priorities, but consider this: on December 6, 2017 Mecklenberg county officials in North Carolina received a [ransom note from a hacker](https://www.washingtonpost.com/national/the-latest-disruption-from-county-cyberattack-continues/2017/12/07/22b6673e-db7b-11e7-a241-0848315642d0_story.html?utm_term=.09743185832b){:target="_blank"}, threatening to bring the county to a standstill if it didn’t pay a ransom of $23,000. The county refused, the attack went through, and now the most populated metro area in North Carolina has been reeled back into the 20th century, relying on paper records and processing for permits, jail intakes, court cases, and every other function of county government. A measly 44 of the county’s 500 servers was breached, but the cost to the county could stretch into the millions of dollars.
 
