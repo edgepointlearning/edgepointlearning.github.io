@@ -118,6 +118,6 @@ Imagine your employees enter a jobsite and need just-in-time information on chan
 
 PSTs – think checklists, quick-fix videos, or definitions – can help employees maintain a consistent quality standard when completing a task. This type of microlearning is targeted to specific objectives for specific performance-based tasks.
 
-With so many different types of microlearning to choose from, [creating an individualized package of training](/blog/whats-the-key-to-creating-a-successful-elearning-project/) for your employees has never been easier. Using microlearning, companies know that they are creating effective, efficient, and affordable learning solutions for their employees. Find even more examples of [different types of employee training here](/blog/top-10-types-of-employee-training).
+With so many different types of microlearning to choose from, creating an individualized training program for your employees has never been easier. Using microlearning, companies know that they are creating effective, efficient, and affordable learning solutions for their employees. Find even more examples of [different types of employee training here](/blog/top-10-types-of-employee-training).
 
 <strong>If you are ready to get started developing your company’s microlearning, [give EdgePoint Learning a call today](/contact/). We can help.</strong>
