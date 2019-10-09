@@ -1,13 +1,28 @@
 ---
-title: 12 Absolutely Amazing Advantages Of eLearning For Your Employees
+title: 12 Of The Biggest Benefits Of eLearning For Employees
 permalink: /blog/advantages-of-elearning/
 author:
-  name: Nikki VanRy
+  name: Corey Bleich
 image: blog/2017/2017-06-13-hero-advantages-of-elearning.jpg
-excerpt: Saving money and employee time? These are only two of the many advantages of eLearning for your workforce.
+excerpt: Saving money and employee time? These are only two of the many benefits of eLearning for your workforce. Read on to learn more.
 ---
 
-We love some good alliteration around here, but especially when it comes to the absolutely amazing advantages of eLearning programs for your employees. Not only does eLearning save your company money, as compared to instructor-led training, it also boosts employee morale and better fits the needs of your global company. Here's how.
+Not only does eLearning save your company money compared to instructor-led training, it does so much more. If you're making a business case for eLearning development, these are the major benefits of eLearning for your employees and company:
+
+1. Saves your company money
+2. Reduces learning time
+3. Better employee retention for most training topics
+4. Just-in-time accessibility for worldwide employees
+5. Provides employees with ongoing access to key resources
+6. Guarantees a risk-free environment for your employees 
+7. Allows for global collaboration
+8. Fits your employee's flexible lifestyles
+9. Scalable for any number of employees
+10. Provides your employees, and managers, with timely feedback
+11. Ensures training consistency and standardization
+12. Reduces your company's environmental impact
+
+Let's look at these advantages of eLearning in more detail. 
 
 ##  1. Saves your company money
 
@@ -35,13 +50,15 @@ With gamification, videos, and other interactive content, eLearning can greatly 
 
 ##  4. Just-in-time accessibility for worldwide employees
 
-Speaking of on-the-go, one of the greatest benefits of eLearning in the workplace is that it's available 24/7 for an increasingly global and remote workforce. Your employees get to access the training when they have the time and capability to do so, no matter where they are.
+Speaking of on-the-go, one of the greatest benefits of eLearning in the workplace is that it's available 24/7 for an increasingly global and remote workforce. 
+
+Your employees get to access training when they have the time and capability to do so, no matter where they are.
 
 ##  5. Provides employees with ongoing access to key resources
 
 If your training covers a lot of material that will need to be referenced later—such as new product specifications—eLearning provides your employees with the opportunity to access those resources right when they need them.
 
-Instead of being confined to the classroom, eLearning materials can go wherever your employees go. (Especially with the advent of [mLearning](/blog/what-is-mlearning/), or mobile learning.)
+Instead of being confined to the classroom, eLearning materials can go wherever your employees go. (Especially with the advent of [mLearning](/blog/types-of-microlearning/), or mobile learning.)
 
 ##  6. Guarantees a risk-free environment for your employees
 
@@ -53,7 +70,9 @@ As the [eLearning Brothers](http://elearningbrothers.com/the-advantages-of-elear
 
 ##  7. Allows for global collaboration
 
-With an increasingly global workforce, one of the greatest advantages of eLearning is that it can be built to encourage online collaboration across the world. Some of the best eLearning solutions allow employees from different departments and countries to contribute to larger company discussions, right in the training module itself.
+With an increasingly global workforce, one of the greatest benefits of eLearning is that it can be built to encourage online collaboration across the world. 
+
+Some of the best eLearning solutions allow employees from different departments and countries to contribute to larger company discussions, right in the training module itself.
 
 ##  8. Fits your employee's flexible lifestyles
 
@@ -61,7 +80,9 @@ Today's employees demand workplace solutions that fit their lifestyles. Providin
 
 ##  9. Scalable for any number of employees
 
-Once you've created your eLearning modules, they can easily be scaled up to roll out to as many employees as you need, in as many languages as you require. Instead of trying to find instructors and classroom space to dedicate to training, all that your employees need is access to a computer or mobile phone.
+Once you've created your eLearning modules, they can easily be scaled up to roll out to as many employees as you need, in as many languages as you require. 
+
+Instead of trying to find instructors and classroom space to dedicate to training, all that your employees need is access to a computer or mobile phone.
 
 ##  10. Provides your employees, and managers, with timely feedback
 
@@ -91,11 +112,13 @@ Switching to eLearning isn't only financially savvy; it's also better for the en
 ##  What about the disadvantages of eLearning?
 
 Your employees will undoubtedly benefit from eLearning modules on most topics, as will your ROI. But, that doesn't mean that eLearning is always the best solution. There are some disadvantages of eLearning.
-For complex, collaborative topics, employees will still get the most benefit from small group training sessions. This is also true for hands-on, mentorship programs.
-Further, eLearning courses must be designed well so they don't distract the learner with overly flashy graphics or animations. You can learn more about the differences between [eLearning and instructor-led training](/blog/Instructor-led-Training-vs-eLearning/) in our recent post.
+
+For complex, collaborative topics, employees will still get the most benefit from small group training sessions. This is also true for hands-on, mentorship programs. Further, eLearning courses must be designed well so they don't distract the learner with overly flashy graphics or animations. 
+
+You can learn more about choosing between [eLearning and instructor-led training](/blog/Instructor-led-Training-vs-eLearning/) in our recent post.
 
 ##  Get started with your own eLearning solutions
 
-To learn more about the benefits of eLearning in the workplace, click the button below to get in touch with the developers at EdgePoint Learning. They can help you determine if eLearning would be the best option for your company.
+To learn more about the benefits of eLearning in the workplace, click the button below to get in touch with our team at EdgePoint Learning. We can help you determine if eLearning would be the best option for your company.
 
 [Contact Us](/contact/ ){:class="button"}
