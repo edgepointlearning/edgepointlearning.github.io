@@ -32,7 +32,7 @@ assets         :  # https://github.com/envygeeks/jekyll-assets/tree/v2.4.0
       - 'Android >= 2.3'
       - 'ios >= 7'
   digest       : false # TEMPORARY FIX FOR FACEBOOK & TWITTER CARDS
-  cache      : false # TEMPORARILY FIXES FONT CACHING BUG
+  # cache      : false # TEMPORARILY FIXES FONT CACHING BUG
   features     :
     automatic_img_size: false
 
