@@ -1,21 +1,21 @@
 ---
-title: Instructor-led Training vs. eLearning
+title: Instructor-Led Training vs. eLearning
 author:
-  name: Megan Dobransky & Nikki VanRy
+  name: Corey Bleich
 image: blog/2014/2018-09-17-349094.jpg
-excerpt: Instructor-led or eLearning, find out what type of training is right for you.
+excerpt: Instructor-led training is the traditional, formal version of training that takes place in a classroom, while eLearning can be taken at anytime from an internet-connected device. Read on to learn more.
 redirect_from:
   - "/blog/2013/7/19/instructor-led-training-vs-elearning"
   - "/2016/07/21/Instructor-led-Training-vs-eLearning/"
 ---
 
-Instructor-led training (ILT) is the more traditional, formal version of training that takes place in a classroom in front of learners, while eLearning is web-based and can be taken at anytime from an internet-connected device. And, then there's blended learning. If you're trying to find the best training program for your employees, there are a few things to consider when it comes to ILT vs. eLearning, or even blended training.
+Instructor-led training (ILT) is the more traditional, formal version of training that takes place in a classroom in front of learners, while eLearning is web-based and can be taken at anytime from an internet-connected device. And, then there's blended learning. If you're trying to find the best training program for your employees, there are a few things to consider when it comes to ILT vs. eLearning, or even blended training. This is what you should know. 
 
 ## What is ILT?
 
 ILT, or instructor-led training, is the type of training you're most familiar with. It's training that occurs in a classroom. There's a teacher presenting the material. And, for many employees for many subjects, this can be the most effective method of training.
 
-All of this, however, depends on what your specific needs are. Some topics will greatly benefit from instructor-led training. Some, however, will be better matched to eLearning.
+All of this, however, depends on what your specific needs are. Some topics will greatly benefit from instructor-led training. Some, however, will be better matched to eLearning as we'll discuss shortly.
 
 ### Advantages of ILT
 
@@ -30,24 +30,26 @@ Challenges do exist with instructor-led training. eLearning offers solutions to 
 
 *  High cost of implementation, both in terms of time and money
 *  Inconsistent messaging and teaching styles of instructors
-*  Time away from work and interruption to employee's daily tasks
+*  Time away from work 
+*  Interruption to employee's daily tasks
 
-
-### What is eLearning?
+## What is eLearning?
 eLearning, on the other hand, offers both opportunities and different challenges for your training program. eLearning refers to any training that takes place online, any where and any time.
 
-Since it's delivered online, eLearning solutions can include videos, tests, activities, and images in the training. Upcoming [eLearning technologies](https://elearningindustry.com/elearning-trends-and-predictions-2017){:target="_blank"} promise even more immersion for your employees, including:
+Since it's delivered online, eLearning solutions can include videos, tests, activities, and images in the training. Upcoming [eLearning technologies](/blog/future-of-corporate-training-2019/){:target="_blank"} promise even more immersion for your employees, including:
 
+*  [Augmented reality](/blog/future-of-augmented-reality/){:target="_blank"} 
+*  Virtual reality simulations
 *  Interactive videos
 *  Mobile learning
 *  Gamification
-*  Virtual or augmented reality simulations
+*  [Geofenced training areas](/blog/geofencing/){:target="_blank"}
 *  Personalized learning paths
 
 ### Advantages of eLearning
-eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015){:target="_blank"}
+eLearning provides distinct advantages for companies. There's a reason that more than 40% of Fortune 500 companies use eLearning, and 72% of organizations claim that eLearning provides them with a distinct competitive advantage as reported by [eLearningIndustry.com](https://elearningindustry.com/elearning-statistics-and-facts-for-2015){:target="_blank"}.
 
-The advantages of eLearning include:
+The [advantages of eLearning](/blog/advantages-of-elearning/){:target="_blank"} include:
 
 *  Saving companies money, in terms of development hours, travel costs, and employee time away from work
 *  Taking less time away from an employee's work day, as eLearning takes up to 40-60% less time than classroom instruction
@@ -59,7 +61,7 @@ The advantages of eLearning include:
 
 These advantages are best accessed when the eLearning course is:
 
-*  Focused on a single, accessible topic, such as sexual harassment or a software demo
+*  Focused on a single, accessible topic, such as [sexual harassment](/blog/online-sexual-harassment-training/){:target="_blank"} or a software demo
 *  Concise, to-the-point, and organized in small chunks to discourage scanning or skimming
 *  Enhanced, but not distracted, by visuals, animations, and activities
 
@@ -85,13 +87,9 @@ Take for example, [Jiffy Lube](https://trainingmag.com/trgmag-article/online-vs-
 
 After providing this blending learning experience, Jiffy Lube saved over eight hours per employee.
 
-## What will work best for me?
+## What will work best for our company?
 Quite simply, it depends. Your topic, employee population, and training resources will all dictate whether ILT vs. eLearning will be more successful for you.
 
 ILT can incorporate many different styles of learning easily, and in-person training tends to be more personal and helps to build relationships. eLearning is more flexible, though, and learners can refer back to courses over and over. Blended learning incorporates benefits of both options to save time and money, while increasing overall employee engagement.
 
-An eLearning consultant can help you break down your specific needs and suggest options that would work best for you. Contact [EdgePoint Learning](/solutions/) to help you determine which style of instruction is best for you and your organization.
-
-Note: This post was originally published in July 2016, but since it had so much interest, we've since added information to it.
-
-Learn more about how [EdgePoint Learning can help](/solutions/) you determine which style is best for you and your organization.
+<strong>One of our eLearning consultants at EdgePoint Learning can help you break down your specific needs and suggest options that would work best for you. Contact [our team](/solutions/) to determine which style of instruction is best for you and your organization.</strong>
