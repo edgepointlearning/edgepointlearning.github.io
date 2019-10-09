@@ -92,12 +92,6 @@ ILT can incorporate many different styles of learning easily, and in-person trai
 
 An eLearning consultant can help you break down your specific needs and suggest options that would work best for you. Contact [EdgePoint Learning](/solutions/) to help you determine which style of instruction is best for you and your organization.
 
-To read more about how to create a learning program for your company, check out our related posts on the topic:
-
-*  [What's the Key to Creating a Successful eLearning Project?](/blog/whats-the-key-to-creating-a-successful-elearning-project/)
-*  [When to Outsource Your eLearning](/blog/when-to-outsource-your-elearning/)
-*  [Is It Time to Evaluate Your Training Strategy?](/blog/is-it-time-to-evaluate-your-training-strategy/)
-
 Note: This post was originally published in July 2016, but since it had so much interest, we've since added information to it.
 
 Learn more about how [EdgePoint Learning can help](/solutions/) you determine which style is best for you and your organization.
