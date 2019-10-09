@@ -80,4 +80,6 @@ Because so many workplaces offer telecommuting options with global workplaces, m
 Any time of the day, on every device, employees can access your workplace diversity training when they have the time and space to give it the attention it deserves.
 
 ## Learn more about diversity training
-<strong>These three diversity training examples are just the beginning. EdgePoint Learning can help you design diversity training that fits your company's needs. [Get in touch today](/contact/)!</strong>
+These three diversity training examples are just the beginning. EdgePoint Learning can help you design diversity training that fits your company's needs. 
+  
+<strong>[Get in touch today](/contact/)!</strong>
