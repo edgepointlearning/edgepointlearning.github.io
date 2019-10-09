@@ -4,10 +4,10 @@ permalink: /blog/on-the-job-training-advantages/
 author:
   name: Corey Bleich
 image: blog/2018/2018-03-21-on-the-job-training-advantages.jpg
-excerpt: On-the-job training is explicit, prescribed, and delivered at the workplace. It prepares your employees for real-time engagement wherever they need it most, along with other major advantages.
+excerpt: Easily applicable, no wasted time, and it makes good (money) sense, along with other major advantages of on-the-job training. Read on to learn more.
 ---
 
-Even the most experienced and educated employees still require training when they join your company. Maybe they just need to learn about the company culture or procedures, but this is still an important part of the onboarding process. For employees and employers, on-the-job training is the best way to get up and running in the most efficient and effective way possible.
+Even the most experienced and educated employees still require training when they join your company. Maybe they just need to learn about the company culture or review the procedures your site uses. For employees and employers, on-the-job training is the best way to get up and running in the most efficient and effective way possible. Read on for its major advantages.
 
 ## What do we mean by on-the-job training?
 
@@ -15,7 +15,7 @@ On-the-job training isn’t quite the same thing as learning by experience. Lear
 
 On-the-job training is a specific type of training that is explicit, prescribed, and delivered at the workplace.
 
-If you have a new intake nurse in your triage unit who needs to learn a specific computer program that your hospital uses, on-the-job training can use [microlearning videos](/blog/microlearning/) to deliver targeted information for that skill alone. Or, your sales team uses [mobile resources](/blog/what-is-mlearning/) to review product demos as they're waiting to enter a meeting.
+For example, if you have a new intake nurse in your triage unit who needs to learn a specific computer program that your hospital uses, on-the-job training could use [microlearning videos](/blog/microlearning/) to deliver targeted information for that skill alone. Or, your sales team could use [mobile resources](/blog/what-is-mlearning/) to review product demos as they're waiting to enter a meeting.
 
 The best on-the-job trainings are:
 
@@ -31,7 +31,13 @@ Learning by experience may eventually be all of these things, but on-the-job tra
 
 The benefits of on the job training for employers and employees alike make it a better option than paying for conferences, guest speakers, or dodgy paper manuals that may just gather dust. No more sitting in windowless rooms for entire weeks of training. No more learning what does not apply or is not necessary.
 
-On-the-job training delivered specifically through various microlearning modules is vital today because the [advantages can’t be beat](/blog/advantages-of-elearning/). It’s applicable, sensible for the bottom line, efficient, and flexible.
+On-the-job training delivered specifically through various microlearning modules is vital today because the [advantages can’t be beat](/blog/advantages-of-elearning/). The major advantages of on-the-job training include: 
+
+1. Easily applicable
+2. It makes good (money) sense
+3. Saves time
+4. Gives you flexibility
+5. It's social-ready
 
 {% asset 'blog/2018/2018-03-21-on-the-job-training-advantages-infographic.jpg'
   alt='On The Job Training Advantages'
@@ -60,17 +66,17 @@ In the end, on-the-job training makes more sense for protecting the bottom line 
 
 Time is a precious commodity for both employers and employees, and one of the best advantages of on-the-job training is that it delivers information when and where your employees need it most.
 
-If your company is managing a large construction project that is under ever-changing codes and zoning laws, you can wrap that zip code in a [geofence](/blog/geofencing/). Once employees pass into that area, a push notification lets them know if there are any changes they need to be aware of. This keeps you in compliance with the law, but it also shows employees that their time is valuable, too. No changes for the day? Then there’s no training needed.
+If your company is managing a large construction project that is under ever-changing codes and zoning laws, you can wrap that area in a [geofence](/blog/geofencing/). Once employees pass into that area, a push notification lets them know if there are any changes they need to be aware of. This keeps you in compliance with the law, but it also shows employees that their time is valuable, too. No changes for the day? Then there’s no training needed.
 
 A geofence can be set for as little as 250 feet, so it’s good for hospital or university complexes, too. This type of microlearning is an ultra-efficient and effective way to integrate on-the-job training into an employee’s day, making the best use of their time (and your resources).
 
-### Flexibility
+### Gives you flexibility
 
 Your employees won’t need all of the information all of the time. They also won’t need it in the same format.
 
 With many different types of eLearning tools available, you can choose the ones that make the best sense for you and your employees.
 
-### Social-ready
+### It's social-ready
 
 Co-workers may be the best source of on-the-job training support, a practice that can help build good employee relationships.
 
