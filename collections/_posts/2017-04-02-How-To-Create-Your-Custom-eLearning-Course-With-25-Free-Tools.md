@@ -4,7 +4,9 @@ author:
   name: Nikki VanRy
 image: blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
 excerpt: You can create a custom eLearning course. We lay out the six steps every successful eLearning project follows, and then talk about the 25 free tools you can use today to make it happen.
-redirect_from: "/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/"
+redirect_from: 
+ - "/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/"
+ - "/blog/whats-the-key-to-creating-a-successful-elearning-project/"
 ---
 
 Do you need to teach your employees about new software or processes? Would an eLearning course make your life so much easier when it came to on-boarding new employees? You can create a custom eLearning course, specifically made to meet your training needs. We lay out the six steps every successful eLearning project follows. Then, check out 25 free tools you can use today to make it happen.
