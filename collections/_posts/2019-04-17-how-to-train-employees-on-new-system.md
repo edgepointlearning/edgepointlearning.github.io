@@ -5,6 +5,9 @@ author:
   name: Corey Bleich
 image: blog/2019/2019-04-17-how-to-train-employees-on-new-system.jpg
 excerpt: "Not sure how to train employees on a new system or technology? Here are five of our favorite tips for doing it effectively and hassle-free."
+redirect_from: 
+  - "/2016/06/15/technical-training-best-practices/"
+  - "/blog/technical-training-best-practices/"
 ---
 The only constant is chang...ing technology.
 {: .featured-text }

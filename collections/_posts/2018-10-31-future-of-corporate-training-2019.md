@@ -1,6 +1,7 @@
 ---
 title:    What Should We Expect For The Future of Corporate Training In 2020?
 permalink: /blog/future-of-corporate-training-2019/
+date: 2019-10-10
 author:
   name: Corey Bleich
 image: blog/2018/2018-10-31-future-of-corporate-training-2019.jpg
