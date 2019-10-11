@@ -4,7 +4,7 @@ gem "jekyll", "~> 3"
 
 group :jekyll_plugins do
   gem "jekyll-assets", "~> 3"
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate-v2", "2.0.0"
   gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
 end
