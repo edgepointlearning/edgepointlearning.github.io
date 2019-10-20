@@ -9,12 +9,27 @@ excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. 
 
 Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/){:target="_blank"}, twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
 
+{% asset 'blog/2017/2017-05-17-what-is-mlearning-02.jpg'
+  alt='86% of employees use their smartphones at work'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ## What is mLearning?
 When it comes to your workforce, you want a variety of training solutions that can meet all of their needs. Some training needs to be in-depth, some needs to be in-person, and some needs to be interactive. We talked a bit about the differences between [eLearning and instructor-led learning](/blog/Instructor-led-Training-vs-eLearning/) in an earlier post, but one topic we didn't cover in that post was mLearning.
 
-With mLearning, you can capture your employee's most important training in the palm of their hand. 
+With mLearning, you can capture your employee's most important training in the palm of their hand.
+
+{% asset 'blog/2017/2017-05-17-what-is-mlearning-01.svg'
+   alt='What is mLearning?'
+   class='marginTopHalf marginBot' %}
+{: .wideImage}
 
 mLearning, or mobile learning as it's also called, isn't just eLearning that's designed for mobile phones and tablets. It's a type of training that uses the advantages of these mobile devices to create better and more focused training materials for your employees.
+
+{% asset 'blog/2017/2017-05-17-what-is-mlearning-03.jpg'
+  alt='Twice as many people go online from a mobile device than laptop or computer'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 In 2017, 47% of organizations used mobile devices for training, and that number is only increasing. A full [86% of employees](https://blog.capterra.com/mobile-learning-trends-2019/){:target="_blank"} already use their phone at work. The world of mLearning is only going to get bigger. By laying the groundwork now for effective mLearning now, we can guarantee even better opportunities for on-the-job training for our future in-house, on-the-road, and remote employees.
 
@@ -30,6 +45,11 @@ Next, think about how you'd train a remote call center staff. They'll need to le
 Those reference guides and new videos? You guessed it—perfectly matched to mLearning.
 
 mLearning is training that takes place right where your employees need it, when they need it. It's necessarily more focused and concise than the majority of eLearning courses. Whereas most eLearning courses are 20-60 minutes long, mLearning modules are built to take three to ten minutes, max.
+
+{% asset 'blog/2017/2017-05-17-what-is-mlearning-04.svg'
+  alt='benefits of mLearning'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 ## What are the major mLearning advantages and disadvantages?
 Not every training topic will benefit from mLearning modules, but when used correctly, mLearning provides training that is:
@@ -64,11 +84,6 @@ That means an mLearning course should be:
 For video content specifically, include easy volume control. If your sales person is on the floor, she won't want a video to start blaring. Incorporate subtitles and make the mute button prominent.
 
 You can create mobile learning courses based on your existing eLearning content, as long as you redesign those courses to actively play into the benefits of mobile. Your courses won't just be smaller—they'll be redesigned for each and every screen.
-
-{% asset 'blog/2017/2017-05-17-what-is-mlearning@2x.png'
-   alt='What is mLearning?'
-   class='marginTopHalf marginBot' %}
-{: .wideImage}
 
 ## Mobile learning for your workforce
 

@@ -14,6 +14,14 @@ Consider this: for an investment of just 10% of an employee’s salary (or less!
 
 According to the 2017 Training industry report, companies spent an average of [$1,075 per employee](https://trainingmag.com/trgmag-article/2017-training-industry-report/){:target="_blank"} trained. While this may seem like small potatoes, this is a $200 increase from the previous year. This translates, in cash dollars, to a nearly 33% increase in overall training expenditures in the U.S. from 2016 to 2017 for a total of nearly 91 billion dollars.
 
+{% asset 'blog/2019/2019-02-06-cost-of-training-new-employees-01.jpg'
+  alt='Companies spend $1,075 on training per employee'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
+{: .wideImage }
+
+
 Training costs include the actual materials created or utilized for training and time spent in each training module or conference. This is calculated into the total because every moment an employee spends in training is time away from their job. While training is crucial for your employees and the success of your business, it does take employees out of the mix for a period of time.
 
 ## What are the hidden costs of training a new employee?
@@ -37,6 +45,13 @@ Poorly trained employees are just not as good at their jobs. This makes employee
 Digital training options along with [on-the-job training](/blog/on-the-job-training-advantages/) allows your new employees to become more settled in their jobs—and happier employees can lead to an increase in your retention rates. Up to 20% of employees in the U.S [quit within 45 days](https://www.bls.gov/news.release/jolts.nr0.htm){:target="_blank"} of being hired for a job. That number increases to as much as 50% when it comes to retail employees!
 
 A turnover can end up [costing your company](http://www.recruiteze.com/cost-hire-new-employee/){:target="_blank"} 16-20% of your employee’s annual salary. As employees move up the ladder, this cost can skyrocket, with managerial level training budgets hovering right around $188,000 for larger companies.
+
+{% asset 'blog/2019/2019-02-06-cost-of-training-new-employees-02.svg'
+  alt='20% of U.S. employees quit within first 45 days'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
+{: .wideImage }
 
 Imagine nearly $200,000 walking out the door annually. That’s the risk of not training your new employees.
 
