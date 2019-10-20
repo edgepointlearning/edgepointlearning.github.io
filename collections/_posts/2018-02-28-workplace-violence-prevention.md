@@ -9,13 +9,6 @@ excerpt: Workplace violence is not something we can ignore as business leaders. 
 
 We should not have to have this conversation, but increasingly, workplace violence prevention is something we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791){:target="_blank"} while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"}, but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.
 
-{% asset 'blog/2018/2018-02-28-workplace-violence-prevention-01.jpg'
-  alt='16% of all workplace fatalities are due to workplace violence'
-  class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
-{: .wideImage }
-
 ## Who is at risk for workplace violence?
 
 There are four major types of workplace violence, including:
@@ -44,6 +37,13 @@ While taxi drivers, healthcare workers, and other social work occupations have s
 For these employees, workplace violence is the third leading cause of death on the job.
 
 In general, the occupations with the highest risk of workplace violence include any that interact with the public, are open after dark, and serve alcohol.
+
+{% asset 'blog/2018/2018-02-28-workplace-violence-prevention-01.jpg'
+  alt='16% of all workplace fatalities are due to workplace violence'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
+{: .wideImage }
 
 ## How can workplace violence training help?
 

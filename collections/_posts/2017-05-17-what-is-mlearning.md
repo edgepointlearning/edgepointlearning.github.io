@@ -19,11 +19,6 @@ When it comes to your workforce, you want a variety of training solutions that c
 
 With mLearning, you can capture your employee's most important training in the palm of their hand.
 
-{% asset 'blog/2017/2017-05-17-what-is-mlearning-01.svg'
-   alt='What is mLearning?'
-   class='marginTopHalf marginBot' %}
-{: .wideImage}
-
 mLearning, or mobile learning as it's also called, isn't just eLearning that's designed for mobile phones and tablets. It's a type of training that uses the advantages of these mobile devices to create better and more focused training materials for your employees.
 
 {% asset 'blog/2017/2017-05-17-what-is-mlearning-03.jpg'
@@ -68,6 +63,11 @@ Mobile learning for workforce training can be a great option for:
 *  Incorporating new technologies, like [augmented reality in corporate training](/blog/future-of-augmented-reality/)
 
 However, mLearning doesn't take the place of eLearning or in-person training. For effective mLearning, it needs to focus on a specific topic, task, or goal. That means it's not good for larger introductory modules or nuanced topics that require a lot of explanation and practice. Likewise, it's difficult to show complex graphics or flow charts on mobile. mLearning can and should complement these larger topics, but it simply isn't the ideal primary mode of training in these cases.
+
+{% asset 'blog/2017/2017-05-17-what-is-mlearning-01.svg'
+   alt='What is mLearning?'
+   class='marginTopHalf marginBot' %}
+{: .wideImage}
 
 ## How do I create an effective mLearning course?
 Once you've found a topic that will benefit from mLearning, create a course with mobile in mind. The design itself shouldn't just be an eLearning course made smaller. It must be created for the mobile environment.
