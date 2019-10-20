@@ -36,7 +36,7 @@ Potential hidden costs of training new employees include:
 * Supplies for new employees: This can be a major expense if your company supplies employees with a full office of products that include printers, laptops, and other basic supplies
 * Manager attention: New employees often need more attention from managers, which takes higher-paid managers away from their other work
 
-Many of these hidden expenses can be mediated with high-quality employee training, but some (e.g., manager supervision and supplies for new employees) are just the cost of doing business.
+Many of these hidden expenses can be mediated with high-quality employee training, but some (e.g. manager supervision and supplies for new employees) are just the cost of doing business.
 
 ## What are the risks of not training new employees?
 
