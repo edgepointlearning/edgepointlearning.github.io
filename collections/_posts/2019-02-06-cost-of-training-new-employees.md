@@ -48,7 +48,7 @@ A turnover can end up [costing your company](http://www.recruiteze.com/cost-hire
 
 {% asset 'blog/2019/2019-02-06-cost-of-training-new-employees-02.svg'
   alt='20% of U.S. employees quit within first 45 days'
-  class='marginTop marginBot'
+  class='marginTop marginBot' %}
 {: .wideImage }
 
 Imagine nearly $200,000 walking out the door annually. That’s the risk of not training your new employees.
