@@ -140,7 +140,7 @@ Using interviews and questionnaires, we can begin to get a clear picture of the 
 
 Many companies recognize the importance of employee training and have some materials and methods in place.
 
-EdgePoint Learning takes a look at what your company has to see what is working, what can be tweaked, and what is ineffective. If you're doing this for your own training, ensure you look hard at all areas of your current (and planned) training initiatives. 
+EdgePoint Learning takes a look at what your company has to see what is working, what can be tweaked, and what is ineffective. If you're doing this for your own training, ensure you look hard at all areas of your current (and planned) training initiatives. Delve into the eLearning authoring tools you already have available to your team, or check out our list of the [top 25 free eLearning tools](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/){:target="_blank"}.
 
 ### Step 6: Develop recommendations
 
