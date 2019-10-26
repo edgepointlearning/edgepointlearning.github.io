@@ -31,6 +31,11 @@ As an employer, you want that, too.
 
 [Emotionally intelligent people with average IQs outperform](https://www.inc.com/travis-bradberry/why-you-need-emotional-intelligence-to-succeed.html){:target="_blank"} people with exceptional IQs 70% of the time. Why? Because emotionally intelligent employees have a high dose of two important skills: personal competence and social competence.
 
+{% asset 'blog/2019/2019-03-13-emotional-intelligence-training-for-employees01.svg'
+  alt='Emotionally intelligent people with average IQs outperform those with exceptional IQs 70% of the time'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 Personally competent employees do not go off the rails whenever something disappointing happens. They show resilience and an ability to persist in the face of personal challenges.
 
 Indeed, these same employees also demonstrate a higher level of social competence. They are able to “read the room” for better communication and understanding. They know how to manage this information to successfully interact with people from all walks of life (and in every kind of mood).
@@ -42,6 +47,11 @@ Emotional intelligence skills are difficult to measure and challenging to teach,
 * <strong>Success for your company:</strong> Of top performers, 90% have a high EI
 
 If you aren’t sure where to start, keep reading.
+
+{% asset 'blog/2019/2019-03-13-emotional-intelligence-training-for-employees02.svg'
+  alt='Emotionally intelligent people may earn up to $30K more a year'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 ## How to develop emotional intelligence training for employees
 
