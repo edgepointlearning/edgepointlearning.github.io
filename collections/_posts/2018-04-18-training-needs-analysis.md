@@ -5,7 +5,11 @@ author:
   name: Corey Bleich
 image: blog/2018/2018-04-18-training-needs-analysis.jpg
 excerpt:  Conducting a training needs analysis is your first step for developing a successful employee training program. This is how to get started.
+redirect_from:
+ - "/2016/06/01/is-it-time-to-evaluate-your-training-strategy/"
+ - "/blog/is-it-time-to-evaluate-your-training-strategy/"
 ---
+
 Conducting a training needs analysis is your first step to developing a successful training program.
 {: .featured-text }
 
