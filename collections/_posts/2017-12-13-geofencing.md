@@ -19,6 +19,11 @@ Geofencing also makes tracking customers easier for businesses. The geofence can
 
 However, while it may have started as a sales technique, geofencing has real potential in revolutionizing training and recruitment efforts.
 
+{% asset 'blog/2017/geofencing.jpg'
+  alt='Geofencing'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ## How does geofencing for recruitment work?
 
 Geofencing isn’t just for sales and marketing anymore. Increasingly, tech savvy businesses are using a [geofence for recruitment](https://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work){:target="_blank"} and training.
