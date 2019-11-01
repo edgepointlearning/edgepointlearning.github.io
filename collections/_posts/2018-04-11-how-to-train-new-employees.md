@@ -34,7 +34,7 @@ While your exact onboarding tasks may differ, these best practices for employee 
 
 1. Establish your new employee procedures, beforehand
 2. Ensure that all managers use a new hire training checklist
-3. Start onboarding before day 1
+3. Start onboarding before day one
 4. Include onboarding best practices into your procedures
 5. Train for culture, not just topics
 6. Build in regular reviews and adjustments to your training program
@@ -79,7 +79,7 @@ Checklists make life easier to manage, and a new employee training checklist is 
 * [Process Street](https://www.process.st/checklist/employee-onboarding-checklist){:target="_blank"}
 * [Hire by Google](https://hire.google.com/articles/new-hire-checklist/){:target="_blank"}
 
-### 3. Start onboarding before day 1
+### 3. Start onboarding before day one
 
 Think about your first new day at your job. You were likely nervous—unsure of where to park, when to show up, how to dress, where to eat, or who to talk to.
 
