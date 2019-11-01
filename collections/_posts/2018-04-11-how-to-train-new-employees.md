@@ -4,7 +4,7 @@ permalink: /blog/how-to-train-new-employees/
 author:
   name: Corey Bleich
 image: blog/2018/2018-04-11-how-to-train-new-employees.jpg
-excerpt:  It’s a common mistake that even successful businesses make: not formally training new employees. Here's how to train your new employees effectively with a new hire training checklist.
+excerpt:  "It’s a common mistake that even successful businesses make: not formally training new employees. Here's how to train your new employees effectively with a new hire training checklist."
 ---
 
 You wouldn’t hand a new high school graduate the keys to a Tesla and let them go, but this is an exaggerated equivalent of some company new hire training programs. Learning how to train new employees effectively is the cornerstone of success for any company. This post is your guide to better and more effective new hire training. Keep reading to learn more. 
