@@ -103,8 +103,6 @@ These three big topics are all related and a crucial part of new manager trainin
 
 Beyond all the practical parts of management training programs, the bottom line is people. Managers need to cultivate skills to support their people, and the appropriate training can help with this.
 
-Image quote: Managers need to cultivate skills to support their people. 
-
 {% asset 'blog/2019/2019-11-06-new-manager-training02.jpg'
   alt='Managers need to cultivate skills to support their people.'
   class='marginTop marginBot' %}
