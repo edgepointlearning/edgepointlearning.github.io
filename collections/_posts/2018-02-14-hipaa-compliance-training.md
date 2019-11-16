@@ -59,6 +59,11 @@ Imagine your potentially embarrassing health diagnosis plastered on a billboard 
 
 More than embarrassment, patients can also experience medical identity theft. [Medical identity theft](https://oig.hhs.gov/fraud/medical-id-theft/index.asp){:target="_blank"} occurs when a patient’s personal information is stolen and used to submit false Medicaid or Medicare claims. This disrupts care and costs millions of taxpayer dollars annually.
 
+{% asset 'blog/2018/2018-02-14-hipaa-compliance-training01.png'
+  alt='Medical identity theft costs millions of dollars annually'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ### How to protect information
 
 While your employees are not likely to share sensitive patient information intentionally, one of the most important HIPAA rules deals with inadvertent sharing. Physical safeguards used to be all about protecting paper records. These days, much more of the focus is on electronic records and access, with only a nod to those color-coded patient files of yesteryear. HIPAA training for employees includes best practices on user IDs, emergency access protocols, and automatic log-off.
@@ -105,4 +110,4 @@ If employees have gaps in their knowledge or just need more, pivot to a strategy
 
 Our team at [EdgePoint Learning](/) offers both fully-customized and off-the-shelf mobile and online eLearning HIPAA training resources for your employees. Let us help you find a solution that fits your needs (and your budget!).
 
-<strong>[Get in touch today](/contact/)!</strong>
+[Contact Us](/contact/ ){:class="button"}
