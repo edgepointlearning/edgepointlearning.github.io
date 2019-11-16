@@ -14,6 +14,12 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 ## What is microlearning?
 
+{% asset 'blog/2018/2018-06-13-types-of-microlearning01.png'
+  alt='Most employees only have 24 minutes a week for training'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
+
 Microlearning uses rich media across multiple devices to engage and inspire learners to dig deeper. More than just a larger eLearning course split into pieces, microlearning encourages the learner to apply what they learn immediately.
 
 This form of training was born out of the necessity to create quick, accessible training for employees—right when they need it the most. Since most employees only have [24 minutes a week](https://www.evernote.com/shard/s173/sh/ae2588e8-cd17-449e-b2fc-0b5293498a7a/7d40d8aafddc3662){:target="_blank"} (or 1% of their workweek) to dedicate to training, creating small, actionable learning opportunities is vital.
@@ -44,6 +50,11 @@ Microlearning works best when it's short and focused to one specific learning ob
 
 ## What are the benefits of microlearning?
 Microlearning is desperately needed by time- and attention-hungry employees, and reduces strain on your current training resources. The different types of microlearning offer tremendous benefit to employees and employers, including:
+
+{% asset 'blog/2018/2018-06-13-types-of-microlearning02.png'
+  alt='Microlearning improves knowledge transfer by 17%'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 * <strong>Microlearning is effective:</strong> There is a 17% improvement in [knowledge transfer](http://blog.commlabindia.com/elearning-development/byte-sized-learning){:target="_blank"} when learning is broken into smaller chunks
 
