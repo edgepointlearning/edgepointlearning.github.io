@@ -24,6 +24,11 @@ Not only does eLearning save your company money compared to instructor-led train
 
 Let's look at these advantages of eLearning in more detail. 
 
+{% asset 'blog/2017/2017-06-13-advantages-of-elearning02.png'
+  alt=''
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ##  1. Saves your company money
 
 We'll start with the bottom-line. eLearning is simply more cost-effective for a larger employee audience.
@@ -41,6 +46,11 @@ eLearning can reduce employee time associated with:
 *  Travel time
 *  Breaks and meals
 *  Teaching to a group, rather than an individual
+
+{% asset 'blog/2017/2017-06-13-advantages-of-elearning01.png'
+  alt='eLearning reduces learning time by 60%'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 ##  3. Better employee retention for most training topics
 
@@ -104,9 +114,9 @@ Switching to eLearning isn't only financially savvy; it's also better for the en
 
 "Producing and providing distance learning courses consumes an average of <strong>90% less energy</strong> and produces <strong>85% fewer CO2 emissions</strong> per student than conventional face-to-face courses."
 
-{% asset 'blog/2017/2017-06-13-advantages-of-elearning.jpg'
-   alt='12 Advantages of eLearning For Your Employees'
-   class='marginTop marginBot'%}
+{% asset 'blog/2017/2017-06-13-advantages-of-elearning03.png'
+  alt='eLearning consumes 90% less energy than in-person training'
+  class='marginTop marginBot' %}
 {: .wideImage }
 
 ##  What about the disadvantages of eLearning?

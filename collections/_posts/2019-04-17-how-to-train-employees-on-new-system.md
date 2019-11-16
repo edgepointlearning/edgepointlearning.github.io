@@ -89,3 +89,5 @@ Many employees might also be in the field or remote, so make sure you’re desig
 ## Learn more
 
 <strong>At EdgePoint Learning, teaching you how to train employees on a new system is one of the things we do best. From tweaking your current training program to designing a new one from the ground up, we can help. [Get in touch with our training experts today!](/contact/)</strong>
+
+[Contact Us](/contact/ ){:class="button"}

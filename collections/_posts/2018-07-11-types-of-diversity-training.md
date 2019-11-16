@@ -35,6 +35,12 @@ A recent McKinsey study shows that:
 
 “Companies in the top quartile for racial and ethnic diversity are [35% more likely](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters){:target="_blank"} to have financial returns above their respective national industry medians.”
 
+{% asset 'blog/2018/2018-07-11-types-of-diversity-training01.png'
+  alt='Diverse companies are 35% more likely to have financial returns above industry median'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
+
 This translates to more success overall, but the benefits are clear on an individual level as well.
 
 Diverse companies had nearly two and a half times higher cash flow per employee over a three-year period than non-diverse companies did in a 2015 study from [Bersin by Deloitte](http://www.bersin.com/News/PressArticles.aspx?id=19377){:target="_blank"}.
@@ -82,4 +88,4 @@ Any time of the day, on every device, employees can access your workplace divers
 ## Learn more about diversity training
 These three diversity training examples are just the beginning. EdgePoint Learning can help you design diversity training that fits your company's needs. 
   
-<strong>[Get in touch today](/contact/)!</strong>
+[Contact Us](/contact/ ){:class="button"}
