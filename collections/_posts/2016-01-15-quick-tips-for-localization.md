@@ -1,5 +1,6 @@
 ---
 title: Quick Tips for Localization
+permalink: /blog/quick-tips-for-localization/
 author:
   name: Megan Dobransky
 image: blog/2015/2015-01-15-quick-tips-for-localization.jpg

@@ -1,5 +1,6 @@
 ---
 title: Sales Training Best Practices
+permalink: /blog/sales-training-best-practices/
 author:
   name: Megan Dobransky
 image: blog/2015/2015-07-01-sales-training-best-practices.jpg

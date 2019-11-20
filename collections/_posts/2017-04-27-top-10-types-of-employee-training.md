@@ -1,5 +1,6 @@
 ---
 title: Top 10 Types of Employee Training Methods
+permalink: /blog/top-10-types-of-employee-training/
 author:
   name: Corey Bleich
 image: blog/2017/2017-04-27-top-10-types-of-employee-training.jpg

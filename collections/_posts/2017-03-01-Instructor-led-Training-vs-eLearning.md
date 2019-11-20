@@ -1,5 +1,6 @@
 ---
 title: Instructor-Led Training vs. eLearning
+permalink: /blog/instructor-led-training-vs-elearning/
 author:
   name: Corey Bleich
 image: blog/2014/2018-09-17-349094.jpg

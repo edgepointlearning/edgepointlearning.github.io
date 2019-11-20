@@ -1,5 +1,6 @@
 ---
 title: How to Work with Subject Matter Experts
+permalink: /blog/how-to-work-with-subject-matter-experts/
 author:
   name: Megan Dobransky
 image: blog/2015/2015-05-01-how-to-work-with-subject-matter-experts.jpg
