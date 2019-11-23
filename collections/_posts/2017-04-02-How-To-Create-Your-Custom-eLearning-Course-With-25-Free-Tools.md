@@ -51,7 +51,7 @@ After this step, you'll also send your new course out to SMEs or other company s
 
 Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/){:target="_blank"}.
 
-{% asset 'blog/2017/2017-04-02-how-to-create-an-elearning-course-infographic@2x.png' alt='How to create an eLearning course infographic' %}
+{% asset 'blog/2017/22017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.png' alt='How to create an eLearning course infographic' %}
 {: .wideImage .marginTop .marginBot}
 
 ## 25 free eLearning authoring tools 
@@ -125,3 +125,5 @@ For some, DIYing your own eLearning course won't be worth the time or effort. Or
 * [Technology assistance](/delivery-technology/){:target="_blank"}: Whether you need training, performance support, or new technology to reach your employees, our technology partners can help you meet all of your training goals
 
 <strong>If you need help with any part of your employee training, get in touch with our team at [EdgePoint Learning to get started today](/contact/){:target="_blank"}. Want to see our work in action? [Find all of our demos here](/form/demo/){:target="_blank"}.</strong>
+
+[Contact Us](/contact/ ){:class="button"}
