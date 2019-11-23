@@ -69,6 +69,11 @@ Not every method is appropriate for every company. Choose the method or methods 
 *  Assessments
 *  Competitive analysis
 
+{% asset 'blog/2018/2018-04-18-training-needs-analysis01.png'
+  alt='Training Needs Analysis Tools'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ### Questionnaires
 
 Although [self-reporting is notoriously unreliable](http://www.creative-wisdom.com/teaching/WBI/memory.shtml){:target="_blank"}, this can be a great place to start. How competent do your employees feel? What would they like more training on?
@@ -172,3 +177,5 @@ The following posts can be useful guides as you get started:
 At EdgePoint Learning, we make recommendations based on your company’s goals and work with you to help implement them. Our training needs analysis helps you fine-tune and get more out of your training. More importantly, it can help your business grow. 
 
 <strong>Want to learn more about what we do? [Book a demo today](/form/demo/). </strong>
+
+[Contact Us](/contact/ ){:class="button"}

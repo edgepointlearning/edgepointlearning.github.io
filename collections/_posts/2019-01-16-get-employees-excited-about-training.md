@@ -24,6 +24,11 @@ So what are the benefits of employee engagement?
 * They're [more productive and efficient](https://news.gallup.com/businessjournal/190352/managing-employee-risk-requires-culture-compliance.aspx){:target="_blank"}
 * Engaged employees deliver [better customer service](https://www.forbes.com/sites/christinecomaford/2017/07/08/the-surprising-link-between-customer-experience-and-employee-engagement/#2b2aab0cb512){:target="_blank"}
 
+{% asset 'blog/2019/2019-01-16-get-employees-excited-about-training01.png'
+  alt='Engaged employees are more productive and efficient'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 Put simply, engaged employees feel valued at work and are happy to be there.
 
 ## Barriers to engaging training for employees
@@ -73,6 +78,11 @@ Short and sweet [geofencing](/blog/geofencing/){:target="_blank"} options delive
 The average worker has just 24 minutes of training time every week, but [mobile learners](/blog/what-is-mlearning/){:target="_blank"} study an additional 40 minutes per week, on their own time.
 
 One of the best employee training program ideas is to incorporate the mobile devices they're already using. This can help them become more efficient and effective.
+
+{% asset 'blog/2019/2019-01-16-get-employees-excited-about-training02.png'
+  alt='Mobile learners study an additional 40 minutes per week'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 ### 5. Feed people
 
@@ -126,3 +136,5 @@ Maybe your training needs a little more zip to keep employees engaged. To add a 
 Whether you are considering a total overhaul of your employee training or just a few additional modules of [eLearning](/blog/advantages-of-elearning/) here or there, [EdgePoint Learning](/){:target="_blank"} can help. From helping you get started [creating your own eLearning courses](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/){:target="_blank"} to designing a completely [custom training program](/custom-elearning-course-development/){:target="_blank"} for you, we have the experience and tools you need.
 
 <strong>We know how to get employees excited about training. [Get in touch today](/contact/)!</strong>
+
+[Contact Us](/contact/ ){:class="button"}

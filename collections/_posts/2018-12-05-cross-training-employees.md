@@ -95,3 +95,5 @@ Imagine if a doctor in your medical practice was also responsible for checking i
 There is a fine line between overloading your employees and reaping the benefits of cross-training employees. Let EdgePoint Learning help you review all of your options to find balance. You can learn more about our approach in our post on running a [training needs analysis](/blog/training-needs-analysis/){:target="_blank"}. 
 
 <strong>[Get in touch today to learn more](/contact/)!</strong>
+
+[Contact Us](/contact/ ){:class="button"}
