@@ -2,12 +2,12 @@
 title: How To Make A Successful Business Case For eLearning Development
 permalink: /blog/business-case-for-elearning-development/
 author:
-  name: Corey Bleich
+  name: Michael Hansen
 image: blog/2017/2017-10-01-business-case-for-elearning-development.jpg
 excerpt: You know that eLearning can provide your company with the best training, but you have to convince your boss. Concerned? We've got it down to ten major steps.
 ---
 
-Training, teaching, and learning has changed dramatically over the past few years. With new research into the ways people learn, eLearning has become one of the most effective options for companies that are looking for a consistent, high-quality method of training for their employees. If you're the champion of eLearning at your company, however, it can take some time to convince your boss that the switch from traditional, in-person training to eLearning is worth their time.
+Training, teaching, and learning has changed dramatically over the past decade. With new research into the ways people learn, eLearning has become one of the most effective options for companies that are looking for a consistent, high-quality method of training for their employees. If you're the champion of eLearning at your company, however, it can take some time to convince your boss that the switch from traditional, in-person training to eLearning is worth their time.
 
 Spoiler alert: It absolutely is. From cost savings to consistency, here’s why.
 
@@ -15,21 +15,20 @@ Spoiler alert: It absolutely is. From cost savings to consistency, here’s why.
 
 Simply put, eLearning is “electronic” learning that connects trainers and employees across a variety of platforms.
 
-There are a number of different options for eLearning.
+There are a number of different options for eLearning, including: 
 
-* <strong>mLearning:</strong> [mLearning](/blog/what-is-mlearning/) allows you to provide employees with quick reference guides, troubleshooting pointers, and other reference materials, right to their mobile devices.
+* <strong>mLearning:</strong> mLearning allows you to provide employees with quick reference guides, troubleshooting pointers, and other reference materials, right to their mobile devices.
 * <strong>Web-based training (WBT):</strong> Web-based training can offer employees more interactive eLearning options. These courses may be more extensive and include collaboration among participants.
-* <strong>Microlearning:</strong> [Microlearning](/blog/microlearning) consists of small, easily-digested bits of information, delivered to employees at regular intervals in two to three minute videos.
-* <strong>[Gamification:]</strong> Training employees by delivering information through a game takes advantage of our desire to compete, get recognized for our efforts, and be rewarded for hard work.
+* <strong>Microlearning:</strong> Microlearning consists of small, easily-digested bits of information, delivered to employees at regular intervals in two to three minute videos.
+* <strong>Learning games:</strong> Training employees by delivering information through a game takes advantage of our desire to compete, get recognized for our efforts, and be rewarded for hard work.
 
 No matter your workforce, resources, or budget, there's an eLearning solution that will work for your company.
 
 The benefits of switching to eLearning go far beyond dollars and cents (although that matters, too!). eLearning can help solve some of your business’s most pressing problems when it comes to training employees.
 
 1. <strong>eLearning saves time:</strong> Because there is no need for travel, lunch breaks, and overnight stays, eLearning is the most efficient way deliver information.
-2. <strong>eLearning saves money:</strong> The 2012-2017 Ambient Insight Executive Report found that 42% of companies participating in eLearning across the globe saw an [increase in revenue](http://www.ambientinsight.com/Resources/Documents/Ambient-Insight-2012-2017-Worldwide-Mobile-Learning-Market-Executive-Overview.pdf){:target="_blank"}.
-3. <strong>eLearning is more consistent:</strong> When your eLearning course is in place, training is consistent and standard across the board for all employees, regardless of where they're located and when they take the training.
-4. <strong>eLearning may save the world:</strong> Seriously. According to [Articulate](http://blogs.articulate.com/rapid-elearning/why-e-learning-is-so-effective/){:target="_blank"}, producing and delivering an eLearning course uses 90% less energy and produces 85% fewer carbon emissions than traditional in-person courses.
+2. <strong>eLearning is more consistent:</strong> When your eLearning course is in place, training is consistent and standard across the board for all employees, regardless of where they're located and when they take the training.
+3. <strong>eLearning may save the world:</strong> Producing and delivering an eLearning course uses less energy than travel for traditional in-person courses.
 
 ## How can I convince my boss?
 
@@ -76,7 +75,7 @@ You may also want to consider:
 
 ### Step 6: Show how eLearning makes important training materials evergreen
 
-Once your company has eLearning courses in place, those materials can provide lasting training over time and space. When you create a [custom eLearning course](/blog/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/), you can easily share it with new employees who can complete it on their own time, at their own pace.
+Once your company has eLearning courses in place, those materials can provide lasting training over time and space. When you create a custom eLearning course, you can easily share it with new employees who can complete it on their own time, at their own pace.
 
 ### Step 7: Decide how these new courses will roll out
 
@@ -103,7 +102,3 @@ Lay out the per-employee expenditures for in-person training vs. eLearning to sh
 More coordinated, efficient training is the future. 50% of millennials are [not interested in sitting in a classroom to learn](https://elearningindustry.com/engage-millennials-in-the-workplace-3-examples-microlearning-gamification-social-learning){:target="_blank"} , and 39% want to see more virtual education as they move into the workforce. By 2025, 75% of the workforce will be millennials, a huge percentage that employers can’t ignore.
 
 It's time to make the business case for your company to provide the competitive advantage your company needs to succeed in today's global environment.
-
-<strong>The world of eLearning is big and always growing. [Give us a call](/contact/). EdgePoint Learning can help you evaluate your existing program to figure out which type of training is best for you.</strong>
-
-[Contact Us](/contact/ ){:class="button"}
