@@ -125,3 +125,5 @@ Your workplace safety training is only as good as the materials you use and your
 *  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](/blog/microlearning/){:target="_blank"} resources into your program, or create [geofenced resources](/blog/geofencing/){:target="_blank"} that employees can use when on a particular site.
 
 <strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help! We've developed an innovative library of on-demand or fully-custom safety training materials for modern companies. Find examples of our work in our ["Safe Lifting" demos](/form/demo/){:target="_blank"} or [get in touch](/contact/){:target="_blank"} to see how we can help you meet your safety goals!</strong>
+
+[Contact Us](/contact/ ){:class="button"}
