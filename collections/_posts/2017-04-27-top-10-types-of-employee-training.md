@@ -99,8 +99,6 @@ Case studies are a great option for focused topics, but more complex topics will
 {% asset 'blog/2017/2017-04-27-types-of-employee-training@2x.png' alt='Types of Employee Training' %}
 {: .wideImage .marginTop .marginBot}
 
-<p class="lead">
-  
 ## Learn more about types of training
 
 At [EdgePoint Learning](/about/){:target="_blank"}, we know that employee training is only effective when it's engaging. The best way to do that is to start from the beginning and consider the best types of training methods for your workforce, your needs, and your resources. Once you do that, you can create rich learning opportunities that empower and truly engage your employees.
