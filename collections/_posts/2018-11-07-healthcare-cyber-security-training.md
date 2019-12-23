@@ -49,7 +49,7 @@ Diving in without this means employees may be hearing what they already know (an
 
 Whomever authorizes trainings (and pays for them!) needs to be on board from the very start. If not, they may drag their feet when it comes to scheduling employee time for training or budgeting for more effective tools, such as a mobile learning course.
 
-If your leadership team isn't convinced of the importance of cyber security, show them the statistics on [how much data breaches cost](https://newsroom.ibm.com/2018-07-11-IBM-Study-Hidden-Costs-of-Data-Breaches-Increase-Expenses-for-Businesses){:target="_blank"}. With a price tag reaching well into the millions, this bite out of the bottom line should help convince even the most reluctant executive.
+If your leadership team isn't convinced of the importance of cyber security, show them the statistics on [how much data breaches cost](https://www.ibm.com/security/data-breach){:target="_blank"}. With a price tag reaching well into the millions, this bite out of the bottom line should help convince even the most reluctant executive.
 
 But let’s face it. Although preserving the bottom line is important, customers and their data are precious and worth protecting on their own.
 
