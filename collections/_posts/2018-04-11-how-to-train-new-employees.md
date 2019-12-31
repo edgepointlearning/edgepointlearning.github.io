@@ -25,6 +25,13 @@ According to some estimates, the [cost of replacing employees](http://www.recrui
 * 91% of employees stick around for at least a year when organizations have efficient onboarding processes
 * 69% of them stick around for at least three years when companies have well-structured onboarding programs
 
+{% asset 'blog/2018/2018-04-11-how-to-train-new-employees01.jpg'
+  alt='91% of employees stay for at least a year when companies have well-structured new hire training'
+  class='marginTop marginBot'
+  magick:resize='1170'
+  magick:quality='92' %}
+{: .wideImage }
+
 Now imagine that 91% of your employees stay for at least a year and 69% are still going strong after three years. What does that mean for your bottom line? Your company culture? 
 
 ## How to train new employees effectively
@@ -42,12 +49,7 @@ While your exact onboarding tasks may differ, these best practices for employee 
 
 Let's look at each of these in more detail. 
 
-{% asset 'blog/2018/2018-04-11-how-to-train-new-employees-infographic.jpg'
-  alt='How To Train New Employees Effectively'
-  class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
-{: .wideImage }
+
 
 ### 1. Establish your new employee procedures
 
@@ -79,6 +81,11 @@ Checklists make life easier to manage, and a new employee training checklist is 
 * [SmartSheet](https://www.smartsheet.com/free-onboarding-checklists-and-templates){:target="_blank"}
 * [Process Street](https://www.process.st/checklist/employee-onboarding-checklist){:target="_blank"}
 * [Hire by Google](https://hire.google.com/articles/new-hire-checklist/){:target="_blank"}
+
+{% asset 'blog/2019/2019-09-11-better-new-hire-onboarding01.svg'
+  alt='New Hire Onboarding Starts Before Day 1'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 ### 3. Start onboarding before day one
 
@@ -141,3 +148,5 @@ If you need additional guidance, our team of instructional design experts at Edg
 * [Co-development](/co-development-services/){:target="_blank"}: Our team works as an extension of your company, providing the skills or extra set of hands you need to complete projects
 
 <strong>Better new hire training starts here. If you want to learn more about your employee training options, get in touch with [EdgePoint Learning today](/contact/){:target="_blank"}. Want to see our work in action? [Find all of our demos here](/form/demo/){:target="_blank"}.</strong>
+
+[Contact Us](/contact/ ){:class="button"}

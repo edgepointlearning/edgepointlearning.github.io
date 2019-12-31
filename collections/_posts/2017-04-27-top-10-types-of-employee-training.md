@@ -25,6 +25,11 @@ The best types of employee training methods for your workforce may include:
 
 We discuss the ideal situations for these types of training for employees, along with their respective challenges below. 
 
+{% asset 'blog/2017/2017-04-27-types-of-employee-training@2x.png'
+  alt='Types of employee training'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ## 1. Instructor-led training
 
 Instructor-led training is the traditional type of employee training that occurs in a classroom, with a teacher presenting the material.
@@ -96,9 +101,6 @@ Finally, some employee training topics are readily accessible through required r
 
 Case studies are a great option for focused topics, but more complex topics will likely require more advanced types of employee training.
 
-{% asset 'blog/2017/2017-04-27-types-of-employee-training@2x.png' alt='Types of Employee Training' %}
-{: .wideImage .marginTop .marginBot}
-
 ## Learn more about types of training
 
 At [EdgePoint Learning](/about/){:target="_blank"}, we know that employee training is only effective when it's engaging. The best way to do that is to start from the beginning and consider the best types of training methods for your workforce, your needs, and your resources. Once you do that, you can create rich learning opportunities that empower and truly engage your employees.
@@ -114,3 +116,5 @@ From full custom development to comprehensive instructional strategy, our expert
 Since most employees can only dedicate 1% of their workweek to training, it's time to make those 24 minutes more effective, more engaging, and maybe even a little fun. We're here for better employee training, and we hope you are too. 
 
 <strong>Ready to see different types of employee training in action? Check out our [library of demos or request a personalized demo today](/form/demo/){:target="_blank"}.</strong>
+
+[Contact Us](/contact/ ){:class="button"}
