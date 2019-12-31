@@ -41,6 +41,11 @@ The Bureau of Labor Statistics estimated that these five conditions made up 34% 
 
 Teach employees how to lift, sit, and move throughout their day so you can be rewarded with fewer sick days, lowered healthcare costs, and happier employees. Find our full guide on creating [effective ergonomics training here](/blog/ergonomics-training/){:target="_blank"}.
 
+{% asset 'blog/2018/2018-03-14-employee-safety-training-topics01.jpg'
+  alt='Ergonomic injuries costs $50 billion annually'
+  class='marginTop marginBot' %}
+{: .wideImage }
+
 ### 2. Fire safety
 
 We take for granted that our adult employees understand [fire safety](https://www.osha.gov/SLTC/firesafety/standards.html){:target="_blank"}, but it’s an important (and OSHA-required) part of every industry. 
@@ -50,6 +55,11 @@ New employee safety training must cover employee egress in event of a fire. Many
 ### 3. Workplace violence prevention
 
 The Federal Bureau of Investigation estimates that approximately two million people in the U.S. are victims of workplace violence annually, with 80% of all active shooter incidents occurring in the workplace.
+
+{% asset 'blog/2018/2018-03-14-employee-safety-training-topics02.jpg'
+  alt='74% of domestic violence victims are harassed or attacked at work'
+  class='marginTop marginBot' %}
+{: .wideImage }
 
 The statistics on domestic violence that seeps into the workplace are sobering as well. Women in the workplace are overwhelmingly the target of this type of workplace violence. A study of domestic violence survivors found that fully 74% of them were [harassed or attacked in the workplace](https://police.ucsf.edu/system/files/domesticviolenceworkplace.pdf){:target="_blank"}. OSHA identifies [homicide as the leading cause of death for women at work](https://thinkprogress.org/why-are-so-many-women-being-murdered-at-work-fb16cec07115/){:target="_blank"}.
 
@@ -115,3 +125,5 @@ Your workplace safety training is only as good as the materials you use and your
 *  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](/blog/microlearning/){:target="_blank"} resources into your program, or create [geofenced resources](/blog/geofencing/){:target="_blank"} that employees can use when on a particular site.
 
 <strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help! We've developed an innovative library of on-demand or fully-custom safety training materials for modern companies. Find examples of our work in our ["Safe Lifting" demos](/form/demo/){:target="_blank"} or [get in touch](/contact/){:target="_blank"} to see how we can help you meet your safety goals!</strong>
+
+[Contact Us](/contact/ ){:class="button"}
