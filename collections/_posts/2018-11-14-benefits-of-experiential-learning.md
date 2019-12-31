@@ -61,8 +61,7 @@ There are five major benefits of experiential learning in the workplace:
 {% asset 'blog/2018/2018-11-14-benefits-of-experiential-learning-infographic.jpg'
   alt='Major Benefits Of Experiential Learning'
   class='marginTop marginBot' 
-  magick:resize='1170'
-  magick:quality='92'%}
+  magick:resize='1170' %}
 {: .wideImage }
 
 

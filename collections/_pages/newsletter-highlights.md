@@ -20,8 +20,7 @@ cards:
 {% asset 'blog/2018/2018-07-25-adult-learning-theory.jpg'
    alt='question & answer session'
    class='marginTop marginBotNone'
-   magick:resize='670'
-   magick:quality='92' %}
+   magick:resize='670' %}
 
 ## Frequently Asked Questions about eLearning
 
@@ -44,8 +43,7 @@ For more information, check out our blog on [12 Amazing advantages of eLearning 
 {% asset 'blog/2018/2018-06-27-corporate-finance-training.jpg'
    alt='writing SMART goals'
    class='marginTop marginBotNone'
-   magick:resize='670'
-   magick:quality='92' %}
+   magick:resize='670' %}
 
 ## How To Succeed With SMART Goals
 You've probably heard of SMART Goals at some point in time. For those of you who set personal goals or resolutions, now might be a good time to utilize this goal crushing approach. SMART goal setting brings structure and accountability to your goals and objectives to help you hold yourself accountable for your goal and yourself. The main elements of a SMART goal are:
@@ -71,8 +69,7 @@ See a [sample video](/demo/goal-setting/) clip explaining SMART goals created fo
 {% asset 'blog/2019/2019-01-16-get-employees-excited-about-training.jpg'
    alt='excited employee'
    class='marginTop marginBotNone'
-   magick:resize='670'
-   magick:quality='92' %}
+   magick:resize='670' %}
 
 ## How To Get Employees Excited About Training: 10 Ways To Motivate Them
 
@@ -83,8 +80,7 @@ We have all been there, trudging into a boardroom for a three-day conference on 
 {% asset 'blog/2018/2018-04-18-training-needs-analysis.jpg'
    alt='man analyzing training needs'
    class='marginTop marginBotNone'
-   magick:resize='670'
-   magick:quality='92' %}
+   magick:resize='670' %}
 
 ## How To Conduct A Training Needs Analysis
 

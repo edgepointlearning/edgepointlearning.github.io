@@ -115,8 +115,7 @@ EdgePoint worked first with their CEO to identify goals and evaluate their exist
 {% asset 'blog/2018/steve-pruniski.jpg'
    alt='Steve Pruniski'
    class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120'
-   magick:quality='92' %}
+   magick:resize='120' %}
 
 ### Steve Pruniski
 

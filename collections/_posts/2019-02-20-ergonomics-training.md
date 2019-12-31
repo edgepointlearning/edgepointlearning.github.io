@@ -100,8 +100,7 @@ These are just a few examples of the ways in which ergonomics training becomes a
 {% asset 'blog/2019/clint-everton.jpg'
    alt='Clint Everton'
    class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120'
-   magick:quality='92' %}
+   magick:resize='120' %}
 
 ### Clint Everton
 

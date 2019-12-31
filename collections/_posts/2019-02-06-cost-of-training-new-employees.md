@@ -17,8 +17,7 @@ According to the 2017 Training industry report, companies spent an average of [$
 {% asset 'blog/2019/2019-02-06-cost-of-training-new-employees-01.jpg'
   alt='Companies spend $1,075 on training per employee'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 

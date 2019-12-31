@@ -42,8 +42,7 @@ On-the-job training delivered specifically through various microlearning modules
 {% asset 'blog/2018/2018-03-21-on-the-job-training-advantages-infographic.jpg'
   alt='On The Job Training Advantages'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ### Easily applicable

@@ -41,8 +41,7 @@ In general, the occupations with the highest risk of workplace violence include 
 {% asset 'blog/2018/2018-02-28-workplace-violence-prevention-01.jpg'
   alt='16% of all workplace fatalities are due to workplace violence'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ## How can workplace violence training help?

@@ -28,8 +28,7 @@ According to some estimates, the [cost of replacing employees](http://www.recrui
 {% asset 'blog/2018/2018-04-11-how-to-train-new-employees01.jpg'
   alt='91% of employees stay for at least a year when companies have well-structured new hire training'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 Now imagine that 91% of your employees stay for at least a year and 69% are still going strong after three years. What does that mean for your bottom line? Your company culture? 

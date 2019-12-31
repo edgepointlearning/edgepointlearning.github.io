@@ -37,16 +37,14 @@ This is an example blog post that shows several types of HTML content supported 
    alt='A pink chrysanthemum'
    id:'chrysanthemum'
    class='marginBot marginTopHalf'
-   magick:resize='670'
-   magick:quality='92' %}
+   magick:resize='670' %}
 
 ### Wide images are 1170px wide
 
 {% asset 'blog/2014/2014-01-01-cat-treat.jpg'
    alt='A well-behaved cat'
    class='marginBot marginTopHalf'
-   magick:resize='1170'
-   magick:quality='92' %}
+   magick:resize='1170' %}
 {: .wideImage }
 
 ### Smaller images can be floated
@@ -54,8 +52,7 @@ This is an example blog post that shows several types of HTML content supported 
 {% asset 'blog/2014/2014-01-01-a-bouquet-of-nutrition.jpg'
    alt='broc'
    class='float-right thumbnail marginTopEM marginLeft'
-   magick:resize='240'
-   magick:quality='92' %}
+   magick:resize='240' %}
 
 **Don't forget to add a `.clearfix` class to the paragraph or block element that follows a floated image!** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {: .clearfix }
@@ -63,8 +60,7 @@ This is an example blog post that shows several types of HTML content supported 
 {% asset 'blog/2014/2014-01-01-lemon.jpg'
    alt='broc'
    class='float-left thumbnail marginTopHalf marginRight'
-   magick:resize='240'
-   magick:quality='92' %}
+   magick:resize='240' %}
 
 **Don't forget to add a `.clearfix` class to the paragraph or block element that follows a floated image!** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 {: .clearfix }
@@ -153,8 +149,7 @@ Othewise, tables are full-width by default:
 {% asset 'blog/2014/2014-01-01-today-pink-is-my-mood.jpg'
    alt='Author Name'
    class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120'
-   magick:quality='92' %}
+   magick:resize='120' %}
 
 ### An Esteemed Author
 

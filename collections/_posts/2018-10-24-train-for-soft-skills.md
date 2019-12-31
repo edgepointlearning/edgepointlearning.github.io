@@ -54,8 +54,7 @@ Soft skills development does not occur in a vacuum, and it doesn’t just magica
 {% asset 'blog/2018/2018-10-24-train-for-soft-skills-infographic.jpg'
   alt='Train For Soft Skills'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ### 1. Hire smarter

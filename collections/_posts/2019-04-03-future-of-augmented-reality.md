@@ -37,8 +37,7 @@ Usually, the camera and display screen are fitted for the user with goggles of s
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-01.jpg'
   alt='Phone in hand with augmented reality'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ## Current uses of augmented reality
@@ -90,8 +89,7 @@ Augmented reality in corporate training has been shown to improve critical aspec
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-02.jpg'
   alt='Engine diagram in augmented reality'
   class='marginTop marginBot'
-  magick:resize='1170'
-  magick:quality='92' %}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ### Communication
@@ -163,8 +161,7 @@ The ability to superimpose virtual objects on the real world while undergoing a 
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-ig.jpg'
   alt='Six benefits of cross training employees'
   class='marginTop marginBot' 
-  magick:resize='1170'
-  magick:quality='92'%}
+  magick:resize='1170' %}
 {: .wideImage }
 
 ## Potential benefits of augmented reality in corporate training
@@ -203,8 +200,7 @@ Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.
 {% asset 'blog/2017/2017-10-16-quincy-conley.jpg'
    alt='Quincy Conley'
    class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='300'
-   magick:quality='92' %}
+   magick:resize='300' %}
 
 *Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and researcher for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
 {: .clearfix }

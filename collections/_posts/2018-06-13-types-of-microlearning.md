@@ -84,8 +84,7 @@ There are 11 major types of microlearning you can choose from, including:
   'blog/2018/2018-06-13-top-11-types-of-employee-training.jpg'
    alt='Top 11 Types of Employee Training'
    class='marginTop marginBot'
-   magick:resize='1280'
-   magick:quality='92'  %}
+   magick:resize='1280' %}
 {: .wideImage }
 
 ### Interactive parallax-based scrolling
