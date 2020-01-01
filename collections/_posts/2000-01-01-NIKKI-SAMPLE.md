@@ -5,13 +5,25 @@ excerpt: This is the text preview that shows up in search engines and on the /bl
 author:
   name: Tyler Campbell
 image: blog/2019/2019-09-12-nikki-sample.jpg
-#date: 2030-09-12
+date: 2020-01-01
 #redirect_from: "/blog/2001/01/01/sample-post"
 ---
 Few things in business are more guaranteed to produce groans than ice-breaking or team-building activities. Why? Because most of these feel forced and inauthentic, placing employees in uncomfortable situations with strangers and forcing them to make the best of it.
 {: .featured-text }
 
 The **delivery method** will depend on the *information* itself. Microlearning training takes ***300% less time*** and costs 50% less for you to put together. New hires can learn on their own time (and take learning with them wherever they go).
+
+{% asset 'blog/2014/2014-01-01-cat-treat.jpg'
+   alt='A well-behaved cat'
+   class='marginBot marginTop'
+   magick:resize='1170' %}
+{: .wideImage }
+
+If your new employees need equipment or software for training, make sure they have it. Do they need access to upper management or HR to ask questions? Include that in your training resources.
+
+{% asset 'blog/2014/2014-01-01-cat-treat.jpg'
+   alt='A well-behaved cat'
+   magick:resize='1170' @pic %}
 
 If your new employees need equipment or software for training, make sure they have it. Do they need access to upper management or HR to ask questions? Include that in your training resources.
 

@@ -69,7 +69,7 @@
     &:before {
       content: open-quote;
       display: inline;
-      height: 0;
+      // height: 0;
       line-height: 0;
       left: -10px;
       position: relative;
@@ -88,5 +88,15 @@
   h2 {
     margin-top: $global-margin * 2;
     @extend .h3;
+  }
+}
+
+.layout-post .content picture {
+  display: inline-block;
+  margin-top: $global-margin;
+  margin-bottom: $global-margin;
+  @include breakpoint(large) {
+    margin-top: $global-margin * 2;
+    margin-bottom: $global-margin * 1.5;
   }
 }
