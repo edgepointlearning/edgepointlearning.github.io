@@ -43,9 +43,7 @@ So now you know what you need, and maybe you have even decided which type of SMB
 
 {% asset 'blog/2018/2018-05-16-smb-elearning-infographic.jpg'
   alt='eLearning For Small-Medium Businesses'
-  class='marginBot marginTop'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Start with buy-in from the top
 

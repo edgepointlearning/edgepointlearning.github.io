@@ -90,13 +90,14 @@
     @extend .h3;
   }
 }
-
+// wide raster image
 .layout-post .content picture {
   display: inline-block;
-  margin-top: $global-margin;
-  margin-bottom: $global-margin;
-  @include breakpoint(large) {
-    margin-top: $global-margin * 2;
-    margin-bottom: $global-margin * 1.5;
-  }
+  margin-top: $global-margin * 0.5;
+  margin-bottom: $global-margin * 1.5;
+}
+// normal raster image
+.layout-post .content p img {
+  margin-top: $global-margin * 0.5;
+  margin-bottom: $global-margin * 0.5;
 }

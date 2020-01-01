@@ -10,8 +10,7 @@ excerpt: How to create accessible eLearning programs that comply with WCAG and S
 Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336){:target="_blank"} (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/){:target="_blank"} in another way. Chances are also good that you have employees with [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php){:target="_blank"} that need accommodation. This is how to create accessible eLearning programs for all of your employees.
 
 {% asset 'blog/2019/2019-05-29-accessible-elearning-programs-02.svg'
-  alt='12 percent of U.S. adults are disabled'
-  class='marginTop marginBot' %}
+  alt='12 percent of U.S. adults are disabled' %}
 {: .wideImage }
 
 ## How to create accessible eLearning programs
@@ -55,8 +54,7 @@ The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guid
 The three levels of WCAG – A, AA, and AAA – denote the level of accessibility, with A being the very minimum level and AAA being accessible to all (most companies aim for AA, or higher in larger companies).
 
 {% asset 'blog/2019/2019-05-29-accessible-elearning-programs-01.svg'
-  alt='By September 2020, all EU public-facing websites must meet Web Content Accessibility Guidelines'
-  class='marginTop marginBot' %}
+  alt='By September 2020, all EU public-facing websites must meet Web Content Accessibility Guidelines' %}
 {: .wideImage }
 
 In 2018, the [EU Web Accessibility Directive](http://nda.ie/Publications/Communications/EU-Web-Accessibility-Directive/){:target="_blank"} required public-facing websites and apps to adopt these standards. Any websites created after 2018 must meet accessibility standards by September 2019, while those created before must comply by September 2020. Although these standards are not legally required in the U.S. yet, consider these WCAG guidelines as technology best practices that make your eLearning accessible anywhere in the world. This is especially important for global organizations that train employees in European countries.

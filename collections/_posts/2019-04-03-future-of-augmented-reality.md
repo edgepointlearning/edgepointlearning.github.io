@@ -36,9 +36,7 @@ Usually, the camera and display screen are fitted for the user with goggles of s
 
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-01.jpg'
   alt='Phone in hand with augmented reality'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## Current uses of augmented reality
 
@@ -88,9 +86,7 @@ Augmented reality in corporate training has been shown to improve critical aspec
 
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-02.jpg'
   alt='Engine diagram in augmented reality'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Communication
 
@@ -160,9 +156,7 @@ The ability to superimpose virtual objects on the real world while undergoing a 
 
 {% asset 'blog/2019/2019-04-03-future-of-augmented-reality-ig.jpg'
   alt='Six benefits of cross training employees'
-  class='marginTop marginBot' 
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## Potential benefits of augmented reality in corporate training
 

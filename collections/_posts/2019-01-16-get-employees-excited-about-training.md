@@ -26,8 +26,7 @@ So what are the benefits of employee engagement?
 
 {% asset 'blog/2019/2019-01-16-get-employees-excited-about-training01.png'
   alt='Engaged employees are more productive and efficient'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 Put simply, engaged employees feel valued at work and are happy to be there.
 
@@ -81,8 +80,7 @@ One of the best employee training program ideas is to incorporate the mobile dev
 
 {% asset 'blog/2019/2019-01-16-get-employees-excited-about-training02.png'
   alt='Mobile learners study an additional 40 minutes per week'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 5. Feed people
 

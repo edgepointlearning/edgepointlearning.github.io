@@ -61,8 +61,7 @@ More than embarrassment, patients can also experience medical identity theft. [M
 
 {% asset 'blog/2018/2018-02-14-hipaa-compliance-training01.png'
   alt='Medical identity theft costs millions of dollars annually'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### How to protect information
 

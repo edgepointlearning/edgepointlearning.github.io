@@ -71,8 +71,7 @@ Not every method is appropriate for every company. Choose the method or methods 
 
 {% asset 'blog/2018/2018-04-18-training-needs-analysis01.png'
   alt='Training Needs Analysis Tools'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Questionnaires
 

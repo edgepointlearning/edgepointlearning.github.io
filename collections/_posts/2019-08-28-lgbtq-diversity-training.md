@@ -29,9 +29,7 @@ And in the C-suite? [Executive teams with more diversity made more money](https:
 
 {% asset 'blog/2019/2019-08-28-lgbtq-diversity-training.png'
   alt='Diverse teams outperform individual decision-makers 87% of the time'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## Why is LGBTQ diversity training so important? 
 
@@ -76,9 +74,7 @@ Pro-tip, though: not every employee will want to be involved, for a variety of r
 
 {% asset 'blog/2019/2019-08-28-lgbtq-diversity-training-02.png'
   alt='Meaningfully involve LGBTQ employees in the decision-making process'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 4. Focus on genuine inclusion
 

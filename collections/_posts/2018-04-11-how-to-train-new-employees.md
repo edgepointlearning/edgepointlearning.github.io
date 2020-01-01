@@ -27,9 +27,7 @@ According to some estimates, the [cost of replacing employees](http://www.recrui
 
 {% asset 'blog/2018/2018-04-11-how-to-train-new-employees01.jpg'
   alt='91% of employees stay for at least a year when companies have well-structured new hire training'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 Now imagine that 91% of your employees stay for at least a year and 69% are still going strong after three years. What does that mean for your bottom line? Your company culture? 
 
@@ -82,8 +80,7 @@ Checklists make life easier to manage, and a new employee training checklist is 
 * [Hire by Google](https://hire.google.com/articles/new-hire-checklist/){:target="_blank"}
 
 {% asset 'blog/2019/2019-09-11-better-new-hire-onboarding01.svg'
-  alt='New Hire Onboarding Starts Before Day 1'
-  class='marginTop marginBot' %}
+  alt='New Hire Onboarding Starts Before Day 1' %}
 {: .wideImage }
 
 ### 3. Start onboarding before day one

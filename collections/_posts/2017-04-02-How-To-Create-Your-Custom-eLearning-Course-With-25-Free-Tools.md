@@ -51,10 +51,9 @@ After this step, you'll also send your new course out to SMEs or other company s
 
 Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/){:target="_blank"}.
 
-{% asset 
-  'blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.png'
-  alt='How to create an eLearning course infographic' %}
-{: .wideImage .marginTop .marginBot}
+{% asset 'blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.png'
+  alt='How to create an eLearning course infographic'
+  magick:resize='1170' @pic %}
 
 ## 25 free eLearning authoring tools 
 You'll notice that, in those six steps, we identified a few key areas of development, namely:

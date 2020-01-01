@@ -15,14 +15,6 @@ The **delivery method** will depend on the *information* itself. Microlearning t
 
 {% asset 'blog/2014/2014-01-01-cat-treat.jpg'
    alt='A well-behaved cat'
-   class='marginBot marginTop'
-   magick:resize='1170' %}
-{: .wideImage }
-
-If your new employees need equipment or software for training, make sure they have it. Do they need access to upper management or HR to ask questions? Include that in your training resources.
-
-{% asset 'blog/2014/2014-01-01-cat-treat.jpg'
-   alt='A well-behaved cat'
    magick:resize='1170' @pic %}
 
 If your new employees need equipment or software for training, make sure they have it. Do they need access to upper management or HR to ask questions? Include that in your training resources.
@@ -48,16 +40,13 @@ This is an example blog post that shows several types of HTML content supported 
 {% asset 'blog/2014/2014-01-01-pink-chrysanthemum.jpg'
    alt='A pink chrysanthemum'
    id:'chrysanthemum'
-   class='marginBot marginTopHalf'
    magick:resize='670' %}
 
 ### Wide images are 1170px wide
 
 {% asset 'blog/2014/2014-01-01-cat-treat.jpg'
    alt='A well-behaved cat'
-   class='marginBot marginTopHalf'
-   magick:resize='1170' %}
-{: .wideImage }
+   magick:resize='1170' @pic %}
 
 ### Smaller images can be floated
 

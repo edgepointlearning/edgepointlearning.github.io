@@ -48,8 +48,7 @@ The Stanford Research Institute International and the Carnegie Mellon Foundation
 
 {% asset 'blog/2018/2018-10-31-future-of-corporate-training-2019.png'
   alt='75% of long-term job success depends on soft skills mastery'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 Other research from LinkedIn identified [soft skills as the number one training priority](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2016/most-indemand-soft-skills){:target="_blank"} among CEOs. Soft skills are going to be the future of workplace training.
 

@@ -53,9 +53,7 @@ Offering variety, constant feedback, and a work environment that is flexible and
 
 {% asset 'blog/2017/2017-11-25-millennial-employee-attention-2.jpg'
    alt='8 Tips For Capturing Milennial Attention'
-   class='marginTop marginBot'
-   magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 ### 1. Don’t dumb it down

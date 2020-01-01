@@ -27,8 +27,7 @@ We discuss the ideal situations for these types of training for employees, along
 
 {% asset 'blog/2017/2017-04-27-types-of-employee-training@2x.png'
   alt='Types of employee training'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## 1. Instructor-led training
 

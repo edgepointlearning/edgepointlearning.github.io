@@ -24,8 +24,7 @@ How does this potential inexperience translate into your bottom line?
 Whether you're a smaller restaurant or a group with locations across your region, a restaurant managers training program is crucial to the success and steady growth of your organization.
 
 {% asset 'blog/2018/2018-08-22-restaurant-managers-training-program01.svg'
-  alt='Effective training reduces employee turnover by 9%'
-  class='marginTop marginBot' %}
+  alt='Effective training reduces employee turnover by 9%' %}
 {: .wideImage }
 
 ## Where do I start with a restaurant manager training program?

@@ -43,8 +43,7 @@ Teach employees how to lift, sit, and move throughout their day so you can be re
 
 {% asset 'blog/2018/2018-03-14-employee-safety-training-topics01.jpg'
   alt='Ergonomic injuries costs $50 billion annually'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 2. Fire safety
 
@@ -58,8 +57,7 @@ The Federal Bureau of Investigation estimates that approximately two million peo
 
 {% asset 'blog/2018/2018-03-14-employee-safety-training-topics02.jpg'
   alt='74% of domestic violence victims are harassed or attacked at work'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 The statistics on domestic violence that seeps into the workplace are sobering as well. Women in the workplace are overwhelmingly the target of this type of workplace violence. A study of domestic violence survivors found that fully 74% of them were [harassed or attacked in the workplace](https://police.ucsf.edu/system/files/domesticviolenceworkplace.pdf){:target="_blank"}. OSHA identifies [homicide as the leading cause of death for women at work](https://thinkprogress.org/why-are-so-many-women-being-murdered-at-work-fb16cec07115/){:target="_blank"}.
 

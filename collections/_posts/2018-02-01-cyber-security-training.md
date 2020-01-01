@@ -28,9 +28,7 @@ Creating an effective cyber security training for employees starts at the top, i
 
 {% asset 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
   alt='Cyber Security Training Infographic'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 1. Get executive buy-in
 

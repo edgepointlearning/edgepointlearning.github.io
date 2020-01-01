@@ -16,8 +16,7 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 {% asset 'blog/2018/2018-06-13-types-of-microlearning01.png'
   alt='Most employees only have 24 minutes a week for training'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 Microlearning uses rich media across multiple devices to engage and inspire learners to dig deeper. More than just a larger eLearning course split into pieces, microlearning encourages the learner to apply what they learn immediately.
@@ -53,8 +52,7 @@ Microlearning is desperately needed by time- and attention-hungry employees, and
 
 {% asset 'blog/2018/2018-06-13-types-of-microlearning02.png'
   alt='Microlearning improves knowledge transfer by 17%'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 * <strong>Microlearning is effective:</strong> There is a 17% improvement in [knowledge transfer](http://blog.commlabindia.com/elearning-development/byte-sized-learning){:target="_blank"} when learning is broken into smaller chunks
 
@@ -80,12 +78,9 @@ There are 11 major types of microlearning you can choose from, including:
 10. [Geofencing](/blog/geofencing/)
 11. Performance Support Tools (PSTs) or job aids
 
-{% asset
-  'blog/2018/2018-06-13-top-11-types-of-employee-training.jpg'
+{% asset 'blog/2018/2018-06-13-top-11-types-of-employee-training.jpg'
    alt='Top 11 Types of Employee Training'
-   class='marginTop marginBot'
-   magick:resize='1280' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Interactive parallax-based scrolling
 

@@ -43,8 +43,7 @@ Experiential learning is coming into its own as expectations of employee trainin
 * A low supply of highly skilled workers means that experiential learning, [on the job](/blog/on-the-job-training-advantages/), is the new normal when it comes to training your workplace
 
 {% asset 'blog/2018/2018-11-14-benefits-of-experiential-learning01.svg'
-  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material'
-  class='marginTop marginBot' %}
+  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material' %}
 {: .wideImage }
 
 ## What are the major benefits of experiential learning in the workplace?
@@ -60,9 +59,7 @@ There are five major benefits of experiential learning in the workplace:
 
 {% asset 'blog/2018/2018-11-14-benefits-of-experiential-learning-infographic.jpg'
   alt='Major Benefits Of Experiential Learning'
-  class='marginTop marginBot' 
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 ### Develops capacity to adapt to new situations

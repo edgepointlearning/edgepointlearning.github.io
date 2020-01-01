@@ -25,8 +25,7 @@ A survey published in October 2019 by Harvard Business Publishing Corporate Lear
 
 {% asset 'blog/2019/2019-12-04-employee-retention-program01@2x.png'
   alt='55% of employees consider career growth more important than salary'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 When it comes to choosing a company to work for millennials, the second largest demographic group after baby boomers, won’t settle for a company that doesn’t engage them in thoughtful, useful, and creative training. 
 
@@ -94,9 +93,8 @@ Positive feedback is more than a feel-good employee retention strategy – it ac
 A study from the Harvard Business Review found that the [ideal positive to negative ratio for employee feedback](https://hbr.org/2013/03/the-ideal-praise-to-criticism){:target="_blank"} was 5.6:1. This means for every “negative” or corrective comment, find the opportunity to offer five or more positive (or growth-oriented) comments.
 
 {% asset 'blog/2019/2019-12-04-employee-retention-program02@2x.png'
-  alt='5For every "negative" comment, offer five or more positive, growth-oriented comments'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  alt='For every "negative" comment, offer five or more positive, growth-oriented comments'
+  magick:resize='1170' @pic %}
 
 Pro tip: Build this type of reinforcement into your online training. [Gamification](/blog/gamification-in-elearning/), with its ability to have employees “level up” or earn badges, can help keep the positive feedback loop going.
 

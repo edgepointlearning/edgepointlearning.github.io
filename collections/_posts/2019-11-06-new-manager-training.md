@@ -22,8 +22,7 @@ But is this type of training still important? Short answer? Yes: new manager tra
 
 {% asset 'blog/2019/2019-11-06-new-manager-training01.jpg'
   alt='Millennials will make up 75% of workforce by 2025'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Management training programs have to be personal 
 
@@ -105,8 +104,7 @@ Beyond all the practical parts of management training programs, the bottom line 
 
 {% asset 'blog/2019/2019-11-06-new-manager-training02.jpg'
   alt='Managers need to cultivate skills to support their people.'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 7. Emergency procedures
 

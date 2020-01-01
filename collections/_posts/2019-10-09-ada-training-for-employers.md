@@ -36,8 +36,7 @@ All public and governmental entities are bound by the Americans With Disabilitie
 
 {% asset 'blog/2019/2019-10-09-ada-training-for-employers-01.jpg'
   alt='Public, government, and private employers with 15+ employees must comply with the ADA'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 To start, basic ADA training for employees should be an integrated part of all of your company trainings. Add information for disability awareness training that includes things like:
 

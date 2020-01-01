@@ -37,8 +37,7 @@ A recent McKinsey study shows that:
 
 {% asset 'blog/2018/2018-07-11-types-of-diversity-training01.png'
   alt='Diverse companies are 35% more likely to have financial returns above industry median'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 This translates to more success overall, but the benefits are clear on an individual level as well.

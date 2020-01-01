@@ -69,7 +69,6 @@ Whether you need to roll out customer service training, on-boarding materials, o
 
 {% asset 'blog/2017/2017-09-09-pinpoint-infographic.jpg'
    alt='The PinPoint Workflow'
-   class='marginTop marginBot'
    magick:resize='670' %}
 
 ## Ready to learn more?

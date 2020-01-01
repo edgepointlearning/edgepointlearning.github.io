@@ -21,8 +21,7 @@ However, while it may have started as a sales technique, geofencing has real pot
 
 {% asset 'blog/2017/geofencing.jpg'
   alt='Geofencing'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## How does geofencing for recruitment work?
 

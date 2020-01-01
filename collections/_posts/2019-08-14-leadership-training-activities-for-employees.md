@@ -48,9 +48,7 @@ Here are 11 suggestions for engaging and thoughtful leadership building activiti
 
 {% asset 'blog/2019/2019-08-14-leadership-training-activities-for-employees.png'
   alt='Quality Leadership'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 1. [Simple icebreaking questions](https://museumhack.com/list-icebreakers-questions/){:target="_blank"}
 

@@ -17,8 +17,7 @@ As the chef’s brand suggests, all the senses cannot be separated, they are int
 
 {% asset 'blog/2017/2017-10-16-nobu-group.jpg'
    alt='Nobu Entrance'
-   class='thumbnail marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## What makes for high-quality eLearning experiences?
 
@@ -49,9 +48,7 @@ One of Nobu’s signature dishes, and a personal favorite, is the Black Miso Cod
 
 {% asset 'blog/2017/2017-10-16-nobu-dish.jpg'
    alt='A Nobu dish'
-   class='marginTop marginBot'
-   magick:resize='960' %}
-{: .wideImage }
+  magick:resize='670' %}
 
 How can we create contrast like this in an eLearning project? If you're designing on your own, you can start with these ideas.
 
@@ -80,9 +77,7 @@ An example where this comes into play is when designing an eLearning module wher
 
 {% asset 'blog/2017/2017-10-16-nobu-repetition.jpg'
    alt='An example of Nobu repetition'
-   class='marginTop marginBot'
-   magick:resize='960' %}
-{: .wideImage }
+  magick:resize='670' %}
 
 At Nobu, they focus on repetition by presenting dishes in an excruciatingly-detailed way in order to create the same impression on each guest. To provide a consistently enjoyable experience, every bite should be just as delicious as the previous.
 
@@ -96,9 +91,7 @@ As an experiment, try creating a screen where nothing is aligned or only one thi
 
 {% asset 'blog/2017/2017-10-16-nobu-alignment.jpg'
    alt='An example of Nobu alignment'
-   class='marginTop marginBot'
-   magick:resize='960' %}
-{: .wideImage }
+  magick:resize='670' %}
 
 Another international hit that sets the tone at Nobu is the Yellowtail Sashimi with Jalapeño. The alignment between the subtleness of the tuna combined with the heat of the jalapeño combines to create an epic full flavor that would make [Kanye walk to Nobu](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"} to get it.
 
@@ -110,8 +103,7 @@ So, what we are really talking about is how to create relationships between imag
 
 {% asset 'blog/2017/2017-10-16-nobu-proximity.jpg'
    alt='An example of Nobu proximity'
-   class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 To create new relationships for your palate, Chef Nobu often deconstructs some of his signature dishes to accentuate the intended flavors. For instance, using ingredients similar to tiramisu, the Suntory Cappuccino is layered valrhona chocolate almond crunch, coffee cream, whisky foam, and milk ice cream. This technique only heightens the best of the flavors.
 

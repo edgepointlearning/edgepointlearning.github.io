@@ -77,9 +77,7 @@ Is everyone participating? Gamification in the workplace is only as effective as
 
 {% asset 'blog/2017/2017-11-08-gamification-in-elearning-2.jpg'
   alt='How To Make Gamification in eLearning Successful'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## What are some successful gamification examples in business?
 
