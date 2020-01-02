@@ -13,8 +13,8 @@ end
 
 group :jekyll_assets do
   gem "uglifier"
-  gem "sass"
-  gem "autoprefixer-rails"
+  gem "sass" # look for faster alternative
+  gem "autoprefixer-rails" # could use this as alternative: https://github.com/vwochnik/jekyll-autoprefixer
   gem "mini_magick"
 end
 
