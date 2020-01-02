@@ -1,0 +1,83 @@
+.title-bar {
+  svg {
+    width: 1.4em;
+    margin-right: 0.2em;
+    vertical-align: text-bottom;
+    g {
+      fill: $white;
+    }
+  }
+}
+
+nav .nav-icon {
+  svg {
+    height: 1.6em;
+    margin-top: -0.3em;
+  }
+}
+nav .nav-home svg {
+  margin-right: 1em;
+}
+nav .nav-search {
+  margin-left: 0.3em;
+  padding-right: 0 !important;
+}
+nav .menu a {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+nav .button {
+  margin-left: 0.3em;
+}
+
+.off-canvas__nav {
+  background: $epl-blue-dark;
+  padding-top: $global-padding;
+  color: $light-gray;
+  font-size: rem-calc(14);
+  
+  .close-button {
+    font-weight: 700;
+
+    span,
+    span:hover,
+    span:focus {
+      color: $white;
+    }
+  }
+ 
+  ul {
+    margin-top: $global-margin * 2;
+  }
+ 
+  ul.menu li.menu-text {
+    text-transform: uppercase;
+    font-weight: 700;
+    border-bottom: 1px solid $epl-blue;
+  }
+  ul.menu a {
+    font-weight: normal;
+    color: $white;
+    text-indent: 0.7em;
+    &:hover {
+      background-color: $epl-blue;
+    }
+  }
+
+  ul.no-bullet {
+    text-align: center;
+    line-height: 1;
+    li {
+      margin: $global-margin auto;
+    }
+  }
+
+  svg {
+    margin: $global-margin auto;
+    width: 55%;
+    path,
+    g {
+      fill: $white;
+    }
+  }
+}

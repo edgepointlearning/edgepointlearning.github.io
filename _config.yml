@@ -121,3 +121,13 @@ exclude :
   - node_modules
   - netlify.toml
   - docker-compose.yml
+
+### plugin: jekyll-algolia # to update search index: ALGOLIA_API_KEY='my-private-algolia-application-id' bundle exec jekyll algolia 
+algolia:
+  application_id: 10CLOWR2F7
+  index_name: jekyll4
+  search_only_api_key: d8ed542264abddec8c8f7dcaafdd3e1e
+
+### plugin: jekyll-insline-svg
+# svg:
+#   optimize: true

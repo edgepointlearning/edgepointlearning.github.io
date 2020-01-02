@@ -7,6 +7,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2", "2.0.0"
   gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
+  gem 'jekyll-algolia'       # https://github.com/algolia/jekyll-algolia i had to force install nokogiri for this to work. Error was: "An error occurred while installing nokogiri (1.10.5), and Bundler cannot continue. Make sure that `gem install nokogiri -v '1.10.5' --source 'https://rubygems.org/'` succeeds before bundling."
+  gem 'jekyll-inline-svg'     # https://github.com/sdumetz/jekyll-inline-svg
 end
 
 group :jekyll_assets do

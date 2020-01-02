@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-{% if page.hero-h1 %}
-  <div class="grid-x hero align-middle align-center">
-    <div class="cell text-center">
-      <h1 {% if page.title != 'Home' %} class="noWidows"{% endif %}>{{ page.hero-h1 }}</h1>
-      {% if page.hero-p %}<p>{{ page.hero-p }}</p>{% endif %}
-      {% if page.hero-button-url %}<a class="button hollow" href="{{ page.hero-button-url }}">{{ page.hero-button-label }}</a>{% endif %}
+<div class="grid-container billboard">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    {% asset '{{ page.image }}' class='billboard__background' alt='{{ page.title }}' magick:resize='1200' %}
+    <div class="cell">
+      <h1 class="h1 billboard__headline">{{ page.headline }}</h1>
+      {% if page.tagline %}<p class="h2 billboard__tagline">{{ page.tagline }}</p>{% endif %}
+      {% if page.cta1 %}<p><a class="button billboard__cta blackout" href="{{ page.cta1-url }}">{{ page.cta1 }}</a></p>{% endif %}
+      {% if page.cta2 %}<p><a class="button billboard__cta billboard__cta--secondary wyte blackout" href="{{ page.cta2-url }}">{{ page.cta2 }}</a></p>{% endif %}
     </div>
   </div>
-{% endif %}
+</div>
 
 {{ content }}

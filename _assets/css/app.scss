@@ -24,6 +24,11 @@ $content-maxwidth: 670px;
   'foundation/foundation'
 ;
 
+$button-palette: map-merge($foundation-palette, (
+    bright: $epl-blue-light,
+    wyte: #fefefe
+));
+
 @include foundation-everything;
 
 @import
@@ -38,7 +43,7 @@ $content-maxwidth: 670px;
 
 'content',
 
-'include-billboard',
+'billboard',
 'include-footer',
 'include-hero',
 'include-share',
@@ -47,6 +52,7 @@ $content-maxwidth: 670px;
 'layout-form',
 'layout-post',
 
+'nav',
 'nav-big',
 'nav-breadcrumbs',
 'nav-off-canvas',

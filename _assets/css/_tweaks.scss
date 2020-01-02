@@ -13,6 +13,19 @@
   }
 }
 
+.button.blackout:hover {
+  background: $black;
+  color: $white;
+}
+.button.whiteout:hover {
+  background: $white;
+  color: $black;  
+}
+.button.blueout:hover {
+  background: $epl-blue-light;
+  color: $white;  
+}
+
 .testimony {
   // margin-left: 0.4em;
   // text-indent: -0.4em;
