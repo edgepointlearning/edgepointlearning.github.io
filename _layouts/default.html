@@ -6,6 +6,7 @@
     <![endif]-->
 
     {% include nav-offcanvas.html %}
+    {% include search.html %}
     <div class="off-canvas-content" data-off-canvas-content>
       <nav>{% include nav-oncanvas.html %}</nav>
       <main>
@@ -32,6 +33,7 @@
     {% else %}
      <!-- No infusionsoft or google trackers cuz jekyll.environment = development -->
     {% endif %}
+    {% include algolia.html %}
   </body>
 
 </html>
