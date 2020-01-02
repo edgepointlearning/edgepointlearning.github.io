@@ -3,7 +3,7 @@ title: "What Is Mental Health Training And How Could It Help My Team?"
 permalink: /blog/mental-health-training/
 author:
   name: Corey Bleich
-image: blog/2019/2019-09-25-mental-health-training.jpg
+image: blog/2019-09-25-mental-health-training.jpg
 excerpt: Whether you work with educators, librarians, or other public-facing employees, this is what your mental health training programs should include. 
 ---
 
@@ -41,7 +41,7 @@ Consider the following [statistics on mental health](https://www.nami.org/learn-
 * Nearly 44 million people in the U.S. experience a mental health crisis each year.
 * Of all of the people experiencing a mental health disorder in a given year, only 41% receive any kind of help.
 
-{% asset 'blog/2019/2019-09-25-mental-health-training01.svg'
+{% asset 'blog/2019-09-25-mental-health-training01.svg'
   alt='46% of adults experience mental illness Only 41% receive help' %}
 {: .wideImage }
 
@@ -65,7 +65,7 @@ The rate of suicide is rising, with the World Health Organization predicting a r
 
 Suicide intervention and prevention training helps employees recognize when other employees or clients are in trouble and gives them tools to help.
 
-{% asset 'blog/2019/2019-09-25-mental-health-training02.svg'
+{% asset 'blog/2019-09-25-mental-health-training02.svg'
   alt='There is one death by suicide every 20 seconds.' %}
 {: .wideImage }
 

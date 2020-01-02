@@ -3,13 +3,13 @@ title: 12 Tips For Creating Accessible eLearning Programs For Employees
 permalink: /blog/accessible-elearning-programs/
 author:
   name: Corey Bleich
-image: blog/2019/2019-05-29-accessible-elearning-programs.jpg
+image: blog/2019-05-29-accessible-elearning-programs.jpg
 excerpt: How to create accessible eLearning programs that comply with WCAG and Section 508 standards and give employees the tools they need to do their jobs.
 ---
 
 Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336){:target="_blank"} (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/){:target="_blank"} in another way. Chances are also good that you have employees with [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php){:target="_blank"} that need accommodation. This is how to create accessible eLearning programs for all of your employees.
 
-{% asset 'blog/2019/2019-05-29-accessible-elearning-programs-02.svg'
+{% asset 'blog/2019-05-29-accessible-elearning-programs-02.svg'
   alt='12 percent of U.S. adults are disabled' %}
 {: .wideImage }
 
@@ -53,7 +53,7 @@ The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guid
 
 The three levels of WCAG – A, AA, and AAA – denote the level of accessibility, with A being the very minimum level and AAA being accessible to all (most companies aim for AA, or higher in larger companies).
 
-{% asset 'blog/2019/2019-05-29-accessible-elearning-programs-01.svg'
+{% asset 'blog/2019-05-29-accessible-elearning-programs-01.svg'
   alt='By September 2020, all EU public-facing websites must meet Web Content Accessibility Guidelines' %}
 {: .wideImage }
 

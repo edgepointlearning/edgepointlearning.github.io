@@ -3,7 +3,7 @@ title: Your Guide To Cyberbullying Training For Teachers And Schools
 permalink: /blog/cyberbullying-training-for-teachers/
 author:
   name: Corey Bleich
-image: blog/2019/2019-07-17-cyberbullying-training-for-teachers.jpg
+image: blog/2019-07-17-cyberbullying-training-for-teachers.jpg
 excerpt: Cyberbullying training for teachers can help create a safe, supportive environment for all kids--even after school hours. This is how to roll out this type of training.
 ---
 
@@ -23,7 +23,7 @@ Even though it is generally conducted outside of school hours, cyberbullying oft
 * 14%: Children who are the target of mean comments on social media 
 * 13%: Kids who report being bullied by rumors online
 
-{% asset 'blog/2019/2019-07-17-cyberbullying-training-for-teachers.png'
+{% asset 'blog/2019-07-17-cyberbullying-training-for-teachers.png'
   alt='42% of children report being cyberbullied'
   magick:resize='1170' @pic %}
 

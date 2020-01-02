@@ -10,7 +10,6 @@ gem 'jekyll-inline-svg'
 gem 'jekyll-target-blank'
 gem 'jekyll-assets'
 
-# gem 'sprockets', '=4.0.0.beta8' , { require: false }  
 gem 'sprockets', '~>3', { require: false }
 gem 'nokogiri'
 gem 'uglifier'

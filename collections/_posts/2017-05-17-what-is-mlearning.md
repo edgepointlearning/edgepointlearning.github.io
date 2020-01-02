@@ -3,13 +3,13 @@ title: What Is mLearning, Or Mobile Learning?
 permalink: /blog/what-is-mlearning/
 author:
   name: Corey Bleich
-image: blog/2017/2017-05-17-mlearning.jpg
+image: blog/2017-05-17-mlearning.jpg
 excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. It uses the advantages of mobile devices to open up huge potentials for training your global workforce. Here's how it works.
 ---
 
 Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/){:target="_blank"}, twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
 
-{% asset 'blog/2017/2017-05-17-what-is-mlearning-02.jpg'
+{% asset 'blog/2017-05-17-what-is-mlearning-02.jpg'
   alt='86% of employees use their smartphones at work'
   magick:resize='670' %}
 
@@ -20,7 +20,7 @@ With mLearning, you can capture your employee's most important training in the p
 
 mLearning, or mobile learning as it's also called, isn't just eLearning that's designed for mobile phones and tablets. It's a type of training that uses the advantages of these mobile devices to create better and more focused training materials for your employees.
 
-{% asset 'blog/2017/2017-05-17-what-is-mlearning-03.jpg'
+{% asset 'blog/2017-05-17-what-is-mlearning-03.jpg'
   alt='Twice as many people go online from a mobile device than laptop or computer'
   magick:resize='670' %}
 
@@ -39,7 +39,7 @@ Those reference guides and new videos? You guessed it—perfectly matched to mLe
 
 mLearning is training that takes place right where your employees need it, when they need it. It's necessarily more focused and concise than the majority of eLearning courses. Whereas most eLearning courses are 20-60 minutes long, mLearning modules are built to take three to ten minutes, max.
 
-{% asset 'blog/2017/2017-05-17-what-is-mlearning-04.svg'
+{% asset 'blog/2017-05-17-what-is-mlearning-04.svg'
   alt='benefits of mLearning' %}
 {: .wideImage }
 
@@ -61,7 +61,7 @@ Mobile learning for workforce training can be a great option for:
 
 However, mLearning doesn't take the place of eLearning or in-person training. For effective mLearning, it needs to focus on a specific topic, task, or goal. That means it's not good for larger introductory modules or nuanced topics that require a lot of explanation and practice. Likewise, it's difficult to show complex graphics or flow charts on mobile. mLearning can and should complement these larger topics, but it simply isn't the ideal primary mode of training in these cases.
 
-{% asset 'blog/2017/2017-05-17-what-is-mlearning-01.svg'
+{% asset 'blog/2017-05-17-what-is-mlearning-01.svg'
    alt='What is mLearning?' %}
 {: .wideImage }
 

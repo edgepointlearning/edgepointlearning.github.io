@@ -3,7 +3,7 @@ title:   The Top 11 Types Of Microlearning For Your Employees
 permalink: /blog/types-of-microlearning/
 author:
   name: Corey Bleich
-image: blog/2018/2018-06-13-types-of-microlearning.jpg
+image: blog/2018-06-13-types-of-microlearning.jpg
 excerpt: Microlearning is quick, accessible learning that offers your employees information when they need it, where they need it. But, just like all forms of training, different types of microlearning allow you to meet your varying goals.
 redirect_from: "/blog/microlearning/"
 ---
@@ -14,7 +14,7 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 ## What is microlearning?
 
-{% asset 'blog/2018/2018-06-13-types-of-microlearning01.png'
+{% asset 'blog/2018-06-13-types-of-microlearning01.png'
   alt='Most employees only have 24 minutes a week for training'
   magick:resize='1170' @pic %}
 
@@ -50,7 +50,7 @@ Microlearning works best when it's short and focused to one specific learning ob
 ## What are the benefits of microlearning?
 Microlearning is desperately needed by time- and attention-hungry employees, and reduces strain on your current training resources. The different types of microlearning offer tremendous benefit to employees and employers, including:
 
-{% asset 'blog/2018/2018-06-13-types-of-microlearning02.png'
+{% asset 'blog/2018-06-13-types-of-microlearning02.png'
   alt='Microlearning improves knowledge transfer by 17%'
   magick:resize='1170' @pic %}
 
@@ -78,7 +78,7 @@ There are 11 major types of microlearning you can choose from, including:
 10. [Geofencing](/blog/geofencing/)
 11. Performance Support Tools (PSTs) or job aids
 
-{% asset 'blog/2018/2018-06-13-top-11-types-of-employee-training.jpg'
+{% asset 'blog/2018-06-13-top-11-types-of-employee-training.jpg'
    alt='Top 11 Types of Employee Training'
   magick:resize='1170' @pic %}
 

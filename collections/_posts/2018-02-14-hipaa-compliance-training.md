@@ -3,7 +3,7 @@ title: Your Guide To HIPAA Compliance Training For Employees
 permalink: /blog/hipaa-compliance-training/
 author:
   name: Corey Bleich
-image: blog/2018/2018-02-14-hipaa-compliance-training.jpg
+image: blog/2018-02-14-hipaa-compliance-training.jpg
 excerpt: The goal of HIPAA compliance training is to protect your patients, not just fulfill a regulatory requirement. This is how to roll out HIPAA training for employees that works.
 ---
 HIPAA training not only protects patients. It also empowers employees. 
@@ -59,7 +59,7 @@ Imagine your potentially embarrassing health diagnosis plastered on a billboard 
 
 More than embarrassment, patients can also experience medical identity theft. [Medical identity theft](https://oig.hhs.gov/fraud/medical-id-theft/index.asp){:target="_blank"} occurs when a patient’s personal information is stolen and used to submit false Medicaid or Medicare claims. This disrupts care and costs millions of taxpayer dollars annually.
 
-{% asset 'blog/2018/2018-02-14-hipaa-compliance-training01.png'
+{% asset 'blog/2018-02-14-hipaa-compliance-training01.png'
   alt='Medical identity theft costs millions of dollars annually'
   magick:resize='1170' @pic %}
 

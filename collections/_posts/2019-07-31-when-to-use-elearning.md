@@ -3,7 +3,7 @@ title: "When To Use eLearning: 5 Times It Makes The Most Sense"
 permalink: /blog/when-to-use-elearning/
 author:
   name: Michael Hansen
-image: blog/2019/2019-07-31-when-to-use-elearning.jpg
+image: blog/2019-07-31-when-to-use-elearning.jpg
 excerpt: These are five times when to use eLearning and some instances when it may be better to look to other training tools.
 ---
 
@@ -17,7 +17,7 @@ The benefits of eLearning for your company are clear. An [IBM white paper](https
 * <strong>Scalable:</strong> When your team expands, your eLearning does too
 * <strong>Engaging:</strong> These days, the vast majority of the [workforce prefers engaging with eLearning](https://www.northpass.com/beginners-guide-to-online-training/engage-your-target-learners){:target="_blank"}
 
-{% asset 'blog/2019/2019-07-31-when-to-use-elearning-infographic.png'
+{% asset 'blog/2019-07-31-when-to-use-elearning-infographic.png'
   alt='The benefits of elearning are clear'
   magick:resize='1170' @pic %}
 

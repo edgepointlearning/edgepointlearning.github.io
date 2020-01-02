@@ -3,7 +3,7 @@ title:    " How To Empower Your Employees With Crisis Management Training"
 permalink: /blog/crisis-management-training/
 author:
   name: Michael Hansen
-image: blog/2019/2019-010-23-crisis-management-training.jpg
+image: blog/2019-010-23-crisis-management-training.jpg
 excerpt: How well would your employees respond to a crisis in the workplace? If the answer is “not very well,” it’s time to develop crisis management training. Here's how.
 ---
 
@@ -28,7 +28,7 @@ In schools, healthcare facilities, and other public-facing industries where vuln
 
 A 2015 report from the Federal Emergency Management Agency (FEMA) found that 60% of adults had [not practiced an emergency drill](https://www.fema.gov/news-release/2015/04/28/sixty-percent-americans-not-practicing-disaster-fema-urges-everyone-prepare){:target="_blank"}, despite the fact that 80% of people live in counties that have experienced a natural disaster since 2007.
 
-{% asset 'blog/2019/2019-010-23-crisis-management-training01.svg'
+{% asset 'blog/2019-010-23-crisis-management-training01.svg'
   alt='60% of adults do not practice emergency drills' %}
 {: .wideImage }
 

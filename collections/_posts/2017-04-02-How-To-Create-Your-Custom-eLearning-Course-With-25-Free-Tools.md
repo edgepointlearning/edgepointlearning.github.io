@@ -3,7 +3,7 @@ title: 25 FREE Tools To Create Your Custom eLearning Courses
 permalink: /blog/how-to-create-your-custom-elearning-course-with-25-free-tools/
 author:
   name: Corey Bleich
-image: blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
+image: blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
 excerpt: Find over 25 free eLearning authoring tools to create your custom courses in 2019. We also break down the 6 steps for creating the best learning programs. 
 redirect_from: 
  - "/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/"
@@ -51,7 +51,7 @@ After this step, you'll also send your new course out to SMEs or other company s
 
 Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/){:target="_blank"}.
 
-{% asset 'blog/2017/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.png'
+{% asset 'blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.png'
   alt='How to create an eLearning course infographic'
   magick:resize='1170' @pic %}
 

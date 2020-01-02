@@ -3,7 +3,7 @@ title: How To Create Effective Cyber Security Training For Your Employees
 permalink: /blog/cyber-security-training/
 author:
   name: M. Craig Cocciola, Director of IT and FSO at ABL Cyber Academy
-image: blog/2018/2018-02-01-cyber-security-training.jpg
+image: blog/2018-02-01-cyber-security-training.jpg
 excerpt: If an employee touches a computer, they need cyber security training. Here's how to make it actually worth their (and your) time.
 ---
 Cyber security training for employees may not be on the top of your list of priorities, but consider this: on December 6, 2017 Mecklenberg county officials in North Carolina received a [ransom note from a hacker](https://www.washingtonpost.com/national/the-latest-disruption-from-county-cyberattack-continues/2017/12/07/22b6673e-db7b-11e7-a241-0848315642d0_story.html?utm_term=.09743185832b){:target="_blank"}, threatening to bring the county to a standstill if it didn’t pay a ransom of $23,000. The county refused, the attack went through, and now the most populated metro area in North Carolina has been reeled back into the 20th century, relying on paper records and processing for permits, jail intakes, court cases, and every other function of county government. A measly 44 of the county’s 500 servers was breached, but the cost to the county could stretch into the millions of dollars.
@@ -26,7 +26,7 @@ Information security training (infosec training) can help mitigate this exposure
 
 Creating an effective cyber security training for employees starts at the top, is meaningful, just-in-time, and ongoing. Here are ten tips to help you get there.
 
-{% asset 'blog/2018/2018-02-01-cyber-security-training-infographic.jpg'
+{% asset 'blog/2018-02-01-cyber-security-training-infographic.jpg'
   alt='Cyber Security Training Infographic'
   magick:resize='1170' @pic %}
 
@@ -99,7 +99,7 @@ Instead, he advocates what he refers to as “people patching.” Similar to reg
 ---
 ### Craig Cocciola
 
-{% asset 'blog/2018/2018-02-01-craig-cocciola.jpg'
+{% asset 'blog/2018-02-01-craig-cocciola.jpg'
    alt='Craig Cocciola'
    class='float-right thumbnail marginTopHalf marginLeft'
    magick:resize='240' %}

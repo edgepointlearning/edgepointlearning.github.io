@@ -3,7 +3,7 @@ title:    "How To Keep Track Of Training For Employees"
 permalink: /blog/how-to-keep-track-of-training/
 author:
   name: Michael Hansen
-image: blog/2019/2019-04-24-how-to-keep-track-of-training.jpg
+image: blog/2019-04-24-how-to-keep-track-of-training.jpg
 excerpt: "Make sure your employees are on track, in compliance, and keeping up with all of their training. Here's how to keep track of training right. "
 ---
 Ensure your employees are on track and in compliance. 
@@ -17,7 +17,7 @@ Keeping track of employee training is crucial. Nearly 40% of employees leave the
 
 Additionally, for heavily regulated industries where non-compliance and lack of certifications can literally shut you down, tracking employee training ensures that everyone on site has what they need to operate safely and legally. This is especially important for industries such as construction and healthcare and in any job that operates under a government contract.
 
-{% asset 'blog/2019/2019-04-24-how-to-keep-track-of-training01.png'
+{% asset 'blog/2019-04-24-how-to-keep-track-of-training01.png'
   alt='40% of new employees leave within a year if training is inadequate'
   magick:resize='1170' @pic %}
 
