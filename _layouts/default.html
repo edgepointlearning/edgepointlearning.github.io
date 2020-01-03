@@ -1,21 +1,21 @@
 {% include head.html %}
 
-  <body class="layout-{{ page.layout }}{% if jekyll.environment == 'development' %} development{% endif %}">
-    <!--[if lt IE 8]>
-    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-
+  <body class="layout-{{ page.layout }} page-{{ page.name | replace: '.html', '' | downcase}} {% if jekyll.environment == 'development' %} development{% endif %}">
+  
     {% include nav-offcanvas.html %}
     {% include search.html %}
+  
     <div class="off-canvas-content" data-off-canvas-content>
-      <nav>{% include nav-oncanvas.html %}</nav>
+      {% include nav-oncanvas.html %}</nav>
       <main>
         {{ content }}
         {% include card-cta.html %}
       </main>
       <footer>{% include footer.html %}</footer>
     </div>
+
     {% asset main.js %}
+
     <script>console.log("jekyll environment: {{ jekyll.environment }}");</script>
 
     {% if jekyll.environment != 'development' %}

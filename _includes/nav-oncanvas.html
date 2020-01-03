@@ -1,8 +1,7 @@
-<div class="title-bar" data-responsive-toggle="example-menu">
+<div class="title-bar" data-responsive-toggle="offCanvasNav">
   <button class="menu-icon" type="button" data-toggle="offCanvasNav"></button>
-  <div class="title-bar-right">
-    {% asset 'logo/epl-lettermark.svg' @inline %}
-    </div>
+  {% asset 'logo/epl-lettermark.svg' @inline %}
+  <a data-open="searchModal">{% asset 'ui/search.svg' @inline %}</a>
 </div>
 
 <nav class="grid-container navigation">
@@ -11,7 +10,7 @@
       <ul class="dropdown menu icons" data-dropdown-menu>      
         <li>
           <a href="{% link collections/_pages/home.html %}" class="nav-icon nav-home">
-            {% asset 'logo/epl-lettermark.svg' class='navigation-icon' %} 
+            {% asset 'logo/epl-lettermark.svg' @inline %} 
             <span>Home</span>
           </a>
         </li>  

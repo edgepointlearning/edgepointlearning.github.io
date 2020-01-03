@@ -1,8 +1,10 @@
 .title-bar {
+  align-items: center;
+  justify-content:space-between;
   svg {
     width: 1.4em;
-    margin-right: 0.2em;
     vertical-align: text-bottom;
+    fill: $white;
     g {
       fill: $white;
     }
@@ -17,6 +19,10 @@ nav .nav-icon {
 }
 nav .nav-home svg {
   margin-right: 1em;
+  g {
+    fill: $epl-blue;
+  }
+  
 }
 nav .nav-search {
   margin-left: 0.3em;
