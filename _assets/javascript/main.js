@@ -7,6 +7,11 @@
 
 $(document).foundation();
 
+// focus search input when modal opens
+$('#searchModal ').bind('open.zf.reveal', function() {
+  $(".ais-search-box--input").focus();
+});
+
 // clipboard.js stuff
 var clip = new Clipboard('.clipboard');
 var hideTooltip = function() {

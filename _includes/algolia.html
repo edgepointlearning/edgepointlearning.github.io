@@ -40,10 +40,10 @@ const hitTemplate = function(hit) {
   const content = hit._highlightResult.html.value;
 
   return `
-    <div class="post-item">
-      <p class="h5"><a class="post-link" href="${url}">${title}</a></p>
-      {{#breadcrumbs}}<a href="${url}#${hit.anchor}">${breadcrumbs}</a>{{/breadcrumbs}}
-      <div class="post-snippet">${content}</div>
+    <div class="search-result">
+      <p class="search-result__title h5"><a href="${url}">${title}</a></p>
+      {{#breadcrumbs}}<p class="search-result__breadcrumb"><a href="${url}#${hit.anchor}">${breadcrumbs}</a></p>{{/breadcrumbs}}
+      <div class="search-result__snippet">${content}</div>
     </div>
   `;
 }
