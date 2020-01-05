@@ -3,7 +3,7 @@ title: "How To Create LGBTQ Diversity Training That Promotes Equality"
 permalink: /blog/lgbtq-diversity-training/
 author:
   name: Michael Hansen
-image: blog/2019/2019-08-28-lgbtq-diversity-training.jpg
+image: blog/2019-08-28-lgbtq-diversity-training.jpg
 excerpt: Want to create a more inclusive work enviroment? Read on for five actionable steps to start with when creating your LGBTQ diversity training initiatives.
 ---
 
@@ -27,11 +27,9 @@ Beyond feeling welcomed at work, here are just a few (research-based) benefits o
 
 And in the C-suite? [Executive teams with more diversity made more money](https://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity){:target="_blank"} for their companies (and, by extension, themselves).  
 
-{% asset 'blog/2019/2019-08-28-lgbtq-diversity-training.png'
+{% asset 'blog/2019-08-28-lgbtq-diversity-training.png'
   alt='Diverse teams outperform individual decision-makers 87% of the time'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## Why is LGBTQ diversity training so important? 
 
@@ -74,11 +72,9 @@ Remember those photos of panels of men making decisions about women’s health? 
 
 Pro-tip, though: not every employee will want to be involved, for a variety of reasons. Open the opportunity and then allow each employee to decide for themselves. Also, ensure employees receive appropriate compensation and/or time to work on these initiatives. 
 
-{% asset 'blog/2019/2019-08-28-lgbtq-diversity-training-02.png'
+{% asset 'blog/2019-08-28-lgbtq-diversity-training-02.png'
   alt='Meaningfully involve LGBTQ employees in the decision-making process'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 4. Focus on genuine inclusion
 

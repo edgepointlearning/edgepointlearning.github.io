@@ -3,7 +3,7 @@ title:    How To Start Your Restaurant Managers Training Program
 permalink: /blog/restaurant-managers-training-program/
 author:
   name: Steve Pruniski, GM at the The Vig at McCormick Ranch
-image: blog/2018/2018-08-22-restaurant-managers-training-program.jpg
+image: blog/2018-08-22-restaurant-managers-training-program.jpg
 excerpt: You know restaurants don’t run themselves; here’s how to train your people to run them even better with a dedicated restaurant manager training program.
 ---
 
@@ -23,9 +23,8 @@ How does this potential inexperience translate into your bottom line?
 
 Whether you're a smaller restaurant or a group with locations across your region, a restaurant managers training program is crucial to the success and steady growth of your organization.
 
-{% asset 'blog/2018/2018-08-22-restaurant-managers-training-program01.svg'
-  alt='Effective training reduces employee turnover by 9%'
-  class='marginTop marginBot' %}
+{% asset 'blog/2018-08-22-restaurant-managers-training-program01.svg'
+  alt='Effective training reduces employee turnover by 9%' %}
 {: .wideImage }
 
 ## Where do I start with a restaurant manager training program?
@@ -112,7 +111,7 @@ In another example of how restaurant manager training can help, EdgePoint Learni
 EdgePoint worked first with their CEO to identify goals and evaluate their existing programs, eventually designing lessons for experienced managers, newly hired personnel, and managerial hopefuls working their way up the ladder. Across the board, employees found these new training tools engaging, informative, and useful. Most importantly, they craved more of the same kinds of learning experiences. Hungry employees are the best kind of employees to have in a restaurant!
 
 ---
-{% asset 'blog/2018/steve-pruniski.jpg'
+{% asset 'blog/steve-pruniski.jpg'
    alt='Steve Pruniski'
    class='float-right thumbnail marginLeft marginTopHalf'
    magick:resize='120' %}

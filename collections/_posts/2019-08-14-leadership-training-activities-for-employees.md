@@ -3,7 +3,7 @@ title: "11 Powerful Leadership Training Activities For Employees In 2019"
 permalink: /blog/leadership-training-activities-for-employees/
 author:
   name: Michael Hansen
-image: blog/2019/2019-08-14-leadership-training-activities-for-employees.jpg
+image: blog/2019-08-14-leadership-training-activities-for-employees.jpg
 excerpt: Leadership training for employees can be engaging, thought-provoking, and truly productive when it comes to building teams. Here's how. 
 ---
 Leadership training for employees can be engaging, thought-provoking, and truly productive when it comes to building teams. Here's how.
@@ -46,11 +46,9 @@ Each company might have a different answer to this complex question, but in gene
 
 Here are 11 suggestions for engaging and thoughtful leadership building activities.
 
-{% asset 'blog/2019/2019-08-14-leadership-training-activities-for-employees.png'
+{% asset 'blog/2019-08-14-leadership-training-activities-for-employees.png'
   alt='Quality Leadership'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 1. [Simple icebreaking questions](https://museumhack.com/list-icebreakers-questions/){:target="_blank"}
 

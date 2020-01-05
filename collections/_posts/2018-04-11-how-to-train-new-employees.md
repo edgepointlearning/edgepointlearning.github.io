@@ -3,7 +3,7 @@ title: How to Train Your New Employees Effectively
 permalink: /blog/how-to-train-new-employees/
 author:
   name: Corey Bleich
-image: blog/2018/2018-04-11-how-to-train-new-employees.jpg
+image: blog/2018-04-11-how-to-train-new-employees.jpg
 excerpt:  "It’s a common mistake that even successful businesses make: not formally training new employees. Here's how to train your new employees effectively with a new hire training checklist."
 redirect_from: "/blog/employee-onboarding/"
 ---
@@ -25,11 +25,9 @@ According to some estimates, the [cost of replacing employees](http://www.recrui
 * 91% of employees stick around for at least a year when organizations have efficient onboarding processes
 * 69% of them stick around for at least three years when companies have well-structured onboarding programs
 
-{% asset 'blog/2018/2018-04-11-how-to-train-new-employees01.jpg'
+{% asset 'blog/2018-04-11-how-to-train-new-employees01.jpg'
   alt='91% of employees stay for at least a year when companies have well-structured new hire training'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 Now imagine that 91% of your employees stay for at least a year and 69% are still going strong after three years. What does that mean for your bottom line? Your company culture? 
 
@@ -81,9 +79,8 @@ Checklists make life easier to manage, and a new employee training checklist is 
 * [Process Street](https://www.process.st/checklist/employee-onboarding-checklist){:target="_blank"}
 * [Hire by Google](https://hire.google.com/articles/new-hire-checklist/){:target="_blank"}
 
-{% asset 'blog/2019/2019-09-11-better-new-hire-onboarding01.svg'
-  alt='New Hire Onboarding Starts Before Day 1'
-  class='marginTop marginBot' %}
+{% asset 'blog/2019-09-11-better-new-hire-onboarding01.svg'
+  alt='New Hire Onboarding Starts Before Day 1' %}
 {: .wideImage }
 
 ### 3. Start onboarding before day one

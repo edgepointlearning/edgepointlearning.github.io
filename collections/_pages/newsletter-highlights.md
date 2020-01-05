@@ -5,7 +5,7 @@ excerpt: "Keep up on the latest in eLearning news and regulatory changes by subs
 layout: post
 author:
   name: Michael Hansen
-image: blog/2019/2019-02-26-newsletter-sample.jpg
+image: blog/2019-02-26-newsletter-sample.jpg
 related: false
 breadcrumb: false
 sharesheet: false
@@ -17,7 +17,7 @@ cards:
     <p>Every month, EdgePoint Learning crafts an informative newsletter showcasing our latest and most relevant blogs, articles, and discussions within the learning industry and beyond. Here’s a sampling of some recent highlights that our readers have enjoyed.</p>
 </div>
 
-{% asset 'blog/2018/2018-07-25-adult-learning-theory.jpg'
+{% asset 'blog/2018-07-25-adult-learning-theory.jpg'
    alt='question & answer session'
    class='marginTop marginBotNone'
    magick:resize='670' %}
@@ -40,7 +40,7 @@ For more information, check out our blog on [12 Amazing advantages of eLearning 
 {: .marginBot }
 
 
-{% asset 'blog/2018/2018-06-27-corporate-finance-training.jpg'
+{% asset 'blog/2018-06-27-corporate-finance-training.jpg'
    alt='writing SMART goals'
    class='marginTop marginBotNone'
    magick:resize='670' %}
@@ -66,7 +66,7 @@ See a [sample video](/demo/goal-setting/) clip explaining SMART goals created fo
 {: .marginBot }
 
 
-{% asset 'blog/2019/2019-01-16-get-employees-excited-about-training.jpg'
+{% asset 'blog/2019-01-16-get-employees-excited-about-training.jpg'
    alt='excited employee'
    class='marginTop marginBotNone'
    magick:resize='670' %}
@@ -77,7 +77,7 @@ We have all been there, trudging into a boardroom for a three-day conference on 
 {: .marginBot }
 
 
-{% asset 'blog/2018/2018-04-18-training-needs-analysis.jpg'
+{% asset 'blog/2018-04-18-training-needs-analysis.jpg'
    alt='man analyzing training needs'
    class='marginTop marginBotNone'
    magick:resize='670' %}

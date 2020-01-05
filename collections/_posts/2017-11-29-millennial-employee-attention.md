@@ -3,7 +3,7 @@ title: Capturing Millennial Employee Attention In a World Where We Work from Any
 permalink: /blog/millennial-employee-attention/
 author:
   name: Corey Bleich
-image: blog/2017/2017-11-25-millennial-employee-attention.jpg
+image: blog/2017-11-25-millennial-employee-attention.jpg
 excerpt: You can capture millennial employees' attention by knowing what drives them, what you can learn from them, and how to capture their attention in a world where we work from anywhere.
 ---
 
@@ -51,11 +51,9 @@ Companies like Apple and Google have a large and mobile [millennial workforce](h
 
 Offering variety, constant feedback, and a work environment that is flexible and engaging is just the beginning. Here are eight more ways to capture millennial attention.
 
-{% asset 'blog/2017/2017-11-25-millennial-employee-attention-2.jpg'
+{% asset 'blog/2017-11-25-millennial-employee-attention-2.jpg'
    alt='8 Tips For Capturing Milennial Attention'
-   class='marginTop marginBot'
-   magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 ### 1. Don’t dumb it down

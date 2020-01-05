@@ -3,7 +3,7 @@ title:    5 Benefits Of Experiential Learning In The Workplace
 permalink: /blog/benefits-of-experiential-learning/
 author:
   name: Corey Bleich
-image: blog/2018/2018-11-14-benefits-of-experiential-learning.jpg
+image: blog/2018-11-14-benefits-of-experiential-learning.jpg
 excerpt: Experiential learning can revolutionize how companies train their employees and develop leaders from within. These are the major benefits of experiential learning for your workforce.
 ---
 
@@ -42,9 +42,8 @@ Experiential learning is coming into its own as expectations of employee trainin
 * With the [growth of AI in the workplace](https://www.cnbc.com/2015/04/10/robots-the-new-low-cost-worker.html){:target="_blank"}, these same millennials recognize that they need [more (and different) training](https://deloitte.wsj.com/cio/2017/03/23/millennials-conflicted-about-workplace-automation/){:target="_blank"} to keep up
 * A low supply of highly skilled workers means that experiential learning, [on the job](/blog/on-the-job-training-advantages/), is the new normal when it comes to training your workplace
 
-{% asset 'blog/2018/2018-11-14-benefits-of-experiential-learning01.svg'
-  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material'
-  class='marginTop marginBot' %}
+{% asset 'blog/2018-11-14-benefits-of-experiential-learning01.svg'
+  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material' %}
 {: .wideImage }
 
 ## What are the major benefits of experiential learning in the workplace?
@@ -58,11 +57,9 @@ There are five major benefits of experiential learning in the workplace:
 * Allows for accurate assessment of skills
 
 
-{% asset 'blog/2018/2018-11-14-benefits-of-experiential-learning-infographic.jpg'
+{% asset 'blog/2018-11-14-benefits-of-experiential-learning-infographic.jpg'
   alt='Major Benefits Of Experiential Learning'
-  class='marginTop marginBot' 
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 
 ### Develops capacity to adapt to new situations

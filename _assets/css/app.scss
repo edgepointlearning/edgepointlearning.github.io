@@ -5,6 +5,7 @@ $epl-off-black: #434343;
 $epl-pink: #ffd6d3;
 $epl-yellow:  #fffad3;
 $epl-sky: #cee0f5; 
+$epl-green: #003a00;
 
 $content-maxwidth: 670px;
 
@@ -24,9 +25,31 @@ $content-maxwidth: 670px;
   'foundation/foundation'
 ;
 
+$button-palette: map-merge($foundation-palette, (
+    bright: $epl-blue-light,
+    wyte: #fefefe
+));
+
 @include foundation-everything;
 
+//// Preventing FOUC
+.no-js {
+  @include breakpoint(small only) {
+    .top-bar {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+    .title-bar {
+      display: none;
+    }
+  }
+}
+
 @import
+'content',
+
 'card-client',
 'card-cta',
 'card-home-sample',
@@ -35,8 +58,6 @@ $content-maxwidth: 670px;
 'card-solution',
 'card-story',
 'card-teaser',
-
-'content',
 
 'include-billboard',
 'include-footer',
@@ -47,9 +68,14 @@ $content-maxwidth: 670px;
 'layout-form',
 'layout-post',
 
-'nav-big',
-'nav-breadcrumbs',
-'nav-off-canvas',
-'nav-small',
+'nav',
+'search',
 
 'tweaks';
+
+.autoprefixer-test {
+  display: grid;
+  transition: all .5s;
+  user-select: none;
+  background: linear-gradient(to bottom, white, black);
+}

@@ -13,6 +13,8 @@ plugins :
   - jekyll-assets
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-target-blank
+  # - jekyll-inline-svg
 
 livereload : true
 
@@ -28,9 +30,7 @@ assets         :  # https://github.com/envygeeks/jekyll-assets/tree/v2.4.0
   autoprefixer :
     browsers   :
       - 'last 2 versions'
-      - 'ie >= 9'
-      - 'Android >= 2.3'
-      - 'ios >= 7'
+      - '> 1%'
   digest       : false # TEMPORARY FIX FOR FACEBOOK & TWITTER CARDS
   # cache      : false # TEMPORARILY FIXES FONT CACHING BUG
   features     :
@@ -121,3 +121,18 @@ exclude :
   - node_modules
   - netlify.toml
   - docker-compose.yml
+
+### plugin: jekyll-algolia # to update search index: ALGOLIA_API_KEY='my-private-algolia-application-id' bundle exec jekyll algolia 
+algolia:
+  application_id: 10CLOWR2F7
+  index_name: edgepointlearning
+  search_only_api_key: d8ed542264abddec8c8f7dcaafdd3e1e
+
+### plugin: jekyll-inline-svg
+# svg:
+#   optimize: true
+
+### plugin: jekyll-target-blank
+# target-blank:
+#   noopener: false
+#   noreferrer: false

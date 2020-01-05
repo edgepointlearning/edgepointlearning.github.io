@@ -3,7 +3,7 @@ title:    "10 Topics To Include In Your New Manager Training In 2020"
 permalink: /blog/new-manager-training/
 author:
   name: Corey Bleich
-image: blog/2019/2019-11-06-new-manager-training.jpg
+image: blog/2019-11-06-new-manager-training.jpg
 excerpt: These are ten topics to include in your new manager training (and why this type of training is still vitally important in 2020 and beyond).
 ---
 
@@ -20,10 +20,9 @@ Some statistics suggest that in just two years, millennials will leapfrog over G
 
 But is this type of training still important? Short answer? Yes: new manager training is still important. With caveats. Here's how to roll out manager training for this newer workforce. 
 
-{% asset 'blog/2019/2019-11-06-new-manager-training01.jpg'
+{% asset 'blog/2019-11-06-new-manager-training01.jpg'
   alt='Millennials will make up 75% of workforce by 2025'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### Management training programs have to be personal 
 
@@ -103,10 +102,9 @@ These three big topics are all related and a crucial part of new manager trainin
 
 Beyond all the practical parts of management training programs, the bottom line is people. Managers need to cultivate skills to support their people, and the appropriate training can help with this.
 
-{% asset 'blog/2019/2019-11-06-new-manager-training02.jpg'
+{% asset 'blog/2019-11-06-new-manager-training02.jpg'
   alt='Managers need to cultivate skills to support their people.'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ### 7. Emergency procedures
 

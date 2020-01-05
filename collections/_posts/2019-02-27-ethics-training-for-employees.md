@@ -3,7 +3,7 @@ title:    "8 Ways To Develop More Effective Ethics Training For Employees"
 permalink: /blog/ethics-training-for-employees/
 author:
   name: Michael Hansen
-image: blog/2019/2019-02-27-ethics-training-for-employees.jpg
+image: blog/2019-02-27-ethics-training-for-employees.jpg
 excerpt: "Here are eight ways to develop more effective and engaging ethics trainings for employees in your workforce."
 ---
 

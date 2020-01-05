@@ -3,7 +3,7 @@ title: "Your Step-By-Step Guide To Better New Hire Onboarding"
 permalink: /blog/better-new-hire-onboarding/
 author:
   name: Michael Hansen
-image: blog/2019/2019-09-11-better-new-hire-onboarding.jpg
+image: blog/2019-09-11-better-new-hire-onboarding.jpg
 excerpt: Here’s your step-by-step checklist for better new hire onboarding, from your entry-level employees to key management positions.
 ---
 
@@ -72,9 +72,8 @@ The companies with the biggest returns [start employee onboarding well before th
 
 Be like those companies and clarify crucial information ahead of time. A week is good. For higher-level employees, more time may be necessary. 
 
-{% asset 'blog/2019/2019-09-11-better-new-hire-onboarding01.svg'
-  alt='New Hire Onboarding Starts Before Day 1'
-  class='marginTop marginBot' %}
+{% asset 'blog/2019-09-11-better-new-hire-onboarding01.svg'
+  alt='New Hire Onboarding Starts Before Day 1' %}
 {: .wideImage }
 
 ### 3. Break down each block of information and assign it
@@ -100,9 +99,8 @@ The delivery method will depend on the information itself. [Microlearning](/blog
 
 Maybe some information is best delivered in small groups so the employee can meet their team. Or maybe you create a role-playing simulation for customer service training that uses [gamification](/blog/gamification-in-elearning/). Match the training style to the information for best results.
 
-{% asset 'blog/2019/2019-09-11-better-new-hire-onboarding02.svg'
-  alt='Microlearning takes 300% less time and costs 50% less than traditional training'
-  class='marginTop marginBot' %}
+{% asset 'blog/2019-09-11-better-new-hire-onboarding02.svg'
+  alt='Microlearning takes 300% less time and costs 50% less than traditional training' %}
 {: .wideImage }
 
 ### 6. Set up a delivery schedule – and stick to it

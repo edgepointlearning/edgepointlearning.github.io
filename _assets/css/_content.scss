@@ -69,7 +69,7 @@
     &:before {
       content: open-quote;
       display: inline;
-      height: 0;
+      // height: 0;
       line-height: 0;
       left: -10px;
       position: relative;
@@ -89,4 +89,15 @@
     margin-top: $global-margin * 2;
     @extend .h3;
   }
+}
+// wide raster image
+.layout-post .content picture {
+  display: inline-block;
+  margin-top: $global-margin * 0.5;
+  margin-bottom: $global-margin * 1.5;
+}
+// normal raster image
+.layout-post .content p img {
+  margin-top: $global-margin * 0.5;
+  margin-bottom: $global-margin * 0.5;
 }

@@ -1,13 +1,14 @@
 ---
 title: eLearning Blog
 permalink: /blog/
+layout: default
 
 excerpt: "On our eLearning blog, you’ll find informative and actionable insights into the learning industry. Subscribe to get the latest delivered to your inbox."
 
 headline: Always-On eLearning Blog
 id: blog
 
-image: blog/2019/2019-08-14-leadership-training-activities-for-employees.jpg
+image: blog/2019-08-14-leadership-training-activities-for-employees.jpg
 
 pagination:
   enabled: true
@@ -24,6 +25,12 @@ cards:
   - newsletter
 ---
 <div class="grid-container">
+  
+  <div class="grid-x grid-margin-x grid-margin-y">
+    <div class="cell">
+      <h1 class="marginTop marginBot">{{ page.headline }}</h1>
+    </div>
+  </div>
 
   <div class="grid-x grid-margin-x grid-margin-y">
     {% for post in paginator.posts %}

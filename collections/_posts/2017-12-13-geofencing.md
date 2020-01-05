@@ -3,7 +3,7 @@ title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
 permalink: /blog/geofencing/
 author:
   name: Michael Hansen
-image: blog/2017/2017-12-13-geofencing.jpg
+image: blog/2017-12-13-geofencing.jpg
 excerpt: Geofencing technology is increasingly providing cutting-edge and immediate access to on-the-ground and mobile employee training. This is how it works.
 ---
 
@@ -19,10 +19,9 @@ Geofencing also makes tracking customers easier for businesses. The geofence can
 
 However, while it may have started as a sales technique, geofencing has real potential in revolutionizing training and recruitment efforts.
 
-{% asset 'blog/2017/geofencing.jpg'
+{% asset 'blog/geofencing.jpg'
   alt='Geofencing'
-  class='marginTop marginBot' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## How does geofencing for recruitment work?
 

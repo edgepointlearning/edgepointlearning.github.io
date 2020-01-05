@@ -3,7 +3,7 @@ title: "How To Prevent Workplace Violence: 7 Steps To Take Right Now"
 permalink: /blog/workplace-violence-prevention/
 author:
   name: Corey Bleich
-image: blog/2018/2018-02-28-workplace-violence-prevention.jpg
+image: blog/2018-02-28-workplace-violence-prevention.jpg
 excerpt: Workplace violence is not something we can ignore as business leaders. Here are steps you can take right now to prevent violent incidents in the future.
 ---
 
@@ -38,11 +38,9 @@ For these employees, workplace violence is the third leading cause of death on t
 
 In general, the occupations with the highest risk of workplace violence include any that interact with the public, are open after dark, and serve alcohol.
 
-{% asset 'blog/2018/2018-02-28-workplace-violence-prevention-01.jpg'
+{% asset 'blog/2018-02-28-workplace-violence-prevention-01.jpg'
   alt='16% of all workplace fatalities are due to workplace violence'
-  class='marginTop marginBot'
-  magick:resize='1170' %}
-{: .wideImage }
+  magick:resize='1170' @pic %}
 
 ## How can workplace violence training help?
 
