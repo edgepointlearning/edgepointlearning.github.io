@@ -107,6 +107,6 @@ If employees have gaps in their knowledge or just need more, pivot to a strategy
 
 ## Learn more about HIPAA training for employees
 
-Our team at [EdgePoint Learning](/) offers both fully-customized and off-the-shelf mobile and online eLearning HIPAA training resources for your employees. Let us help you find a solution that fits your needs (and your budget!).
+Our team at [EdgePoint Learning](/) offers fully-customized mobile and online eLearning HIPAA training resources for your employees. Let us help you find a solution that fits your needs (and your budget!).
 
 [Contact Us](/contact/ ){:class="button"}
