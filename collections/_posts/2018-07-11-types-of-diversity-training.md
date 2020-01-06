@@ -34,7 +34,7 @@ A recent McKinsey study shows that:
 
 “Companies in the top quartile for racial and ethnic diversity are [35% more likely](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters){:target="_blank"} to have financial returns above their respective national industry medians.”
 
-{% asset 'blog/2018-07-11-types-of-diversity-training01.png'
+{% asset 'blog/2018-07-11-types-of-diversity-training01.jpg'
   alt='Diverse companies are 35% more likely to have financial returns above industry median'
   magick:resize='1170' @pic %}
 

@@ -13,7 +13,7 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 ## What is microlearning?
 
-{% asset 'blog/2018-06-13-types-of-microlearning01.png'
+{% asset 'blog/2018-06-13-types-of-microlearning01.jpg'
   alt='Most employees only have 24 minutes a week for training'
   magick:resize='1170' @pic %}
 
@@ -49,7 +49,7 @@ Microlearning works best when it's short and focused to one specific learning ob
 ## What are the benefits of microlearning?
 Microlearning is desperately needed by time- and attention-hungry employees, and reduces strain on your current training resources. The different types of microlearning offer tremendous benefit to employees and employers, including:
 
-{% asset 'blog/2018-06-13-types-of-microlearning02.png'
+{% asset 'blog/2018-06-13-types-of-microlearning02.jpg'
   alt='Microlearning improves knowledge transfer by 17%'
   magick:resize='1170' @pic %}
 

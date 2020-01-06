@@ -24,7 +24,7 @@ The best types of employee training methods for your workforce may include:
 
 We discuss the ideal situations for these types of training for employees, along with their respective challenges below. 
 
-{% asset 'blog/2017-04-27-types-of-employee-training@2x.png'
+{% asset 'blog/2017-04-27-types-of-employee-training@2x.jpg'
   alt='Types of employee training'
   magick:resize='1170' @pic %}
 

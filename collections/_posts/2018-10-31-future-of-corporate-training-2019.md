@@ -45,7 +45,7 @@ Maybe you've scoffed at the idea that focused training for soft skills is impera
 
 The Stanford Research Institute International and the Carnegie Mellon Foundation found that [75% of long-term job success](https://www.amanet.org/training/articles/the-hard-truth-about-soft-skills.aspx){:target="_blank"} depends upon soft skills mastery and only 25% on technical skills.
 
-{% asset 'blog/2018-10-31-future-of-corporate-training-2019.png'
+{% asset 'blog/2018-10-31-future-of-corporate-training-2019_1.jpg'
   alt='75% of long-term job success depends on soft skills mastery'
   magick:resize='1170' @pic %}
 

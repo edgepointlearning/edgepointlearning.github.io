@@ -68,7 +68,7 @@ Not every method is appropriate for every company. Choose the method or methods 
 *  Assessments
 *  Competitive analysis
 
-{% asset 'blog/2018-04-18-training-needs-analysis01.png'
+{% asset 'blog/2018-04-18-training-needs-analysis01.jpg'
   alt='Training Needs Analysis Tools'
   magick:resize='1170' @pic %}
 

@@ -16,7 +16,7 @@ The benefits of eLearning for your company are clear. An [IBM white paper](https
 * <strong>Scalable:</strong> When your team expands, your eLearning does too
 * <strong>Engaging:</strong> These days, the vast majority of the [workforce prefers engaging with eLearning](https://www.northpass.com/beginners-guide-to-online-training/engage-your-target-learners){:target="_blank"}
 
-{% asset 'blog/2019-07-31-when-to-use-elearning-infographic.png'
+{% asset 'blog/2019-07-31-when-to-use-elearning-infographic.jpg'
   alt='The benefits of elearning are clear'
   magick:resize='1170' @pic %}
 

@@ -73,7 +73,7 @@ Just like instructor-led training, eLearning courses must focus on the core prin
 
 ## eLearning vs. traditional learning infographic
 
-{% asset 'blog/2017-03-01-elearning-vs-traditional-learning-infographic@2x.png'
+{% asset 'blog/2017-03-01-elearning-vs-traditional-learning-infographic@2x.jpg'
   alt='elearning vs traditional learning infographic' 
   magick:resize='1170' @pic %}
 
