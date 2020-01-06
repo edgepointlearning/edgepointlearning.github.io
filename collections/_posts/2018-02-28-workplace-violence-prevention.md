@@ -1,8 +1,7 @@
 ---
 title: "How To Prevent Workplace Violence: 7 Steps To Take Right Now"
 permalink: /blog/workplace-violence-prevention/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-02-28-workplace-violence-prevention.jpg
 excerpt: Workplace violence is not something we can ignore as business leaders. Here are steps you can take right now to prevent violent incidents in the future.
 ---

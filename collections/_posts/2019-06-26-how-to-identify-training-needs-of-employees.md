@@ -1,8 +1,7 @@
 ---
 title: "How To Identify Training Needs Of Employees: 8 Ways To Start"
 permalink: /blog/how-to-identify-training-needs-of-employees/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2019-06-26-how-to-identify-training-needs-of-employees.jpg
 excerpt: Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how.
 ---

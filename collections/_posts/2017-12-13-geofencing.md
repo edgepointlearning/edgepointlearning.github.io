@@ -1,8 +1,7 @@
 ---
 title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
 permalink: /blog/geofencing/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2017-12-13-geofencing.jpg
 excerpt: Geofencing technology is increasingly providing cutting-edge and immediate access to on-the-ground and mobile employee training. This is how it works.
 ---

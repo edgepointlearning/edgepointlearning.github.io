@@ -1,8 +1,7 @@
 ---
 title:    4 Things Your Cyber Security Training For Beginners Must Cover
 permalink: /blog/cyber-security-training-for-beginners/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-08-08-cyber-security-training-for-beginners.jpg
 excerpt: Cyber security training for beginners is a crucial element of any employee training program. Here's what to include in yours.
 ---

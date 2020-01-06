@@ -1,8 +1,7 @@
 ---
 title:    "Build A Better Employee Retention Program With Training: 6 Strategies"
 permalink: /blog/employee-retention-program/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2019-12-04-employee-retention-program.jpg
 excerpt: You can’t expand and grow your business if you’re constantly training new staff. Build a better employee retention program through training with these tips.
 ---

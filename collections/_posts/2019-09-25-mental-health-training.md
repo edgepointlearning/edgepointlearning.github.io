@@ -1,8 +1,7 @@
 ---
 title: "What Is Mental Health Training And How Could It Help My Team?"
 permalink: /blog/mental-health-training/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2019-09-25-mental-health-training.jpg
 excerpt: Whether you work with educators, librarians, or other public-facing employees, this is what your mental health training programs should include. 
 ---

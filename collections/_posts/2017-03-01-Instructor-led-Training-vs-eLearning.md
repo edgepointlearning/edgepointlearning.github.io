@@ -1,8 +1,7 @@
 ---
 title: Instructor-Led Training vs. eLearning
 permalink: /blog/instructor-led-training-vs-elearning/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-09-17-349094.jpg
 excerpt: Instructor-led training is the traditional, formal version of training that takes place in a classroom, while eLearning can be taken at anytime from an internet-connected device. Read on to learn more.
 redirect_from:

@@ -1,8 +1,7 @@
 ---
 title: Your Guide To Cyberbullying Training For Teachers And Schools
 permalink: /blog/cyberbullying-training-for-teachers/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2019-07-17-cyberbullying-training-for-teachers.jpg
 excerpt: Cyberbullying training for teachers can help create a safe, supportive environment for all kids--even after school hours. This is how to roll out this type of training.
 ---

@@ -2,8 +2,7 @@
 title: A Sample Post For Nikki
 permalink: /blog/nikki-sample/
 excerpt: This is the text preview that shows up in search engines and on the /blog/ listings page.
-author:
-  name: Tyler Campbell
+author: { name: Tyler Campbell }
 image: blog/2019-09-12-nikki-sample.jpg
 date: 2020-01-01
 #redirect_from: "/blog/2001/01/01/sample-post"

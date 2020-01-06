@@ -1,8 +1,7 @@
 ---
 title: "When To Use eLearning: 5 Times It Makes The Most Sense"
 permalink: /blog/when-to-use-elearning/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2019-07-31-when-to-use-elearning.jpg
 excerpt: These are five times when to use eLearning and some instances when it may be better to look to other training tools.
 ---

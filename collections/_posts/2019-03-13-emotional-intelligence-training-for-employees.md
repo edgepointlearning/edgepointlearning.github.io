@@ -1,8 +1,7 @@
 ---
 title:    "How To Develop Emotional Intelligence Training For Employees"
 permalink: /blog/emotional-intelligence-training-for-employees/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2019-03-13-emotional-intelligence-training-for-employees.jpg
 excerpt: "Emotional intelligence training for employees and your managers provides many benefits, both in and out of your workplace. Here's how to train for it."
 ---

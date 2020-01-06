@@ -1,8 +1,7 @@
 ---
 title:    How To Develop And Train For Soft Skills In The Workplace
 permalink: /blog/train-for-soft-skills/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2018-10-24-train-for-soft-skills.jpg
 excerpt: Workers with soft skills training are 12% more productive, which translates into a 256% ROI. Here's how to develop soft skills in the workplace effectively.
 ---

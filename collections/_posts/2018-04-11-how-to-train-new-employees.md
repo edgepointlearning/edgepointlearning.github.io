@@ -1,8 +1,7 @@
 ---
 title: How to Train Your New Employees Effectively
 permalink: /blog/how-to-train-new-employees/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-04-11-how-to-train-new-employees.jpg
 excerpt:  "It’s a common mistake that even successful businesses make: not formally training new employees. Here's how to train your new employees effectively with a new hire training checklist."
 redirect_from: "/blog/employee-onboarding/"

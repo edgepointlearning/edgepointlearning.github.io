@@ -1,8 +1,7 @@
 ---
 title:    "How To Create Better Cyber Security Training For Managers And Your C-Suite"
 permalink: /blog/cyber-security-training-for-managers/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2019-05-15-cyber-security-training-for-managers.jpg
 excerpt: "Cyber security training for managers can affect the overall success (or failure) of your company. Here's what you need to know."
 ---

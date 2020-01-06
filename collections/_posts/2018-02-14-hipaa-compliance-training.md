@@ -1,8 +1,7 @@
 ---
 title: Your Guide To HIPAA Compliance Training For Employees
 permalink: /blog/hipaa-compliance-training/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-02-14-hipaa-compliance-training.jpg
 excerpt: The goal of HIPAA compliance training is to protect your patients, not just fulfill a regulatory requirement. This is how to roll out HIPAA training for employees that works.
 ---

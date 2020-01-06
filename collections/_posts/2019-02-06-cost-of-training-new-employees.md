@@ -1,8 +1,7 @@
 ---
 title:    "What's The Real Cost of Training New Employees?"
 permalink: /blog/cost-of-training-new-employees/
-author:
-  name: Michael Hansen
+author: { name: Michael Hansen }
 image: blog/2019-02-06-cost-of-training-new-employees.jpg
 excerpt: Read on for the real cost of training new employees, how to reduce that cost, along with risks of not giving your employees the training they need.
 redirect_from: "/blog/when-to-outsource-your-elearning/"

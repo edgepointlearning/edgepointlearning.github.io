@@ -1,8 +1,7 @@
 ---
 title: What Is mLearning, Or Mobile Learning?
 permalink: /blog/what-is-mlearning/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2017-05-17-mlearning.jpg
 excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. It uses the advantages of mobile devices to open up huge potentials for training your global workforce. Here's how it works.
 ---

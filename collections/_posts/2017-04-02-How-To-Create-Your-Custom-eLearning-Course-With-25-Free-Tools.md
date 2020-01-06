@@ -1,8 +1,7 @@
 ---
 title: 25 FREE Tools To Create Your Custom eLearning Courses
 permalink: /blog/how-to-create-your-custom-elearning-course-with-25-free-tools/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
 excerpt: Find over 25 free eLearning authoring tools to create your custom courses in 2019. We also break down the 6 steps for creating the best learning programs. 
 redirect_from: 

@@ -1,8 +1,7 @@
 ---
 title:    How To Find The Best LMS For Your Small Business
 permalink: /blog/best-lms-for-small-business/
-author:
-  name: Corey Bleich
+author: { name: Corey Bleich }
 image: blog/2018-09-11-best-lms-for-small-business.jpg
 excerpt: Using an LMS for small business takes the guesswork out of employee training. Here's how to find the best one for your small business.
 ---

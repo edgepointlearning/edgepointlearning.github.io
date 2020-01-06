@@ -1,8 +1,7 @@
 ---
 title: EdgePoint Announces Partnership With PinPoint Workforce, The First Mobile-Native Learning System
 permalink: /blog/pinpoint-partnership/
-author:
-  name: Nikki VanRy
+author: { name: Nikki VanRy }
 image: blog/2017-09-09-pinpoint.jpg
 excerpt: At EdgePoint Learning, we're thrilled to announce our new partnership with PinPoint Workforce, the world's first mobile-native learning and compliance system.
 ---

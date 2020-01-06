@@ -1,8 +1,7 @@
 ---
 title: Rethinking Online Sexual Harassment Training After &num;MeToo
 permalink: /blog/online-sexual-harassment-training/
-author:
-  name: Holly Curtis, President and Founder of The People Perspective, LLC
+author: { name: Holly Curtis, President and Founder of The People Perspective, LLC }
 image: blog/2018-01-17-online-sexual-harassment-training.jpg
 excerpt: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
 ---
