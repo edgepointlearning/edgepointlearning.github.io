@@ -81,10 +81,10 @@ For your corporate sales training program, make sure it's easy, accessible, and 
 
 Do things to make your most important training topics easier to access. Can you create a video? Or could you record a sales rep giving a pitch on a product for the team to view? Maybe have a podcast that the reps can listen to while driving? Or, could you create a [mobile social learning](/blog/what-is-mlearning/) opportunity where reps can share ideas and training tips? What about [region-specific push alerts](/blog/geofencing/) that provide them with key information for their next sales meeting?
 
-If you don’t have the internal resources available to develop a full eLearning suite, leverage what is free and already out there.  For example, I frequently binge listen to a great podcast called [The Brutal Truth About Sales & Selling](https://itunes.apple.com/us/podcast/brutal-truth-about-sales-selling-b2b-social-linkedin/id327760868?mt=2){:target="_blank"}, which I would highly recommend implementing into your blended learning solution.
+If you don’t have the internal resources available to develop a full eLearning suite, leverage what is free and already out there.  For example, I frequently binge listen to a great podcast called [The Brutal Truth About Sales & Selling](https://itunes.apple.com/us/podcast/brutal-truth-about-sales-selling-b2b-social-linkedin/id327760868?mt=2), which I would highly recommend implementing into your blended learning solution.
 
 Whatever you can do to make your corporate sales training more easy to access, review, and use as a job aid, the more likely it is that your sales team will actually use it.
 
 <strong>Need help creating a program that works? Contact [EdgePoint Learning](/contact/) today to see demos of our sales training courses.</strong>
 
-<em>This article was originally published on [eLearning Industry](https://elearningindustry.com/corporate-sales-training-program-6-tips-developing-effective){:target="_blank"} on March 18, 2018.</em>
+<em>This article was originally published on [eLearning Industry](https://elearningindustry.com/corporate-sales-training-program-6-tips-developing-effective) on March 18, 2018.</em>

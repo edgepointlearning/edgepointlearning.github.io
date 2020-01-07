@@ -11,7 +11,7 @@ Consider this: for an investment of just 10% of an employee’s salary (or less!
 
 ## How much does it cost to train new employees?
 
-According to the 2017 Training industry report, companies spent an average of [$1,075 per employee](https://trainingmag.com/trgmag-article/2017-training-industry-report/){:target="_blank"} trained. While this may seem like small potatoes, this is a $200 increase from the previous year. This translates, in cash dollars, to a nearly 33% increase in overall training expenditures in the U.S. from 2016 to 2017 for a total of nearly 91 billion dollars.
+According to the 2017 Training industry report, companies spent an average of [$1,075 per employee](https://trainingmag.com/trgmag-article/2017-training-industry-report/) trained. While this may seem like small potatoes, this is a $200 increase from the previous year. This translates, in cash dollars, to a nearly 33% increase in overall training expenditures in the U.S. from 2016 to 2017 for a total of nearly 91 billion dollars.
 
 {% asset 'blog/2019-02-06-cost-of-training-new-employees-01.jpg'
   alt='Companies spend $1,075 on training per employee'
@@ -38,9 +38,9 @@ Many of these hidden expenses can be mediated with high-quality employee trainin
 
 Poorly trained employees are just not as good at their jobs. This makes employees unhappy, lowers customer satisfaction, and eventually leads to conflicts that could have been prevented. This all makes sense, however, these aren't the largest risks of neglecting to add a formal new employee training program. What is? The high cost of [employee turnover](/blog/how-to-train-new-employees/).
 
-Digital training options along with [on-the-job training](/blog/on-the-job-training-advantages/) allows your new employees to become more settled in their jobs—and happier employees can lead to an increase in your retention rates. Up to 20% of employees in the U.S [quit within 45 days](https://www.bls.gov/news.release/jolts.nr0.htm){:target="_blank"} of being hired for a job. That number increases to as much as 50% when it comes to retail employees!
+Digital training options along with [on-the-job training](/blog/on-the-job-training-advantages/) allows your new employees to become more settled in their jobs—and happier employees can lead to an increase in your retention rates. Up to 20% of employees in the U.S [quit within 45 days](https://www.bls.gov/news.release/jolts.nr0.htm) of being hired for a job. That number increases to as much as 50% when it comes to retail employees!
 
-A turnover can end up [costing your company](http://www.recruiteze.com/cost-hire-new-employee/){:target="_blank"} 16-20% of your employee’s annual salary. As employees move up the ladder, this cost can skyrocket, with managerial level training budgets hovering right around $188,000 for larger companies.
+A turnover can end up [costing your company](http://www.recruiteze.com/cost-hire-new-employee/) 16-20% of your employee’s annual salary. As employees move up the ladder, this cost can skyrocket, with managerial level training budgets hovering right around $188,000 for larger companies.
 
 {% asset 'blog/2019-02-06-cost-of-training-new-employees-02.svg'
   alt='20% of U.S. employees quit within first 45 days' %}
@@ -84,7 +84,7 @@ No matter what you call it, this type of training is a cost-effective way to del
 
 ### 4. Create better training, faster
 
-As you likely know, it takes time to develop a high-quality learning course. How long? There are four basic forms of eLearning. As was noted on the [ATD website](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017){:target="_blank"}, these categories are generally defined as:
+As you likely know, it takes time to develop a high-quality learning course. How long? There are four basic forms of eLearning. As was noted on the [ATD website](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017), these categories are generally defined as:
 
 * <strong>Level 1 (passive):</strong> Learner is a receiver of information
 * <strong>Level 2 (limited interactivity):</strong> Learner offers minimal response to cues, perhaps as part of multiple-choice questions or simple selections
@@ -95,7 +95,7 @@ Most eLearning course fall somewhere between levels one and two. Based on survey
 
 * <strong>Start with a [learning needs assessment](/blog/training-needs-analysis):</strong> This clarifies goals and focuses your training
 * <strong>Use subject matter experts:</strong> No need to create content from scratch
-* <strong>Set out a timeline to [create your eLearning course](https://elearningindustry.com/6-tips-estimate-elearning-course-development-time){:target="_blank"}:</strong> This keeps you focused and on track
+* <strong>Set out a timeline to [create your eLearning course](https://elearningindustry.com/6-tips-estimate-elearning-course-development-time):</strong> This keeps you focused and on track
 * <strong>Don’t skimp on resources:</strong> Spend the time, money, and human resources it takes to create solid learning experiences
 
 ### 5. Consider outsourcing your training development

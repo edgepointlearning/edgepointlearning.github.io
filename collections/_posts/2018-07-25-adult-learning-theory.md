@@ -55,7 +55,7 @@ Let's look at these in more detail.
 
 ### Transformational
 
-[Transformational learning theory](https://www.learning-theories.com/transformative-learning-theory-mezirow.html){:target="_blank"} (also referred to as transformative learning theory) seems tailor-made for adult learners.
+[Transformational learning theory](https://www.learning-theories.com/transformative-learning-theory-mezirow.html) (also referred to as transformative learning theory) seems tailor-made for adult learners.
 
 This theory propounds that a person’s experience, and the examination of it, is crucial to creating meaning and learning something new. Essentially, an old understanding is re-examined in light of new evidence, and the learning (and learner) transforms. A paradigm shift occurs.
 
@@ -63,7 +63,7 @@ Learning of this type involves task-based assignments in which a learner has roo
 
 ### Experiential
 
-[Experiential learning](https://explorance.com/2015/02/i-do-and-i-understand-kolbs-experiential-learning-theory-explained/){:target="_blank"} satisfies the adult need for proper motivation and application of new learning. Designed as an immersive experience, experiential learning requires adults to apply their newly learned skills to a set of problems or towards a common goal.
+[Experiential learning](https://explorance.com/2015/02/i-do-and-i-understand-kolbs-experiential-learning-theory-explained/) satisfies the adult need for proper motivation and application of new learning. Designed as an immersive experience, experiential learning requires adults to apply their newly learned skills to a set of problems or towards a common goal.
 
 This [type of learning](/blog/top-10-types-of-employee-training/) uses simulations and scenarios to engage the learner. These are followed by reflective observation of case studies or other applicable demonstrations. Adult learners then look at abstract scenarios before actively experimenting at applying their new knowledge.
 
@@ -71,7 +71,7 @@ Experiential learning honors adults for what they bring to the table. It gives t
 
 ### Self-directed learning
 
-[Self-directed learning](https://www.bpastudies.org/bpastudies/article/view/38/78){:target="_blank"} is "a process in which individuals take the initiative without the help of others in diagnosing their learning needs, formulating goals, identifying human and material resources, and evaluating learning outcomes.”
+[Self-directed learning](https://www.bpastudies.org/bpastudies/article/view/38/78) is "a process in which individuals take the initiative without the help of others in diagnosing their learning needs, formulating goals, identifying human and material resources, and evaluating learning outcomes.”
 
 Think of the last time you learned something because you were interested in it. Maybe it was small engine repair, computer programming, or knitting. There was no one standing over you, forcing you to read a manual or practice. Self-directed learning is powerful for adults because the motivation to learn comes from the learner.
 
@@ -79,7 +79,7 @@ Considering how to incorporate self-directed learning into your eLearning course
 
 ### Neuroscience
 
-Finally, the very best eLearning designers consider the actual [structure and function of an adult brain](/blog/learning-research-2017/){:target="_blank"} when designing their eLearning courses.
+Finally, the very best eLearning designers consider the actual [structure and function of an adult brain](/blog/learning-research-2017/) when designing their eLearning courses.
 
 This theory of adult learning examines the manner in which the brain functions to maximize an adult’s ability to learn. Just as you would not try to force a baby to walk before they could support their head, the neuroscience theory of adult education take into consideration what a brain is ready for. This might mean tailoring the time, method of delivery, and configuration of the training to enhance its benefits.
 
@@ -91,4 +91,4 @@ At [EdgePoint Learning](https://www.edgepointlearning.com/), we get that your em
 
 <strong>We are experts at designing engaging, relevant, and useful eLearning for every industry. [Get in touch today](https://www.edgepointlearning.com/contact/) to learn more about adult learning theory and see how we can help you!</strong>
 
-This post was originally published on [eLearning Industry](https://elearningindustry.com/adult-learning-theory-helps-elearning-development){:target="_blank"}.
+This post was originally published on [eLearning Industry](https://elearningindustry.com/adult-learning-theory-helps-elearning-development).

@@ -6,21 +6,21 @@ image: blog/2019-07-31-when-to-use-elearning.jpg
 excerpt: These are five times when to use eLearning and some instances when it may be better to look to other training tools.
 ---
 
-If you are in charge of your company’s training dollars, it’s important to make sure the learning programs you design are thoughtful, effective, and efficient in terms of ROI. If you know when to use eLearning, you can tick all the boxes with training that delivers. [As eLearning steps into the spotlight](https://www.forbes.com/sites/tjmccue/2018/07/31/e-learning-climbing-to-325-billion-by-2025-uf-canvas-absorb-schoology-moodle/#52ed70423b39){:target="_blank"}, here are five times to use eLearning and some instances when it may actually be better to look to other training tools.
+If you are in charge of your company’s training dollars, it’s important to make sure the learning programs you design are thoughtful, effective, and efficient in terms of ROI. If you know when to use eLearning, you can tick all the boxes with training that delivers. [As eLearning steps into the spotlight](https://www.forbes.com/sites/tjmccue/2018/07/31/e-learning-climbing-to-325-billion-by-2025-uf-canvas-absorb-schoology-moodle/#52ed70423b39), here are five times to use eLearning and some instances when it may actually be better to look to other training tools.
 
 ## What are the benefits of eLearning? 
 
-The benefits of eLearning for your company are clear. An [IBM white paper](https://www-03.ibm.com/services/learning/pdfs/IBMTraining-TheValueofTraining.pdf){:target="_blank"} found that eLearning increased company-wide skills, was cost-effective, and resulted in more efficient product rollout. eLearning is also:
+The benefits of eLearning for your company are clear. An [IBM white paper](https://www-03.ibm.com/services/learning/pdfs/IBMTraining-TheValueofTraining.pdf) found that eLearning increased company-wide skills, was cost-effective, and resulted in more efficient product rollout. eLearning is also:
 
 * <strong>Measurable:</strong> Learning management software can track targets and objectives to produce measurable results
 * <strong>Scalable:</strong> When your team expands, your eLearning does too
-* <strong>Engaging:</strong> These days, the vast majority of the [workforce prefers engaging with eLearning](https://www.northpass.com/beginners-guide-to-online-training/engage-your-target-learners){:target="_blank"}
+* <strong>Engaging:</strong> These days, the vast majority of the [workforce prefers engaging with eLearning](https://www.northpass.com/beginners-guide-to-online-training/engage-your-target-learners)
 
 {% asset 'blog/2019-07-31-when-to-use-elearning-infographic.jpg'
   alt='The benefits of elearning are clear'
   magick:resize='1170' @pic %}
 
-One of the major benefits of eLearning is its customizable agility. Gone are the days of read-a-chapter-take-the-quiz mode of training. You have [options for eLearning](https://elearningindustry.com/choosing-right-elearning-methods-factors-elements){:target="_blank"} that include:
+One of the major benefits of eLearning is its customizable agility. Gone are the days of read-a-chapter-take-the-quiz mode of training. You have [options for eLearning](https://elearningindustry.com/choosing-right-elearning-methods-factors-elements) that include:
 
 * Gamification
 * Microlearning
@@ -30,7 +30,7 @@ One of the major benefits of eLearning is its customizable agility. Gone are the
 
 Which format works for you will depend on you company’s objectives as well as which types of employees are participating.
 
-Regardless of the format, it’s clear that the most [effective trainings are being delivered online](https://elearningindustry.com/elearning-trends-for-2019-miss-4){:target="_blank"}. 
+Regardless of the format, it’s clear that the most [effective trainings are being delivered online](https://elearningindustry.com/elearning-trends-for-2019-miss-4). 
 
 ## When to use eLearning: 5 examples
 

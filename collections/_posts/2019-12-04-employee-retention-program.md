@@ -15,7 +15,7 @@ Building a better company starts with developing a better employee retention pro
 
 An employee retention program with a high-quality foundation for learning could be the factor that makes (or breaks) your company. 
 
-A survey published in October 2019 by Harvard Business Publishing Corporate Learning directly tied [high-quality employee learning to higher employee retention rates](https://www.forbes.com/sites/chriswestfall/2019/10/08/new-survey-workers-unsatisfied-with-learning-and-development-programs-training-leadership/#315085fc48a4){:target="_blank"} and job satisfaction. Consider these findings from the report.
+A survey published in October 2019 by Harvard Business Publishing Corporate Learning directly tied [high-quality employee learning to higher employee retention rates](https://www.forbes.com/sites/chriswestfall/2019/10/08/new-survey-workers-unsatisfied-with-learning-and-development-programs-training-leadership/#315085fc48a4) and job satisfaction. Consider these findings from the report.
 
 * Just 20% of employees would recommend their company’s learning programs and 50% would not
 * The majority of employees (more than 55%) consider opportunities for career growth in a company more important than salary
@@ -28,28 +28,28 @@ A survey published in October 2019 by Harvard Business Publishing Corporate Lear
 
 When it comes to choosing a company to work for millennials, the second largest demographic group after baby boomers, won’t settle for a company that doesn’t engage them in thoughtful, useful, and creative training. 
 
-The rate of what is termed [“job hopping” has nearly doubled for millennials](https://www.edsurge.com/news/2017-07-20-how-many-times-will-people-change-jobs-the-myth-of-the-endlessly-job-hopping-millennial){:target="_blank"} in their first decade out of college. Most notably, as this survey shows, it's often tied to jobs that do not offer substantial opportunities for meaningful training tied to potential advancement.
+The rate of what is termed [“job hopping” has nearly doubled for millennials](https://www.edsurge.com/news/2017-07-20-how-many-times-will-people-change-jobs-the-myth-of-the-endlessly-job-hopping-millennial) in their first decade out of college. Most notably, as this survey shows, it's often tied to jobs that do not offer substantial opportunities for meaningful training tied to potential advancement.
 
 This job-hopping comes at a high price.
 {: .fancy-text }
 
-The real cost of losing an employee can be crippling to a business. Some estimates place the cost of hiring a new employee at [six to nine months of that employee’s salary](https://www.peoplekeep.com/blog/bid/312123/Employee-Retention-The-Real-Cost-of-Losing-an-Employee){:target="_blank"} (and potentially [much higher at the executive level](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf){:target="_blank"}).
+The real cost of losing an employee can be crippling to a business. Some estimates place the cost of hiring a new employee at [six to nine months of that employee’s salary](https://www.peoplekeep.com/blog/bid/312123/Employee-Retention-The-Real-Cost-of-Losing-an-Employee) (and potentially [much higher at the executive level](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf)).
 
 ## How to build an employee retention program through training  
 
-Building an employee retention program through training starts with figuring out your actual [employee turnover rate with a simple formula](https://resources.workable.com/tutorial/calculate-employee-turnover-rate){:target="_blank"}. 
+Building an employee retention program through training starts with figuring out your actual [employee turnover rate with a simple formula](https://resources.workable.com/tutorial/calculate-employee-turnover-rate). 
 
 Once you figure out how many employees are leaving, try incorporating these six employee retention techniques into your training programs. 
 
 ### 1. Develop a comprehensive onboarding program
 
-Employee retention techniques start even before the employee walks through the door. Your rock-solid, welcoming onboarding program helps employees settle in faster while giving them all the tools they need to succeed. A comprehensive onboarding program can [increase employee retention by as much as 82%](https://b2b-assets.glassdoor.com/the-true-cost-of-a-bad-hire.pdf){:target="_blank"}.
+Employee retention techniques start even before the employee walks through the door. Your rock-solid, welcoming onboarding program helps employees settle in faster while giving them all the tools they need to succeed. A comprehensive onboarding program can [increase employee retention by as much as 82%](https://b2b-assets.glassdoor.com/the-true-cost-of-a-bad-hire.pdf).
 
-Pro tip: Human resource managers should be involved with the [development of onboarding programs](/blog/better-new-hire-onboarding/){:target="_blank"}, as they are most likely to hear employee complaints and participate in exit interviews.
+Pro tip: Human resource managers should be involved with the [development of onboarding programs](/blog/better-new-hire-onboarding/), as they are most likely to hear employee complaints and participate in exit interviews.
 
 ### 2. Hire excellent managers (and invest in leadership training)
 
-Excellent managers can make or break the employee experience. Are your managers supportive and positive, or do they use sarcastic (or downright negative) management techniques? Google spent ten years researching [what makes a great manager](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html){:target="_blank"} and found that great managers had significant characteristics in common.
+Excellent managers can make or break the employee experience. Are your managers supportive and positive, or do they use sarcastic (or downright negative) management techniques? Google spent ten years researching [what makes a great manager](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html) and found that great managers had significant characteristics in common.
 
 On a whole, the best managers: 
 
@@ -71,7 +71,7 @@ Maybe you've worked at a company that schedules an annual one-off training over 
 
 Instead, bake learning opportunities into the everyday activities of your employees. Use microlearning resources, on-the-job training opportunities, and more to show how committed you are to learning. 
 
-It was found that companies that [commit to the ongoing development of their employees](https://www.researchgate.net/publication/263808540_Impact_of_Training_on_Employee_Retention){:target="_blank"}:
+It was found that companies that [commit to the ongoing development of their employees](https://www.researchgate.net/publication/263808540_Impact_of_Training_on_Employee_Retention):
 
 * Have highly committed employees
 * Develop a strong link between employees and the company they work for
@@ -83,13 +83,13 @@ Pro tip: Engaged employees are more likely to complete your training programs. B
 
 [Soft skills for managers and employees](/blog/train-for-soft-skills/) are more about how each employee interacts with others and less about the hard skills of techniques and practical knowledge. Soft skills training is crucial, especially for employees who are just entering the workforce and may not know or grasp the more subtle skills your business requires.
 
-Pro tip: Employee retention strategies that [develop soft skills informally](https://inside.6q.io/free-employee-retention-strategies/){:target="_blank"} through things like company picnics, outings, and informal events can enhance regular trainings.
+Pro tip: Employee retention strategies that [develop soft skills informally](https://inside.6q.io/free-employee-retention-strategies/) through things like company picnics, outings, and informal events can enhance regular trainings.
 
 ### 5. Incorporate positive feedback into your training and reviews
 
 Positive feedback is more than a feel-good employee retention strategy – it actually works. 
 
-A study from the Harvard Business Review found that the [ideal positive to negative ratio for employee feedback](https://hbr.org/2013/03/the-ideal-praise-to-criticism){:target="_blank"} was 5.6:1. This means for every “negative” or corrective comment, find the opportunity to offer five or more positive (or growth-oriented) comments.
+A study from the Harvard Business Review found that the [ideal positive to negative ratio for employee feedback](https://hbr.org/2013/03/the-ideal-praise-to-criticism) was 5.6:1. This means for every “negative” or corrective comment, find the opportunity to offer five or more positive (or growth-oriented) comments.
 
 {% asset 'blog/2019-12-04-employee-retention-program02@2x.jpg'
   alt='For every "negative" comment, offer five or more positive, growth-oriented comments'
@@ -99,7 +99,7 @@ Pro tip: Build this type of reinforcement into your online training. [Gamificati
 
 ### 6. Offer opportunities for employee creativity with cross training
 
-[Cross training employees](/blog/cross-training-employees/) and allowing them to explore outside interests inside their workday may be key to [offering employees more creativity in their work](https://www.gallup.com/workplace/245498/fostering-creativity-work-managers-push-crush-innovation.aspx){:target="_blank"} (and increasing their overall engagement). 
+[Cross training employees](/blog/cross-training-employees/) and allowing them to explore outside interests inside their workday may be key to [offering employees more creativity in their work](https://www.gallup.com/workplace/245498/fostering-creativity-work-managers-push-crush-innovation.aspx) (and increasing their overall engagement). 
 
 This doesn’t mean setting time aside for knitting or video games, but maybe your artistic IT professional might also want to work with the graphic design department on special projects. Or a community-minded employee who regularly volunteers their time outside of work might want to organize a company volunteer outing.
 

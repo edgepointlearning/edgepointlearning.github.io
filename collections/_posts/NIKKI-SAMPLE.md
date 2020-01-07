@@ -26,7 +26,7 @@ Leadership training for employees can be engaging, thought-provoking, and truly 
 
 Our blog post on [gamification](/blog/gamification-in-elearning/) is really neat.
 
-You can visit [Wikipedia's gamification article](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} to learn more.
+You can visit [Wikipedia's gamification article](https://en.wikipedia.org/wiki/Gamification) to learn more.
 
 ## Howdy! (This is an H2. Don't use H1.)
 

@@ -47,7 +47,7 @@ Enthusiasm and energy can take you a long way, but when the rubber meets the roa
 
 With young employees just entering the workforce and with senior employees who have a broad knowledge base, a training needs analysis of skills is crucial.
 
-This type of analysis covers not only practical skills to do the job but also [soft skills](/blog/train-for-soft-skills/){:target="_blank"} like customer relations and working with other people. Sometimes it covers new or unfamiliar technologies.
+This type of analysis covers not only practical skills to do the job but also [soft skills](/blog/train-for-soft-skills/) like customer relations and working with other people. Sometimes it covers new or unfamiliar technologies.
 
 ### Abilities
 
@@ -74,7 +74,7 @@ Not every method is appropriate for every company. Choose the method or methods 
 
 ### Questionnaires
 
-Although [self-reporting is notoriously unreliable](http://www.creative-wisdom.com/teaching/WBI/memory.shtml){:target="_blank"}, this can be a great place to start. How competent do your employees feel? What would they like more training on?
+Although [self-reporting is notoriously unreliable](http://www.creative-wisdom.com/teaching/WBI/memory.shtml), this can be a great place to start. How competent do your employees feel? What would they like more training on?
 
 ### Observation
 
@@ -115,7 +115,7 @@ A training needs analysis figures out exactly where you are starting and what yo
 
 ## How to conduct a training needs analysis
 
-[EdgePoint Learning](/){:target="_blank"} conducts a complete training needs analysis for every company we work with before we begin developing their training program. Here’s a training needs analysis example based on the ones we create for the companies we work with.
+[EdgePoint Learning](/) conducts a complete training needs analysis for every company we work with before we begin developing their training program. Here’s a training needs analysis example based on the ones we create for the companies we work with.
 
 ### Step 1: Develop a company profile
 
@@ -129,7 +129,7 @@ It’s always a good idea to evaluate your training strategy at least once a yea
 * <strong>What are your corporate goals?</strong> It’s important that your training program stays in step with your corporate goals as they evolve. Talk to leadership for a clear direction of where the company is headed. Also make sure your training team has a voice at the table or at least gets updates when goals change. 
 * <strong>What are your training goals?</strong> Just as your company goals evolve over time, so will your training goals. Think about what you really need and want from your training program. 
 * <strong>What is your current (or desired) ROI?</strong> This is always a tricky question, but it’s one that needs to be asked. Work with your training team to determine good success metrics and make sure they stay aligned to your corporate and training goals.
-* <strong>Do you have the right team?</strong> Once you have goals and a needs analysis, you'll need a team in place that can handle them. Maybe you need to hire another instructional designer or someone with mobile learning experience. You may also consider [outsourcing](/co-development-services/){:target="_blank"} portions of your learning development tasks. Start considering this earlier in your analysis to ensure you have the right team ready when you start development.
+* <strong>Do you have the right team?</strong> Once you have goals and a needs analysis, you'll need a team in place that can handle them. Maybe you need to hire another instructional designer or someone with mobile learning experience. You may also consider [outsourcing](/co-development-services/) portions of your learning development tasks. Start considering this earlier in your analysis to ensure you have the right team ready when you start development.
 
 ### Step 3: Ensure compliance
 
@@ -141,13 +141,13 @@ This can include things like mandatory training schedules and codes of conduct f
 
 In this step, we ask companies to think deeply about what they are trying to achieve in their company overall and what they want from their training specifically.
 
-Using interviews and questionnaires, we can begin to get a clear picture of the road ahead. Our earlier post, ["How To Identify Training Needs Of Your Employees"](/blog/how-to-identify-training-needs-of-employees/){:target="_blank"} has more how-to information on this process. 
+Using interviews and questionnaires, we can begin to get a clear picture of the road ahead. Our earlier post, ["How To Identify Training Needs Of Your Employees"](/blog/how-to-identify-training-needs-of-employees/) has more how-to information on this process. 
 
 ### Step 5: Analyze current training materials and methods
 
 Many companies recognize the importance of employee training and have some materials and methods in place.
 
-EdgePoint Learning takes a look at what your company has to see what is working, what can be tweaked, and what is ineffective. If you're doing this for your own training, ensure you look hard at all areas of your current (and planned) training initiatives. Delve into the eLearning authoring tools you already have available to your team, or check out our list of the [top 25 free eLearning tools](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/){:target="_blank"}.
+EdgePoint Learning takes a look at what your company has to see what is working, what can be tweaked, and what is ineffective. If you're doing this for your own training, ensure you look hard at all areas of your current (and planned) training initiatives. Delve into the eLearning authoring tools you already have available to your team, or check out our list of the [top 25 free eLearning tools](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/).
 
 ### Step 6: Develop recommendations
 
@@ -161,15 +161,15 @@ Finally, after evaluating your existing company, its goals, and its current trai
 * Changes to improve employee engagement
 * Updates to reduce training costs and resources
 * Tracking and assessing results over time
-* Addressing any [accessibility concerns](/blog/accessible-elearning-programs/){:target="_blank"}
+* Addressing any [accessibility concerns](/blog/accessible-elearning-programs/)
 
 These recommendations will be individualized to your company’s needs, not some one-size-fits all “solution.” Maybe the information your trainings provide is great but needs an updated delivery method, or maybe you need a total overhaul. Develop a list of recommendations, identify the highest-priority ones, and work from there. 
 
 The following posts can be useful guides as you get started: 
-* [The Top 10 Types Of Employee Training](/blog/top-10-types-of-employee-training/){:target="_blank"}
-* [How To Get Employees Excited About Training](/blog/get-employees-excited-about-training/){:target="_blank"}
-* [How To Keep Track Of Employee Training](/blog/how-to-keep-track-of-training/){:target="_blank"}
-* [Instructor-Led Training Vs. eLearning: Pros And Cons](/blog/instructor-led-training-vs-elearning/){:target="_blank"}
+* [The Top 10 Types Of Employee Training](/blog/top-10-types-of-employee-training/)
+* [How To Get Employees Excited About Training](/blog/get-employees-excited-about-training/)
+* [How To Keep Track Of Employee Training](/blog/how-to-keep-track-of-training/)
+* [Instructor-Led Training Vs. eLearning: Pros And Cons](/blog/instructor-led-training-vs-elearning/)
 
 ## Learn more
 At EdgePoint Learning, we make recommendations based on your company’s goals and work with you to help implement them. Our training needs analysis helps you fine-tune and get more out of your training. More importantly, it can help your business grow. 

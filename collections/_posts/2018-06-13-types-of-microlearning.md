@@ -20,7 +20,7 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 Microlearning uses rich media across multiple devices to engage and inspire learners to dig deeper. More than just a larger eLearning course split into pieces, microlearning encourages the learner to apply what they learn immediately.
 
-This form of training was born out of the necessity to create quick, accessible training for employees—right when they need it the most. Since most employees only have [24 minutes a week](https://www.evernote.com/shard/s173/sh/ae2588e8-cd17-449e-b2fc-0b5293498a7a/7d40d8aafddc3662){:target="_blank"} (or 1% of their workweek) to dedicate to training, creating small, actionable learning opportunities is vital.
+This form of training was born out of the necessity to create quick, accessible training for employees—right when they need it the most. Since most employees only have [24 minutes a week](https://www.evernote.com/shard/s173/sh/ae2588e8-cd17-449e-b2fc-0b5293498a7a/7d40d8aafddc3662) (or 1% of their workweek) to dedicate to training, creating small, actionable learning opportunities is vital.
 
 Microlearning resources capitalize on these smaller training opportunities since they:
 *  Are typically only two to three minutes long
@@ -53,13 +53,13 @@ Microlearning is desperately needed by time- and attention-hungry employees, and
   alt='Microlearning improves knowledge transfer by 17%'
   magick:resize='1170' @pic %}
 
-* <strong>Microlearning is effective:</strong> There is a 17% improvement in [knowledge transfer](http://blog.commlabindia.com/elearning-development/byte-sized-learning){:target="_blank"} when learning is broken into smaller chunks
+* <strong>Microlearning is effective:</strong> There is a 17% improvement in [knowledge transfer](http://blog.commlabindia.com/elearning-development/byte-sized-learning) when learning is broken into smaller chunks
 
-* <strong>Microlearning promotes engagement:</strong> [Mobile learners](https://elearningindustry.com/mobile-devices-for-microlearning-and-spaced-learning){:target="_blank"} study an additional 40 minutes per week, on their own time
+* <strong>Microlearning promotes engagement:</strong> [Mobile learners](https://elearningindustry.com/mobile-devices-for-microlearning-and-spaced-learning) study an additional 40 minutes per week, on their own time
 
-* <strong>Microlearning is the format of choice for many:</strong> 50% of [college-going Millennials](https://elearningindustry.com/engage-millennials-in-the-workplace-3-examples-microlearning-gamification-social-learning){:target="_blank"} are not in favor of physical classroom learning
+* <strong>Microlearning is the format of choice for many:</strong> 50% of [college-going Millennials](https://elearningindustry.com/engage-millennials-in-the-workplace-3-examples-microlearning-gamification-social-learning) are not in favor of physical classroom learning
 
-* <strong>Microlearning is efficient:</strong> [Microlearning resources](http://info.shiftelearning.com/blog/numbers-dont-lie-why-bite-sized-learning-is-better-for-your-learners-and-you-too){:target="_blank"} take 300% less time and 50% less cost to produce than traditional courses
+* <strong>Microlearning is efficient:</strong> [Microlearning resources](http://info.shiftelearning.com/blog/numbers-dont-lie-why-bite-sized-learning-is-better-for-your-learners-and-you-too) take 300% less time and 50% less cost to produce than traditional courses
 
 ## The best types of microlearning
 
@@ -85,7 +85,7 @@ There are 11 major types of microlearning you can choose from, including:
 
 As an employee’s avatar scrolls through an online scenario, interactive quizzes, questions, and information pops up to check for their understanding.
 
-Much like a maze or world-building game, this type of microlearning is highly engaging for [learners with a short attention span](http://time.com/3858309/attention-spans-goldfish/){:target="_blank"}.
+Much like a maze or world-building game, this type of microlearning is highly engaging for [learners with a short attention span](http://time.com/3858309/attention-spans-goldfish/).
 
 ### Videos
 

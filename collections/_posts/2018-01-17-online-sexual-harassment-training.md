@@ -9,9 +9,9 @@ The recent deluge of sexual harassment allegations getting public attention acro
 
 ## Who is #MeToo, and what does it all mean?
 
-More than just a hashtag, [the #MeToo movement](https://www.npr.org/sections/thetwo-way/2017/12/06/568773208/-metoo-movement-is-person-of-the-year-time-says){:target="_blank"} represents a tidal wave of women (and men) standing up for themselves by speaking out against harassment that is still pervasive in many of today’s organizational cultures. #MeToo was first used by social activist [Tarana Burke](http://justbeinc.wixsite.com/justbeinc/the-me-too-movement-cmml){:target="_blank"}, and recently popularized by actress Alyssa Milano who encouraged women to use the hashtag if they had been harassed.
+More than just a hashtag, [the #MeToo movement](https://www.npr.org/sections/thetwo-way/2017/12/06/568773208/-metoo-movement-is-person-of-the-year-time-says) represents a tidal wave of women (and men) standing up for themselves by speaking out against harassment that is still pervasive in many of today’s organizational cultures. #MeToo was first used by social activist [Tarana Burke](http://justbeinc.wixsite.com/justbeinc/the-me-too-movement-cmml), and recently popularized by actress Alyssa Milano who encouraged women to use the hashtag if they had been harassed.
 
-Responses flooded in, with the number of hashtags climbing into the thousands within hours. Each #MeToo represents an incidence of harassment, but it’s difficult to pinpoint actual statistics on sexual harassment. The numbers vary wildly depending on [industry](https://www.vox.com/identities/2017/11/21/16685942/sexual-harassment-industry-service-retail){:target="_blank"}, [race](https://www.thenation.com/article/sexual-harassment-law-was-shaped-by-the-battles-of-black-women/){:target="_blank"}, [socioeconomic status](https://www.vice.com/en_us/article/d3yn7m/working-women-and-the-sexual-harassment-we-dont-hear-about){:target="_blank"}, and [age group](https://www.huffingtonpost.com/entry/sexual-assault-statistics_us_58e24c14e4b0c777f788d24f){:target="_blank"}. Accurately identifying the number of occurrences of workplace harassment relies on victim reporting, which for many, is just not possible.
+Responses flooded in, with the number of hashtags climbing into the thousands within hours. Each #MeToo represents an incidence of harassment, but it’s difficult to pinpoint actual statistics on sexual harassment. The numbers vary wildly depending on [industry](https://www.vox.com/identities/2017/11/21/16685942/sexual-harassment-industry-service-retail), [race](https://www.thenation.com/article/sexual-harassment-law-was-shaped-by-the-battles-of-black-women/), [socioeconomic status](https://www.vice.com/en_us/article/d3yn7m/working-women-and-the-sexual-harassment-we-dont-hear-about), and [age group](https://www.huffingtonpost.com/entry/sexual-assault-statistics_us_58e24c14e4b0c777f788d24f). Accurately identifying the number of occurrences of workplace harassment relies on victim reporting, which for many, is just not possible.
 
 The #MeToo movement is addressing an issue that’s more than simply an annoyance to the millions of (typically) women who suffer from sexual harassment. For example, victims of sexual harassment may have to consider whether or not to skip meetings where they know a harasser will be present. They may feel compelled to turn down certain clients or projects or business trips that include their harasser, potentially threatening their career progression. They may feel forced to decide whether or not it's worth reporting a harasser when their livelihood and personal career goals are on the line. And that's all before considering the very real risks to the victim’s personal health and safety.
 
@@ -57,7 +57,7 @@ Make sure that the entire senior management team has successfully completed your
 
 Professor Vicki Magley is a psychologist who studies sexual harassment trainings and their effectiveness. Her findings are clear:
 
-<cite>"[[Effective training is] about the climate](http://www.businessinsider.com/sexual-harassment-training-effective-2017-11){:target="_blank"}. When employees perceived that their company was ethical, their knowledge improved and their attitudes changed as a result of the harassment prevention training... they take it seriously because they think that the organization is taking it seriously.”</cite>
+<cite>"[[Effective training is] about the climate](http://www.businessinsider.com/sexual-harassment-training-effective-2017-11). When employees perceived that their company was ethical, their knowledge improved and their attitudes changed as a result of the harassment prevention training... they take it seriously because they think that the organization is taking it seriously.”</cite>
 
 Sexual harassment training for leaders in a company sends a signal that your company takes harassment allegations seriously, so seriously that it’s worth their time to refresh their own understanding of it.
 
@@ -71,11 +71,11 @@ This can allow HR to provide more personal attention and support. The goal is to
 
 ### Step 4: Choose the right format
 
-An hour-long lecture on sexual harassment isn’t what your employees need. It’s clear that these old-school [traditional sexual harassment trainings don’t work](http://www.motherjones.com/media/2017/11/theres-little-evidence-sexual-harassment-trainings-work/){:target="_blank"}.
+An hour-long lecture on sexual harassment isn’t what your employees need. It’s clear that these old-school [traditional sexual harassment trainings don’t work](http://www.motherjones.com/media/2017/11/theres-little-evidence-sexual-harassment-trainings-work/).
 
 Back away from the time machine! Sexual harassment in the 21st century is not the same as it was in the 20th.
 
-While the intentions behind harassment may be the same, the approach should look updated and fit today’s world. If you are still using examples from Mad Men in your anti-harassment training, it’s time to [update your training toolbox](https://moneyish.com/ish/this-is-exactly-how-much-our-workplace-sexual-harassment-views-have-changed-in-20-years/){:target="_blank"}.
+While the intentions behind harassment may be the same, the approach should look updated and fit today’s world. If you are still using examples from Mad Men in your anti-harassment training, it’s time to [update your training toolbox](https://moneyish.com/ish/this-is-exactly-how-much-our-workplace-sexual-harassment-views-have-changed-in-20-years/).
 
 Choosing the right training format to fit the organization is critical. Training is only valuable if it sticks over the long term. What has been proven most effective is small bits of information delivered in a personal way.
 
@@ -95,7 +95,7 @@ Prove to all employees that the company has a variety of safe open doors with th
 
 ### Step 6: Make online harassment training for employees an ongoing exercise
 
-From the employee onboarding to their retirement from the company, anti-harassment training should be an ongoing, [proactive](https://www.tlnt.com/how-to-use-predictive-analytics-to-prevent-workplace-sexual-harassment/){:target="_blank"}, and regular part of employee training.
+From the employee onboarding to their retirement from the company, anti-harassment training should be an ongoing, [proactive](https://www.tlnt.com/how-to-use-predictive-analytics-to-prevent-workplace-sexual-harassment/), and regular part of employee training.
 
 Include it as part of the new hire orientation process. Provide managerial training the minute an individual employee is promoted into a supervisory position. And, it would be wise to offer all employees a refresher course annually.
 
@@ -103,7 +103,7 @@ Include it as part of the new hire orientation process. Provide managerial train
 
 Sure, employers often post a couple videos and make employees take a quiz to check on their comprehension, but that doesn’t truly change the work environment.
 
-Go beyond mere compliance and design an online sexual harassment training that makes a difference within the organization. Companies whose [employees feel valued and protected](https://www.ft.com/content/6081b1fc-d0b2-11e5-92a1-c5e23ef99c77){:target="_blank"} are more successful. Anti-harassment trainings should reinforce an employee’s worth and value to the organization, not just be one more box to check off.
+Go beyond mere compliance and design an online sexual harassment training that makes a difference within the organization. Companies whose [employees feel valued and protected](https://www.ft.com/content/6081b1fc-d0b2-11e5-92a1-c5e23ef99c77) are more successful. Anti-harassment trainings should reinforce an employee’s worth and value to the organization, not just be one more box to check off.
 
 Any customization that can be added to online training will be an opportunity to hit home with employees and help demonstrate the company’s commitment to the quality of the training content.
 
@@ -120,7 +120,7 @@ Today’s employers simply can’t afford to wait any longer to make effective o
 ---
 ### Holly Curtis
 
-President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com){:target="_blank"}
+President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com)
 
 {% asset 'blog/2018-01-18-holly-curtis.jpg'
    alt='Holly Curtis'

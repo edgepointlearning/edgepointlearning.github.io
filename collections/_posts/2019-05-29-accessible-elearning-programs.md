@@ -6,7 +6,7 @@ image: blog/2019-05-29-accessible-elearning-programs.jpg
 excerpt: How to create accessible eLearning programs that comply with WCAG and Section 508 standards and give employees the tools they need to do their jobs.
 ---
 
-Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336){:target="_blank"} (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/){:target="_blank"} in another way. Chances are also good that you have employees with [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php){:target="_blank"} that need accommodation. This is how to create accessible eLearning programs for all of your employees.
+Far from just checking email and connecting via social media, the internet today is a crucial part of our lives in both work and leisure, but for some learners, a variety of disabilities prevent them from fully accessing resources related to the internet (including resources required by their jobs). If you think your employees aren’t facing challenges, think again. An estimated 10% of the population is [diagnosed with dyslexia](https://medium.com/@lauracatherineduggan/dyslexia-and-how-it-affects-your-web-design-baf29f85b336) (with many more undiagnosed), and an additional [12% of U.S. adults are disabled](https://www.pewresearch.org/fact-tank/2017/07/27/7-facts-about-americans-with-disabilities/) in another way. Chances are also good that you have employees with [hidden disabilities](http://www.ist.hawaii.edu/training/hiddendisabilities/05_hidden_disabilities.php) that need accommodation. This is how to create accessible eLearning programs for all of your employees.
 
 {% asset 'blog/2019-05-29-accessible-elearning-programs-02.svg'
   alt='12 percent of U.S. adults are disabled' %}
@@ -14,7 +14,7 @@ Far from just checking email and connecting via social media, the internet today
 
 ## How to create accessible eLearning programs
 
-In the early years of the 21st century, few people understood how important and widespread the internet might become, however this is changing quickly. In December of 2000, the [Section 508 Standards for Electronic and Information Technology](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){:target="_blank"} were formally laid out as an amendment to the [United States Rehabilitation Act of 1973](https://www.ada.gov/cguide.htm#anchor65610){:target="_blank"}. In September of 2018, the EU Web Accessibility Directive required all public websites and apps in Europe to meet the standards of the [Web Content Accessibility Guidelines ](https://www.w3.org/blog/2018/09/wcag-2-1-adoption-in-europe/){:target="_blank"}(WCAG).
+In the early years of the 21st century, few people understood how important and widespread the internet might become, however this is changing quickly. In December of 2000, the [Section 508 Standards for Electronic and Information Technology](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) were formally laid out as an amendment to the [United States Rehabilitation Act of 1973](https://www.ada.gov/cguide.htm#anchor65610). In September of 2018, the EU Web Accessibility Directive required all public websites and apps in Europe to meet the standards of the [Web Content Accessibility Guidelines ](https://www.w3.org/blog/2018/09/wcag-2-1-adoption-in-europe/)(WCAG).
 
 Both of these standards look to the future with the goal of technology access for all. These forward-thinking standards make it law to accommodate everyone online.
 
@@ -44,11 +44,11 @@ Section 508 standards cover three crucial areas:
 * Functional performance criteria
 * Information, documentation, and support
 
-Familiarize yourself with these [standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){:target="_blank"} before you start to ensure you have the tools to meet everyone’s needs.
+Familiarize yourself with these [standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) before you start to ensure you have the tools to meet everyone’s needs.
 
 ### 2. Know your Web Content Accessibility Guidelines (WCAG)
 
-The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/){:target="_blank"} (WCAG) are international standards of accessibility designed by the [World Wide Web Consortium](http://www.w3.org/Consortium/){:target="_blank"} (W3C). This group consists of not only W3C staff but also members of the public working together to address common barriers to access for people with disabilities.
+The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG) are international standards of accessibility designed by the [World Wide Web Consortium](http://www.w3.org/Consortium/) (W3C). This group consists of not only W3C staff but also members of the public working together to address common barriers to access for people with disabilities.
 
 The three levels of WCAG – A, AA, and AAA – denote the level of accessibility, with A being the very minimum level and AAA being accessible to all (most companies aim for AA, or higher in larger companies).
 
@@ -56,7 +56,7 @@ The three levels of WCAG – A, AA, and AAA – denote the level of accessibilit
   alt='By September 2020, all EU public-facing websites must meet Web Content Accessibility Guidelines' %}
 {: .wideImage }
 
-In 2018, the [EU Web Accessibility Directive](http://nda.ie/Publications/Communications/EU-Web-Accessibility-Directive/){:target="_blank"} required public-facing websites and apps to adopt these standards. Any websites created after 2018 must meet accessibility standards by September 2019, while those created before must comply by September 2020. Although these standards are not legally required in the U.S. yet, consider these WCAG guidelines as technology best practices that make your eLearning accessible anywhere in the world. This is especially important for global organizations that train employees in European countries.
+In 2018, the [EU Web Accessibility Directive](http://nda.ie/Publications/Communications/EU-Web-Accessibility-Directive/) required public-facing websites and apps to adopt these standards. Any websites created after 2018 must meet accessibility standards by September 2019, while those created before must comply by September 2020. Although these standards are not legally required in the U.S. yet, consider these WCAG guidelines as technology best practices that make your eLearning accessible anywhere in the world. This is especially important for global organizations that train employees in European countries.
 
 ### 3. Understand the types of challenges learners might face
 
@@ -76,7 +76,7 @@ Will they know how to navigate the course, or is it confusing? Does your course 
 
 ### 6. Think about font
 
-[Font color, size, and type](https://www.boia.org/blog/best-fonts-to-use-for-website-accessibility){:target="_blank"} all make a different when thinking about accessible eLearning.
+[Font color, size, and type](https://www.boia.org/blog/best-fonts-to-use-for-website-accessibility) all make a different when thinking about accessible eLearning.
 
 Generally, simple fonts like Arial and Helvetica work best on a medium- to high-contrast background. Avoid using font characteristics (e.g., bold and italics) to create meaning, as many screen readers will not pick up on this.
 
@@ -101,9 +101,9 @@ Further, videos with subtitles and captions help those with visual and auditory 
 
 ### 10. Keep an eye out for new technology
 
-You don’t have to reinvent the wheel here – [new technology for designing accessible eLearning](https://www.learningsolutionsmag.com/articles/new-technology-makes-it-easier-to-access-online-content/){:target="_blank"} is popping up every day.
+You don’t have to reinvent the wheel here – [new technology for designing accessible eLearning](https://www.learningsolutionsmag.com/articles/new-technology-makes-it-easier-to-access-online-content/) is popping up every day.
 
-From new [voice-to-text apps from Google](https://www.blog.google/outreach-initiatives/accessibility/making-audio-more-accessible-two-new-apps/){:target="_blank"} to [new ways to ditch standard keyboard entry](https://www.wired.com/story/best-keyboard-alternatives/){:target="_blank"}, new accessibility technology makes well-planned eLearning easier.
+From new [voice-to-text apps from Google](https://www.blog.google/outreach-initiatives/accessibility/making-audio-more-accessible-two-new-apps/) to [new ways to ditch standard keyboard entry](https://www.wired.com/story/best-keyboard-alternatives/), new accessibility technology makes well-planned eLearning easier.
 
 ### 11. Provide access to assistance
 
@@ -114,7 +114,7 @@ When possible, give learners multiple methods of contact to ask for help, includ
 
 When your eLearning course is about to launch, take the time (and spend the money) to make sure it is truly accessible.
 
-Choose accessibility testing standards from the WCAG (at a minimum, AA) and run through all aspects of your course to see if it meets that standard. If you find it difficult to figure out just how accessible it is, ask for volunteers to beta test your course. You will get good information on what changes to make before you go live. Another option for some types of disability is to request a [free scan of your site](https://www.boia.org/free-website-accessibility-analysis-0){:target="_blank"} to see how it measures up.
+Choose accessibility testing standards from the WCAG (at a minimum, AA) and run through all aspects of your course to see if it meets that standard. If you find it difficult to figure out just how accessible it is, ask for volunteers to beta test your course. You will get good information on what changes to make before you go live. Another option for some types of disability is to request a [free scan of your site](https://www.boia.org/free-website-accessibility-analysis-0) to see how it measures up.
 
 Accessible eLearning is not just the law. It benefits everyone with its intentional, thoughtful design that highlights the most important information and presents it in a clear, informative way.
 

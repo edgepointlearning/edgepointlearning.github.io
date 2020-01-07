@@ -12,16 +12,16 @@ We have all been there, trudging into a boardroom for a three-day conference on 
 
 Why is it so important to get employees excited about training? Consider the following statistics:
 
-* 20% of workers in the U.S [leave their job within 45 days](https://www.bls.gov/news.release/jolts.nr0.htm){:target="_blank"} of hire (with that number skyrocketing to 50% in the retail sector)
-* The [cost of each turnover](http://www.recruiteze.com/cost-hire-new-employee/){:target="_blank"} is between 16 and 20% of that employee’s salary
+* 20% of workers in the U.S [leave their job within 45 days](https://www.bls.gov/news.release/jolts.nr0.htm) of hire (with that number skyrocketing to 50% in the retail sector)
+* The [cost of each turnover](http://www.recruiteze.com/cost-hire-new-employee/) is between 16 and 20% of that employee’s salary
 
 Well-trained employees who are competent and capable are more likely to stick around and add value to your company. You can’t afford to continuously replace (and train!) new employees. High-quality employee training programs increase employee engagement.
 
 So what are the benefits of employee engagement?
 
-* [Engaged employees are happier](https://www.gallup.com/workplace/236483/enhances-benefits-employee-engagement.aspx){:target="_blank"} in every aspect of their lives
-* They're [more productive and efficient](https://news.gallup.com/businessjournal/190352/managing-employee-risk-requires-culture-compliance.aspx){:target="_blank"}
-* Engaged employees deliver [better customer service](https://www.forbes.com/sites/christinecomaford/2017/07/08/the-surprising-link-between-customer-experience-and-employee-engagement/#2b2aab0cb512){:target="_blank"}
+* [Engaged employees are happier](https://www.gallup.com/workplace/236483/enhances-benefits-employee-engagement.aspx) in every aspect of their lives
+* They're [more productive and efficient](https://news.gallup.com/businessjournal/190352/managing-employee-risk-requires-culture-compliance.aspx)
+* Engaged employees deliver [better customer service](https://www.forbes.com/sites/christinecomaford/2017/07/08/the-surprising-link-between-customer-experience-and-employee-engagement/#2b2aab0cb512)
 
 {% asset 'blog/2019-01-16-get-employees-excited-about-training01.jpg'
   alt='Engaged employees are more productive and efficient'
@@ -63,17 +63,17 @@ You may be surprised to hear what they have to say.
 Let’s be honest: financial incentives for employee training work.
 {: .fancy-text }
 
-There are caveats (and limits) to this. Cash incentives do motivate employees to better performance during any type of competition, but performance tends to drop or level off after. Money is a training incentive for employees that can be [used selectively to good effect](https://www.business.com/articles/gal-rimon-monetary-rewards/){:target="_blank"}.
+There are caveats (and limits) to this. Cash incentives do motivate employees to better performance during any type of competition, but performance tends to drop or level off after. Money is a training incentive for employees that can be [used selectively to good effect](https://www.business.com/articles/gal-rimon-monetary-rewards/).
 
 ### 3. Make it easy
 
-Make it easy for employees to complete their training programs by offering bite-sized [microlearning sessions](/blog/types-of-microlearning/){:target="_blank"}, delivered just-in-time.
+Make it easy for employees to complete their training programs by offering bite-sized [microlearning sessions](/blog/types-of-microlearning/), delivered just-in-time.
 
-Short and sweet [geofencing](/blog/geofencing/){:target="_blank"} options delivered out in the field as a push notification to their phones can also give employees what they need to do their work. Don’t make employees struggle to get trained – let learning come to them.
+Short and sweet [geofencing](/blog/geofencing/) options delivered out in the field as a push notification to their phones can also give employees what they need to do their work. Don’t make employees struggle to get trained – let learning come to them.
 
 ### 4. Make it mobile
 
-The average worker has just 24 minutes of training time every week, but [mobile learners](/blog/what-is-mlearning/){:target="_blank"} study an additional 40 minutes per week, on their own time.
+The average worker has just 24 minutes of training time every week, but [mobile learners](/blog/what-is-mlearning/) study an additional 40 minutes per week, on their own time.
 
 One of the best employee training program ideas is to incorporate the mobile devices they're already using. This can help them become more efficient and effective.
 
@@ -101,13 +101,13 @@ If you notice that there is enthusiasm at the start of training but relatively l
 
 When is the last time that you, as the head of your company, participated in a quality training program? Been awhile?
 
-Make some time to demonstrate your commitment to employee engagement and motivation by attending a training program of your own. It could be an interesting exercise to put yourself in your employees’ shoes to see why they struggle to stay motivated. Encouraging a [growth mindset](https://www.bigthinkedge.com/blog/how-a-growth-mindset-leads-to-innovation-engagement){:target="_blank"} among all levels of your staff means building regular training and learning into your company.
+Make some time to demonstrate your commitment to employee engagement and motivation by attending a training program of your own. It could be an interesting exercise to put yourself in your employees’ shoes to see why they struggle to stay motivated. Encouraging a [growth mindset](https://www.bigthinkedge.com/blog/how-a-growth-mindset-leads-to-innovation-engagement) among all levels of your staff means building regular training and learning into your company.
 
 ### 7. Personalize your training
 
 One of the biggest reasons employees dump a training program is because they are being asked to study something they already know. It’s like making a spider attend a workshop on how to build a basic web.
 
-Figure out what your employees already know before mandating a redundant training. A [training needs analysis](/blog/training-needs-analysis/){:target="_blank"} is a valuable tool that can offer this guidance before you begin its design.
+Figure out what your employees already know before mandating a redundant training. A [training needs analysis](/blog/training-needs-analysis/) is a valuable tool that can offer this guidance before you begin its design.
 
 ### 8. Give employees time (and space) to train
 
@@ -120,17 +120,17 @@ While employees might be convinced to take home training for a short period of t
 
 Employees who see a clear trajectory upward within a company are more likely to stick with that company for longer. Nobody wants to look for a new job every six months.
 
-Work with HR to formalize training that provides employees with the opportunity to increase earning potential and their own skillsets. Look to our recent posts for more help on building these, check out our post on ["Powerful Leadership Training Activities Employees Love"](/blog/leadership-training-activities-for-employees/){:target="_blank"}.
+Work with HR to formalize training that provides employees with the opportunity to increase earning potential and their own skillsets. Look to our recent posts for more help on building these, check out our post on ["Powerful Leadership Training Activities Employees Love"](/blog/leadership-training-activities-for-employees/).
 
 ### 10. Incorporate more engaging training methods
 
 So you’ve got them in the door with good incentives (and food!), but you’re still seeing employees abandon training halfway through?
 
-Maybe your training needs a little more zip to keep employees engaged. To add a lighter touch (even with serious information), try [gamification](/blog/gamification-in-elearning/){:target="_blank"}, [augmented reality](/blog/future-of-augmented-reality/){:target="_blank"}, or simulations to make the training delivery more interesting. Learn more about all of your options in our post ["Top 10 Types Of Employee Training."](/blog/top-10-types-of-employee-training/){:target="_blank"}
+Maybe your training needs a little more zip to keep employees engaged. To add a lighter touch (even with serious information), try [gamification](/blog/gamification-in-elearning/), [augmented reality](/blog/future-of-augmented-reality/), or simulations to make the training delivery more interesting. Learn more about all of your options in our post ["Top 10 Types Of Employee Training."](/blog/top-10-types-of-employee-training/)
 
 ## Learn more
 
-Whether you are considering a total overhaul of your employee training or just a few additional modules of [eLearning](/blog/advantages-of-elearning/) here or there, [EdgePoint Learning](/){:target="_blank"} can help. From helping you get started [creating your own eLearning courses](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/){:target="_blank"} to designing a completely [custom training program](/custom-elearning-course-development/){:target="_blank"} for you, we have the experience and tools you need.
+Whether you are considering a total overhaul of your employee training or just a few additional modules of [eLearning](/blog/advantages-of-elearning/) here or there, [EdgePoint Learning](/) can help. From helping you get started [creating your own eLearning courses](/blog/how-to-create-your-custom-elearning-course-with-25-free-tools/) to designing a completely [custom training program](/custom-elearning-course-development/) for you, we have the experience and tools you need.
 
 <strong>We know how to get employees excited about training. [Get in touch today](/contact/)!</strong>
 

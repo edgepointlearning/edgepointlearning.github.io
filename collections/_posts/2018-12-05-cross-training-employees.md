@@ -10,7 +10,7 @@ Cross-training isn’t just adding a little yoga to your daily running routine. 
 
 ## What does it mean to cross-train an employee?
 
-Cross-training employees goes beyond showing everyone how the copier works in case your administrative assistant is out for the day. It starts by identifying the major tasks and skills in a specific area of your organization and then [training each employee](/blog/how-to-train-new-employees/){:target="_blank"} on these skills so that they can step in for support when needed.
+Cross-training employees goes beyond showing everyone how the copier works in case your administrative assistant is out for the day. It starts by identifying the major tasks and skills in a specific area of your organization and then [training each employee](/blog/how-to-train-new-employees/) on these skills so that they can step in for support when needed.
 
 Think of a small accounting firm. Right around tax time, things get hectic, and the more hands on deck, the better. If everyone in the office can be trained in certain intake procedures, then the accountants can focus on their highly specialized and complicated jobs.
 
@@ -39,11 +39,11 @@ The benefits of cross-training in business are numerous. Here are six great exam
 
 It is important to hire employees that can do their jobs well, but looking at the talent you already have on staff can really boost your bottom line.
 
-For example, if you are in education and need a curriculum developer, who knows the content and curriculum better than the teacher with the Master’s degree in curriculum design who is already on staff? Done well, cross-training empowers employees to share their knowledge without bringing in additional employees. This saves [employee onboarding](/blog/employee-onboarding/){:target="_blank"} costs (and time!).
+For example, if you are in education and need a curriculum developer, who knows the content and curriculum better than the teacher with the Master’s degree in curriculum design who is already on staff? Done well, cross-training empowers employees to share their knowledge without bringing in additional employees. This saves [employee onboarding](/blog/employee-onboarding/) costs (and time!).
 
 ### 2. Employees are better able to collaborate
 
-Tim Brown, the [CEO of award-winning design firm IDEO](https://chiefexecutive.net/ideo-ceo-tim-brown-t-shaped-stars-the-backbone-of-ideoaes-collaborative-culture__trashed/){:target="_blank"}, focuses on creating “T” shaped individuals in his companies. “T” shaped employees are experts in one particular aspect of the company (this makes up the leg of the letter) while still having a broad, working knowledge of other aspects of the company (the arms of the “T”).
+Tim Brown, the [CEO of award-winning design firm IDEO](https://chiefexecutive.net/ideo-ceo-tim-brown-t-shaped-stars-the-backbone-of-ideoaes-collaborative-culture__trashed/), focuses on creating “T” shaped individuals in his companies. “T” shaped employees are experts in one particular aspect of the company (this makes up the leg of the letter) while still having a broad, working knowledge of other aspects of the company (the arms of the “T”).
 
 In contrast, “I” type employees have extensive expertise in one area but because they are hyper-focused lack the ability to really collaborate with other people in the company.
 
@@ -67,7 +67,7 @@ This activity in and of itself increases efficiency, especially in small busines
 
 ### 6. Makes your company more agile
 
-Cross-training employees may entail [on-the-job training](/blog/on-the-job-training-advantages/){:target="_blank"} that can help reveal hidden talents, increase employees’ skillsets, and provide a springboard for advancing the goals and objectives of your company.
+Cross-training employees may entail [on-the-job training](/blog/on-the-job-training-advantages/) that can help reveal hidden talents, increase employees’ skillsets, and provide a springboard for advancing the goals and objectives of your company.
 
 This necessarily makes your company more agile and responsive, no matter the size or industry. It also makes you more flexible with scheduling and filling last-minute vacancies.
 
@@ -88,7 +88,7 @@ Imagine if a doctor in your medical practice was also responsible for checking i
 
 ## Learn more
 
-There is a fine line between overloading your employees and reaping the benefits of cross-training employees. Let EdgePoint Learning help you review all of your options to find balance. You can learn more about our approach in our post on running a [training needs analysis](/blog/training-needs-analysis/){:target="_blank"}. 
+There is a fine line between overloading your employees and reaping the benefits of cross-training employees. Let EdgePoint Learning help you review all of your options to find balance. You can learn more about our approach in our post on running a [training needs analysis](/blog/training-needs-analysis/). 
 
 <strong>[Get in touch today to learn more](/contact/)!</strong>
 

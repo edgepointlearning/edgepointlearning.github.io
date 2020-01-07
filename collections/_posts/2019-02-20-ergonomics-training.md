@@ -18,18 +18,18 @@ Overexertion and repetitive motion injuries are the most common (and costly) wor
 * Trigger finger pain
 * Muscle strains and lower back injuries
 
-When the Occupational Safety and Health Administration (OSHA) first published its mandatory [ergonomics standards in 2000](https://www.ehstoday.com/osha/osha-and-ergonomics-past-present-and-future){:target="_blank"}, it estimated that MSDs cost companies $15 to $20 billion a year directly, with total direct and indirect cost (e.g., productivity and longevity) of $54 billion.
+When the Occupational Safety and Health Administration (OSHA) first published its mandatory [ergonomics standards in 2000](https://www.ehstoday.com/osha/osha-and-ergonomics-past-present-and-future), it estimated that MSDs cost companies $15 to $20 billion a year directly, with total direct and indirect cost (e.g., productivity and longevity) of $54 billion.
 
-Citing the cost of compliance and conflict with state workers’ compensation laws, the ergonomics standards were quickly repealed in 2001, replaced with [ergonomics guidelines](https://www.osha.gov/SLTC/ergonomics/controlhazards.html#guidelines){:target="_blank"} that are not mandatory.
+Citing the cost of compliance and conflict with state workers’ compensation laws, the ergonomics standards were quickly repealed in 2001, replaced with [ergonomics guidelines](https://www.osha.gov/SLTC/ergonomics/controlhazards.html#guidelines) that are not mandatory.
 
 ### The cost of injuries
 
 Even if it's not technically mandatory, consider the following workplace injury statistics:
 
-* In 2013, the Bureau of Labor Statistics noted that 33% of workplace injuries and illnesses were [musculoskeletal in nature](https://www.osha.gov/SLTC/ergonomics/){:target="_blank"}
-* [Carpal tunnel syndrome](https://www.cdc.gov/workplacehealthpromotion/health-strategies/musculoskeletal-disorders/index.html){:target="_blank"} affects nearly two million people annually and requires between 300,000 and 500,000 corrective surgeries a year
+* In 2013, the Bureau of Labor Statistics noted that 33% of workplace injuries and illnesses were [musculoskeletal in nature](https://www.osha.gov/SLTC/ergonomics/)
+* [Carpal tunnel syndrome](https://www.cdc.gov/workplacehealthpromotion/health-strategies/musculoskeletal-disorders/index.html) affects nearly two million people annually and requires between 300,000 and 500,000 corrective surgeries a year
 * Nearly 375,000 people in 2001 sustained back injuries at work that necessitated days off
-* More recent statistics on workplace injuries due to ergonomics place the [annual cost around $60 billion](https://www.ehstoday.com/health/changing-your-work-environment-reduce-ergonomic-injuries){:target="_blank"}
+* More recent statistics on workplace injuries due to ergonomics place the [annual cost around $60 billion](https://www.ehstoday.com/health/changing-your-work-environment-reduce-ergonomic-injuries)
 * Overexertion injuries (e.g., pushing, lifting, or pulling incorrectly) alone cost almost $14 billion annually
 * MSDs require more time off than other workplace injuries (e.g., trips and falls) and make up more than one-third of all workplace injuries every year
 
@@ -68,7 +68,7 @@ Once you have the right people involved, you can move onto actually developing y
 
 Regardless of industry, there are many misconceptions about ergonomics training. Some companies think of it as a blue-collar issue and associate ergonomics with strained backs. Others picture people in suits wearing wrist braces. In truth, it’s all of the above and more. Whether your employees work in an office, at home, or on a job site, ergonomics addresses the ways that workers use their bodies to fit their job.
 
-Addressing [specific ergonomics topics](https://www.osha.gov/SLTC/ergonomics/training.html){:target="_blank"} help to make the job better fit the worker. These ergonomics topics might include:
+Addressing [specific ergonomics topics](https://www.osha.gov/SLTC/ergonomics/training.html) help to make the job better fit the worker. These ergonomics topics might include:
 
 1. Ergonomics awareness training
 2. Self-audit of employee practices
@@ -83,15 +83,15 @@ These topics have many branches that apply to nearly every industry. Think nurse
 
 ### Make it easy
 
-Instead of one annual safety training, think of utilizing the concept of "[kaizen](https://en.wikipedia.org/wiki/Kaizen){:target="_blank"}", or continuous improvement, that involves everyone in the company from the boardroom to the mailroom. With ergonomic training activities that are presented in small bites daily in ways that employees can [easily put into practice](/blog/get-employees-excited-about-training/), better ergonomics becomes a part of your company culture.
+Instead of one annual safety training, think of utilizing the concept of "[kaizen](https://en.wikipedia.org/wiki/Kaizen)", or continuous improvement, that involves everyone in the company from the boardroom to the mailroom. With ergonomic training activities that are presented in small bites daily in ways that employees can [easily put into practice](/blog/get-employees-excited-about-training/), better ergonomics becomes a part of your company culture.
 
 Mobile-first training apps can make that happen. For example, you can:
 
-* Send [microlearning](https://www.pinpointworkforce.com/content){:target="_blank"} courses daily, with two-minute videos that focus on ways employees can optimize their workspace
+* Send [microlearning](https://www.pinpointworkforce.com/content) courses daily, with two-minute videos that focus on ways employees can optimize their workspace
 * Alert employee phones with [geofencing-enabled notifications](/blog/geofencing/) when they enter a job site to give them important on-the-ground safety reminders
 * Roll out an [interactive training game](/blog/gamification-in-elearning/) that delivers information on proper hand position over a laptop and is designed to correct misalignment while it’s being played
 
-These are just a few examples of the ways in which ergonomics training becomes a daily part of life, not an isolated event. Together, PinPoint and EdgePoint developed a [library of microlearning courses](https://www.pinpointworkforce.com/content){:target="_blank"} that were made for today's mobile-first employees. With topics on proper ergonomics to back safety to hearing conservation, these courses are ready to roll out today to your team.
+These are just a few examples of the ways in which ergonomics training becomes a daily part of life, not an isolated event. Together, PinPoint and EdgePoint developed a [library of microlearning courses](https://www.pinpointworkforce.com/content) that were made for today's mobile-first employees. With topics on proper ergonomics to back safety to hearing conservation, these courses are ready to roll out today to your team.
 
 <strong>[Get in touch today](/contact/) for a demo of our ergonomics training options, including mobile-first options.</strong>
 
@@ -103,6 +103,6 @@ These are just a few examples of the ways in which ergonomics training becomes a
 
 ### Clint Everton
 
-*Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at [pinpointworkforce.com](https://www.pinpointworkforce.com/){:target="_blank"}.*
+*Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at [pinpointworkforce.com](https://www.pinpointworkforce.com/).*
 {: .clearfix }
 ---

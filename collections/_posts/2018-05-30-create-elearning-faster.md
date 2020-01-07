@@ -10,7 +10,7 @@ You are committed to revamping your company’s training and have decided to wor
 
 ## How long does it take to create one hour of learning?
 
-Entire fields of study are dedicated to answering this question. In 2017, Dr. Karl Kapp and Robyn Defelice took a third pass at this, looking at data from studies in both 2003 and 2009 before comparing the average time to develop an hour of learning. Their results were published by [ATD here](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017){:target="_blank"}.
+Entire fields of study are dedicated to answering this question. In 2017, Dr. Karl Kapp and Robyn Defelice took a third pass at this, looking at data from studies in both 2003 and 2009 before comparing the average time to develop an hour of learning. Their results were published by [ATD here](https://www.td.org/insights/how-long-does-it-take-to-develop-one-hour-of-training-updated-for-2017).
 
 What they found was this: although eLearning course development is getting more efficient, developing a quality learning experiences takes time.
 
@@ -56,7 +56,7 @@ Setting clear expectations and time frames with your SMEs ahead of time can dras
 
 ### 3. Set targets and outline how you’ll meet them
 
-Estimate how long it might take you [create your eLearning course](https://elearningindustry.com/6-tips-estimate-elearning-course-development-time){:target="_blank"} and get out your calendar.
+Estimate how long it might take you [create your eLearning course](https://elearningindustry.com/6-tips-estimate-elearning-course-development-time) and get out your calendar.
 
 Commit to milestones and targets, and then plan your activities accordingly. Factor in time for your testing and assessment of the course when you are done.
 

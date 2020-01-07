@@ -6,7 +6,7 @@ image: blog/2018-07-11-types-of-diversity-training.jpg
 excerpt: A forty-year study of diversity training has found that some types of diversity training do work – when it’s done right. Here’s how.
 ---
 
-So you decide to revamp (or create) diversity training for your modern workplace, but don't know where to start. You have been inclusive in your hiring practices but never intentionally thought about what types of diversity training to use or how to actually make it effective. Although research on [diversity training’s effectiveness has been mixed](https://onlinelibrary.wiley.com/doi/full/10.1002/hrdq.1193){:target="_blank"}, a forty-year examination of diversity training has found that [it does work](http://psycnet.apa.org/record/2016-43598-001){:target="_blank"} – if it’s done right. Here’s how.
+So you decide to revamp (or create) diversity training for your modern workplace, but don't know where to start. You have been inclusive in your hiring practices but never intentionally thought about what types of diversity training to use or how to actually make it effective. Although research on [diversity training’s effectiveness has been mixed](https://onlinelibrary.wiley.com/doi/full/10.1002/hrdq.1193), a forty-year examination of diversity training has found that [it does work](http://psycnet.apa.org/record/2016-43598-001) – if it’s done right. Here’s how.
 
 ## What is diversity training?
 
@@ -26,13 +26,13 @@ Simply put, diversity trainings that just ask employees to “tolerate differenc
 
 When it works, diversity trainings make employees feel included and part of a common effort. This leads to happier employees who stick around longer, which increases the overall expertise of the company (hello, senior level experts!) and [reduces hiring costs](/blog/how-to-train-new-employees/).
 
-Plus, [happy employees are more productive](http://www.smf.co.uk/wp-content/uploads/2015/10/Social-Market-Foundation-Publication-Briefing-CAGE-4-Are-happy-workers-more-productive-281015.pdf#page=9){:target="_blank"}, and [happy salespeople sell more](https://hbr.org/2011/06/the-happiness-dividend){:target="_blank"} – 37% more, according to one study.
+Plus, [happy employees are more productive](http://www.smf.co.uk/wp-content/uploads/2015/10/Social-Market-Foundation-Publication-Briefing-CAGE-4-Are-happy-workers-more-productive-281015.pdf#page=9), and [happy salespeople sell more](https://hbr.org/2011/06/the-happiness-dividend) – 37% more, according to one study.
 
 Maybe for your company it boils down to one question: Do I want a healthier bottom line?
 
 A recent McKinsey study shows that:
 
-“Companies in the top quartile for racial and ethnic diversity are [35% more likely](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters){:target="_blank"} to have financial returns above their respective national industry medians.”
+“Companies in the top quartile for racial and ethnic diversity are [35% more likely](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) to have financial returns above their respective national industry medians.”
 
 {% asset 'blog/2018-07-11-types-of-diversity-training01.jpg'
   alt='Diverse companies are 35% more likely to have financial returns above industry median'
@@ -41,13 +41,13 @@ A recent McKinsey study shows that:
 
 This translates to more success overall, but the benefits are clear on an individual level as well.
 
-Diverse companies had nearly two and a half times higher cash flow per employee over a three-year period than non-diverse companies did in a 2015 study from [Bersin by Deloitte](http://www.bersin.com/News/PressArticles.aspx?id=19377){:target="_blank"}.
+Diverse companies had nearly two and a half times higher cash flow per employee over a three-year period than non-diverse companies did in a 2015 study from [Bersin by Deloitte](http://www.bersin.com/News/PressArticles.aspx?id=19377).
 
 It may seem cold to talk about the importance of diversity by breaking down the numbers, but the truth is clear. The importance of diversity training in the workplace is expressed both in the benefit of working together with people of different backgrounds and in building a successful business. Turns out, you can have it all, and diversity training may be the key.
 
 ## How to create effective diversity training
 
-It is not enough to lay out a list of prohibitive rules and expect people to follow them. This is, in fact, [the exact opposite of what makes for a successful diversity training](http://journals.sagepub.com/doi/abs/10.1177/0956797611427918){:target="_blank"}. 
+It is not enough to lay out a list of prohibitive rules and expect people to follow them. This is, in fact, [the exact opposite of what makes for a successful diversity training](http://journals.sagepub.com/doi/abs/10.1177/0956797611427918). 
 
 Diversity training that presents diversity acceptance as a choice that benefits everyone in the workplace results in positive returns that last longer. Diversity training should:
 

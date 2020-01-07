@@ -14,15 +14,15 @@ What does it mean to have an ethical workplace? An ethical workplace has well-es
 
 ### Protects your company’s bottom line
 
-[Unethical behavior](https://www.shrm.org/hr-today/news/hr-magazine/pages/0414-ethical-workplace-culture.aspx){:target="_blank"} impacts profits when [multi-million dollar fines](https://www.nytimes.com/2017/04/17/business/dealbook/when-money-gets-in-the-way-of-corporate-ethics.html){:target="_blank"} are levied on unethical corporations.
+[Unethical behavior](https://www.shrm.org/hr-today/news/hr-magazine/pages/0414-ethical-workplace-culture.aspx) impacts profits when [multi-million dollar fines](https://www.nytimes.com/2017/04/17/business/dealbook/when-money-gets-in-the-way-of-corporate-ethics.html) are levied on unethical corporations.
 
-This same behavior can cost the company in terms of [lower stock prices, fewer customers](https://strategiccfo.com/ethics-affects-the-financial-results-of-a-company/){:target="_blank"}, and a damaged reputation in your industry and with vendors.
+This same behavior can cost the company in terms of [lower stock prices, fewer customers](https://strategiccfo.com/ethics-affects-the-financial-results-of-a-company/), and a damaged reputation in your industry and with vendors.
 
 ### Makes your company a great place to work
 
-On the other hand, employee ethics training makes a company a great place to work. Consider [Patagonia](http://www.patagonia.com/company-info.html){:target="_blank"}, with their mission statement: “Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.”
+On the other hand, employee ethics training makes a company a great place to work. Consider [Patagonia](http://www.patagonia.com/company-info.html), with their mission statement: “Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.”
 
-Patagonia was ranked as one of 2018’s [best places to work for new dads](https://www.fatherly.com/love-money/patagonia-best-places-work-new-dads/){:target="_blank"} and is consistently cited as a company that [cares about its employees](http://fortune.com/2015/09/14/rose-marcario-patagonia/){:target="_blank"}, their actions, and their impact on the world. Turnover is, as Fortune puts it, “[freakishly low](http://fortune.com/2016/06/09/patagonia-employee-turnover/){:target="_blank"},” and a lot of that has to do with the ethical culture of the company.
+Patagonia was ranked as one of 2018’s [best places to work for new dads](https://www.fatherly.com/love-money/patagonia-best-places-work-new-dads/) and is consistently cited as a company that [cares about its employees](http://fortune.com/2015/09/14/rose-marcario-patagonia/), their actions, and their impact on the world. Turnover is, as Fortune puts it, “[freakishly low](http://fortune.com/2016/06/09/patagonia-employee-turnover/),” and a lot of that has to do with the ethical culture of the company.
 
 Ethics training keeps your company profitable and helps employees make consistently good decisions in service to their colleagues, their customers, and themselves. However, not just any ethics training course will do. Developing an ethics training program for employees incorporates the following eight steps.
 
@@ -34,7 +34,7 @@ Start your employee ethics training by either developing a code of conduct for y
 
 ## 2. Identify the different types of ethical training you can include
 
-All quality training begins with a [training needs analysis](https://www.edgepointlearning.com/blog/training-needs-analysis/){:target="_blank"}. In the case of ethics trainings for employees, you might consider focusing on one or more of the following areas:
+All quality training begins with a [training needs analysis](https://www.edgepointlearning.com/blog/training-needs-analysis/). In the case of ethics trainings for employees, you might consider focusing on one or more of the following areas:
 
 * Ethical conduct, both in and out of the office
 * Customer privacy and data protection
@@ -63,7 +63,7 @@ Ethical leaders are committed to working with ethical employees. Chances are goo
 
 ## 5. Consider incentives
 
-New research suggests that [incentives for employees work](https://www.biospace.com/article/new-research-suggests-frequent-rewards-can-improve-motivation-performance-at-work/){:target="_blank"}. Consider offering gift cards, afternoons off, or other small bonuses for employees who go above and beyond and put their training into action.
+New research suggests that [incentives for employees work](https://www.biospace.com/article/new-research-suggests-frequent-rewards-can-improve-motivation-performance-at-work/). Consider offering gift cards, afternoons off, or other small bonuses for employees who go above and beyond and put their training into action.
 
 ## 6. Create common goals and identity
 

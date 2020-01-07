@@ -26,7 +26,7 @@ Oftentimes, your relationship with this person can make or break the partnership
 
 Next, ask what the vendor’s customer and employee retention rate is.
 
-Customers don’t go through the long process of finding a new vendor if they are happy, but they absolutely will if they're having a bad experience. In fact, about [67% of customers list bad customer service as the reason for leaving a vendor](https://www.getfeedback.com/blog/40-stats-churn-customer-satisfaction/?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link){:target="_blank"}, and most individuals will [avoid a vendor for almost 2 years](https://www.zendesk.com/resources/the-impact-of-customer-service/?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link){:target="_blank"} after a bad customer service experience. It's best to figure out what the customer retention rate is, and why past customers may have left.
+Customers don’t go through the long process of finding a new vendor if they are happy, but they absolutely will if they're having a bad experience. In fact, about [67% of customers list bad customer service as the reason for leaving a vendor](https://www.getfeedback.com/blog/40-stats-churn-customer-satisfaction/?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link), and most individuals will [avoid a vendor for almost 2 years](https://www.zendesk.com/resources/the-impact-of-customer-service/?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link) after a bad customer service experience. It's best to figure out what the customer retention rate is, and why past customers may have left.
 
 Also, if employees are happy and long-tenured, it's likely they also have happier customers. A low employee retention rate may be a sign of a toxic work environment that will only leave unhappy employees who are sticking around because they have no other option, or who turnover frequently, leaving you with new account managers every other month.
 
@@ -39,7 +39,7 @@ When you ask for references, a potential vendor will cherry pick the customers f
 *  Ask your industry peers who they use.
 *  Ask for references from <em>former</em> customers.
 *  Review your potential vendor on peer or paid review sites.
-*  Review your potential partner on [GlassDoor](https://www.glassdoor.com/Reviews/index.htm?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link){:target="_blank"} as employees will often tell you exactly what the culture is like on the inside (and happy employees generally lead to happy customers).
+*  Review your potential partner on [GlassDoor](https://www.glassdoor.com/Reviews/index.htm?utm_campaign=elearningindustry.com&utm_source=%2Fmake-a-successful-vendor-selection-5-customer-service-questions-ask&utm_medium=link) as employees will often tell you exactly what the culture is like on the inside (and happy employees generally lead to happy customers).
 
 ## 5. Tell me more about your service team
 
@@ -51,4 +51,4 @@ What do other questions about customer service you typically ask potential vendo
 
 <strong>[Get in touch with EdgePoint Learning today](/) to talk about customer service training courses that are made for today's employees, for today's world.</strong>
 
-<em>This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/make-a-successful-vendor-selection-5-customer-service-questions-ask){:target="_blank"} on December 17, 2017.</em>
+<em>This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/make-a-successful-vendor-selection-5-customer-service-questions-ask) on December 17, 2017.</em>

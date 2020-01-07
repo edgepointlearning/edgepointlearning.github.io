@@ -40,7 +40,7 @@ New eLearning technology has developed and changed to reflect better research on
 
 Of course we believe firmly in the power of technology to connect and inspire. We know that employees have very little time in their day for training, and that microlearning, mLearning, and other tech trends can help them get the just-in-time information they need. However, we also know that sometimes nothing beats what happens IRL.
 
-Excellent training happens when course developers tailor the delivery to the topic and the workforce. Think of a carpenter who gets detailed directions on how to swing a hammer but never actually gets to pound even a single nail. Or a manager who learns about personal protective equipment, but never actually tries it out herself. Some things are just best experienced [on the job](/blog/on-the-job-training-advantages/){:target="_blank"}, in real life, and when necessary, [led by an instructor](/blog/instructor-led-training-vs-elearning/){:target="_blank"}.
+Excellent training happens when course developers tailor the delivery to the topic and the workforce. Think of a carpenter who gets detailed directions on how to swing a hammer but never actually gets to pound even a single nail. Or a manager who learns about personal protective equipment, but never actually tries it out herself. Some things are just best experienced [on the job](/blog/on-the-job-training-advantages/), in real life, and when necessary, [led by an instructor](/blog/instructor-led-training-vs-elearning/).
 
 A good training program recognizes that and adapts to the topic at hand.
 
@@ -52,13 +52,13 @@ It’s a popular fiction to think that only millennials benefit from or enjoy yo
 
 While employers are looking forward to this innovative group of people further making their way into employment, the push is less to cater to their love of Snapchat and more to capitalize on their adept use of and adaptation to a variety of technologies and, by extension, workplace situations. For all their bad press, millennials are some of the most innovative and connected employees ever to collect a (digital) paycheck.
 
-It can appear that the millennial love of technology is usurping previous generations’ learning tools, but what it’s doing is updating the delivery system to make information more accessible and streamlined for everyone. No, it’s not your grandfather’s five-pound training manual, but it is a comprehensive, interactive tool that's capable of delivering important information and communication whenever you need it for [baby boomers](https://elearningindustry.com/8-important-characteristics-baby-boomers-elearning-professionals-know){:target="_blank"} and [generation Z](https://elearningindustry.com/gen-z-training-next-generation-in-corporate-america){:target="_blank"} employees alike.
+It can appear that the millennial love of technology is usurping previous generations’ learning tools, but what it’s doing is updating the delivery system to make information more accessible and streamlined for everyone. No, it’s not your grandfather’s five-pound training manual, but it is a comprehensive, interactive tool that's capable of delivering important information and communication whenever you need it for [baby boomers](https://elearningindustry.com/8-important-characteristics-baby-boomers-elearning-professionals-know) and [generation Z](https://elearningindustry.com/gen-z-training-next-generation-in-corporate-america) employees alike.
 
 ## Myth #5: The value of eLearning is impossible to measure
 
 ### The reality: Your employees are their own assessments
 
-Think you can't measure eLearning's value (or that it's not definitive enough to do so)? Let’s say your course objective is to increase employee productivity while cutting waste. In this case, you can take a direct look at your employee performance, [measuring improvement](/blog/how-to-keep-track-of-training/){:target="_blank"} or progress over time towards your learning objectives.
+Think you can't measure eLearning's value (or that it's not definitive enough to do so)? Let’s say your course objective is to increase employee productivity while cutting waste. In this case, you can take a direct look at your employee performance, [measuring improvement](/blog/how-to-keep-track-of-training/) or progress over time towards your learning objectives.
 
 Some topics (compliance with company-wide safety rules, for example) are more easily measured, while others may require more time and analysis of data. This does not mean the measurements are ineffective. Quite the opposite. Sure, a computer can tell you when a module is completed or a test is passed, but the real measurement is in employee performance that meets your objectives.
 

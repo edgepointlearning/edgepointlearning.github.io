@@ -22,7 +22,7 @@ Healthcare customer service might include the following:
 * Handling forms (insurance and compliance documents)
 * Account and billing questions
 
-Customer service training doesn't just benefit patients. Employees who feel capable and confident in their ability to respond to clients experience less frustration and are more inclined to stay in their jobs. [Cycling through employees](https://www.peoplekeep.com/blog/bid/312123/employee-retention-the-real-cost-of-losing-an-employee){:target="_blank"} because they don’t feel supported in their training can get expensive, fast.
+Customer service training doesn't just benefit patients. Employees who feel capable and confident in their ability to respond to clients experience less frustration and are more inclined to stay in their jobs. [Cycling through employees](https://www.peoplekeep.com/blog/bid/312123/employee-retention-the-real-cost-of-losing-an-employee) because they don’t feel supported in their training can get expensive, fast.
 
 Customer service in healthcare training capitalizes on employee strengths and offers them tools to remedy any areas of weakness. This makes both employees and the patients they serve feel valued and important.
 

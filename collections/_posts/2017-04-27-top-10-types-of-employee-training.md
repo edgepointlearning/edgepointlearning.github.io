@@ -33,7 +33,7 @@ We discuss the ideal situations for these types of training for employees, along
 Instructor-led training is the traditional type of employee training that occurs in a classroom, with a teacher presenting the material.
 This can be a highly effective method of employee training, especially for complex topics. Instructors can answer specific employee questions or direct them to further resources. They also allow for highly-skilled instructors to match the training level and style to the employees in the room.
 
-However, instructor-led training does have some drawbacks, including cost and time to implement. It can also be unnecessary for concise topics. We discuss more about this in our post, "[Instructor-Led Training Vs. eLearning.](/blog/Instructor-led-Training-vs-eLearning/){:target="_blank"}".
+However, instructor-led training does have some drawbacks, including cost and time to implement. It can also be unnecessary for concise topics. We discuss more about this in our post, "[Instructor-Led Training Vs. eLearning.](/blog/Instructor-led-Training-vs-eLearning/)".
 
 ## 2. eLearning
 
@@ -41,11 +41,11 @@ eLearning, on the other hand, relies on online videos, tests, and courses to del
 
 It's one of the easiest types of employee training to roll out to larger populations, especially for employees who are remote or have high-turnover rates. With interactive games, tests, videos, activities, or even gamified components, it can also go a long way towards keeping your employees engaged with the training.
 
-Of course, eLearning also has its own challenges. Without a solid instructional design strategy behind it, the graphics and visuals that make eLearning fun can also make it gimmicky or quickly outdated. Keeping it up-to-date is also a necessary best practice. We cover the major [advantages, and disadvantages, of eLearning here](/blog/advantages-of-elearning/){:target="_blank"}. 
+Of course, eLearning also has its own challenges. Without a solid instructional design strategy behind it, the graphics and visuals that make eLearning fun can also make it gimmicky or quickly outdated. Keeping it up-to-date is also a necessary best practice. We cover the major [advantages, and disadvantages, of eLearning here](/blog/advantages-of-elearning/). 
 
 ## 3. Simulation employee training
 
-Simulation training is most often provided through a computer, [augmented](/blog/future-of-augmented-reality/){:target="_blank"}, or virtual reality device. Despite the initial costs for producing that software or technology, however, simulation training can be a necessary option for employees in riskier or high-stakes fields. You'll often see simulation training for pilots or doctors, but it can be useful for other employees too.
+Simulation training is most often provided through a computer, [augmented](/blog/future-of-augmented-reality/), or virtual reality device. Despite the initial costs for producing that software or technology, however, simulation training can be a necessary option for employees in riskier or high-stakes fields. You'll often see simulation training for pilots or doctors, but it can be useful for other employees too.
 
 This type of employee training is also highly-effective and reliable, allowing employees to progress consistently and at their own pace.
 
@@ -53,11 +53,11 @@ This type of employee training is also highly-effective and reliable, allowing e
 
 Hands-on training includes any experiential training that's focused on the individual needs of the employee. It's conducted directly on the job. Hands-on training can help employees fit perfectly into their upcoming or current role, while enhancing their current skills.
 
-A [LinkedIn post](https://www.linkedin.com/pulse/5-effective-employee-training-techniques-work-jason-silver){:target="_blank"} notes:
+A [LinkedIn post](https://www.linkedin.com/pulse/5-effective-employee-training-techniques-work-jason-silver) notes:
 
 > "One advantage of hands-on training is that they are applicable immediately to the employees’ jobs. They are also effective for training when it comes to new business equipment and procedures."
 
-This is a time-intensive method of employee training, however, that's best used when there are enough resources available to support employees during the program. Learn more about [experiential learning here](/blog/benefits-of-experiential-learning/){:target="_blank"}.
+This is a time-intensive method of employee training, however, that's best used when there are enough resources available to support employees during the program. Learn more about [experiential learning here](/blog/benefits-of-experiential-learning/).
 
 ## 5. Coaching or mentoring
 
@@ -71,7 +71,7 @@ For all its benefits, mentoring is costly in terms of employee hours and should 
 
 Important for getting big chunks of information to a large employee population, lecture-style training can be an invaluable resource for communicating required information quickly.
 
-However, use this type of employee training sparingly. [HR.com](https://www.hr.com/en/communities/training_and_development/list-of-training-methods_eacwezdm.html){:target="_blank"} writes:
+However, use this type of employee training sparingly. [HR.com](https://www.hr.com/en/communities/training_and_development/list-of-training-methods_eacwezdm.html) writes:
 
 > "It has been said to be the least effective of all training methods. In many cases, lectures contain no form of interaction from the trainer to the trainee and can be quite boring. Studies show that people only retain 20 percent of what they are taught in a lecture."
 
@@ -79,7 +79,7 @@ However, use this type of employee training sparingly. [HR.com](https://www.hr.c
 
 For the right group of employees, group discussions and activities can provide the perfect training option. It allows multiple employees to train at once, in an environment that better fits their current departments or groups. These discussions and activities can be instructor-led or facilitated by online prompts that are later reviewed by a supervisor.
 
-This type of employee training is best used for challenges that require a collaborative approach to complex issues. Find ideas for [training activities here](/blog/leadership-training-activities-for-employees/){:target="_blank"}.
+This type of employee training is best used for challenges that require a collaborative approach to complex issues. Find ideas for [training activities here](/blog/leadership-training-activities-for-employees/).
 
 ## 8. Role-playing
 
@@ -101,18 +101,18 @@ Case studies are a great option for focused topics, but more complex topics will
 
 ## Learn more about types of training
 
-At [EdgePoint Learning](/about/){:target="_blank"}, we know that employee training is only effective when it's engaging. The best way to do that is to start from the beginning and consider the best types of training methods for your workforce, your needs, and your resources. Once you do that, you can create rich learning opportunities that empower and truly engage your employees.
+At [EdgePoint Learning](/about/), we know that employee training is only effective when it's engaging. The best way to do that is to start from the beginning and consider the best types of training methods for your workforce, your needs, and your resources. Once you do that, you can create rich learning opportunities that empower and truly engage your employees.
 
-Our [eLearning blog](/blog/){:target="_blank"} covers a number of other resources for you to learn more, including: 
+Our [eLearning blog](/blog/) covers a number of other resources for you to learn more, including: 
 
-* ["How To Train New Employees Effectively"](https://www.edgepointlearning.com/blog/how-to-train-new-employees/){:target="_blank"}
-* [How To Run A Training Needs Analysis](https://www.edgepointlearning.com/blog/training-needs-analysis/){:target="_blank"}
-* [How To Keep Track Of Employee Training](https://www.edgepointlearning.com/blog/how-to-keep-track-of-training/){:target="_blank"}
+* ["How To Train New Employees Effectively"](https://www.edgepointlearning.com/blog/how-to-train-new-employees/)
+* [How To Run A Training Needs Analysis](https://www.edgepointlearning.com/blog/training-needs-analysis/)
+* [How To Keep Track Of Employee Training](https://www.edgepointlearning.com/blog/how-to-keep-track-of-training/)
 
-From full custom development to comprehensive instructional strategy, our experts at EdgePoint Learning can also help you develop better employee training programs, for a variety of training methods. We specialize in eLearning, as well as innovative training solutions like [geofenced mobile training](/blog/pinpoint-partnership/){:target="_blank"} and [microlearning](/blog/types-of-microlearning/){:target="_blank"}.
+From full custom development to comprehensive instructional strategy, our experts at EdgePoint Learning can also help you develop better employee training programs, for a variety of training methods. We specialize in eLearning, as well as innovative training solutions like [geofenced mobile training](/blog/pinpoint-partnership/) and [microlearning](/blog/types-of-microlearning/).
 
 Since most employees can only dedicate 1% of their workweek to training, it's time to make those 24 minutes more effective, more engaging, and maybe even a little fun. We're here for better employee training, and we hope you are too. 
 
-<strong>Ready to see different types of employee training in action? Check out our [library of demos or request a personalized demo today](/form/demo/){:target="_blank"}.</strong>
+<strong>Ready to see different types of employee training in action? Check out our [library of demos or request a personalized demo today](/form/demo/).</strong>
 
 [Contact Us](/contact/ ){:class="button"}

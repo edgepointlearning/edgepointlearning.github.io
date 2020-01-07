@@ -36,7 +36,7 @@ HIPAA compliance training must be implemented for every organization that requir
 
 ### Is HIPAA training required annually?
 
-The [rules for HIPAA training](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html){:target="_blank"} for employees state that HIPAA refresher training should be offered to all employees “periodically.” While this is open to interpretation, it is best practice for your company to provide annual HIPAA training. Governmental rules and regulations change annually, and your company is required to keep employees informed on the latest rules.
+The [rules for HIPAA training](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) for employees state that HIPAA refresher training should be offered to all employees “periodically.” While this is open to interpretation, it is best practice for your company to provide annual HIPAA training. Governmental rules and regulations change annually, and your company is required to keep employees informed on the latest rules.
 
 Online HIPAA training for employees is a great way to provide a periodic refresher for your workforce. With just-in-time updates on rules and regulations, you can get your employees the information they need.
 
@@ -56,7 +56,7 @@ HIPAA compliance training starts with identifying what information is protected 
 
 Imagine your potentially embarrassing health diagnosis plastered on a billboard in Times Square. This may seem like an exaggeration, but the speed and scope of the online community can make a molehill-sized leak of patient information into a mountain.
 
-More than embarrassment, patients can also experience medical identity theft. [Medical identity theft](https://oig.hhs.gov/fraud/medical-id-theft/index.asp){:target="_blank"} occurs when a patient’s personal information is stolen and used to submit false Medicaid or Medicare claims. This disrupts care and costs millions of taxpayer dollars annually.
+More than embarrassment, patients can also experience medical identity theft. [Medical identity theft](https://oig.hhs.gov/fraud/medical-id-theft/index.asp) occurs when a patient’s personal information is stolen and used to submit false Medicaid or Medicare claims. This disrupts care and costs millions of taxpayer dollars annually.
 
 {% asset 'blog/2018-02-14-hipaa-compliance-training01.jpg'
   alt='Medical identity theft costs millions of dollars annually'
@@ -77,7 +77,7 @@ This aspect of HIPAA compliance covers any type of electronic transmission of or
 
 Employers are also legally obligated to evaluate their HIPAA-compliant security and privacy protocols to see that they are implemented. While the U.S. federal government does not specify a timeframe for this, they suggest that such evaluations are ongoing. This can help to identify potential weak spots in security and privacy so you can address them as soon as they are spotted.
 
-You can learn more about [healthcare cybersecurity training](/blog/healthcare-cyber-security-training/){:target="_blank"} in our earlier post.
+You can learn more about [healthcare cybersecurity training](/blog/healthcare-cyber-security-training/) in our earlier post.
 
 ## How to roll out HIPAA training
 

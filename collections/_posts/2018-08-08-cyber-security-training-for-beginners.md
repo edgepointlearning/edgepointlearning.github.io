@@ -20,15 +20,15 @@ Educating employees on [cyber security](/blog/cyber-security-training/) is an im
 
 As with all employee training, cyber security training for beginners starts at the top. While it’s a rare executive who will dismiss the importance of securing a company’s data and information, sometimes you need to justify the cost of developing a new training program.
 
-For example, executives may assume that in this day and age, most people understand how to keep themselves safe online. This just isn’t so. The primary access for hackers is the “[human attack surface](https://www.csoonline.com/article/3149510/security/the-human-attack-surface-counting-it-all-up.html){:target="_blank"}” (employees in contact with a computer). By 2021, an estimated four billion people will have regular access to computers.
+For example, executives may assume that in this day and age, most people understand how to keep themselves safe online. This just isn’t so. The primary access for hackers is the “[human attack surface](https://www.csoonline.com/article/3149510/security/the-human-attack-surface-counting-it-all-up.html)” (employees in contact with a computer). By 2021, an estimated four billion people will have regular access to computers.
 
-The real bottom line? The [average cost of cyber attacks](https://www.scrypt.com/blog/average-cost-data-breach-2017-3-62-million/){:target="_blank"} in the U.S. averaged just over seven million dollars as of January 2017, with the cost of a data breach per client record averaging $225. What does this mean for your company? If you only stored 1,000 client emails, a data breach could already cost your company $225,000.
+The real bottom line? The [average cost of cyber attacks](https://www.scrypt.com/blog/average-cost-data-breach-2017-3-62-million/) in the U.S. averaged just over seven million dollars as of January 2017, with the cost of a data breach per client record averaging $225. What does this mean for your company? If you only stored 1,000 client emails, a data breach could already cost your company $225,000.
 
 After the CEOs are on board, a [training needs analysis](/blog/training-needs-analysis/) can help you figure out where your employees are in terms of basic knowledge about cyber security. If they are still using their name as their password, you have some work to do.
 
 Once you have buy-in from the top and know what your employees already know, it’s time to set goals for your cyber security training and identify what resources you already have in place. These two steps set you up for success and move you towards designing eLearning courses or other [digital learning methods](/blog/business-case-for-elearning-development/) to deliver important information.
 
-Next, you'll consider your approach. Some companies take a more humorous or light-hearted approach to cyber security training for beginners, staging “live fire” exercises or [role-playing a cyber attack](https://www.secondcityworks.com/){:target="_blank"}. While this approach may not be for everyone, if your company likes to think outside the box and try new tactics to engage employees, this might be just the thing for you. Other companies may prefer easy-to-access [microlearning resources](/blog/types-of-microlearning/).
+Next, you'll consider your approach. Some companies take a more humorous or light-hearted approach to cyber security training for beginners, staging “live fire” exercises or [role-playing a cyber attack](https://www.secondcityworks.com/). While this approach may not be for everyone, if your company likes to think outside the box and try new tactics to engage employees, this might be just the thing for you. Other companies may prefer easy-to-access [microlearning resources](/blog/types-of-microlearning/).
 
 Finally, cyber security training (for beginners and more experienced employees alike) should be ongoing and frequently updated. Hackers are constantly creating new ways to get at your information. Updated information is an important element of employee cyber security education.
 
@@ -40,16 +40,16 @@ At the end of their training, here are the four crucial things your employees sh
 
 ### 1. How to update passwords often and responsibly
 
-Passwords are a hot button issue for most employees. A 2012 analysis of passwords stolen by hackers looked at the [most common passwords](https://arstechnica.com/information-technology/2012/11/born-to-be-breached-the-worst-passwords-are-still-the-most-common/){:target="_blank"}. The number one password of 2012? “Password,” followed closely by “12345.”
+Passwords are a hot button issue for most employees. A 2012 analysis of passwords stolen by hackers looked at the [most common passwords](https://arstechnica.com/information-technology/2012/11/born-to-be-breached-the-worst-passwords-are-still-the-most-common/). The number one password of 2012? “Password,” followed closely by “12345.”
 
 Another analysis of six million username and password combinations found that nearly 92% of these accounts used one of the most common passwords (with the top contender being – you guessed it – the always hackable “password.”).
 
 Simple fixes:
 
-*  <strong>[Use two factor authentication](https://www.cnet.com/news/two-factor-authentication-what-you-need-to-know-faq/){:target="_blank"} (2FA):</strong> This forces the user to not only enter the password but also a randomly generated single-use code or answer to a previously set up security question.
+*  <strong>[Use two factor authentication](https://www.cnet.com/news/two-factor-authentication-what-you-need-to-know-faq/) (2FA):</strong> This forces the user to not only enter the password but also a randomly generated single-use code or answer to a previously set up security question.
 *  <strong>Set up different passwords for different sites:</strong> Social media and web forums are notorious hacker trolling sites. Don’t use the same password for company email as you do to access Facebook.
 *  <strong>Use randomly generated passwords:</strong> You know those crazy, random passwords that a site gives you to use the first time you log in? Instead of changing the password to your dog’s name, create a similar random password that's made up of a combination of numbers, letters, and special characters that's at least eight characters long. It’s nearly impossible to hack.
-*  <strong>Consider a password manager to remember your passwords:</strong> Employees change their passwords to something easier so they can remember them. [Password manager apps](https://fossbytes.com/best-free-password-manager-software/){:target="_blank"} may be able to safely store those long, hard-to-remember passwords.
+*  <strong>Consider a password manager to remember your passwords:</strong> Employees change their passwords to something easier so they can remember them. [Password manager apps](https://fossbytes.com/best-free-password-manager-software/) may be able to safely store those long, hard-to-remember passwords.
 *  <strong>Prompt employees to update passwords on a regular basis:</strong> Let your employees know during training that they can expect ongoing, automated reminders to update their passwords for critical business programs. A 90-day schedule is a good place to start.
 
 These cyber security tips can be easily delivered with [microlearning](/blog/microlearning) tools. Standardize the process so employees know how to create impenetrable passwords and change them when needed.
@@ -62,7 +62,7 @@ This seems simple, but in organizations both large and small it can be challengi
 
 ### 3. How to identify different phishing attempts
 
-Nearly [91% of cyber attacks start with an email](https://phishme.com/enterprise-phishing-susceptibility-report){:target="_blank"}. In 2014, phishing attacks cost companies all over the world [$4.5 billion](http://cynergistek.com/infographic-phishing/){:target="_blank"}.
+Nearly [91% of cyber attacks start with an email](https://phishme.com/enterprise-phishing-susceptibility-report). In 2014, phishing attacks cost companies all over the world [$4.5 billion](http://cynergistek.com/infographic-phishing/).
 
 Employees need to know how to identify phishing attempts through email, voicemail, and text. Train your employees to look for unidentifiable names, unrecognized links, or thinly veiled threats, forwarding them to the IT department for investigation.
 

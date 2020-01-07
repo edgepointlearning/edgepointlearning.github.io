@@ -63,7 +63,7 @@ A big part of overcoming change friction and employee pushback is letting them s
 
 ### 4. Use training incentives for employees to use new software
 
-After much back and forth about the value of training incentives, the verdict is in: used selectively and with high-quality rewards, [training incentives work](https://www.business.com/articles/gal-rimon-monetary-rewards/){:target="_blank"}. The key is knowing your employees well enough to know which rewards will help them be more engaged and motivated to complete the training. For some, it’s literally as simple as verbal recognition that acknowledges their dedication.
+After much back and forth about the value of training incentives, the verdict is in: used selectively and with high-quality rewards, [training incentives work](https://www.business.com/articles/gal-rimon-monetary-rewards/). The key is knowing your employees well enough to know which rewards will help them be more engaged and motivated to complete the training. For some, it’s literally as simple as verbal recognition that acknowledges their dedication.
 
 For others, you might think creatively about how to keep employees motivated. Maybe at certain checkpoints in the training employees can take off an hour or two early on a Friday afternoon, or maybe a regular part of training is a delicious catered lunch or breakfast. Maybe it’s even a $25 gift card when the training is complete.
 
@@ -73,7 +73,7 @@ You know your employees the best. The goal of training incentives is not only to
 
 It’s true. Some companies still use the old training format of hours in a conference room. Think of this as the “ripping off the Band-Aid” approach. Sure, it delivers the training quickly, but does this result in employees who are really comfortable with the change and can use it easily moving forward?
 
-In most cases, lecture-based, hours-long trainings are not effective in helping employees develop their new skills. One study of a four-day, eight-hour ergonomics course found that although participants picked up theoretical knowledge, their [practical application of that knowledge was not effective](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28698/0000518.pdf?sequence=1&isAllowed=y){:target="_blank"}. 
+In most cases, lecture-based, hours-long trainings are not effective in helping employees develop their new skills. One study of a four-day, eight-hour ergonomics course found that although participants picked up theoretical knowledge, their [practical application of that knowledge was not effective](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/28698/0000518.pdf?sequence=1&isAllowed=y). 
 
 They heard the words, but they could not apply the skills.
 {: .fancy-text }

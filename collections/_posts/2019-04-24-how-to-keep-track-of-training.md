@@ -12,7 +12,7 @@ You realize the importance of training your employees and have spent time and mo
 
 ## Why is it important to track employee training?
 
-Keeping track of employee training is crucial. Nearly 40% of employees leave their new jobs within a year when [the training they receive is inadequate](https://www.go2hr.ca/training-development/employee-training-is-worth-the-investment){:target="_blank"}. With the [cost of onboarding](/blog/cost-of-training-new-employees/) a new salaried employee at an average six to nine months of pay, losing an employee because they were not trained hits you right in the bottom line.
+Keeping track of employee training is crucial. Nearly 40% of employees leave their new jobs within a year when [the training they receive is inadequate](https://www.go2hr.ca/training-development/employee-training-is-worth-the-investment). With the [cost of onboarding](/blog/cost-of-training-new-employees/) a new salaried employee at an average six to nine months of pay, losing an employee because they were not trained hits you right in the bottom line.
 
 Additionally, for heavily regulated industries where non-compliance and lack of certifications can literally shut you down, tracking employee training ensures that everyone on site has what they need to operate safely and legally. This is especially important for industries such as construction and healthcare and in any job that operates under a government contract.
 
@@ -73,9 +73,9 @@ Focus on exactly what you need, but keep a weather eye on the horizon. Maybe you
 
 There are a variety of great LMS options to choose from, but here are three lists to start with to review your options:
 
-1. [PC Magazine](https://www.pcmag.com/article2/0,2817,2488347,00.asp){:target="_blank"}
-2. [eLearning Industry](https://elearningindustry.com/the-20-best-learning-management-systems){:target="_blank"}
-3. [FitSmallBusiness](https://fitsmallbusiness.com/best-lms-learning-management-system/){:target="_blank"}
+1. [PC Magazine](https://www.pcmag.com/article2/0,2817,2488347,00.asp)
+2. [eLearning Industry](https://elearningindustry.com/the-20-best-learning-management-systems)
+3. [FitSmallBusiness](https://fitsmallbusiness.com/best-lms-learning-management-system/)
 
 ### 5. Create a process to review the reports your LMS generates
 
@@ -93,4 +93,4 @@ A quality LMS can offer insight into how your employees feel about the training 
 
 <strong>At EdgePoint Learning, we help with everything from designing your learning courses to figuring out how to track training for employees. If you need help getting started or have questions about employee training tracking, we can help. [Get in touch today](/contact/).</strong>
 
-<i>This post was originally published on [eLearning Industry](https://elearningindustry.com/track-employee-training-keep){:target="_blank"}.</i>
+<i>This post was originally published on [eLearning Industry](https://elearningindustry.com/track-employee-training-keep).</i>

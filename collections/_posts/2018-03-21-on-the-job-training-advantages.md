@@ -50,7 +50,7 @@ Employees will also appreciate the ability to get to important information quick
 
 ### It makes good (money) sense
 
-Employee training is one of the most expensive parts of onboarding. [HR Onboard](https://hronboard.me/blog/how-much-does-it-really-cost-to-onboard-a-new-candidate-employee-onboarding/){:target="_blank"} found that the average cost of onboarding a new employee can reach up to $40,000. In technology industries, that [cost can soar](https://medium.com/@kristenmaeve/the-cost-of-not-onboarding-your-new-hire-5ba94d83c57c){:target="_blank"} even higher. But here’s the catch: these price tags do not even mention the cost of training.
+Employee training is one of the most expensive parts of onboarding. [HR Onboard](https://hronboard.me/blog/how-much-does-it-really-cost-to-onboard-a-new-candidate-employee-onboarding/) found that the average cost of onboarding a new employee can reach up to $40,000. In technology industries, that [cost can soar](https://medium.com/@kristenmaeve/the-cost-of-not-onboarding-your-new-hire-5ba94d83c57c) even higher. But here’s the catch: these price tags do not even mention the cost of training.
 
 Training costs include training rooms, travel, catering, and materials. Even if you cram your disgruntled employees into the conference room at the end of the hall for a day of presenters, those presenters cost money, and you lose a day’s worth of work from your employees.
 
@@ -80,7 +80,7 @@ If microlearning, geofencing, and other eLearning methods are experienced togeth
 
 ## So, what makes on-the-job training stand out?
 
-If you are the person tasked with developing employee trainings, there is a [strong case for eLearning](/blog/business-case-for-elearning-development/){:target="_blank"} when it comes to on-the-job training. Skills are learned where they will actually be applied, with tools that will actually be used. Often, on-the-job training uses real-time experiences combined with microlearning support to help employees go deeper.
+If you are the person tasked with developing employee trainings, there is a [strong case for eLearning](/blog/business-case-for-elearning-development/) when it comes to on-the-job training. Skills are learned where they will actually be applied, with tools that will actually be used. Often, on-the-job training uses real-time experiences combined with microlearning support to help employees go deeper.
 
 This is not a drill; on-the-job learning prepares your employees for real-time engagement wherever they need it.
 

@@ -89,4 +89,4 @@ If you want to know more about how to identify training needs of employees, Edge
 
 [Get in touch today!](/contact/)
 
-<cite>"This post was originally featured as an "Editor's Choice" article on [eLearning Industry](https://elearningindustry.com/training-needs-of-employees-identify-ways-start){:target="_blank"}."</cite>
+<cite>"This post was originally featured as an "Editor's Choice" article on [eLearning Industry](https://elearningindustry.com/training-needs-of-employees-identify-ways-start)."</cite>

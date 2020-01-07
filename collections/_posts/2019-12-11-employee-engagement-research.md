@@ -12,7 +12,7 @@ As we near the end of the year, it’s time to look at the key findings in emplo
 
 How often does your C-suite and management team take the time to thank their employees? Turns out, a simple “thank you” goes a long way in improving work satisfaction.
 
-Portland State University researchers found a [link between gratitude in the workplace and employee physical and mental health](https://www.pdx.edu/sba/news/power-gratitude-workplace-psu-research-shows-expressing-gratitude-improves-physical-and-mental){:target="_blank"}. They looked at nurses – a group of workers at high risk for burnout – and found a connection between expressed gratitude (a simple “thank you”) and happier employees. 
+Portland State University researchers found a [link between gratitude in the workplace and employee physical and mental health](https://www.pdx.edu/sba/news/power-gratitude-workplace-psu-research-shows-expressing-gratitude-improves-physical-and-mental). They looked at nurses – a group of workers at high risk for burnout – and found a connection between expressed gratitude (a simple “thank you”) and happier employees. 
 
 One of the researchers noted that:
 
@@ -21,7 +21,7 @@ One of the researchers noted that:
 
 ## 2. Positive work environments help employees feel included
 
-In somewhat unsurprising (but nevertheless important) research, a Binghamtom University study found that a positive work environment helped employees to feel more included. These feelings were [connected to higher satisfaction at work and increased innovation on the job](http://dx.doi.org/10.1177/0899764019829834){:target="_blank"}. 
+In somewhat unsurprising (but nevertheless important) research, a Binghamtom University study found that a positive work environment helped employees to feel more included. These feelings were [connected to higher satisfaction at work and increased innovation on the job](http://dx.doi.org/10.1177/0899764019829834). 
 
 Kim Brimhall, assistant professor of social work at Binghamton University's College of Community and Public Affairs, noted that: 
 
@@ -30,13 +30,13 @@ Kim Brimhall, assistant professor of social work at Binghamton University's Coll
 
 ## 3. Work-life balance is an issue across the globe
 
-A study that analyzed data from 34 Organization of Economic Co-operation and Development (OECD) countries found that men and women all over the globe [struggled to find that seemingly-elusive work-life balance](https://link.springer.com/article/10.1007%2Fs10902-019-00131-9){:target="_blank"}.
+A study that analyzed data from 34 Organization of Economic Co-operation and Development (OECD) countries found that men and women all over the globe [struggled to find that seemingly-elusive work-life balance](https://link.springer.com/article/10.1007%2Fs10902-019-00131-9).
 
 In an otherwise-unremarkable study, one statistic stood out: men seemed to care more about what was termed “leisure and personal care” than women did. This may indicate men’s willingness to demand more personal time than women and is a statistic worth looking at for your company and its unique employee profile. 
 
 ## 4. “Reattached” employees enjoy work more
 
-Likewise, many studies have indicated the importance of leaving work at work (detaching) at the end of the day, but a new study found that ["reattaching" with your job every morning](https://www.pdx.edu/clas/news/reattaching-work-just-important-detaching-work-study-finds){:target="_blank"} was equally important. 
+Likewise, many studies have indicated the importance of leaving work at work (detaching) at the end of the day, but a new study found that ["reattaching" with your job every morning](https://www.pdx.edu/clas/news/reattaching-work-just-important-detaching-work-study-finds) was equally important. 
 
 The study authors found that:
 
@@ -45,11 +45,11 @@ The study authors found that:
 
 ## 5. Bullying bosses compromise workplace safety
 
-Employees who feel undervalued or bullied are at greater risk for [non-compliance with safety regulations and other company policies](https://www.pdx.edu/clas/news/workplace-safety-can-worsen-under-bullying-bosses-psu-study-finds){:target="_blank"}. Poor treatment by a boss can make an employee more concerned with their own survival in the workplace, a behavior that can place customers or clients at risk, too. 
+Employees who feel undervalued or bullied are at greater risk for [non-compliance with safety regulations and other company policies](https://www.pdx.edu/clas/news/workplace-safety-can-worsen-under-bullying-bosses-psu-study-finds). Poor treatment by a boss can make an employee more concerned with their own survival in the workplace, a behavior that can place customers or clients at risk, too. 
 
 Study authors highlighted the importance of addressing this issue, noting that, “It's really critical to manage such leader behavior, support victimized employees and prevent such issues."
 
-## 6. [Ethical leadership prevents toxic work environments](https://business.sdsu.edu/faculty/faculty-research/preventing-toxic-environments-through-leadership){:target="_blank"}
+## 6. [Ethical leadership prevents toxic work environments](https://business.sdsu.edu/faculty/faculty-research/preventing-toxic-environments-through-leadership)
 
 On the other side of the leadership coin, leaders who utilize clear and positive communication and offer emotional support for their employees promote the same characteristic in employees. This is especially true when dealing with social undermining that might occur in the workplace.
 
@@ -61,19 +61,19 @@ Ethical leaders respond to this type of stress (and the potential for negative e
 
 Ethical leaders also know that healthy employees are the best kind. New research from the European Society of Cardiology has confirmed this once again.
 
-Employees who have trouble sleeping due to work-related stress are at a [threefold risk of cardiovascular death](https://journals.sagepub.com/doi/10.1177/2047487319839183){:target="_blank"} when they already have hypertension. Considering that 33% of your workforce likely has hypertension, this is a study to pay attention to. 
+Employees who have trouble sleeping due to work-related stress are at a [threefold risk of cardiovascular death](https://journals.sagepub.com/doi/10.1177/2047487319839183) when they already have hypertension. Considering that 33% of your workforce likely has hypertension, this is a study to pay attention to. 
 
 ## 8. Disclosing invisible stigmas is linked to increased job satisfaction
 
 Another way to stay healthy at work is to just be yourself. 
 
-Rice University researchers found that disclosing invisible illness or stigmas at work [helped employees to feel more accepted](http://news.rice.edu/2019/02/25/be-yourself-at-work-its-healthier-and-more-productive/){:target="_blank"}. This employee disclosure was also linked to decreased job anxiety and an increased commitment to their job and their company.
+Rice University researchers found that disclosing invisible illness or stigmas at work [helped employees to feel more accepted](http://news.rice.edu/2019/02/25/be-yourself-at-work-its-healthier-and-more-productive/). This employee disclosure was also linked to decreased job anxiety and an increased commitment to their job and their company.
 
 Unfortunately, the study found that the same could not be said about visible traits (e.g., race or disability). Employees still reported plenty of negative reactions and responses to visible differences among them.
 
 ## 9. It’s easier to get healthy at work
 
-Nearly half of all [workplaces in the U.S. offer some kind of health and wellness progra](https://journals.sagepub.com/doi/10.1177/0890117119842047){:target="_blank"} for employees. As the size of the workplace increased, the likelihood of a wellness program did, too. 
+Nearly half of all [workplaces in the U.S. offer some kind of health and wellness progra](https://journals.sagepub.com/doi/10.1177/0890117119842047) for employees. As the size of the workplace increased, the likelihood of a wellness program did, too. 
 
 Laura Linnan, professor in the Department of Health Behavior at UNC Gillings School of Global Public Health and founding director of the Carolina Collaborative for Research on Work and Health connected employee time at work with an employer’s obligation to care for their employees. She noted that: 
 
@@ -82,7 +82,7 @@ Laura Linnan, professor in the Department of Health Behavior at UNC Gillings Sch
 
 ## 10. Virtual reality training improves health and safety of employees 
 
-Learning in the workplace that utilizes [virtual reality can be more effective in training](http://www.nottingham.ac.uk/news/virtual-reality-training-employee-safety){:target="_blank"} employees in emergency situations (e.g. fire drills or other building evacuations).
+Learning in the workplace that utilizes [virtual reality can be more effective in training](http://www.nottingham.ac.uk/news/virtual-reality-training-employee-safety) employees in emergency situations (e.g. fire drills or other building evacuations).
 
 When compared to training received through a PowerPoint, virtual reality training produced better long-term retention of information and more engagement in the training itself. 
 
@@ -90,7 +90,7 @@ This research on the effectiveness of online learning that uses virtual reality 
 
 ## 11. The best employers don’t only focus on the bottom line
 
-If your supervisors make decisions based only on profit, get ready for a surprise. Researchers at Baylor University found that this [profits-driven practice can actually hurt you](https://www.baylor.edu/mediacommunications/news.php?action=story&story=211538){:target="_blank"} in the long run through loss of employees (and the increased cost of recruiting new ones).
+If your supervisors make decisions based only on profit, get ready for a surprise. Researchers at Baylor University found that this [profits-driven practice can actually hurt you](https://www.baylor.edu/mediacommunications/news.php?action=story&story=211538) in the long run through loss of employees (and the increased cost of recruiting new ones).
 
 Lead researcher Matthew Quade, Ph.D., noted that:
 

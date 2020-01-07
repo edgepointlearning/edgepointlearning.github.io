@@ -12,7 +12,7 @@ One of my favorite splurges in life is to dine at one of the famous Nobu restaur
 
 World-renowned chef, Nobuyuki Matsuhisa (Nobu), with over 40 restaurant locations around the globe, is regarded as one of the top chefs of our time. Referred to as Nobu Style, what makes visiting one of his restaurants a delight isn’t just the impeccable service and decadent menu options; it is also about presentation of the food as well as the restaurant atmosphere.
 
-As the chef’s brand suggests, all the senses cannot be separated, they are interconnected. In [Newsweek](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html){:target="_blank"}, Chef Nobu’s self-description of his renowned restaurants are that the “... the food and concept are very simple, but always with a twist, like a new product or ingredients and presentations.” His passion is to make his restaurant goers say, “that’s beautiful!” during their culinary experience.
+As the chef’s brand suggests, all the senses cannot be separated, they are interconnected. In [Newsweek](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html), Chef Nobu’s self-description of his renowned restaurants are that the “... the food and concept are very simple, but always with a twist, like a new product or ingredients and presentations.” His passion is to make his restaurant goers say, “that’s beautiful!” during their culinary experience.
 
 {% asset 'blog/2017-10-16-nobu-group.jpg'
    alt='Nobu Entrance'
@@ -20,20 +20,20 @@ As the chef’s brand suggests, all the senses cannot be separated, they are int
 
 ## What makes for high-quality eLearning experiences?
 
-Like dining out at one of the finest restaurants in the world, learning should also be inclusive of more than just one or two dimensions of our senses. Moreover, effective eLearning is about how it looks and feels as much as it is about the content. In fact, the visual design aspects of eLearning can improve learning, if we can figure out how to use them correctly, as noted in [The eLearning Developers' Journal](http://paperpile.com/b/HEMGz4/sAlN){:target="_blank"}.
+Like dining out at one of the finest restaurants in the world, learning should also be inclusive of more than just one or two dimensions of our senses. Moreover, effective eLearning is about how it looks and feels as much as it is about the content. In fact, the visual design aspects of eLearning can improve learning, if we can figure out how to use them correctly, as noted in [The eLearning Developers' Journal](http://paperpile.com/b/HEMGz4/sAlN).
 
 Effective eLearning is as much about the artistic impressions as it is about the instructional content.
 
 There are some notable design guidelines to follow that can help increase the chances of creating meaningful eLearning experiences through visuals, including:
 
-*  [Cognitive Theory of Multimedia Learning](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html){:target="_blank"}
-*  [Universal Learning Design](http://www.udlcenter.org/aboutudl/whatisudl){:target="_blank"}
-*  [Glance Test](http://www.duarte.com/blog/perfect-your-slide-design/){:target="_blank"}
-*  [Rule of Thirds](https://blog.slideshare.net/2014/05/19/5-reasons-to-utilize-white-space){:target="_blank"}
+*  [Cognitive Theory of Multimedia Learning](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)
+*  [Universal Learning Design](http://www.udlcenter.org/aboutudl/whatisudl)
+*  [Glance Test](http://www.duarte.com/blog/perfect-your-slide-design/)
+*  [Rule of Thirds](https://blog.slideshare.net/2014/05/19/5-reasons-to-utilize-white-space)
 
 However, one of my favorite easy-to-remember models to use when creating a Nobu-style eLearning experience is C.A.R.P.
 
-Stemming from the graphic design world, thesee are four principles for good visual design, from [Reynolds](http://paperpile.com/b/HEMGz4/F7ds){:target="_blank"}:
+Stemming from the graphic design world, thesee are four principles for good visual design, from [Reynolds](http://paperpile.com/b/HEMGz4/F7ds):
 
 *  Contrast
 *  Alignment
@@ -53,7 +53,7 @@ How can we create contrast like this in an eLearning project? If you're designin
 
 First, look to your organization's established style guides or brand color scheme.
 
-More simply, you could also use tools like the [color wheel](https://www.sessions.edu/color-calculator/){:target="_blank"}. The trick I’ve been taught with using the color wheel is you should use colors on the opposite side of the wheel to create contrast.
+More simply, you could also use tools like the [color wheel](https://www.sessions.edu/color-calculator/). The trick I’ve been taught with using the color wheel is you should use colors on the opposite side of the wheel to create contrast.
 
 Other methods are to simply use the embedded themes available in a tool like Articulate or Captivate. They usually look nice, so I trust my eyes and build on something that is already done that I feel suits the project. There are no concrete rule (unless you are an artist or graphic designer).
 
@@ -70,7 +70,7 @@ First, because we know people don’t absorb information after encountering it o
 
 This is an old adage that is based on human behavior.
 
-The other reason we should care about this principle is because we want to free up the learner’s cognitive resources to focus on germane information, which is where [Sweller](http://paperpile.com/b/HEMGz4/W9f3){:target="_blank"} and other experts believe the learning process actually takes place.
+The other reason we should care about this principle is because we want to free up the learner’s cognitive resources to focus on germane information, which is where [Sweller](http://paperpile.com/b/HEMGz4/W9f3) and other experts believe the learning process actually takes place.
 
 An example where this comes into play is when designing an eLearning module where the navigation buttons are different from screen-to-screen. The action is not consistent so the learner has to think about how to simply advance through the course. This takes away valuable cognitive resources from learning what you want them to learn.
 
@@ -92,7 +92,7 @@ As an experiment, try creating a screen where nothing is aligned or only one thi
    alt='An example of Nobu alignment'
   magick:resize='670' %}
 
-Another international hit that sets the tone at Nobu is the Yellowtail Sashimi with Jalapeño. The alignment between the subtleness of the tuna combined with the heat of the jalapeño combines to create an epic full flavor that would make [Kanye walk to Nobu](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"} to get it.
+Another international hit that sets the tone at Nobu is the Yellowtail Sashimi with Jalapeño. The alignment between the subtleness of the tuna combined with the heat of the jalapeño combines to create an epic full flavor that would make [Kanye walk to Nobu](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes) to get it.
 
 ### Proximity
 
@@ -108,9 +108,9 @@ To create new relationships for your palate, Chef Nobu often deconstructs some o
 
 ## Other tips and tricks for quality eLearning experiences
 
-To improve the look and feel of training, there is no one-size-fits-all approach to the design of eLearning, as [Steen](http://paperpile.com/b/HEMGz4/hmnV){:target="_blank"} notes.
+To improve the look and feel of training, there is no one-size-fits-all approach to the design of eLearning, as [Steen](http://paperpile.com/b/HEMGz4/hmnV) notes.
 
-You might find it helpful to use an onscreen grid to [line up the elements](http://paperpile.com/b/HEMGz4/8Z4G){:target="_blank"}. A common practice by graphic artists is to divide up each screen uniformly into squares. Some design tools even allow you to turn on a grid feature to help with this.
+You might find it helpful to use an onscreen grid to [line up the elements](http://paperpile.com/b/HEMGz4/8Z4G). A common practice by graphic artists is to divide up each screen uniformly into squares. Some design tools even allow you to turn on a grid feature to help with this.
 
 Another tip is to remember whitespace is your friend. Defined as the empty part of the screen absent of content, it is helpful for directing the learner’s attention. If a screen is too busy, it's difficult for the learner to know where to put their eyes, potentially missing the instructional message. Regardless of what method you use to figure out how much whitespace to use, err on the side of providing more rather than less.
 
@@ -120,7 +120,7 @@ A couple of points to hold on to beyond this post are:
 *  There are different aspects of visual design, including font, color, audio, images, video, and more
 *  These quick principles apply beyond just eLearning to mLearning and other training situations
 
-In the end, the most important thing is to simply be aware of the visual design of your Nobu-style eLearning projects. For your next [eLearning project](https://www.edgepointlearning.com/solutions/){:target="_blank"}, I hope your learners enjoy the experience so much they shout out… "Irasshaimase!” Nobu-style.
+In the end, the most important thing is to simply be aware of the visual design of your Nobu-style eLearning projects. For your next [eLearning project](https://www.edgepointlearning.com/solutions/), I hope your learners enjoy the experience so much they shout out… "Irasshaimase!” Nobu-style.
 
 <strong>What methods have you used to create quality eLearning experiences for your employees? </strong>
 
@@ -139,13 +139,13 @@ In the end, the most important thing is to simply be aware of the visual design 
 
 ### References
 *  Akkam, A. (2014, September 8). The 10 Dishes That Made My Career: Nobu Matsuhisa.
-Retrieved October 5, 2017, from [https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes){:target="_blank"}
+Retrieved October 5, 2017, from [https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes](https://firstwefeast.com/eat/2014/09/nobu-matsuhisa-career-changing-dishes)
 
 *  Clark, R. C. (2003). More Than Just Eye Candy: Graphics for e-Learning. The eLearning Developers’ Journal.
 
 *  Duarte, N. (2008). Slide:ology: The Art and Science of Creating Great Presentations. “O’Reilly Media, Inc.”
 
-*  Morris, T. (2017, June 5). How architect David Rockwell and chef Nobu Matsuhisa built their perfect restaurant. Retrieved October 4, 2017, from [http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html){:target="_blank"}
+*  Morris, T. (2017, June 5). How architect David Rockwell and chef Nobu Matsuhisa built their perfect restaurant. Retrieved October 4, 2017, from [http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html](http://www.newsweek.com/2017/06/16/david-rockwell-and-chef-nobu-matsuhisa-built-perfect-restaurant-620881.html)
 
 *  Reynolds, G. (2013). Presentation Zen Design: Simple Design Principles and Techniques to Enhance Your Presentations. New Riders.
 
@@ -153,7 +153,7 @@ Retrieved October 5, 2017, from [https://firstwefeast.com/eat/2014/09/nobu-matsu
 
 *  Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312.
 
-*  Terenzio, O. (2016, June 28). Q&A with Chef Nobu Matsuhisa: On Global Expansion, Good Teams & Staying on the Customer’s Side - Open for Business. Retrieved September 28, 2017, from [http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/](http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/){:target="_blank"}
+*  Terenzio, O. (2016, June 28). Q&A with Chef Nobu Matsuhisa: On Global Expansion, Good Teams & Staying on the Customer’s Side - Open for Business. Retrieved September 28, 2017, from [http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/](http://openforbusiness.opentable.com/qas/qa-with-chef-nobu-matsuhisa-on-global-expansion-good-teams-staying-on-the-customers-side/)
 
 *  Wall Klieves, L., Orcutt, R., Peters, D. (2014). Eleven tips for visual design and layout. In K. Forni (Ed.), Making learning memorable with graphics and visual design (pp. 9–12). Santa Rosa, CA: The eLearning Guild.
 

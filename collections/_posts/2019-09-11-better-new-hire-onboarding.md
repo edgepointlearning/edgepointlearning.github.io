@@ -67,7 +67,7 @@ Each company has a unique opportunity to mold new hires into the shape they woul
 
 ### 2. Implement new hire onboarding at least a week ahead of their start date
 
-The companies with the biggest returns [start employee onboarding well before their first day](http://deliberatepractice.com.au/wp-content/uploads/2013/04/Onboarding-2013.pdf){:target="_blank"} of work. 
+The companies with the biggest returns [start employee onboarding well before their first day](http://deliberatepractice.com.au/wp-content/uploads/2013/04/Onboarding-2013.pdf) of work. 
 
 Be like those companies and clarify crucial information ahead of time. A week is good. For higher-level employees, more time may be necessary. 
 
@@ -86,9 +86,9 @@ HR can handle taxes and medical enrollments, but do they really need to train em
 Checklists standardize procedures to make sure that everyone is getting what they need when they start. The very best checklists not only lay out what is information needs to be delivered but also set deadlines and assign tasks. 
 
 Some of our favorites include:
-* [Trello](https://trello.com/b/qr3AcASr/new-hire-onboarding){:target="_blank"}: This includes avatars and the ability to develop department-specific tasks
-* [Smartsheet](https://www.smartsheet.com/free-onboarding-checklists-and-templates){:target="_blank"}: Smartsheet coordinates checklists across HR and other departments
-* [Process Street](https://www.process.st/checklist/employee-onboarding-checklist/){:target="_blank"}: Process Street is an easy-to-use checklist that outlines what needs to happen before day one (and beyond)
+* [Trello](https://trello.com/b/qr3AcASr/new-hire-onboarding): This includes avatars and the ability to develop department-specific tasks
+* [Smartsheet](https://www.smartsheet.com/free-onboarding-checklists-and-templates): Smartsheet coordinates checklists across HR and other departments
+* [Process Street](https://www.process.st/checklist/employee-onboarding-checklist/): Process Street is an easy-to-use checklist that outlines what needs to happen before day one (and beyond)
 
 ### 5. Design appropriate new hire training
 
@@ -122,7 +122,7 @@ Build this into your new employee onboarding flow from the start.
 
 ## See new hire onboarding in action 
 
-There are plenty of [employee onboarding examples](https://www.saplinghr.com/blog/top-employee-onboarding-programs){:target="_blank"} that have structured processes to make new hire onboarding smooth and successful. 
+There are plenty of [employee onboarding examples](https://www.saplinghr.com/blog/top-employee-onboarding-programs) that have structured processes to make new hire onboarding smooth and successful. 
 
 EdgePoint Learning was lucky to work with the talented team of scientists, planners, and technical specialists of [SWCA Environmental Consultants](/story/swca/) to streamline and standardize their onboarding procedures. We designed a self-paced employee onboarding process that clearly articulated not only the philosophy of the company but also delivered practical information such as employee benefits, basic policies and procedures, and OSHA and safety requirements. 
 

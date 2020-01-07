@@ -91,6 +91,6 @@ Lay out the per-employee expenditures for in-person training vs. eLearning to sh
 
 ### Step 10: Welcome your boss to the future
 
-More coordinated, efficient training is the future. 50% of millennials are [not interested in sitting in a classroom to learn](https://elearningindustry.com/engage-millennials-in-the-workplace-3-examples-microlearning-gamification-social-learning){:target="_blank"} , and 39% want to see more virtual education as they move into the workforce. By 2025, 75% of the workforce will be millennials, a huge percentage that employers can’t ignore.
+More coordinated, efficient training is the future. 50% of millennials are [not interested in sitting in a classroom to learn](https://elearningindustry.com/engage-millennials-in-the-workplace-3-examples-microlearning-gamification-social-learning) , and 39% want to see more virtual education as they move into the workforce. By 2025, 75% of the workforce will be millennials, a huge percentage that employers can’t ignore.
 
 It's time to make the business case for your company to provide the competitive advantage your company needs to succeed in today's global environment.

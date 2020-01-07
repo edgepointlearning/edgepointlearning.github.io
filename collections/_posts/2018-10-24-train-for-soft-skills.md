@@ -27,25 +27,25 @@ Essentially, soft skills are how accomplished people navigate the world. It’s 
 
 ## Why is soft skills training important?
 
-Findings by the Stanford Research Institute International and the Carnegie Mellon Foundation found that [75% of long-term job success](https://www.amanet.org/training/articles/the-hard-truth-about-soft-skills.aspx){:target="_blank"} depends upon soft skills mastery and only 25% on technical skills.
+Findings by the Stanford Research Institute International and the Carnegie Mellon Foundation found that [75% of long-term job success](https://www.amanet.org/training/articles/the-hard-truth-about-soft-skills.aspx) depends upon soft skills mastery and only 25% on technical skills.
 
-In addition to conducting extensive research on the [changing face of workplace learning](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/linkedin-learning-workplace-learning-report-2018.pdf){:target="_blank"}, LinkedIn has led the way in identifying the [most in-demand soft skills](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2016/most-indemand-soft-skills){:target="_blank"} for future employees (see previous list).
+In addition to conducting extensive research on the [changing face of workplace learning](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/linkedin-learning-workplace-learning-report-2018.pdf), LinkedIn has led the way in identifying the [most in-demand soft skills](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2016/most-indemand-soft-skills) for future employees (see previous list).
 
-Thankfully, soft skills are highly trainable. Unlike IQ, which is largely static our whole lives, our emotional intelligence – the ability to learn and apply empathy, organization, and leadership – is malleable. Development of our [emotional intelligence is nearly limitless](https://hbr.org/2013/05/can-you-really-improve-your-em){:target="_blank"}, and it’s crucial for success in every field of business.
+Thankfully, soft skills are highly trainable. Unlike IQ, which is largely static our whole lives, our emotional intelligence – the ability to learn and apply empathy, organization, and leadership – is malleable. Development of our [emotional intelligence is nearly limitless](https://hbr.org/2013/05/can-you-really-improve-your-em), and it’s crucial for success in every field of business.
 
-Even when two employees’ IQs are different, soft skills can predict which one will learn more, even [beyond the ability predicted by their IQ](http://journals.sagepub.com/doi/abs/10.1177/0956797614535810){:target="_blank"}. While all employees will improve over time and with practice, those with more highly-developed soft skills are more likely to exceed their colleagues without them.
+Even when two employees’ IQs are different, soft skills can predict which one will learn more, even [beyond the ability predicted by their IQ](http://journals.sagepub.com/doi/abs/10.1177/0956797614535810). While all employees will improve over time and with practice, those with more highly-developed soft skills are more likely to exceed their colleagues without them.
 
 As more millennials (and the generation behind them) enter the workforce, employers are increasingly concerned with the lack of soft skills in the pool of potential employees.  Many recent college graduates have made it across the stage without ever actually holding a job, even babysitting, dog walking, or car washing. These crucial first forays into the job market teach people the importance of being on time, organizing their responsibilities, and dealing with people of all ages and from all walks of life. Lacking this early experience, workers may experience less longevity and stability in their jobs than their counterparts from previous generations.
 
 ### The ROI of training for soft skills
 
-The ROI of training for soft skills is both qualitative and quantitative. Employees with soft skills training are [better-liked](https://fosteredu.pennfoster.edu/the-roi-of-soft-skills-training-is-probably-more-than-you-think){:target="_blank"}, happier in their jobs, and more likely to stick with their company.
+The ROI of training for soft skills is both qualitative and quantitative. Employees with soft skills training are [better-liked](https://fosteredu.pennfoster.edu/the-roi-of-soft-skills-training-is-probably-more-than-you-think), happier in their jobs, and more likely to stick with their company.
 
 But what about the bottom line?
 
 Researchers at Harvard University, Boston University, and University of Michigan's Ross School of Business found that workers with soft skills training are 12% more productive than those without them.
 
-Feel like that number is low? This translates into a [256% ROI with soft skills training](https://michiganross.umich.edu/rtia-articles/soft-skills-training-boosts-productivity){:target="_blank"}.
+Feel like that number is low? This translates into a [256% ROI with soft skills training](https://michiganross.umich.edu/rtia-articles/soft-skills-training-boosts-productivity).
 
 ## 5 ways to teach soft skills to employees
 Soft skills development does not occur in a vacuum, and it doesn’t just magically occur over time. Here are five ways to teach your employees the soft skills they need.
@@ -58,7 +58,7 @@ Soft skills development does not occur in a vacuum, and it doesn’t just magica
 
 If you are looking for new hires, look for employees with a willingness to learn more than just practical skills.
 
-Is your potential hire eager to expand their knowledge base and self-directed? Do they have experience problem solving in novel situations? (Think wilderness exploration through [Outward Bound](https://www.outwardbound.org/){:target="_blank"} or volunteer experience with [AmeriCorps](https://www.nationalservice.gov/programs/americorps){:target="_blank"} or another long-term volunteer commitment.)
+Is your potential hire eager to expand their knowledge base and self-directed? Do they have experience problem solving in novel situations? (Think wilderness exploration through [Outward Bound](https://www.outwardbound.org/) or volunteer experience with [AmeriCorps](https://www.nationalservice.gov/programs/americorps) or another long-term volunteer commitment.)
 
 Start with employees who want to go where you’re headed – the skillsets can come later (and are easier to train).
 
@@ -93,4 +93,4 @@ It can be challenging to start a training program for skills that don’t necess
 
 <strong>Don’t wait for soft skills development to occur on its own, though. At EdgePoint Learning, we can help you get started wherever you are. [Get in touch today!](/contact/)</strong>
 
-<em>This post was originally published on [eLearning Industry](https://elearningindustry.com/soft-skills-in-the-workplace-develop-train){:target="_blank"}.</em>
+<em>This post was originally published on [eLearning Industry](https://elearningindustry.com/soft-skills-in-the-workplace-develop-train).</em>

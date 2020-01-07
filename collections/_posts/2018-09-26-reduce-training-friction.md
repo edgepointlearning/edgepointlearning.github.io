@@ -16,7 +16,7 @@ Fast-forward to today when we have multiple training options that can be used wh
 
 ## The future of employee training
 
-In his article “[A New Paradigm For Corporate Training: Learning In The Flow of Work](https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/){:target="_blank"},” Josh Bersin traces the evolution of corporate training from slide projectors and CD-ROMs with static information delivered in a sterile conference room to what he refers to as “learning in the flow of work.”
+In his article “[A New Paradigm For Corporate Training: Learning In The Flow of Work](https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/),” Josh Bersin traces the evolution of corporate training from slide projectors and CD-ROMs with static information delivered in a sterile conference room to what he refers to as “learning in the flow of work.”
 
 This change began to take shape when Google smashed the idea that only certain expert people should have access to information. With the introduction of this powerful search engine, people all over the globe had access to nearly unlimited information.
 
@@ -39,13 +39,13 @@ In short, learning in the flow of work – that is, taking two minutes to watch 
 At EdgePoint Learning, we take these insights into learning in the flow of work and apply them to making better learning opportunities for today's employees. Here's some of the aspects you can consider when building your own learning programs.
 
 ## Make better time, not more time, for training
-Consider that in 2015, the average employee spent a mere 24 minutes in training a week. Fast-forward just three years to [LinkedIn’s latest survey of over 4,000 business professionals](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/linkedin-learning-workplace-learning-report-2018.pdf){:target="_blank"}. In dissecting the challenges of workplace learning, LinkedIn found that:
+Consider that in 2015, the average employee spent a mere 24 minutes in training a week. Fast-forward just three years to [LinkedIn’s latest survey of over 4,000 business professionals](https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/linkedin-learning-workplace-learning-report-2018.pdf). In dissecting the challenges of workplace learning, LinkedIn found that:
 
 > “Getting employees to make more time for learning was the &#35;1 challenge &#91;employers&#93; cited, and among the learners who responded, 58% want to learn at their own pace and 49% want to learn in the flow of work.”
 
 CEOs want employees to make time for more training; employees want better training that meets their needs, on their own time and in their own way. From an employee standpoint, Bersin points out that LinkedIn’s results are in line with other research:
 
-> “This…is totally consistent with the [latest research from O’Reilly](https://www.oreilly.com/topics/oreilly-learning){:target="_blank"}, which also finds that approximately 50% of all learning interactions from their technical community…is for ‘in the moment of need’ technical support. These are people who understand the basics of their jobs but want pinpoint information, technical answers, code snippets, or quick answers to questions they face right now.”
+> “This…is totally consistent with the [latest research from O’Reilly](https://www.oreilly.com/topics/oreilly-learning), which also finds that approximately 50% of all learning interactions from their technical community…is for ‘in the moment of need’ technical support. These are people who understand the basics of their jobs but want pinpoint information, technical answers, code snippets, or quick answers to questions they face right now.”
 
 If you dig into [adult learning theory](/blog/adult-learning-theory/), this expressed need for relevant, applicable training that is delivered when employees need it and meets them where they are is the best way to:
 
@@ -63,7 +63,7 @@ CEOs and managers want skilled, knowledgeable, highly adaptable employees. Even 
 
 It seems that both of these goals are clearly aligned. Employees want training and employers want them to have it. So where’s the friction? Clearly, it is no longer effective to remove an employee from their job for a period of time to complete a training module. Learning in the flow of work, as Bersin points out, is the solution to this friction.
 
-Although the phrase “learning in the flow of work” is relatively new (coined by Bersin), the idea of [experiential learning](https://explorance.com/2015/02/i-do-and-i-understand-kolbs-experiential-learning-theory-explained/){:target="_blank"} goes back to the days when an apprentice worked side-by-side with a master (and more formally to John Dewey in the early part of the 20th century), immediately applying and refining skills on the job.
+Although the phrase “learning in the flow of work” is relatively new (coined by Bersin), the idea of [experiential learning](https://explorance.com/2015/02/i-do-and-i-understand-kolbs-experiential-learning-theory-explained/) goes back to the days when an apprentice worked side-by-side with a master (and more formally to John Dewey in the early part of the 20th century), immediately applying and refining skills on the job.
 
 The idea that learning new skills by practicing them when they are needed dovetails nicely with the modern adult’s need for autonomy and immersive training. There is no separation between the job and the learning.
 

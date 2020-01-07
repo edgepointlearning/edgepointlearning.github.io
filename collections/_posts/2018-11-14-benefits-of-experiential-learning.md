@@ -23,7 +23,7 @@ All of these experiential learning examples focus on learning by doing instead o
 
 ## What's the importance of experiential learning?
 
-Psychologist David Kolb, a [pioneer in the field of experiential learning](https://www.simplypsychology.org/learning-kolb.html){:target="_blank"}, identifies four components of experiential learning:
+Psychologist David Kolb, a [pioneer in the field of experiential learning](https://www.simplypsychology.org/learning-kolb.html), identifies four components of experiential learning:
 
 1. <strong>Concrete experience:</strong> Active involvement in the experience
 2. <strong>Reflective observations:</strong> Analyzing the experience
@@ -32,13 +32,13 @@ Psychologist David Kolb, a [pioneer in the field of experiential learning](https
 
 Also known as learning in the flow of work, experiential learning is an opportunity to revolutionize how companies train their employees and develop leaders from within.
 
-It’s no longer enough to just present material once; studies show that offering repeated opportunities for practice of new information and skills [vastly improves learning](http://science.sciencemag.org/content/331/6018/772){:target="_blank"}, both in the quantity of what’s learned and the quality of the application.
+It’s no longer enough to just present material once; studies show that offering repeated opportunities for practice of new information and skills [vastly improves learning](http://science.sciencemag.org/content/331/6018/772), both in the quantity of what’s learned and the quality of the application.
 
 Experiential learning is coming into its own as expectations of employee training evolve. Consider the following.
 
 * When it comes to practicing what is learned or just studying written material, retention of information past two weeks more than doubles with practice (68% compared to 29%)
-* Contrary to popular myth, [millennials job-hop less than Generation X](http://www.pewresearch.org/fact-tank/2017/04/19/millennials-arent-job-hopping-any-faster-than-generation-x-did/){:target="_blank"}, getting all of the training benefits that come with an increased tenure with one employer
-* With the [growth of AI in the workplace](https://www.cnbc.com/2015/04/10/robots-the-new-low-cost-worker.html){:target="_blank"}, these same millennials recognize that they need [more (and different) training](https://deloitte.wsj.com/cio/2017/03/23/millennials-conflicted-about-workplace-automation/){:target="_blank"} to keep up
+* Contrary to popular myth, [millennials job-hop less than Generation X](http://www.pewresearch.org/fact-tank/2017/04/19/millennials-arent-job-hopping-any-faster-than-generation-x-did/), getting all of the training benefits that come with an increased tenure with one employer
+* With the [growth of AI in the workplace](https://www.cnbc.com/2015/04/10/robots-the-new-low-cost-worker.html), these same millennials recognize that they need [more (and different) training](https://deloitte.wsj.com/cio/2017/03/23/millennials-conflicted-about-workplace-automation/) to keep up
 * A low supply of highly skilled workers means that experiential learning, [on the job](/blog/on-the-job-training-advantages/), is the new normal when it comes to training your workplace
 
 {% asset 'blog/2018-11-14-benefits-of-experiential-learning01.svg'
@@ -63,7 +63,7 @@ There are five major benefits of experiential learning in the workplace:
 
 ### Develops capacity to adapt to new situations
 
-In a [small-scale study of two groups of students](https://www.aacu.org/publications-research/periodicals/power-experiential-education){:target="_blank"} learning about politics, the group of students that learned through internships (experiential learning) and the group that learned through direct instruction had similar success rates on a final exam.
+In a [small-scale study of two groups of students](https://www.aacu.org/publications-research/periodicals/power-experiential-education) learning about politics, the group of students that learned through internships (experiential learning) and the group that learned through direct instruction had similar success rates on a final exam.
 
 However, when given the task of creating a new legislative policy, those who participated in experiential learning were better able to incorporate all aspects of their learning – the practical, personal, and professional aspects of creating legislation – than those who only learned about legislation in a book.
 
@@ -77,7 +77,7 @@ Experiential learning is that sweet spot of practicing the theory you have learn
 
 ### Provides a safe space to fail
 
-With employee perception of [job security at an all-time low](https://news.illinois.edu/view/6367/204652){:target="_blank"}, failure can feel like a doomsday scenario. And yet would you put a pilot with no practice at the helm of a jumbo jet? Probably not.
+With employee perception of [job security at an all-time low](https://news.illinois.edu/view/6367/204652), failure can feel like a doomsday scenario. And yet would you put a pilot with no practice at the helm of a jumbo jet? Probably not.
 
 Experiential learning that uses simulations gives employees the opportunity to fail safely. Their job (and their passengers!) are not in danger when they put their skills to use in simulations and other applicable scenarios (e.g., problem-solving through [gamification](/blog/gamification-in-elearning/)).
 

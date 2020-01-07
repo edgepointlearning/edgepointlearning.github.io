@@ -34,7 +34,7 @@ A person can appear to be healthy and happy while concealing tremendous sufferin
 
 Mental health training helps employees recognize the signs of mental distress in themselves and others. This helps them not only handle larger crises, but also to intervene before the distress becomes an emergency.
 
-Consider the following [statistics on mental health](https://www.nami.org/learn-more/mental-health-by-the-numbers){:target="_blank"}:
+Consider the following [statistics on mental health](https://www.nami.org/learn-more/mental-health-by-the-numbers):
 
 * Over 46% of adults in the U.S. will experience a mental illness in their lifetime. This could be anything from depressive disorders to anxiety to a response to trauma.
 * Nearly 44 million people in the U.S. experience a mental health crisis each year.
@@ -60,7 +60,7 @@ A learning program about this might focus on developing mentoring programs for n
 
 ### Suicide intervention and prevention
 
-The rate of suicide is rising, with the World Health Organization predicting a rate of [one death by suicide every 20 seconds](https://www.befrienders.org/suicide-statistics){:target="_blank"} by 2020. 
+The rate of suicide is rising, with the World Health Organization predicting a rate of [one death by suicide every 20 seconds](https://www.befrienders.org/suicide-statistics) by 2020. 
 
 Suicide intervention and prevention training helps employees recognize when other employees or clients are in trouble and gives them tools to help.
 
@@ -70,19 +70,19 @@ Suicide intervention and prevention training helps employees recognize when othe
 
 ### Addiction
 
-Addiction to tobacco, alcohol, illicit drugs, and prescription opioids [cost the U.S. an estimated 820 billion dollars a year](https://www.drugabuse.gov/related-topics/trends-statistics){:target="_blank"} in healthcare, lost wages, and other associated costs. 
+Addiction to tobacco, alcohol, illicit drugs, and prescription opioids [cost the U.S. an estimated 820 billion dollars a year](https://www.drugabuse.gov/related-topics/trends-statistics) in healthcare, lost wages, and other associated costs. 
 
 People who suffer from addiction need support and resources to treat these disorders. Online mental health training can provide confidential support to those who suffer and informational resources for the people who treat them.
 
 ### Anxiety
 
-[Anxiety disorders are on the rise in the U.S.](https://adaa.org/about-adaa/press-room/facts-statistics){:target="_blank"} Unfortunately, many people have limited access to treatment options. 
+[Anxiety disorders are on the rise in the U.S.](https://adaa.org/about-adaa/press-room/facts-statistics) Unfortunately, many people have limited access to treatment options. 
 
 Anxiety is often diagnosed at 18, a time when youth are entering college or careers. Those who work with people of all ages can benefit from mental health training to spot the early signs of anxiety, chronic stress, and burnout. 
 
 ### Youth mental health
 
-[Cyberbullying](/blog/cyberbullying-training-for-teachers/){:target="_blank"}, self-esteem issues, abuse issues, and eating disorders are topics that are particularly covered in youth-specific mental health training. 
+[Cyberbullying](/blog/cyberbullying-training-for-teachers/), self-esteem issues, abuse issues, and eating disorders are topics that are particularly covered in youth-specific mental health training. 
 
 These courses are often required parts of teacher training courses as well as healthcare provider licensing.
 
@@ -90,7 +90,7 @@ These courses are often required parts of teacher training courses as well as he
 
 First responders, teachers, and healthcare providers need to know how to deal with mental health issues during a crisis or after trauma. 
 
-Consider [the rise in school and workplace shootings](https://psmag.com/education/the-psychological-aftermath-of-surviving-school-shootings){:target="_blank"} and the assistance that survivors and those who are wounded might need. Equip your employees with knowledge on how to handle these incidents before they happen. Training can't compensate for the grief and trauma these acts cause, but it can help employees make better choices in the days, weeks, and months following an incident and connect them to additional resources. 
+Consider [the rise in school and workplace shootings](https://psmag.com/education/the-psychological-aftermath-of-surviving-school-shootings) and the assistance that survivors and those who are wounded might need. Equip your employees with knowledge on how to handle these incidents before they happen. Training can't compensate for the grief and trauma these acts cause, but it can help employees make better choices in the days, weeks, and months following an incident and connect them to additional resources. 
 
 ## What could a mental health training program look like? 
 
@@ -102,7 +102,7 @@ The best mental health training program for your organization is one that:
 
 At EdgePoint Learning, we have developed mental health courses for both the State of Alaska Department of Education & Early Development and suicide prevention organizations. For Alaska, we created over eight hours of suicide prevention and intervention eLearning courses, making them available to all school personnel. These are designed to train school staff to identify kids who may be suffering and successfully intervene to get them the help they need.
 
-When the State of Arizona passed a law that requires anyone who works in a school and has contact with kids to have suicide intervention training every three years, we developed similar courses for Teen Lifeline ([www.teenlifeline.org](http://www.teenlifeline.org){:target="_blank"}). 
+When the State of Arizona passed a law that requires anyone who works in a school and has contact with kids to have suicide intervention training every three years, we developed similar courses for Teen Lifeline ([www.teenlifeline.org](http://www.teenlifeline.org)). 
 
 These [online mental health training](/blog/when-to-use-elearning/) courses solved the problem of efficiently, affordably, and effectively delivering required training to a large number of employees across large geographic areas.
 

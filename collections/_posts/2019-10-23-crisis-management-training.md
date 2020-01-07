@@ -15,29 +15,29 @@ How well would your employees respond to a crisis in the workplace? If you aren�
 
 It seems you cannot read a newspaper, surf the internet, or listen to the radio without hearing breaking news about an impending emergency or disaster. 
 
-From [natural disasters](https://www.iii.org/fact-statistic/facts-statistics-us-catastrophes){:target="_blank"} to [school shootings](https://everytownresearch.org/gunfire-in-school/){:target="_blank"}, it seems like being at work (or anywhere) is more dangerous than ever. While some groups of workers are more susceptible to violence than others, emergencies and crises can affect all people at all levels of the company. 
+From [natural disasters](https://www.iii.org/fact-statistic/facts-statistics-us-catastrophes) to [school shootings](https://everytownresearch.org/gunfire-in-school/), it seems like being at work (or anywhere) is more dangerous than ever. While some groups of workers are more susceptible to violence than others, emergencies and crises can affect all people at all levels of the company. 
 
-[Workplace violence](/blog/workplace-violence-prevention/){:target="_blank"} is one kind of crisis, but do your employees know what to do if a fire breaks out, a building evacuation is called, or a natural disaster threatens their building? Turns out, many workers in the U.S. are not only unprepared for those emergencies but may also need emergency training for:
+[Workplace violence](/blog/workplace-violence-prevention/) is one kind of crisis, but do your employees know what to do if a fire breaks out, a building evacuation is called, or a natural disaster threatens their building? Turns out, many workers in the U.S. are not only unprepared for those emergencies but may also need emergency training for:
 
-* [Cardiac events](https://www.ishn.com/articles/108703-survey-us-workers-unprepared-for-workplace-cardiac-emergencies){:target="_blank"}
-* [Active shooters](https://www.everbridge.com/newsroom/article/survey-businesses-overwhelmingly-concerned-active-shooters-workplace-unprepared/){:target="_blank"}
-* [Biological attacks](https://www.weforum.org/agenda/2019/03/our-economy-is-woefully-underprepared-for-biological-threats/){:target="_blank"}
+* [Cardiac events](https://www.ishn.com/articles/108703-survey-us-workers-unprepared-for-workplace-cardiac-emergencies)
+* [Active shooters](https://www.everbridge.com/newsroom/article/survey-businesses-overwhelmingly-concerned-active-shooters-workplace-unprepared/)
+* [Biological attacks](https://www.weforum.org/agenda/2019/03/our-economy-is-woefully-underprepared-for-biological-threats/)
 
 In schools, healthcare facilities, and other public-facing industries where vulnerable people are cared for, crisis management training is crucial to keep everyone safe, but unfortunately it's not as widespread as you might think. 
 
-A 2015 report from the Federal Emergency Management Agency (FEMA) found that 60% of adults had [not practiced an emergency drill](https://www.fema.gov/news-release/2015/04/28/sixty-percent-americans-not-practicing-disaster-fema-urges-everyone-prepare){:target="_blank"}, despite the fact that 80% of people live in counties that have experienced a natural disaster since 2007.
+A 2015 report from the Federal Emergency Management Agency (FEMA) found that 60% of adults had [not practiced an emergency drill](https://www.fema.gov/news-release/2015/04/28/sixty-percent-americans-not-practicing-disaster-fema-urges-everyone-prepare), despite the fact that 80% of people live in counties that have experienced a natural disaster since 2007.
 
 {% asset 'blog/2019-010-23-crisis-management-training01.svg'
   alt='60% of adults do not practice emergency drills' %}
 {: .wideImage }
 
-The goal in understanding the importance of crisis management training is not to scare or concern your employees. Although there is evidence that the level of danger in the workplace is rising, some of it has more to do with the fact that [we spend a third of our lives at work](https://www.gettysburg.edu/news/stories?id=79db7b34-630c-4f49-ad32-4ab9ea48e72b&pageTitle=1%2F3+of+your+life+is+spent+at+work){:target="_blank"}. And when we are in the workplace, we may be in charge of vulnerable people who cannot care for themselves.
+The goal in understanding the importance of crisis management training is not to scare or concern your employees. Although there is evidence that the level of danger in the workplace is rising, some of it has more to do with the fact that [we spend a third of our lives at work](https://www.gettysburg.edu/news/stories?id=79db7b34-630c-4f49-ad32-4ab9ea48e72b&pageTitle=1%2F3+of+your+life+is+spent+at+work). And when we are in the workplace, we may be in charge of vulnerable people who cannot care for themselves.
 
 Even if your company is not public-facing or caring for others who cannot care for themselves (i.e., children, the elderly, or the disabled), your employees need to know what to do to respond in an emergency.
 
 ## What topics should crisis training cover? 
 
-The [topics](https://www.ready.gov/business/implementation/training){:target="_blank"} you cover in emergency crisis management training will vary depending on the employee’s level of involvement on the emergency crisis management team. Let's look at a few different profiles and what those employees need to know. 
+The [topics](https://www.ready.gov/business/implementation/training) you cover in emergency crisis management training will vary depending on the employee’s level of involvement on the emergency crisis management team. Let's look at a few different profiles and what those employees need to know. 
 
 ### All employees
 
@@ -77,9 +77,9 @@ For example, how will employees know where to go and what to do? How will those 
 
 ### A training needs analysis
 
-All of this begins with a [training needs analysis](/blog/how-to-identify-training-needs-of-employees/){:target="_blank"}. Starting here helps you to look more closely at what you are already doing well and what needs improvement or a greater focus. For example, if you are in healthcare, you probably have excellent crisis training in cardiac events, but what happens if, during a natural disaster, the power goes out? 
+All of this begins with a [training needs analysis](/blog/how-to-identify-training-needs-of-employees/). Starting here helps you to look more closely at what you are already doing well and what needs improvement or a greater focus. For example, if you are in healthcare, you probably have excellent crisis training in cardiac events, but what happens if, during a natural disaster, the power goes out? 
 
-Consider this example. In 2017, Hurricane Irma tore through Florida and knocked out power to hundreds of nursing homes, many of which did not have the necessary generators to run air conditioning and power ventilators. In the extreme heat of the Deep South, [dozens of elderly patients died](https://www.reuters.com/article/us-storm-dorian-nursing-homes/as-dorian-nears-florida-nursing-homes-face-heat-for-lacking-generators-idUSKCN1VK2AA){:target="_blank"} before power could be returned. Even in 2019, 20% of Florida’s nursing homes had not yet complied with the law that generators be present. Many were, until the days leading up to Hurricane Dorian’s thankfully mild strike, still waiting on generators.
+Consider this example. In 2017, Hurricane Irma tore through Florida and knocked out power to hundreds of nursing homes, many of which did not have the necessary generators to run air conditioning and power ventilators. In the extreme heat of the Deep South, [dozens of elderly patients died](https://www.reuters.com/article/us-storm-dorian-nursing-homes/as-dorian-nears-florida-nursing-homes-face-heat-for-lacking-generators-idUSKCN1VK2AA) before power could be returned. Even in 2019, 20% of Florida’s nursing homes had not yet complied with the law that generators be present. Many were, until the days leading up to Hurricane Dorian’s thankfully mild strike, still waiting on generators.
 
 ### Design strategy
 

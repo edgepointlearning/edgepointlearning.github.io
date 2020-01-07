@@ -6,7 +6,7 @@ image: blog/2018-02-28-workplace-violence-prevention.jpg
 excerpt: Workplace violence is not something we can ignore as business leaders. Here are steps you can take right now to prevent violent incidents in the future.
 ---
 
-We should not have to have this conversation, but increasingly, workplace violence prevention is something we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791){:target="_blank"} while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"}, but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.
+We should not have to have this conversation, but increasingly, workplace violence prevention is something we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791) while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf), but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.
 
 ## Who is at risk for workplace violence?
 
@@ -23,11 +23,11 @@ While workplace violence can affect anyone, there are certain risk factors that 
 
 Women in particular are vulnerable to domestic violence in the workplace.
 
-They have more than [double the rate of on-the-job homicides](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf){:target="_blank"} than men (19% to 8%), with 32% of the homicides committed by a domestic partner.
+They have more than [double the rate of on-the-job homicides](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf) than men (19% to 8%), with 32% of the homicides committed by a domestic partner.
 
 ### Occupation
 
-While taxi drivers, healthcare workers, and other social work occupations have some of the highest rates of workplace violence, other sectors of employment are seeing an increase in workplace violence, too. The publication Injury Facts 2016 cites the following [workplace violence statistics for 2013](http://www.nsc.org/Membership%20Site%20Document%20Library/2015%20Injury%20Facts/NSC_InjuryFacts2015Ed.pdf){:target="_blank"}:
+While taxi drivers, healthcare workers, and other social work occupations have some of the highest rates of workplace violence, other sectors of employment are seeing an increase in workplace violence, too. The publication Injury Facts 2016 cites the following [workplace violence statistics for 2013](http://www.nsc.org/Membership%20Site%20Document%20Library/2015%20Injury%20Facts/NSC_InjuryFacts2015Ed.pdf):
 
 *  Government: 37,110 injuries, 128 deaths
 *  Education and health services: 22,590 injuries, 35 deaths
@@ -45,7 +45,7 @@ In general, the occupations with the highest risk of workplace violence include 
 
 There is a serious lack of research on the effectiveness of different types of workplace violence prevention training programs.
 
-However, what research exists shows that preventing workplace violence is possible even with a small amount of effort. In one review of literature regarding workplace violence in healthcare, violence decreased simply by implementing a [zero tolerance policy](https://pdfs.semanticscholar.org/7733/f6e7d378ae23690372cde9b8c69484d275de.pdf){:target="_blank"} in the emergency room.
+However, what research exists shows that preventing workplace violence is possible even with a small amount of effort. In one review of literature regarding workplace violence in healthcare, violence decreased simply by implementing a [zero tolerance policy](https://pdfs.semanticscholar.org/7733/f6e7d378ae23690372cde9b8c69484d275de.pdf) in the emergency room.
 
 Your company’s workplace violence prevention may need to go deeper than that, but it is encouraging that even small changes can yield big results.
 
@@ -71,7 +71,7 @@ Let's look at these steps in more detail.
 
 ### 1. Analyze your workplace
 
-A [thorough analysis of your workplace](https://www.osha.gov/Publications/osha3153.pdf){:target="_blank"} is necessary to understand where the bulk of your workplace violence prevention training should focus. Ask yourself these questions to figure out where you are in terms of workplace violence prevention:
+A [thorough analysis of your workplace](https://www.osha.gov/Publications/osha3153.pdf) is necessary to understand where the bulk of your workplace violence prevention training should focus. Ask yourself these questions to figure out where you are in terms of workplace violence prevention:
 
 *  Has there been violence in your workplace before?
 *  When, what kind, and who was involved?
@@ -115,7 +115,7 @@ Training employees to be alert to warning signs of potential workplace violence 
 *  Mood swings and overreaction to criticism or evaluations
 *  Paranoia
 
-It is important to note that workplace violence can be committed by people who are not mentally ill. There exists a tendency to [oversimplify the cause of workplace violence](http://workplacementalhealth.org/Mental-Health-Topics/Violence-in-the-Workplace){:target="_blank"} to mental illness, but in most cases that is not true.
+It is important to note that workplace violence can be committed by people who are not mentally ill. There exists a tendency to [oversimplify the cause of workplace violence](http://workplacementalhealth.org/Mental-Health-Topics/Violence-in-the-Workplace) to mental illness, but in most cases that is not true.
 
 ### 7. Create an action plan, share it with employees, and practice
 

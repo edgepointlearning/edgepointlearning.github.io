@@ -6,7 +6,7 @@ image: blog/2017-05-17-mlearning.jpg
 excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. It uses the advantages of mobile devices to open up huge potentials for training your global workforce. Here's how it works.
 ---
 
-Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/){:target="_blank"}, twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
+Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/), twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
 
 {% asset 'blog/2017-05-17-what-is-mlearning-02.jpg'
   alt='86% of employees use their smartphones at work'
@@ -23,7 +23,7 @@ mLearning, or mobile learning as it's also called, isn't just eLearning that's d
   alt='Twice as many people go online from a mobile device than laptop or computer'
   magick:resize='670' %}
 
-In 2017, 47% of organizations used mobile devices for training, and that number is only increasing. A full [86% of employees](https://blog.capterra.com/mobile-learning-trends-2019/){:target="_blank"} already use their phone at work. The world of mLearning is only going to get bigger. By laying the groundwork now for effective mLearning now, we can guarantee even better opportunities for on-the-job training for our future in-house, on-the-road, and remote employees.
+In 2017, 47% of organizations used mobile devices for training, and that number is only increasing. A full [86% of employees](https://blog.capterra.com/mobile-learning-trends-2019/) already use their phone at work. The world of mLearning is only going to get bigger. By laying the groundwork now for effective mLearning now, we can guarantee even better opportunities for on-the-job training for our future in-house, on-the-road, and remote employees.
 
 ## What's the difference between mLearning and eLearning?
 To understand the difference between mLearning and eLearning, consider an example. Say, you're creating training materials for new pilots.

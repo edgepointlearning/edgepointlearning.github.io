@@ -8,15 +8,15 @@ excerpt: Regardless of industry or size, your employees need training. Here are 
 
 There’s no getting around it: regardless of industry or size, your employees need training. Whether your staff is mostly veterans with years of experience or workers fresh out of high school or college, you need to deliver low cost employee training that helps them hit the mark. Here are ten low- or no-cost employee training options that really work.
 ### 1. LinkedIn Learning 
-No sense in reinventing the wheel, especially when LinkedIn Learning offers tons of [online classes and seminars for free](https://learning.linkedin.com/blog/education/10-free-linkedin-learning-courses-that-ll-make-you-a-better-prof){:target="_blank"}, covering topics that range from [managing conflict](https://www.linkedin.com/learning/fred-kofman-on-managing-conflict/listening-in-a-disarming-way){:target="_blank"} to [learning SEO](https://www.linkedin.com/learning/danny-sullivan-on-seo/welcome-and-introduction){:target="_blank"}. These courses are led by well-known CEOs like Sheryl Sandberg and successful company founders that include Danny Sullivan, co-founder of Search Engine Land and content strategist at Third Door media. 
+No sense in reinventing the wheel, especially when LinkedIn Learning offers tons of [online classes and seminars for free](https://learning.linkedin.com/blog/education/10-free-linkedin-learning-courses-that-ll-make-you-a-better-prof), covering topics that range from [managing conflict](https://www.linkedin.com/learning/fred-kofman-on-managing-conflict/listening-in-a-disarming-way) to [learning SEO](https://www.linkedin.com/learning/danny-sullivan-on-seo/welcome-and-introduction). These courses are led by well-known CEOs like Sheryl Sandberg and successful company founders that include Danny Sullivan, co-founder of Search Engine Land and content strategist at Third Door media. 
 
-[LinkedIn Learning](https://www.linkedin.com/learning/me){:target="_blank"} has over 13,000 courses to choose from, and each one has at least a partially free option. Subscriptions for individuals cost around $30 a month, but you may find that the innovative training ideas presented in many of the courses pay for themselves. LinkedIn can also provide [team pricing options](https://www.linkedin.com/learning/subscription/products){:target="_blank"}.
+[LinkedIn Learning](https://www.linkedin.com/learning/me) has over 13,000 courses to choose from, and each one has at least a partially free option. Subscriptions for individuals cost around $30 a month, but you may find that the innovative training ideas presented in many of the courses pay for themselves. LinkedIn can also provide [team pricing options](https://www.linkedin.com/learning/subscription/products).
 
 ### 2. Mobile mentor coaching 
 
 Mobile mentor coaching may be just what employees need to do their jobs (and stick around). Put simply, mobile mentors are senior employees who agree to be available on demand via text for employees when questions or issue arise. 
 
-Research suggests that [mentoring is especially valuable for diverse employees](http://www.cpahq.org/cpahq/cpadocs/CWP%20Session%201%20Mentoring%20to%20Retain%20and%20Promote%20Employees.pdf){:target="_blank"} entering the workforce, with caveats. 
+Research suggests that [mentoring is especially valuable for diverse employees](http://www.cpahq.org/cpahq/cpadocs/CWP%20Session%201%20Mentoring%20to%20Retain%20and%20Promote%20Employees.pdf) entering the workforce, with caveats. 
 
 * Mentors need to be seniors at the company
 * Mentors and mentees work best when paired using shared values and experiences
@@ -54,15 +54,15 @@ This may mean regularly scheduled meetings every day, once a week, or once a mon
 
 ### 7. Free training materials 
 
-[Free training materials](https://www.opm.gov/WIKI/training/Low-Cost-Training-Options/Print.aspx){:target="_blank"} are everywhere. Vendors, federal training programs, and other online materials can provide training, even if you have a tight (or non-existent) budget. 
+[Free training materials](https://www.opm.gov/WIKI/training/Low-Cost-Training-Options/Print.aspx) are everywhere. Vendors, federal training programs, and other online materials can provide training, even if you have a tight (or non-existent) budget. 
 
 ### 8. Online team trainings 
 
-If your company has [a Slack channel](https://slack.com/){:target="_blank"}, you are already set up to collaborate online!
+If your company has [a Slack channel](https://slack.com/), you are already set up to collaborate online!
 
 Why not use that space to deliver online team trainings and webinars? Slack lets team members lead Q&As, share documents, and otherwise coordinate across the office (or across the globe).
 
-When Slack-ing isn’t an option, there are other ways to deliver affordable employee training online with [free learning management systems](https://blog.capterra.com/top-8-freeopen-source-lmss/){:target="_blank"}. You will still need to design your training, but you’ll be able to save on the delivery and tracking.
+When Slack-ing isn’t an option, there are other ways to deliver affordable employee training online with [free learning management systems](https://blog.capterra.com/top-8-freeopen-source-lmss/). You will still need to design your training, but you’ll be able to save on the delivery and tracking.
 
 ### 9. Identify homegrown experts
 

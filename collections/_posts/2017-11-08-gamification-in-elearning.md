@@ -16,9 +16,9 @@ Gamification is a simple concept that can produce big results. Incorporated into
 *  Game mechanics: Instead of straight facts and data, gamification uses a game-based problem-solving approach
 *  Story: Some games use stories with the user embedded in the plot
 
-Gamification in eLearning can be remarkably effective. A study from the University of Colorado found that users of [gamification of learning scored higher](https://elearningindustry.com/top-gamification-statistics-and-facts-for-2015){:target="_blank"} in fact- and skills-based assessments of learning. Retention also improved when gamification was used in the workplace.
+Gamification in eLearning can be remarkably effective. A study from the University of Colorado found that users of [gamification of learning scored higher](https://elearningindustry.com/top-gamification-statistics-and-facts-for-2015) in fact- and skills-based assessments of learning. Retention also improved when gamification was used in the workplace.
 
-In the future, [virtual reality (VR) and augmented reality (AR)](/blog/future-of-augmented-reality/){:target="_blank"} may also become a regular part of gamification in business. These two types of gamification put the user in an entirely different place (VR) or augment their surroundings (AR) to offer just-in-time training simulations and problem-solving situations. These formats let you place users in high-stakes situations for training purposes, without worrying about their safety.
+In the future, [virtual reality (VR) and augmented reality (AR)](/blog/future-of-augmented-reality/) may also become a regular part of gamification in business. These two types of gamification put the user in an entirely different place (VR) or augment their surroundings (AR) to offer just-in-time training simulations and problem-solving situations. These formats let you place users in high-stakes situations for training purposes, without worrying about their safety.
 
 ## How does gamification in eLearning work?
 
@@ -82,15 +82,15 @@ Is everyone participating? Gamification in the workplace is only as effective as
 
 Pilots famously use simulations to land a virtual plane before taking on the real thing, but there are plenty of other examples in business.
 
-### [Cisco](http://www.gamification.co/2014/02/05/cisco-drives-social-media-training-gamification/){:target="_blank"}
+### [Cisco](http://www.gamification.co/2014/02/05/cisco-drives-social-media-training-gamification/)
 
 Cisco wanted their employees to become better at social media, but the 46 courses already in existence were confusing and had no set starting point. Gamification allowed different levels of employees to participate in team challenges and earn certification in three levels of social media certification.
 
-### [Deloitte](https://hbr.org/2013/01/how-deloitte-made-learning-a-g){:target="_blank"}
+### [Deloitte](https://hbr.org/2013/01/how-deloitte-made-learning-a-g)
 
 When executives were hesitant to start leadership training, Deloitte gamified their approach and offered badges and certifications to motivate upper level management. Training engagement and completion both increased by over 50%.
 
-These two examples are only a glimpse into [gamification in business](https://www.clicksoftware.com/blog/top-25-best-examples-of-gamification-in-business/){:target="_blank"}.
+These two examples are only a glimpse into [gamification in business](https://www.clicksoftware.com/blog/top-25-best-examples-of-gamification-in-business/).
 
 ## Are there disadvantages of gamification?
 

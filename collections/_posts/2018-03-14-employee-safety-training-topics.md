@@ -28,7 +28,7 @@ Maybe your employees work in a cushy office with windows that don’t open and c
 
 While it’s true that the risks of injury while working in an office are dwarfed when compared to those working on an oil rig or a construction site, ergonomic workplace injuries can cost your company real money in workman’s compensation claims and loss of productivity.
 
-OSHA estimates that ergonomic injuries have a total [annual cost between 45 and 50 billion dollars](https://www.osha.gov/news/testimonies/04272000){:target="_blank"} per year, with direct costs being approximately half of those numbers. They also estimate the per-person actual direct costs of [the most common ergonomic injuries](https://www.bls.gov/news.release/archives/osh2_11262013.pdf){:target="_blank"}, including:
+OSHA estimates that ergonomic injuries have a total [annual cost between 45 and 50 billion dollars](https://www.osha.gov/news/testimonies/04272000) per year, with direct costs being approximately half of those numbers. They also estimate the per-person actual direct costs of [the most common ergonomic injuries](https://www.bls.gov/news.release/archives/osh2_11262013.pdf), including:
 
 *  Carpal tunnel syndrome: $28,657
 *  Sprain: $28,338
@@ -38,7 +38,7 @@ OSHA estimates that ergonomic injuries have a total [annual cost between 45 and 
 
 The Bureau of Labor Statistics estimated that these five conditions made up 34% of all workplace injuries in 2012. Ergonomic workplace safety training, although not fancy or exciting, may be the best investment your company makes.
 
-Teach employees how to lift, sit, and move throughout their day so you can be rewarded with fewer sick days, lowered healthcare costs, and happier employees. Find our full guide on creating [effective ergonomics training here](/blog/ergonomics-training/){:target="_blank"}.
+Teach employees how to lift, sit, and move throughout their day so you can be rewarded with fewer sick days, lowered healthcare costs, and happier employees. Find our full guide on creating [effective ergonomics training here](/blog/ergonomics-training/).
 
 {% asset 'blog/2018-03-14-employee-safety-training-topics01.jpg'
   alt='Ergonomic injuries costs $50 billion annually'
@@ -46,7 +46,7 @@ Teach employees how to lift, sit, and move throughout their day so you can be re
 
 ### 2. Fire safety
 
-We take for granted that our adult employees understand [fire safety](https://www.osha.gov/SLTC/firesafety/standards.html){:target="_blank"}, but it’s an important (and OSHA-required) part of every industry. 
+We take for granted that our adult employees understand [fire safety](https://www.osha.gov/SLTC/firesafety/standards.html), but it’s an important (and OSHA-required) part of every industry. 
 
 New employee safety training must cover employee egress in event of a fire. Many employers do not want employees fighting fires, but your employers do know how to stay safe and report an incident. Some industries may also train employees in the use of fire extinguishers.
 
@@ -58,9 +58,9 @@ The Federal Bureau of Investigation estimates that approximately two million peo
   alt='74% of domestic violence victims are harassed or attacked at work'
   magick:resize='1170' @pic %}
 
-The statistics on domestic violence that seeps into the workplace are sobering as well. Women in the workplace are overwhelmingly the target of this type of workplace violence. A study of domestic violence survivors found that fully 74% of them were [harassed or attacked in the workplace](https://police.ucsf.edu/system/files/domesticviolenceworkplace.pdf){:target="_blank"}. OSHA identifies [homicide as the leading cause of death for women at work](https://thinkprogress.org/why-are-so-many-women-being-murdered-at-work-fb16cec07115/){:target="_blank"}.
+The statistics on domestic violence that seeps into the workplace are sobering as well. Women in the workplace are overwhelmingly the target of this type of workplace violence. A study of domestic violence survivors found that fully 74% of them were [harassed or attacked in the workplace](https://police.ucsf.edu/system/files/domesticviolenceworkplace.pdf). OSHA identifies [homicide as the leading cause of death for women at work](https://thinkprogress.org/why-are-so-many-women-being-murdered-at-work-fb16cec07115/).
 
-Employee safety training must include strategies for workplace violence prevention, including recognizing the risk factors and signs of potential workplace and domestic violence that spreads to the workplace. This can literally save your employees’ life. Find our full guide for developing [violence prevention training here](/blog/workplace-violence-prevention/){:target="_blank"}. 
+Employee safety training must include strategies for workplace violence prevention, including recognizing the risk factors and signs of potential workplace and domestic violence that spreads to the workplace. This can literally save your employees’ life. Find our full guide for developing [violence prevention training here](/blog/workplace-violence-prevention/). 
 
 ### 4. Employee health resources
 
@@ -68,7 +68,7 @@ Of all the safety topics for office workers, clearly outlining available employe
 
 It used to be that employee resources consisted of a few pamphlets in the HR department about mental health and substance abuse, with maybe a brief training on being healthy. These days, employers are recognizing the importance of supporting employees in all of the challenges they face, both on and off the job.
 
-If your company has an outstanding mental health support policy, share it with them. Maybe you offer incentives for exercise or include employees in physical fundraising challenges like Race for the Cure. Make these benefits a part of your recruitment strategy and your employees will recognize you as a company that cares. Employees who feel valued will work harder, stay longer, and be more productive for your company. Learn more in our [mental health training guide](/blog/mental-health-training/){:target="_blank"}.
+If your company has an outstanding mental health support policy, share it with them. Maybe you offer incentives for exercise or include employees in physical fundraising challenges like Race for the Cure. Make these benefits a part of your recruitment strategy and your employees will recognize you as a company that cares. Employees who feel valued will work harder, stay longer, and be more productive for your company. Learn more in our [mental health training guide](/blog/mental-health-training/).
 
 ### 5. Environmental safety
 
@@ -92,22 +92,22 @@ Safe use of job-specific equipment is a must, even if employees come to your com
 
 This aspect is particularly dependent on the industry you're in. Make sure to account for every piece of machinery or equipment your employees will come into contact with. Fully cover any personal protective equipment they should use when working in dangerous areas or with special equipment. 
 
-### 7. Online safety and [cyber security](/blog/cyber-security-training/){:target="_blank"}
+### 7. Online safety and [cyber security](/blog/cyber-security-training/)
 
 Cybersecurity is a vital part of our modern safety training programs. 
 {: .fancy-text }
 
 So much of our worklives occur online today. While health and safety topics don't usually cover cybersecurity, it's a critical portion of your training programs. 
 
-Online safety training protects your employees, your customers, and your company by making sure employees are all following best practices when it comes to being online. This includes following any [HIPAA guidelines](/blog/hipaa-compliance-training/){:target="_blank"} for protecting sensitive health information, but also covers things like standardized passwords and two-step verification procedures.
+Online safety training protects your employees, your customers, and your company by making sure employees are all following best practices when it comes to being online. This includes following any [HIPAA guidelines](/blog/hipaa-compliance-training/) for protecting sensitive health information, but also covers things like standardized passwords and two-step verification procedures.
 
 ## Learn more safety topics
 While these are some general health and safety topics your training should cover, there are additional industry-specific and location-specific training your employees will need.
 
 Find longer, comprehensive lists of workplace safety topics at the following websites: 
-* [OSHA](https://www.osha.gov/SLTC/text_index.html){:target="_blank"}
-* [National Safety Council](https://www.nsc.org/work-safety/safety-topics){:target="_blank"}
-* [CDC](https://www.cdc.gov/niosh/topics/default.html){:target="_blank"}
+* [OSHA](https://www.osha.gov/SLTC/text_index.html)
+* [National Safety Council](https://www.nsc.org/work-safety/safety-topics)
+* [CDC](https://www.cdc.gov/niosh/topics/default.html)
 
 ## How to create effective workplace safety training programs
 
@@ -119,8 +119,8 @@ Your workplace safety training is only as good as the materials you use and your
 
 *  <strong>Hold everyone accountable:</strong> From upper level managers and company owners to interns, all employees must be held accountable to the same safety standards. Modeling safety from the top sets the tone for the company.
 
-*  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](/blog/microlearning/){:target="_blank"} resources into your program, or create [geofenced resources](/blog/geofencing/){:target="_blank"} that employees can use when on a particular site.
+*  <strong>Be mobile and adaptive:</strong> Five-hundred page safety manuals no one reads aren’t the standard of business anymore. You need safety trainings that are mobile, agile, and useful on-site. Consider incorporating on-the-job [microlearning](/blog/microlearning/) resources into your program, or create [geofenced resources](/blog/geofencing/) that employees can use when on a particular site.
 
-<strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help! We've developed an innovative library of on-demand or fully-custom safety training materials for modern companies. Find examples of our work in our ["Safe Lifting" demos](/form/demo/){:target="_blank"} or [get in touch](/contact/){:target="_blank"} to see how we can help you meet your safety goals!</strong>
+<strong>Need help tailoring your safety training to your company’s needs? EdgePoint Learning can help! We've developed an innovative library of on-demand or fully-custom safety training materials for modern companies. Find examples of our work in our ["Safe Lifting" demos](/form/demo/) or [get in touch](/contact/) to see how we can help you meet your safety goals!</strong>
 
 [Contact Us](/contact/ ){:class="button"}

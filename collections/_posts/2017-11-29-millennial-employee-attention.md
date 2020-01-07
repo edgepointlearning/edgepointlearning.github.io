@@ -18,7 +18,7 @@ Millennials may seem like they are more play than work, but that’s just not th
 
 Beyond financial gain, millennials want to feel like what they do matters.
 
-A white paper by the Center for Generational Kinetics noted that 60% of millennials chose their work because they felt they [made a difference](http://bestplacestoworkmillennials.com/UserFiles/File/Unlocking%20Millennial%20Talent%202015.pdf){:target="_blank"}.
+A white paper by the Center for Generational Kinetics noted that 60% of millennials chose their work because they felt they [made a difference](http://bestplacestoworkmillennials.com/UserFiles/File/Unlocking%20Millennial%20Talent%202015.pdf).
 
 ### They want technologically-savvy workplaces
 
@@ -29,8 +29,8 @@ This generation of digital natives isn’t satisfied with basic internet surfing
 *  Video, on-demand and interactive
 *  Blogs
 *  Virtual and augmented reality
-*  [Mobile learning](/blog/what-is-mlearning/){:target="_blank"}
-*  [Microlearning](/blog/types-of-microlearning/){:target="_blank"}
+*  [Mobile learning](/blog/what-is-mlearning/)
+*  [Microlearning](/blog/types-of-microlearning/)
 
 ### Not your parent’s science project: Millennial employees expect group work
 
@@ -44,7 +44,7 @@ This is not a generation that wants to go to work, put in their 40 hours a week,
 
 These criteria may seem at odds with the traditional corporate structure, and, to a large extent, they are. The fact remains that this young workforce will shape the way in which businesses operate, and it’s important to meet them where they are. Besides, who wouldn't want a more flexible, balanced, rewarding, and fun work life?
 
-Companies like Apple and Google have a large and mobile [millennial workforce](https://www.pwc.com/m1/en/services/consulting/documents/millennials-at-work.pdf){:target="_blank"} that is already changing their corporate culture [(naps, free haircuts, and data-based decision making, anyone?)](https://blog.kissmetrics.com/googles-culture-of-success/){:target="_blank"}, resulting in more [productive and profitable](https://www.fastcompany.com/3068771/how-employees-at-apple-and-google-are-more-productive){:target="_blank"} organizations.
+Companies like Apple and Google have a large and mobile [millennial workforce](https://www.pwc.com/m1/en/services/consulting/documents/millennials-at-work.pdf) that is already changing their corporate culture [(naps, free haircuts, and data-based decision making, anyone?)](https://blog.kissmetrics.com/googles-culture-of-success/), resulting in more [productive and profitable](https://www.fastcompany.com/3068771/how-employees-at-apple-and-google-are-more-productive) organizations.
 
 ## 8 tips for capturing millennial attention
 
@@ -105,4 +105,4 @@ Properly trained mentors can also help bridge the gap between generations in a c
 [Contact Us](/contact/ ){:class="button"}
 
 
-This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/capturing-millennial-employee-attention-microdistilleries-microlearning-8-ways){:target="_blank"} on November 17, 2017.
+This article was originally published on [eLearningIndustry.com](https://elearningindustry.com/capturing-millennial-employee-attention-microdistilleries-microlearning-8-ways) on November 17, 2017.

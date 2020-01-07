@@ -10,7 +10,7 @@ Imagine a workplace where employees feel valued and grounded. They know that the
 
 ## What is emotional intelligence and how can it be used in the workplace?
 
-Psychology Today defines [emotional intelligence](https://www.psychologytoday.com/us/basics/emotional-intelligence){:target="_blank"} as the ability to manage not only your own emotions but also the emotions of others. This includes three separate skills:
+Psychology Today defines [emotional intelligence](https://www.psychologytoday.com/us/basics/emotional-intelligence) as the ability to manage not only your own emotions but also the emotions of others. This includes three separate skills:
 
 * Identifying and naming emotions
 * Applying emotions to problem solving when necessary
@@ -20,15 +20,15 @@ These emotional intelligence skills can come into play in virtually every indust
 
 In other settings, such as on a jobsite, emotional intelligence can help employees identify the real underlying issues when they are working, rather than being swept away by anger or frustration. It can also be especially beneficial for teachers and your front-line managers.
 
-Emotional intelligence in the workplace is one of a number of [soft skills](/blog/train-for-soft-skills/){:target="_blank"} that make employees better at their jobs (and more satisfied in them!).
+Emotional intelligence in the workplace is one of a number of [soft skills](/blog/train-for-soft-skills/) that make employees better at their jobs (and more satisfied in them!).
 
 ## What are the benefits of emotional intelligence in the workplace?
 
-By 2025, [75% of the workforce will be millennials](http://www.hartfordbusiness.com/article/20140818/PRINTEDITION/140819969/millennials-to-take-over-by-2025){:target="_blank"}. These employees are tech savvy, appreciate socially aware companies, and are focused on mindfulness in their employment. Millennials are looking for a company that values them. They want to know that their employers are emotionally intelligent enough to help them grow not just as employees but also as people.
+By 2025, [75% of the workforce will be millennials](http://www.hartfordbusiness.com/article/20140818/PRINTEDITION/140819969/millennials-to-take-over-by-2025). These employees are tech savvy, appreciate socially aware companies, and are focused on mindfulness in their employment. Millennials are looking for a company that values them. They want to know that their employers are emotionally intelligent enough to help them grow not just as employees but also as people.
 
 As an employer, you want that, too.
 
-[Emotionally intelligent people with average IQs outperform](https://www.inc.com/travis-bradberry/why-you-need-emotional-intelligence-to-succeed.html){:target="_blank"} people with exceptional IQs 70% of the time. Why? Because emotionally intelligent employees have a high dose of two important skills: personal competence and social competence.
+[Emotionally intelligent people with average IQs outperform](https://www.inc.com/travis-bradberry/why-you-need-emotional-intelligence-to-succeed.html) people with exceptional IQs 70% of the time. Why? Because emotionally intelligent employees have a high dose of two important skills: personal competence and social competence.
 
 {% asset 'blog/2019-03-13-emotional-intelligence-training-for-employees01.svg'
   alt='Emotionally intelligent people with average IQs outperform those with exceptional IQs 70% of the time' %}
@@ -38,7 +38,7 @@ Personally competent employees do not go off the rails whenever something disapp
 
 Indeed, these same employees also demonstrate a higher level of social competence. They are able to “read the room” for better communication and understanding. They know how to manage this information to successfully interact with people from all walks of life (and in every kind of mood).
 
-Emotional intelligence skills are difficult to measure and challenging to teach, but it can be done. The [benefits of emotional intelligence](http://www.talentsmart.com/){:target="_blank"} in the workplace may include:
+Emotional intelligence skills are difficult to measure and challenging to teach, but it can be done. The [benefits of emotional intelligence](http://www.talentsmart.com/) in the workplace may include:
 
 * <strong>Financial gain for employees:</strong> People with well-developed emotional intelligence may earn up to nearly $30,000 more a year than those without them
 * <strong>Personal accomplishment:</strong> 58% of your job success is based on EI (emotional intelligence)
@@ -60,7 +60,7 @@ No one wants to hear that they are not emotionally intelligent, so there is skil
 
 Perhaps more than any other type training, you need executive endorsement from the very beginning. Help the folks in charge understand why emotionally intelligent employees are the best kind.
 
-Give them the stats on the [benefits of emotional intelligence in the workplace](https://www.extension.harvard.edu/professional-development/blog/emotional-intelligence-no-soft-skill){:target="_blank"}, and lay out your plan for success.
+Give them the stats on the [benefits of emotional intelligence in the workplace](https://www.extension.harvard.edu/professional-development/blog/emotional-intelligence-no-soft-skill), and lay out your plan for success.
 
 ### 2. Measure current emotional intelligence
 
@@ -68,23 +68,23 @@ Every good emotional intelligence training for employees begins with an understa
 
 These include:
 
-* [MSCEIT](http://www.eiconsortium.org/measures/msceit.html){:target="_blank"}: This test measures emotional intelligence in the same way an IQ test measures cognitive intelligence
-* [EQ-i](http://www.eiconsortium.org/measures/eqi.html){:target="_blank"}: The EQ-i looks at present emotional intelligence traits 
-* [ESCI](http://www.eiconsortium.org/measures/eci_360.html){:target="_blank"}: Based on competency, an employee’s score will differ on their experience
-* [Genos](http://www.eiconsortium.org/measures/genos.html){:target="_blank"}: This behavioral test measures how often an employee demonstrates emotionally intelligent behavior
+* [MSCEIT](http://www.eiconsortium.org/measures/msceit.html): This test measures emotional intelligence in the same way an IQ test measures cognitive intelligence
+* [EQ-i](http://www.eiconsortium.org/measures/eqi.html): The EQ-i looks at present emotional intelligence traits 
+* [ESCI](http://www.eiconsortium.org/measures/eci_360.html): Based on competency, an employee’s score will differ on their experience
+* [Genos](http://www.eiconsortium.org/measures/genos.html): This behavioral test measures how often an employee demonstrates emotionally intelligent behavior
 
-It’s not necessary to administer four tests to begin. The [MSCEIT](https://www.mhs.com/MHS-Talent?prodname=msceit){:target="_blank"} is a good place to start and can give you an overall understanding of your employees’ emotional intelligence skills. Because emotional intelligence can be learned, it's important to identify a baseline so you can measure progress going forward.
+It’s not necessary to administer four tests to begin. The [MSCEIT](https://www.mhs.com/MHS-Talent?prodname=msceit) is a good place to start and can give you an overall understanding of your employees’ emotional intelligence skills. Because emotional intelligence can be learned, it's important to identify a baseline so you can measure progress going forward.
 
 ### 3. Design your comprehensive training
 
-Emotional intelligence training for employees must include the following [four domains](http://www.eiconsortium.org/pdf/an_ei_based_theory_of_performance.pdf){:target="_blank"} of development:
+Emotional intelligence training for employees must include the following [four domains](http://www.eiconsortium.org/pdf/an_ei_based_theory_of_performance.pdf) of development:
 
 1. Self-awareness
 2. Self-management
 3. Social awareness
 4. Relationship management
 
-These can be trained most effectively through experiences and interactions. Simple things like selecting a company-wide [book on emotional intelligence](https://bookriot.com/2019/01/28/books-on-emotional-intelligence){:target="_blank"} and holding discussion groups or giving employees regular time to volunteer can help develop all four domains.
+These can be trained most effectively through experiences and interactions. Simple things like selecting a company-wide [book on emotional intelligence](https://bookriot.com/2019/01/28/books-on-emotional-intelligence) and holding discussion groups or giving employees regular time to volunteer can help develop all four domains.
 
 Other idea for developing emotional intelligence skills include:
 
@@ -93,11 +93,11 @@ Other idea for developing emotional intelligence skills include:
 * Developing team-building activities that foster empathy and promote better understanding of others
 * Developing a shared work culture that is diverse, inclusive, and supportive
 * Updating your workplace to create space for collaboration and a warmer, more comfortable environment
-* Helping employees understand (and implement) [their best work style](https://hbr.org/2017/05/do-you-know-how-each-person-on-your-team-likes-to-work){:target="_blank"}
+* Helping employees understand (and implement) [their best work style](https://hbr.org/2017/05/do-you-know-how-each-person-on-your-team-likes-to-work)
 
-Trainings can also include online check-ins or [microlearning modules](/blog/types-of-microlearning/){:target="_blank"} that include questions to think about or reminders to reflect on what is happening right at that moment.
+Trainings can also include online check-ins or [microlearning modules](/blog/types-of-microlearning/) that include questions to think about or reminders to reflect on what is happening right at that moment.
 
-Even a push notification that tells employees to do a quick ten-second scan of their emotional landscape and frame of mind can improve emotional intelligence skills. A good variety of [TED talks](https://www.inc.com/justin-bariso/5-more-brilliant-ted-talks-that-will-boost-your-emotional-intelligence.html){:target="_blank"} on emotional intelligence can also be part of your training.
+Even a push notification that tells employees to do a quick ten-second scan of their emotional landscape and frame of mind can improve emotional intelligence skills. A good variety of [TED talks](https://www.inc.com/justin-bariso/5-more-brilliant-ted-talks-that-will-boost-your-emotional-intelligence.html) on emotional intelligence can also be part of your training.
 
 ### 4. Evaluate your training
 

@@ -10,13 +10,13 @@ redirect_from:
 
 ---
 
-Do you need to teach your employees about [new software or processes](/blog/how-to-train-employees-on-new-system/){:target="_blank"}? Would an eLearning course make your life much easier when it came to [onboarding new employees](/blog/how-to-train-new-employees/){:target="_blank"}? You can create a custom eLearning course, specifically made to meet your training needs. We lay out the six steps every successful eLearning project follows and then share 25 of our favorite free eLearning authoring tools for graphics, audio, video, and more that you can use today to make your course a reality. Read on to find all of our tips and tools. 
+Do you need to teach your employees about [new software or processes](/blog/how-to-train-employees-on-new-system/)? Would an eLearning course make your life much easier when it came to [onboarding new employees](/blog/how-to-train-new-employees/)? You can create a custom eLearning course, specifically made to meet your training needs. We lay out the six steps every successful eLearning project follows and then share 25 of our favorite free eLearning authoring tools for graphics, audio, video, and more that you can use today to make your course a reality. Read on to find all of our tips and tools. 
 
 ## How to create an eLearning course
 Before we get to the free tools, if you're ready to create eLearning content for your team, there are a few basic steps any project will follow.
 
 ### Step 1: Establish the why of your project
-Simply put, what's the purpose of your training? Who's taking it? More importantly, why are they taking it? During this step, you'll want to define your [requirements and expectations](/blog/training-needs-analysis/){:target="_blank"} for the course.
+Simply put, what's the purpose of your training? Who's taking it? More importantly, why are they taking it? During this step, you'll want to define your [requirements and expectations](/blog/training-needs-analysis/) for the course.
 
 ### Step 2: Gather your current materials
 Pull together all your existing source material for the project, including:
@@ -48,7 +48,7 @@ Record any audio portions. Create graphics. Use screen capture software to creat
 And then, bring those items together. Some free software programs can help you bring all your disparate elements into one cohesive course.
 After this step, you'll also send your new course out to SMEs or other company stakeholders to review, suggest any changes, and ultimately approve. 
 
-Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/){:target="_blank"}.
+Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/).
 
 {% asset 'blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.jpg'
   alt='How to create an eLearning course infographic'
@@ -71,59 +71,59 @@ Depicting that visually can be difficult, but there are free eLearning tools tha
 ### Free graphics programs and resources
 Creating beautiful charts, infographics, or visuals online is easier to do every day, even for people who have no previous design experience. Some of the best free graphics tools include:
 
-+  [Canva](https://www.canva.com/){:target="_blank"}: Create collages, charts, marketing promotions, or infographics with their easy-to-use software
-+  [Easel.ly](https://www.easel.ly){:target="_blank"}: Design and share visual infographics online
-+  [Gliffy](https://www.gliffy.com/){:target="_blank"}: Create up to five public diagrams, flowcharts, or org charts a month for free
-+  [Google Charts](https://developers.google.com/chart){:target="_blank"}: Turn your data into powerful charts and graphs
-+  [Piktochart](https://piktochart.com){:target="_blank"}: Use premade templates and design elements to create your own infographic
-+  [Pixlr](https://pixlr.com){:target="_blank"}: Allows you to edit any photos or graphics for free
-+  [Venngage](https://venngage.com){:target="_blank"}: Present your data through infographics
-+  [Wordle](http://www.wordle.net/create){:target="_blank"}: Create word clouds to illustrate different themes or idea clusters
-+  [Unsplash](https://unsplash.com/){:target="_blank"}: Find beautiful freely useable images
++  [Canva](https://www.canva.com/): Create collages, charts, marketing promotions, or infographics with their easy-to-use software
++  [Easel.ly](https://www.easel.ly): Design and share visual infographics online
++  [Gliffy](https://www.gliffy.com/): Create up to five public diagrams, flowcharts, or org charts a month for free
++  [Google Charts](https://developers.google.com/chart): Turn your data into powerful charts and graphs
++  [Piktochart](https://piktochart.com): Use premade templates and design elements to create your own infographic
++  [Pixlr](https://pixlr.com): Allows you to edit any photos or graphics for free
++  [Venngage](https://venngage.com): Present your data through infographics
++  [Wordle](http://www.wordle.net/create): Create word clouds to illustrate different themes or idea clusters
++  [Unsplash](https://unsplash.com/): Find beautiful freely useable images
 
 ### Free audio software tools
 Free audio tools allow you to record segments, and then edit, mix, and download them to use in your custom eLearning course. They include:
 
-+  [Ardour](http://ardour.org/){:target="_blank"}: Record, edit, and mix your audio files on all Mac or PC devices
-+  [Audacity](http://www.audacityteam.org/){:target="_blank"}: Fantastic open-source, cross-platform recording and editing software
-+  [Voki](http://www.voki.com/){:target="_blank"}: Introduce speaking characters into your presentations, with customizable avatars
-+  [vozMe](http://vozme.com/index.php){:target="_blank"}: Turn written text into downloadable spoken mp3s
++  [Ardour](http://ardour.org/): Record, edit, and mix your audio files on all Mac or PC devices
++  [Audacity](http://www.audacityteam.org/): Fantastic open-source, cross-platform recording and editing software
++  [Voki](http://www.voki.com/): Introduce speaking characters into your presentations, with customizable avatars
++  [vozMe](http://vozme.com/index.php): Turn written text into downloadable spoken mp3s
 
 ### Free animation and video tools for eLearning
 Whether you need to animate steps for using a new software or want to use animations to make your custom eLearning course more powerful, free animation and video software is available. Some of our favorites include:
 
-+  [Camtasia](https://www.techsmith.com/camtasia.html){:target="_blank"}: Use their drag-and-drop video editing software to finish your videos, or add in special effects, music, or motion graphics
-+  [Screencast-O-Matic](http://screencast-o-matic.com/){:target="_blank"}: Allows you to record up to 15 minutes of on-screen activities for short tutorials or presentations
-+  [Snagit](https://www.techsmith.com/screen-capture.html){:target="_blank"}: Create and edit screenshots or video, or turn them into animated GIFs
++  [Camtasia](https://www.techsmith.com/camtasia.html): Use their drag-and-drop video editing software to finish your videos, or add in special effects, music, or motion graphics
++  [Screencast-O-Matic](http://screencast-o-matic.com/): Allows you to record up to 15 minutes of on-screen activities for short tutorials or presentations
++  [Snagit](https://www.techsmith.com/screen-capture.html): Create and edit screenshots or video, or turn them into animated GIFs
 
 ### Tools to create eLearning interactions and assessments
 Surveys, polls, quizzes, and other assessment tools can help you ensure student learning during your course. Great options for getting started include:
 
-+  [Easy Test Maker](http://www.easytestmaker.com/){:target="_blank"}: Create multiple-choice, fill-in-the-blank, true-or-false, or short answer test questions
-+  [formsite](https://www.formsite.com){:target="_blank"}: Over 100 customizable templates and 40 question types to create surveys, quizzes, and forms
-+  [Google Forms](https://www.google.com/forms/about/){:target="_blank"}: Allows you to create a survey with a simple online form with results directly organized into a spreadsheet
-+  [SurveyMonkey](https://www.surveymonkey.com){:target="_blank"}: The world's leading survey platform, with an easy-to-use interface
++  [Easy Test Maker](http://www.easytestmaker.com/): Create multiple-choice, fill-in-the-blank, true-or-false, or short answer test questions
++  [formsite](https://www.formsite.com): Over 100 customizable templates and 40 question types to create surveys, quizzes, and forms
++  [Google Forms](https://www.google.com/forms/about/): Allows you to create a survey with a simple online form with results directly organized into a spreadsheet
++  [SurveyMonkey](https://www.surveymonkey.com): The world's leading survey platform, with an easy-to-use interface
 
 ### Free eLearning authoring tools
 A few leading authoring tools provide free options for creating your own custom eLearning course. Many provide all the tools you need to create screens, add graphics or video, include interactions, and ultimately compile your course.
 
-+  [iSpring](https://www.ispringsolutions.com/ispring-free){:target="_blank"}: Take your current PowerPoint presentations, add quizzes, and publish directly to your LMS or other content management system
-+  [Easygenerator](https://www.easygenerator.com){:target="_blank"}: Their free option allows you to create up to ten courses, with pre-packaged interactions and cloud publishing
-+  [SmartBuilder](http://www.smartbuilder.com/){:target="_blank"}: Create Flash eLearning courses within their easy-to-use interface
-+  [Udutu](http://www.udutu.com/){:target="_blank"}: Access templates, assessments, interactions, and SCORM conversion options on their free eLearning platform
-+  [LCDS by Microsoft](https://www.microsoft.com/en-us/learning/lcds-tool.aspx#tab1){:target="_blank"}: Create high-quality, interactive, online courses and Microsoft Silverlight Learning Snacks
++  [iSpring](https://www.ispringsolutions.com/ispring-free): Take your current PowerPoint presentations, add quizzes, and publish directly to your LMS or other content management system
++  [Easygenerator](https://www.easygenerator.com): Their free option allows you to create up to ten courses, with pre-packaged interactions and cloud publishing
++  [SmartBuilder](http://www.smartbuilder.com/): Create Flash eLearning courses within their easy-to-use interface
++  [Udutu](http://www.udutu.com/): Access templates, assessments, interactions, and SCORM conversion options on their free eLearning platform
++  [LCDS by Microsoft](https://www.microsoft.com/en-us/learning/lcds-tool.aspx#tab1): Create high-quality, interactive, online courses and Microsoft Silverlight Learning Snacks
 
-If you want to pay extra for more advanced features, [Articulate 360](https://articulate.com/360){:target="_blank"} and [Adobe Captivate](https://www.adobe.com/products/captivate.html){:target="_blank"} are among the industry-leading authoring tools.
+If you want to pay extra for more advanced features, [Articulate 360](https://articulate.com/360) and [Adobe Captivate](https://www.adobe.com/products/captivate.html) are among the industry-leading authoring tools.
 
 ## Get help with your employee training
 
 For some, DIYing your own eLearning course won't be worth the time or effort. Or, you may want an expert to jump on board to help you create a large-scale strategy or pick up certain development tasks. At EdgePoint Learning, we know that creating effective and remarkable eLearning programs takes work. We offer a variety of options to help you with your development tasks, including: 
 
-* [Full custom development](/custom-elearning-course-development/){:target="_blank"}: From instructional design to voice or video talent to final roll-out, we handle it all
-* [Co-development](/co-development-services/){:target="_blank"}: We empower you to get much-needed learning solutions out to your workforce by having our staff work as an extension of your team, providing the skills or extra set of hands you need to complete projects faster
-* [Consulting](/elearning-consulting-services/){:target="_blank"}: From designing one stand-alone module to a complete overhaul of your company’s approach to employee training, we can help
-* [Technology assistance](/delivery-technology/){:target="_blank"}: Whether you need training, performance support, or new technology to reach your employees, our technology partners can help you meet all of your training goals
+* [Full custom development](/custom-elearning-course-development/): From instructional design to voice or video talent to final roll-out, we handle it all
+* [Co-development](/co-development-services/): We empower you to get much-needed learning solutions out to your workforce by having our staff work as an extension of your team, providing the skills or extra set of hands you need to complete projects faster
+* [Consulting](/elearning-consulting-services/): From designing one stand-alone module to a complete overhaul of your company’s approach to employee training, we can help
+* [Technology assistance](/delivery-technology/): Whether you need training, performance support, or new technology to reach your employees, our technology partners can help you meet all of your training goals
 
-<strong>If you need help with any part of your employee training, get in touch with our team at [EdgePoint Learning to get started today](/contact/){:target="_blank"}. Want to see our work in action? [Find all of our demos here](/form/demo/){:target="_blank"}.</strong>
+<strong>If you need help with any part of your employee training, get in touch with our team at [EdgePoint Learning to get started today](/contact/). Want to see our work in action? [Find all of our demos here](/form/demo/).</strong>
 
 [Contact Us](/contact/ ){:class="button"}
