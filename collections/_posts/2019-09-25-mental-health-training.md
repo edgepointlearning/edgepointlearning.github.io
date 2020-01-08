@@ -41,8 +41,7 @@ Consider the following [statistics on mental health](https://www.nami.org/learn-
 * Of all of the people experiencing a mental health disorder in a given year, only 41% receive any kind of help.
 
 {% asset 'blog/2019-09-25-mental-health-training01.svg'
-  alt='46% of adults experience mental illness Only 41% receive help' %}
-{: .wideImage }
+  alt='46% of adults experience mental illness Only 41% receive help' @inline %}
 
 Chances are good that almost half of your employees are experiencing some mental distress, with fewer than half of them getting help. Mental health training is a great interventional tool to help employees spot the warning signs—in themselves and in their clients, patients, or customers—so they get the help they need.
 
@@ -65,8 +64,7 @@ The rate of suicide is rising, with the World Health Organization predicting a r
 Suicide intervention and prevention training helps employees recognize when other employees or clients are in trouble and gives them tools to help.
 
 {% asset 'blog/2019-09-25-mental-health-training02.svg'
-  alt='There is one death by suicide every 20 seconds.' %}
-{: .wideImage }
+  alt='There is one death by suicide every 20 seconds.' @inline %}
 
 ### Addiction
 

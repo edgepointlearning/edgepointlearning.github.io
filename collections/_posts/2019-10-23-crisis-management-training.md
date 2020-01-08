@@ -28,8 +28,7 @@ In schools, healthcare facilities, and other public-facing industries where vuln
 A 2015 report from the Federal Emergency Management Agency (FEMA) found that 60% of adults had [not practiced an emergency drill](https://www.fema.gov/news-release/2015/04/28/sixty-percent-americans-not-practicing-disaster-fema-urges-everyone-prepare), despite the fact that 80% of people live in counties that have experienced a natural disaster since 2007.
 
 {% asset 'blog/2019-010-23-crisis-management-training01.svg'
-  alt='60% of adults do not practice emergency drills' %}
-{: .wideImage }
+  alt='60% of adults do not practice emergency drills' @inline %}
 
 The goal in understanding the importance of crisis management training is not to scare or concern your employees. Although there is evidence that the level of danger in the workplace is rising, some of it has more to do with the fact that [we spend a third of our lives at work](https://www.gettysburg.edu/news/stories?id=79db7b34-630c-4f49-ad32-4ab9ea48e72b&pageTitle=1%2F3+of+your+life+is+spent+at+work). And when we are in the workplace, we may be in charge of vulnerable people who cannot care for themselves.
 

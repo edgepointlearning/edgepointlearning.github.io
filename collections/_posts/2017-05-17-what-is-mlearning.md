@@ -39,8 +39,7 @@ Those reference guides and new videos? You guessed it—perfectly matched to mLe
 mLearning is training that takes place right where your employees need it, when they need it. It's necessarily more focused and concise than the majority of eLearning courses. Whereas most eLearning courses are 20-60 minutes long, mLearning modules are built to take three to ten minutes, max.
 
 {% asset 'blog/2017-05-17-what-is-mlearning-04.svg'
-  alt='benefits of mLearning' %}
-{: .wideImage }
+  alt='benefits of mLearning' @inline %}
 
 ## What are the major mLearning advantages and disadvantages?
 Not every training topic will benefit from mLearning modules, but when used correctly, mLearning provides training that is:
@@ -61,8 +60,7 @@ Mobile learning for workforce training can be a great option for:
 However, mLearning doesn't take the place of eLearning or in-person training. For effective mLearning, it needs to focus on a specific topic, task, or goal. That means it's not good for larger introductory modules or nuanced topics that require a lot of explanation and practice. Likewise, it's difficult to show complex graphics or flow charts on mobile. mLearning can and should complement these larger topics, but it simply isn't the ideal primary mode of training in these cases.
 
 {% asset 'blog/2017-05-17-what-is-mlearning-01.svg'
-   alt='What is mLearning?' %}
-{: .wideImage }
+   alt='What is mLearning?' @inline %}
 
 ## How do I create an effective mLearning course?
 Once you've found a topic that will benefit from mLearning, create a course with mobile in mind. The design itself shouldn't just be an eLearning course made smaller. It must be created for the mobile environment.

@@ -43,8 +43,7 @@ Digital training options along with [on-the-job training](/blog/on-the-job-train
 A turnover can end up [costing your company](http://www.recruiteze.com/cost-hire-new-employee/) 16-20% of your employee’s annual salary. As employees move up the ladder, this cost can skyrocket, with managerial level training budgets hovering right around $188,000 for larger companies.
 
 {% asset 'blog/2019-02-06-cost-of-training-new-employees-02.svg'
-  alt='20% of U.S. employees quit within first 45 days' %}
-{: .wideImage }
+  alt='20% of U.S. employees quit within first 45 days' @inline %}
 
 Imagine nearly $200,000 walking out the door annually. That’s the risk of not training your new employees.
 

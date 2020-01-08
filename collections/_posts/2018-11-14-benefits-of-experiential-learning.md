@@ -42,8 +42,7 @@ Experiential learning is coming into its own as expectations of employee trainin
 * A low supply of highly skilled workers means that experiential learning, [on the job](/blog/on-the-job-training-advantages/), is the new normal when it comes to training your workplace
 
 {% asset 'blog/2018-11-14-benefits-of-experiential-learning01.svg'
-  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material' %}
-{: .wideImage }
+  alt=' Information retention after 2 weeks: - 68% of those who practiced - 29% of those who read material' @inline %}
 
 ## What are the major benefits of experiential learning in the workplace?
 

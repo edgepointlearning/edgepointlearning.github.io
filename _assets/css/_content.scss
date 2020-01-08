@@ -90,8 +90,12 @@
     @extend .h3;
   }
 }
-// wide raster image
-.layout-post .content picture {
+// wide raster image,
+// wide svg image
+.layout-post .content picture,
+.layout-post .content > .cell > svg  {
+  width: 100%;
+  height: auto;
   display: inline-block;
   margin-top: $global-margin * 0.5;
   margin-bottom: $global-margin * 1.5;

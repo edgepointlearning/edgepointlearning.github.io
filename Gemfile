@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-algolia'
   gem 'jekyll-target-blank'
-  gem 'jekyll-inline-svg'  
+  #gem 'jekyll-inline-svg'  
 end
 
 gem 'sprockets', '~>3', { require: false }

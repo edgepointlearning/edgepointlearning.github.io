@@ -79,8 +79,7 @@ Checklists make life easier to manage, and a new employee training checklist is 
 * [Hire by Google](https://hire.google.com/articles/new-hire-checklist/)
 
 {% asset 'blog/2019-09-11-better-new-hire-onboarding01.svg'
-  alt='New Hire Onboarding Starts Before Day 1' %}
-{: .wideImage }
+  alt='New Hire Onboarding Starts Before Day 1' @inline %}
 
 ### 3. Start onboarding before day one
 

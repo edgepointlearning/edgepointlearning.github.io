@@ -7,6 +7,31 @@ image: blog/2019-09-12-nikki-sample.jpg
 date: 2020-01-01
 #redirect_from: "/blog/2001/01/01/sample-post"
 ---
+## Images
+
+Here's a normal-width SVG:
+
+{% asset 'blog/2017-05-17-what-is-mlearning-04.svg'
+   alt='Benefits of mLearning' %}
+
+A full-width SVG still needs that old .wideImage class applied to the line after.
+
+{% asset 'blog/2017-05-17-what-is-mlearning-04.svg'
+   alt='Benefits of mLearning' @inline %}
+   
+Wide images are 1170px wide
+
+{% asset 'blog/2014-01-01-cat-treat.jpg'
+   alt='A well-behaved cat'
+   magick:resize='1170' @pic %}
+
+Normal images are 670px wide
+
+{% asset 'blog/2014-01-01-pink-chrysanthemum.jpg'
+   alt='A pink chrysanthemum'
+   id:'chrysanthemum'
+   magick:resize='670' %}
+
 Few things in business are more guaranteed to produce groans than ice-breaking or team-building activities. Why? Because most of these feel forced and inauthentic, placing employees in uncomfortable situations with strangers and forcing them to make the best of it.
 {: .featured-text }
 
