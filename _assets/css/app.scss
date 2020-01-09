@@ -35,13 +35,15 @@ $button-palette: map-merge($foundation-palette, (
 //// Preventing FOUC
 .no-js {
   @include breakpoint(small only) {
-    .top-bar {
+    .navigation,
+    .footer--big {
       display: none;
     }
   }
 
   @include breakpoint(medium) {
-    .title-bar {
+    .title-bar,
+    .footer--small {
       display: none;
     }
   }
