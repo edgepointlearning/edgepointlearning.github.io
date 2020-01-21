@@ -1,5 +1,5 @@
 ---
-title:    "ow To Develop Change Management Training For Leaders In Your Company "
+title:    "To Develop Change Management Training For Leaders In Your Company "
 permalink: /blogs/change-management-training/
 author: { name: Corey Bleich }
 image: blog/2020-01-22-change-management-training.jpg
