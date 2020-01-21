@@ -27,7 +27,7 @@ The statistics are grim: an estimated [60-70% of all changes in organizations of
 
 With an agile change management process, though, 81% of the leaders surveyed by Hiatt reported implementing change successfully, on time and often under budget. 
 
-{% asset '2020-01-22-change-management-training01.svg'
+{% asset 'blog/2020-01-22-change-management-training01.svg'
    alt='60-70% of organizational changes fail' @inline %}
 
 ### 2. People matter
