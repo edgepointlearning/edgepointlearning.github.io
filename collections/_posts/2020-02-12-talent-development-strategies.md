@@ -27,7 +27,7 @@ In terms of training and development, this means:
 
 Today's employees are spending more time at work at the same time as they are craving more balance in their lives. With younger workers especially, this balance is crucial, as is knowing that the job they are doing [makes a difference](https://www.businesswire.com/news/home/20190828005566/en/Generation-Millennials-Desperately-Seeking-Personal-Fulfillment-Work). 
 
-Talent development initiatives offer employees an opportunity to learn and [expand in their areas of interest](https://convertkit.com/millennials-love-side-hustles). This, in turn, makes them happier and more productive (and [more likely to stick around](https://www.forbes.com/sites/johnhall/2019/08/11/what-really-keeps-the-best-employees-at-their-companies/#6bc4ad6b38f2!).
+Talent development initiatives offer employees an opportunity to learn and [expand in their areas of interest](https://convertkit.com/millennials-love-side-hustles). This, in turn, makes them happier and more productive (and [more likely to stick around](https://www.forbes.com/sites/johnhall/2019/08/11/what-really-keeps-the-best-employees-at-their-companies/#6bc4ad6b38f2!)).
 
 Talent development goes deeper than straightforward training initiatives about regulations. This is where employees get to explore and expand their interests and abilities in the context of work. 
 
