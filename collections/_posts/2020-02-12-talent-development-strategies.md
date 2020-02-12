@@ -62,7 +62,7 @@ Consider both hard and [soft skills](/blog/train-for-soft-skills/) when taking t
 
 It’s true: even the smallest companies are bursting with talent. It is entirely possible that all of the skills you need now or in the future may already be on your payroll.  
 
-{% asset 'blog/2020-02-12-talent-development-strategies.jpg'
+{% asset 'blog/2020-02-12-talent-development-strategies01.jpg'
    alt='All of the skills you need may already be on your payroll'
    magick:resize='670' %}
 
