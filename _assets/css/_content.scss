@@ -63,6 +63,13 @@
       font-size: 24px;
     }
   }
+  .fancy-text--small {
+    @extend .fancy-text;
+    font-size: 15px;
+    @include breakpoint(mediumer) {
+      font-size: 18px;
+    }
+  }
 
   .fancy-quote {
     @extend .fancy-text;
