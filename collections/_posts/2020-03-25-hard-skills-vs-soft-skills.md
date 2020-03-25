@@ -18,9 +18,8 @@ Fortunately, the difference between hard skills and soft skills is pretty clear.
 
 Think of hard skills as those you list on a resumé or the areas in which you hold certifications. Soft skills are those that help you build longer-lasting coworker and customer relationships. The importance of hard skills vs. soft skills should not be underestimated. 
 
-{% asset 'blog/2020-03-25-hard-skills-vs-soft-skills01.jpg'
-  alt='Hard Skills VS Soft Skills'
-  magick:resize='1170' @pic %}
+{% asset 'blog/2020-03-25-hard-skills-vs-soft-skills01.svg'
+   alt='Hard Skills VS Soft Skills' %}
 
 ## What are soft skills? 
 
@@ -72,7 +71,7 @@ Put simply, you can be a certified expert in your field, but that won’t matter
 
 {% asset 'blog/2020-03-25-hard-skills-vs-soft-skills02.jpg'
   alt='7% of employers value soft skills more than hard skills'
-  magick:resize='1170' @pic %}
+  magick:resize='670' %}
 
 ## What are hard skills?
 
