@@ -86,6 +86,6 @@ Because a culture of remote work is not reinforced with daily interaction, it’
 
 ## Bring in help  
 
-<strong>EdgePoint Learning has been a fully remote team from the beginning. We know (and use) strategies that work to keep our employees engaged and trained on the most up-to-date practices. Whether you need an entire course or some co-development services, we can help.</strong>
+EdgePoint Learning has been a fully remote team from the beginning. We know (and use) strategies that work to keep our employees engaged and trained on the most up-to-date practices. Whether you need an entire course or some co-development services, we can help.
 
 [Get in touch today!](/contact/)
