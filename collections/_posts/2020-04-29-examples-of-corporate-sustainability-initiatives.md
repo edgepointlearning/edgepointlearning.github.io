@@ -42,7 +42,7 @@ The most recent data shows that 82% of their buildings have energy efficient lig
 Its corporate sustainability initiatives include offering more green loans than any other bank. Green loans are given to environmentally-focused projects and a third of Banco de Brasil’s loan book consists of green loans. It's a simple, yet powerful, way to put more money towards sustainability. 
 
 {% asset 'blog/examples-of-corporate-sustainability-initiatives01.svg'
-   alt='-' %}
+   alt='1/3 of Banco de Brasil's loan book consists of green loans' %}
 
 ### 5. GlaxoSmithKline
 
@@ -92,7 +92,7 @@ Talk about putting your money where your mouth is. [Bosch](https://www.bosch.us/
 
 This includes supporting the work of universities and other research programs focused on sustainability.
 
-{% asset 'blog/examples-of-corporate-sustainability-initiatives03.svg'
+{% asset 'examples-of-corporate-sustainability-initiatives03.svg'
    alt='Bosch has dedicated 50% of R&D budget to support technology that protects the environment' %}
 
 
