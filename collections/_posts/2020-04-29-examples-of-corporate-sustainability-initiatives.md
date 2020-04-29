@@ -41,8 +41,6 @@ The most recent data shows that 82% of their buildings have energy efficient lig
 
 Its corporate sustainability initiatives include offering more green loans than any other bank. Green loans are given to environmentally-focused projects and a third of Banco de Brasil’s loan book consists of green loans. It's a simple, yet powerful, way to put more money towards sustainability. 
 
-[DEV Image text: "1/3 of Banco de Brasil's loan book consists of green loans"]
-
 {% asset 'blog/2020-04-29-examples-of-corporate-sustainability-initiatives01.svg'
    alt='1/3 of Banco de Brasil's loan book consists of green loans' %}
 
