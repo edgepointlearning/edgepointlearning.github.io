@@ -50,7 +50,8 @@ Does your night owl work better after the kids are in bed? Do you have an early 
 
 ## 6. Ask yourself: is this worth a meeting? 
 
-[Quote text: How many times have you sat in a boardroom and thought to yourself: “This meeting could have been an email”?]
+How many times have you sat in a boardroom and thought to yourself: “This meeting could have been an email”?
+{: .fancy-text }
 
 It’s no different when managing remote teams. Many companies try to recreate the work environment remotely, with disastrous results. Scheduling an online meeting when an asynchronous communication (e.g., quick email, Slack check-in, text, or short video) could do the trick contributes to “[Zoom fatigue](https://hbr.org/2020/04/how-to-combat-zoom-fatigue)” in remote work and [may lead to open rebellion](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c).
 
