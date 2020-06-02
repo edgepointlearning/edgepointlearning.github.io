@@ -28,7 +28,7 @@ Further, as if sanitation considerations for COVID-19 were not enough, there are
 
 These considerations are an important first step in returning to work after COVID-19, one that can show employees and customers that you are actively keeping them safe at work. Until you have safe and thorough procedures in place, plan to keep employees at home.
 
-{% asset 'blog/22020-06-03-covid-19-office-safety01.jpg'
+{% asset 'blog/2020-06-03-covid-19-office-safety01.jpg'
    alt='Until you have safe and thorough procedures in place, keep employees at home'
    magick:resize='670' %}
 
@@ -74,7 +74,7 @@ Perhaps the hardest part of COVID-19 office safety is the changes we all need to
 
 As challenging as reconsidering social norms is, for now, this is the new normal. Reframe this as an act of kindness – a compassionate way to keep each other healthy and safe during this extraordinary time. 
 
-{% asset 'blog/22020-06-03-covid-19-office-safety02.jpg'
+{% asset 'blog/2020-06-03-covid-19-office-safety02.jpg'
    alt='These measures are an act of kindness: a way to keep each other safe during this extraordinary time'
    magick:resize='670' %}
 
