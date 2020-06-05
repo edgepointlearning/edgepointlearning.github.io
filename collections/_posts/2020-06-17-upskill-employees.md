@@ -54,7 +54,7 @@ Using self-directed [eLearning](/blog/when-to-use-elearning/), upskilling the wo
 
 ## How to upskill team members 
 
-"Digital upskilling starts where all good training starts: with a training needs assessment."
+Digital upskilling starts where all good training starts: with a training needs assessment.
 {: .fancy-quote }
 
 This is a good, hard look at what your employees already know and where their growing edges are. And upskill needs assessments also set goals that nurture the talents employees bring to the table while setting a plan and a timeframe to shore up weak spots.
