@@ -8,8 +8,7 @@ excerpt: Workers are at increased risk for heat-related illnesses—and even dea
 ---
 
 
-Workers are at increased risk for heat-related illnesses when the mercury rises
-Summertime.
+Workers are at increased risk for heat-related illnesses when the mercury rises in summertime.
 {: .featured-text }
 
 Filled with long days and ample sunshine, summertime vacations at the beach and family picnics can be some of the best times of the year. On the other hand, workers in many industries are at increased risk for heat-related illnesses—and even death—when the mercury rises. Heat safety training can help. Here's how to design training to protect your employees.  
@@ -18,7 +17,7 @@ Filled with long days and ample sunshine, summertime vacations at the beach and 
 
 You may think that heat safety training is just for construction workers working outside in the heat of summer, but it’s much more than that. Firefighters, bakery workers, farmers, miners, boiler room workers, factory workers, and more all need heat safety training to stay safe on the job year-round. 
 
-Further, rising global temperatures may contribute to an increase in heat-related illnesses and deaths. In 2018, [60 workers in the U.S. died](https://www.theguardian.com/us-news/2020/jan/22/heat-deaths-workers-safety-climate-crisis#:~:text=Robinson%2C%20who%20died%20in%202011,Statistics%20data%20on%20workplace%20fatalities.) on the job due to heat stress. And, while the Occupational Health and Safety Office (OSHA) keeps track of reported heat accident statistics, these do not include unreported statistics for small businesses and sole proprietors. [Heat and heat-related illness ](https://www.cdc.gov/pictureofamerica/pdfs/picture_of_america_heat-related_illness.pdfis one of the deadliest (and most preventable) weather-related health issues in the U.S.
+Further, rising global temperatures may contribute to an increase in heat-related illnesses and deaths. In 2018, [60 workers in the U.S. died](https://www.theguardian.com/us-news/2020/jan/22/heat-deaths-workers-safety-climate-crisis#:~:text=Robinson%2C%20who%20died%20in%202011,Statistics%20data%20on%20workplace%20fatalities.) on the job due to heat stress. And, while the Occupational Health and Safety Office (OSHA) keeps track of reported heat accident statistics, these do not include unreported statistics for small businesses and sole proprietors. [Heat and heat-related illness](https://www.cdc.gov/pictureofamerica/pdfs/picture_of_america_heat-related_illness.pdf) is one of the deadliest (and most preventable) weather-related health issues in the U.S.
 
 
 {% asset 'blog/2020-07-08-heat-safety-training01.jpg'
