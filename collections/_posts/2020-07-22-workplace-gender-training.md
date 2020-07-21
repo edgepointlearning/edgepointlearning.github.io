@@ -1,5 +1,5 @@
 ---
-title:    "How To Support Gender Inclusion In Your Workplac"
+title:    "How To Support Gender Inclusion In Your Workplace"
 permalink: /blogs/workplace-gender-training/
 author: { name: Corey Bleich }
 image: blog/2020-07-22-workplace-gender-training.jpg
