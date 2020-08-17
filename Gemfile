@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 3'
 
+group :kramdown do
+  gem 'kramdown-parser-gfm'     # https://jekyllrb.com/news/2020/08/05/jekyll-3-9-0-released/
+end
+
 group :jekyll_plugins do
   gem 'jekyll-assets'           # https://github.com/envygeeks/jekyll-assets
   gem 'jekyll-paginate-v2'      # https://github.com/sverrirs/jekyll-paginate-v2
