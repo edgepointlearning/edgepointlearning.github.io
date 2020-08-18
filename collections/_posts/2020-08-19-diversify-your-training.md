@@ -76,8 +76,6 @@ When selecting images and video consider the following questions:
 
 Also, don't limit yourself to just thinking about race. Ask yourself are individuals with disabilities, those who are LGBTQ, or other societal groups included?  
 
-[Image quote: Think of inclusion and diversity in the broadest sense possible]
-
 {% asset 'blog/2020-08-19-diversify-your-training02.jpg'
    alt='Think of inclusion and diversity in the broadest sense possible'
    magick:resize='670' %}
