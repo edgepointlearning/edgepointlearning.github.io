@@ -50,7 +50,7 @@ One question that surprises some of our clients is that we ask them directly abo
 
 All these factors greatly affect the planning, development, and implementation of the final eLearning product. However, the answers to these questions have far reaching consequences beyond the confines of company training and instruction. They reflect the windows and mirrors of the organization.
 
-Dr. Rudine Sims Bishop introduced the concept of "windows" and "mirrors" in the early 1990s. Although her writings referred to physical books, her [observations](https://scenicregional.org/wp-content/uploads/2017/08/Mirrors-Windows-and-Sliding-Glass-Doors.pdf) can be applied to all media. Mirror media reflects the learner, their culture, and their community. Learners identify with the mirror and inadvertently connect to it easily. Window media offers views into cultures that are different from the learner’s culture. With window media, the learner is given an opportunity to identify cultural similarities and differences with the hope that the learner will emerge from the media with a different perspective. 
+Dr. Rudine Sims Bishop introduced the concept of "windows" and "mirrors" in the early 1990s. Although her writings referred to physical books, her [observations](https://www.readingrockets.org/sites/default/files/Mirrors-Windows-and-Sliding-Glass-Doors.pdf) can be applied to all media. Mirror media reflects the learner, their culture, and their community. Learners identify with the mirror and inadvertently connect to it easily. Window media offers views into cultures that are different from the learner’s culture. With window media, the learner is given an opportunity to identify cultural similarities and differences with the hope that the learner will emerge from the media with a different perspective. 
 
 Both types of media are important and should be incorporated into diverse and inclusive eLearning projects. Learners need exposure to media they can identify with personally, as well as be introduced to different perspectives. 
 
@@ -58,7 +58,7 @@ Finding the balance with your eLearning client can be a challenge, but not an im
 
 ## 3. Visually represent diversity: it matters
 
-Historian and author [Carlos Cortes](https://www.medialit.org/reading-room/long-way-go-minorities-and-media) notes: 
+Historian and author [Carlos Cortes](http://www.medialit.org/reading-room/long-way-go-minorities-and-media) notes: 
 
 “Minorities realize — supported by research — that the media influence not only how others view them, but even how they view themselves.” 
 
@@ -110,7 +110,7 @@ Authentic voices; however, resonate power throughout every facet of the organiza
 
 ## 5. Examine your own company
 
-The [Office of Personnel Management](https://www.opm.gov/) has identified three tangible benefits to embracing diversity and inclusion within an organization: 
+The [Office of Personnel Management](https://www.opm.gov/faqs/QA.aspx?fid=72bcd219-0b9f-4de8-b366-4817028fbc6e&pid=f2ef3151-b4f2-4f47-a319-acad8175b0b7) has identified three tangible benefits to embracing diversity and inclusion within an organization: 
 
 1. Serving our communities and being socially responsible
 2. Increasing innovation
