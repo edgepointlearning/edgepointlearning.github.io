@@ -19,7 +19,9 @@ The Occupational Safety and Health Administration (OSHA) estimates that the vast
 
 Ladder safety training is a critical part of ongoing employee training. As part of the OSHA's Safety and Health Regulations for construction, ladder safety training is a requirement. For any work that utilizes an elevated surface that might include a ladder or scaffolding, ladder safety training is generally required. Even if your employees use ladders infrequently, a basic understanding of how to use them properly and safely could just save a life. 
 
-Image text: 2016: 133 ladder fatalities and 20,000 injuries on the job <!-- TODO: IMAGE -->
+{% asset 'blog/2020-09-09-ladder-safety-training-a.jpg'
+   alt='133 ladder fatalities and 20,000 injuries on the job'
+   magick:resize='670' %}
 
 ## What are OSHA ladder safety training requirements? 
 
@@ -39,7 +41,9 @@ Ladder safety training focuses specifically on:
 
 We cover some of these in the free course below.
 
-Image text: Training employees on ladder safety could save a life  <!-- TODO: IMAGE -->
+{% asset 'blog/2020-09-09-ladder-safety-training-b.jpg'
+   alt='Training employees on ladder safety could save a life'
+   magick:resize='670' %}
 
 ### Identifying fall hazards
 
@@ -75,7 +79,7 @@ Train employees to know what’s required and when, with signage and training.
 
 General fall prevention training helps employees develop proper techniques for using equipment to better avoid accidents. 
 
-Depending on their role, ladder safety training may cover proper climbing techniques (the three point-of-contact climb) as well as the use of safety harnesses and other fall arrest systems.
+Depending on their role, ladder safety training may cover proper climbing techniques (the [three point-of-contact climb](https://www.americanladderinstitute.org/page/BasicLadderSafety)) as well as the use of safety harnesses and other fall arrest systems.
 
 ## Free ladder safety training online 
 
@@ -85,24 +89,26 @@ Since so many deaths can be prevented with simple training, we developed a free 
 
 Need a longer ladder safety training program for your workforce? EdgePoint Learning can help. Contact us today to learn more about our custom and co-development options, as well as online, mobile, and blended learning opportunities. 
 
-[Add Contact Us button] <!-- TODO: BUTTON -->
+[Contact Us](/contact){: .button }
 
 ## How to design ladder safety training for today's employees 
 
-Design your ladder safety training by first deciding who needs training and in what order. Employees who regularly use ladders and other elevated work surfaces should be your priority. Use a training needs analysis to quickly figure out your training needs. You can learn more about this step in our earlier training needs analysis post. 
+Design your ladder safety training by first deciding who needs training and in what order. Employees who regularly use ladders and other elevated work surfaces should be your priority. Use a training needs analysis to quickly figure out your training needs. You can learn more about this step in our earlier [training needs analysis post.](/blog/training-needs-analysis/) 
 
 Next, figure out how you’re going to deliver your training. Pushing your training online or mobile makes it easy for employees to attend initial training and keep up to date on any changes. A ladder safety training program should be a featured part of your onboarding process, of course, but it’s more than just a one-and-done training.
 
 Like the three point-of-contact climb, consider adding multiple touch-points for training. 
 {: .fancy-quote }
 
-Make it easy to remember, and hard to forget. Delivering microlearning resources in the flow of work is a great way to keep employees engaged and refreshed on best practices. Consider other training tools to deliver information exactly where it’s needed. For example, you can set up a geofence to alert employees to potential fall hazards in new work areas. A geofence can also deliver a reminder to use personal arrest systems in specific areas. 
+Make it easy to remember, and hard to forget. Delivering [microlearning resources in the flow of work](https://www.pinpointworkforce.com/post/microlearing-in-the-flow-of-work) is a great way to keep employees engaged and refreshed on best practices. Consider other training tools to deliver information exactly where it’s needed. For example, you can set up a geofence to alert employees to potential fall hazards in new work areas. A geofence can also deliver a reminder to use personal arrest systems in specific areas. 
 
-Beyond the initial training, those who work in the field should be able to easily review safety protocols through on-the-job performance support. Performance support tools can also guide employees through proper ladder set-up and removal procedures. Integrate reminders into your employees' days using safety checklists. These ensure compliance at every step of set up, use, and disassembly. 
+Beyond the initial training, those who work in the field should be able to easily review safety protocols through on-the-job performance support. Performance support tools can also guide employees through proper ladder set-up and removal procedures. Integrate reminders into your employees' days using [safety checklists.](https://www.pinpointworkforce.com/post/feature-spotlight-checklists) These ensure compliance at every step of set up, use, and disassembly. 
 
-Finally, AR-assisted performance support can be useful for employees who need help using equipment correctly or for managers to quickly put together site-specific resources. Our PinPoint app allows employees to capture 2D images to launch a 3D AR training. This image recognition can be useful at all stages of ladder safety training and support.
+Finally, [AR-assisted performance support](https://www.pinpointworkforce.com/post/new-feature-image-recognition) can be useful for employees who need help using equipment correctly or for managers to quickly put together site-specific resources. Our [PinPoint](https://www.pinpointworkforce.com/) app allows employees to capture 2D images to launch a 3D AR training. This image recognition can be useful at all stages of ladder safety training and support.
 
-Image text: Made ladder training easy to remember, and hard to forget  <!-- TODO: IMAGE -->
+{% asset 'blog/2020-09-09-ladder-safety-training-c.jpg'
+   alt='Make ladder training easy to remember, and hard to forget'
+   magick:resize='670' %}
 
 ## Build your ladder safety training program 
 
@@ -110,4 +116,4 @@ Starting a new training program from scratch can be challenging, but EdgePoint c
 
 PinPoint is our precision microlearning app that helps your employees access mobile training right in the flow of work, with robust performance support tools. We also create full custom online training courses, or act as an extension of your team with co-development options.  
 
-Check out PinPoint’s pre-built content library or get in touch to learn more! From custom to co-development, online learning to a blended approach, we can help. 
+<STRONG>Check out [PinPoint’s pre-built content library](https://www.pinpointworkforce.com/content) or [get in touch](/contact/) to learn more! From custom to co-development, online learning to a blended approach, we can help.</STRONG>
