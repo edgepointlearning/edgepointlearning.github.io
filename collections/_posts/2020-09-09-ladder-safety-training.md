@@ -32,12 +32,13 @@ Basic ladder safety should be provided for all employees. Those in specialized w
 ## What ladder safety training topics should I cover? 
 
 Ladder safety training focuses specifically on:
-•	Identifying fall hazards
-•	Correct procedures for erecting, maintaining, and disassembling fall protection systems
-•	Maximum load (weight) allowed on different ladders and fall protection systems
-•	The proper uses of and care for ladders and other equipment
-•	The use of proper footwear and safety equipment
-•	General fall prevention training 
+
+ * Identifying fall hazards
+ * Correct procedures for erecting, maintaining, and disassembling fall protection systems
+ * Maximum load (weight) allowed on different ladders and fall protection systems
+ * The proper uses of and care for ladders and other equipment
+ * The use of proper footwear and safety equipment
+ * General fall prevention training 
 
 We cover some of these in the free course below.
 
@@ -85,9 +86,13 @@ Depending on their role, ladder safety training may cover proper climbing techni
 
 Since so many deaths can be prevented with simple training, we developed a free ladder safety training online course that you can use immediately for your employees. This web-based version only covers the basics, and can't take the place of full training, but it's a great place to start if you need to get training out fast. We welcome you to share it with your employees.
 
-<a href="https://rise.articulate.com/share/bfe0aUdV6GFgTIJrtROshE5kKd__fEsm#/" target="_blank">{% asset 'blog/2020-09-09-ladder-safety-training-d.jpg'
-   alt='Make ladder training easy to remember, and hard to forget'
-   magick:resize='670' %}</a>
+<p style="text-align: center" class="marginBot">
+  <a href="https://rise.articulate.com/share/bfe0aUdV6GFgTIJrtROshE5kKd__fEsm#/" target="_blank">
+  {% asset 'blog/2020-09-09-ladder-safety-training-d3.jpg'
+    alt='Make ladder training easy to remember, and hard to forget'
+    magick:resize='480' %}
+  </a>
+</p>
 
 Need a longer ladder safety training program for your workforce? EdgePoint Learning can help. Contact us today to learn more about our custom and co-development options, as well as online, mobile, and blended learning opportunities. 
 
