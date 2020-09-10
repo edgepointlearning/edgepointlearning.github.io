@@ -2,7 +2,7 @@
 title:    How To Create Ladder Safety Training For Employees (And A Free Course!)
 permalink: /blogs/ladder-safety-training/
 author: { name: Corey Bleich }
-image: blog/2020-09-09-ladder-safety-training.jpg
+image: blog/2020-09-09-ladder-safety-training-e.jpg
 excerpt: Here’s how to develop and roll-out ladder safety training to your employees, along with a free ladder safety training online course that covers the basics.
 ---
 
@@ -85,7 +85,9 @@ Depending on their role, ladder safety training may cover proper climbing techni
 
 Since so many deaths can be prevented with simple training, we developed a free ladder safety training online course that you can use immediately for your employees. This web-based version only covers the basics, and can't take the place of full training, but it's a great place to start if you need to get training out fast. We welcome you to share it with your employees.
 
-[Embed free mini course here] <!-- TODO: EMBED -->
+<a href="https://rise.articulate.com/share/bfe0aUdV6GFgTIJrtROshE5kKd__fEsm#/" target="_blank">{% asset 'blog/2020-09-09-ladder-safety-training-d.jpg'
+   alt='Make ladder training easy to remember, and hard to forget'
+   magick:resize='670' %}</a>
 
 Need a longer ladder safety training program for your workforce? EdgePoint Learning can help. Contact us today to learn more about our custom and co-development options, as well as online, mobile, and blended learning opportunities. 
 
