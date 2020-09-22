@@ -107,7 +107,7 @@ To find out more about suicide and suicide prevention training and to gather res
    class='float-right thumbnail marginLeft marginTopHalf'
    magick:resize='300' %}
 
-### Quincy Conley
+### Michelle Moorhead
 
 *Michelle Moorhead is the Executive Director of Teen Lifeline, a 34 year old nonprofit focused on the prevention of youth suicide. Ms. Moorhead possesses a Master's Degree in Psychology from the University of Northern Colorado with an emphasis in adolescent psychology.  She is a state Licensed Professional Counselor and a Certified Crisis Counselor through the American Association of Suicidology. She has been working in the behavioral health field for the past 36 years. In 2004, she was named Arizona’s Executive Director of the Year by the Organization of Non-Profit Executives. She has extensive experience presenting at both the local and national level in the area of teen suicide prevention, crisis intervention, and utilizing volunteers.*
 {: .clearfix }
