@@ -105,7 +105,7 @@ To find out more about suicide and suicide prevention training and to gather res
 {% asset 'blog/michelle-moorhead.jpg'
    alt='Michelle Moorhead'
    class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='300' %}
+   magick:resize='120' %}
 
 ### Michelle Moorhead
 
