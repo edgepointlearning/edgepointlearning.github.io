@@ -61,7 +61,9 @@ Not everyone who has the above risk factors will consider suicide. Suicide preve
 
 The warning signs of suicide may seem much clearer after the fact. Suicide prevention training, though, clarifies behavior that indicate a person could be moving towards action. 
 
-Pull quote: Warning signs might include a loss of interest, personality changes, and giving away important possessions (among others).
+Warning signs might include a loss of interest, personality changes, and giving away important possessions (among others).
+{: .fancy-text }
+
 
 You can learn more of the warning signs at [SAVE](https://save.org/about-suicide/warning-signs-risk-factors-protective-factors/). 
 
