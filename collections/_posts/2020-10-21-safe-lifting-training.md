@@ -13,7 +13,7 @@ Whether you manage a warehouse full of workers or an office full of techies, saf
 
 ## Why is safe lifting training important? 
 
-Almost [34% of workplace injuries](https://www.bls.gov/news.release/pdf/osh.pdf) occur as a result of lifting and lowering objects. Add this to the fact that 75% of people in the US [experience lower back pain](https://www.statista.com/statistics/684621/adults-prone-to-back-pain-frequency-us/) at some point in any given year and safe lifting training becomes a priority.
+Almost [34% of workplace injuries](https://www.bls.gov/news.release/pdf/osh.pdf) occur as a result of lifting and lowering objects. Add this to the fact that 75% of people in the U.S. [experience lower back pain](https://www.statista.com/statistics/684621/adults-prone-to-back-pain-frequency-us/) at some point in any given year and safe lifting training becomes a priority.
 
 Safe lifting training is exactly what it sounds like. It teaches employees how to safely lift and move objects of varying sizes and dimensions. You may think safe lifting training is just for warehouse workers or the trades but think back to the last time your administrative staff put away a case of printer paper or unloaded even something as light as a box of paper towels. Even light objects, lifted improperly, can lead to injury.
 
@@ -102,7 +102,7 @@ Safe lifting training must include the best ways to complete repetitive tasks or
 It’s easy to prevent on-the-job injuries with safe lifting training. At EdgePoint Learning, we developed a free safe lifting training online course that is ready to deliver to your employees. While this web-based course just covers the basics, it's a great place to start if you need to get training out fast. We welcome you to share it with your employees. 
 
 <p style="text-align: center" class="marginBot">
-  <a href="https://www.edgepointlearning.com/demo/lifting-video-2/" target="_blank">
+  <a href="https://vimeo.com/357947965/62d47befc5" target="_blank">
   {% asset 'blog/2020-10-21-safe-lifting-training03.jpg'
     alt='Free | Proper Lifting Training Course'
     magick:resize='670' %}
