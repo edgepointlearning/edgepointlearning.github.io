@@ -102,7 +102,7 @@ Safe lifting training must include the best ways to complete repetitive tasks or
 It’s easy to prevent on-the-job injuries with safe lifting training. At EdgePoint Learning, we developed a free safe lifting training online course that is ready to deliver to your employees. While this web-based course just covers the basics, it's a great place to start if you need to get training out fast. We welcome you to share it with your employees. 
 
 <p style="text-align: center" class="marginBot">
-  <a href="hhttps://www.edgepointlearning.com/demo/lifting-video-2/" target="_blank">
+  <a href="https://www.edgepointlearning.com/demo/lifting-video-2/" target="_blank">
   {% asset 'blog/2020-10-21-safe-lifting-training03.jpg'
     alt='Free | Proper Lifting Training Course'
     magick:resize='670' %}
