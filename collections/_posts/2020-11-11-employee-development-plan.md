@@ -6,14 +6,14 @@ image: blog/2020-11-11-employee-development-plan.jpg
 excerpt: Need to help your employees and company grow? Read on for seven steps to create your employee development plan, from roll-out to reporting.
 ---
 
-An employee development plan helps your people acquire new skills for their current job while expanding their talents for new roles in your company.]
+An employee development plan helps your people acquire new skills for their current job while expanding their talents for new roles in your company.
 {: .featured-text }
 
-One of the biggest issues facing employers these days is employee retention. [With costs to replace employees](https://mnwi.usi.com/Resources/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/782/Cost-of-employee-turnover#:~:text=The%20Society%20for%20Human%20Resource,in%20recruiting%20and%20training%20costs.) averaging between six and nine months’ salary and the average employee [changing](https://www.bls.gov/news.release/tenure.nr0.htm) jobs about every four years, now more than ever your company needs to figure out how to offer employees areas for growth and opportunities for advancement. An employee development plan helps your people acquire new skills for their current job while expanding their talents for new roles in your company. When done well, it can help them stay within your company, happier and longer. Here are seven steps to create your employee development plan, from roll-out to reporting. 
+One of the biggest issues facing employers these days is employee retention. [With costs to replace employees](https://mnwi.usi.com/Resources/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/782/Cost-of-employee-turnover#:~:text=The%20Society%20for%20Human%20Resource,in%20recruiting%20and%20training%20costs.) averaging between six and nine months’ salary and the average employee [changing jobs](https://www.bls.gov/news.release/tenure.nr0.htm) about every four years, now more than ever your company needs to figure out how to offer employees areas for growth and opportunities for advancement. An employee development plan helps your people acquire new skills for their current job while expanding their talents for new roles in your company. When done well, it can help them stay within your company, happier and longer. Here are seven steps to create your employee development plan, from roll-out to reporting. 
 
 ## 1. Start with a skills gap analysis 
 
-The first step in creating an employee development plan is to figure out [where you need to upskill employees](/blogs/upskill-employees/). A [training needs analysis](https://www.edgepointlearning.com/blog/how-to-identify-training-needs-of-employees/) can help you determine not only what skills are missing (or underdeveloped) but also which employees need training first.
+The first step in creating an employee development plan is to figure out [where you need to upskill employees](/blogs/upskill-employees/). A [training needs analysis](/blog/how-to-identify-training-needs-of-employees/) can help you determine not only what skills are missing (or underdeveloped) but also which employees need training first.
 
 This training needs analysis puts your organizational goals at the center of anything that comes next. By identifying what you’re already doing well (and what needs work), all training efforts can be streamlined for maximum benefit.
 
@@ -25,7 +25,7 @@ Another bonus? Employees who are on the fence about staying with your company ma
 
 ## 3. Align with employee and company goals 
 
-Once you have identified areas of need and employees interested in growth, make sure your goals for both connected.
+Once you have identified areas of need and employees interested in growth, make sure your goals for both are connected.
 
 An employee development plan can only go so far if the employees aren't involved. Consider not only your employees' career goals in general but also those specific to your company to strengthen career succession plans.
 
@@ -46,7 +46,7 @@ Take steps today to put those wheels in motion.
 
 The good news about employee development plans is that you don’t have to reinvent the wheel to make a good one. Once you’ve decided to move forward, there are a variety of templates that can make your job easier.
 
-There are two main types of employee development plan templates. For example: 
+There are two main types of employee development plan templates: 
 
 1. Consider an [individual employee development plan template](https://www.indeed.com/hire/c/info/individual-development-plan-examples) in the early stages of your organization’s process. This helps employees reflect on their personal career goals and how they might align with your organization. 
 2. A [succession planning template](https://www.sigmaassessmentsystems.com/succession-planning-template/) helps your organization look towards the future to figure out where the company needs to hire or expand. It also articulates what resources are already present (and if they need to be developed further).
@@ -55,7 +55,7 @@ Use these as a guide to help you customize both your individual employee growth 
 
 ## 6. Fit the learning opportunity to the training 
 
-Now that you’ve decided to create a career development plan for employees, make sure the [type of employee training](/blog/top-10-types-of-employee-training/) fits the task. Consider different methods of delivery for different goals.
+Now that you’ve decided to create a career development plan for employees, make sure the [type of employee training](h/blog/top-10-types-of-employee-training/) fits the task. Consider different methods of delivery for different goals.
 
 For example, leadership training might focus on the following approaches:
 
@@ -64,7 +64,7 @@ For example, leadership training might focus on the following approaches:
 * [Cross training](/blog/cross-training-employees/)
 * Job shadowing
 
-In contrast, upskilling uses different tools to expand your employees' current skills and knowledge. For these direct, skills-based learning opportunities, consider: 
+In contrast, upskilling uses different tools to expand your employees' current skills and knowledge. For these direct, skills-based learning opportunities, consider:
 
 * [Microlearning](/blog/types-of-microlearning/)
 * [On-the-job training](/blog/on-the-job-training-advantages/)
