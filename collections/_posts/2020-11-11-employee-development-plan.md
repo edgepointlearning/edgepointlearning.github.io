@@ -80,4 +80,8 @@ Meet regularly with employees to see how it’s going and to get their feedback 
 
 As a company, make sure you have a person or team dedicated to monitoring the success of the employee development plan. If you are a small company without the ability to have a full-time employee development person, HR professionals can help, as can managers when they report on productivity levels or team wins.
 
-**At EdgePoint Learning, we love to help companies grow. From ground-up training solutions to helping you revamp outdated training courses, we can help. Our learning specialists work with you to create an employee development plan that can drive company goals and employee growth. [Get in touch to get started today](/contact/)!**
+## Learn More
+
+At EdgePoint Learning, we love to help companies grow. From ground-up training solutions to helping you revamp outdated training courses, we can help. Our learning specialists work with you to create an employee development plan that can drive company goals and employee growth.
+
+[Get in touch to get started today](/contact/)!
