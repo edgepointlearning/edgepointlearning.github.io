@@ -55,7 +55,7 @@ Use these as a guide to help you customize both your individual employee growth 
 
 ## 6. Fit the learning opportunity to the training 
 
-Now that you’ve decided to create a career development plan for employees, make sure the [type of employee training](h/blog/top-10-types-of-employee-training/) fits the task. Consider different methods of delivery for different goals.
+Now that you’ve decided to create a career development plan for employees, make sure the [type of employee training](/blog/top-10-types-of-employee-training/) fits the task. Consider different methods of delivery for different goals.
 
 For example, leadership training might focus on the following approaches:
 
