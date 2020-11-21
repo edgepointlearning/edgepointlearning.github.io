@@ -1,6 +1,6 @@
 ---
 title:    How To Create Ladder Safety Training For Employees (And A Free Course!)
-permalink: /blogs/ladder-safety-training/
+permalink: /blog/ladder-safety-training/
 author: { name: Corey Bleich }
 image: blog/2020-09-09-ladder-safety-training-e.jpg
 excerpt: Here’s how to develop and roll-out ladder safety training to your employees, along with a free ladder safety training online course that covers the basics.
@@ -19,9 +19,7 @@ The Occupational Safety and Health Administration (OSHA) estimates that the vast
 
 Ladder safety training is a critical part of ongoing employee training. As part of the OSHA's Safety and Health Regulations for construction, ladder safety training is a requirement. For any work that utilizes an elevated surface that might include a ladder or scaffolding, ladder safety training is generally required. Even if your employees use ladders infrequently, a basic understanding of how to use them properly and safely could just save a life. 
 
-{% asset 'blog/2020-09-09-ladder-safety-training-a.jpg'
-   alt='133 ladder fatalities and 20,000 injuries on the job'
-   magick:resize='670' %}
+{% picture blog blog/2020-09-09-ladder-safety-training-a.jpg --alt 133 ladder fatalities and 20,000 injuries on the job %}
 
 ## What are OSHA ladder safety training requirements? 
 
@@ -42,9 +40,7 @@ Ladder safety training focuses specifically on:
 
 We cover some of these in the free course below.
 
-{% asset 'blog/2020-09-09-ladder-safety-training-b.jpg'
-   alt='Training employees on ladder safety could save a life'
-   magick:resize='670' %}
+{% picture blog blog/2020-09-09-ladder-safety-training-b.jpg --alt Training employees on ladder safety could save a life %}
 
 ### Identifying fall hazards
 
@@ -88,15 +84,13 @@ Since so many deaths can be prevented with simple training, we developed a free 
 
 <p style="text-align: center" class="marginBot">
   <a href="https://rise.articulate.com/share/bfe0aUdV6GFgTIJrtROshE5kKd__fEsm#/" target="_blank">
-  {% asset 'blog/2020-09-09-ladder-safety-training-d3.jpg'
-    alt='Make ladder training easy to remember, and hard to forget'
-    magick:resize='480' %}
+    {% picture blog blog/2020-09-09-ladder-safety-training-d3.jpg style="max-width:480px" --alt Free Ladder Safety Training Course %}
   </a>
 </p>
 
 Need a longer ladder safety training program for your workforce? EdgePoint Learning can help. Contact us today to learn more about our custom and co-development options, as well as online, mobile, and blended learning opportunities. 
 
-[Contact Us](/contact){: .button }
+[Contact Us](/contact){: .cta }
 
 ## How to design ladder safety training for today's employees 
 
@@ -113,9 +107,7 @@ Beyond the initial training, those who work in the field should be able to easil
 
 Finally, [AR-assisted performance support](https://www.pinpointworkforce.com/post/new-feature-image-recognition) can be useful for employees who need help using equipment correctly or for managers to quickly put together site-specific resources. Our [PinPoint](https://www.pinpointworkforce.com/) app allows employees to capture 2D images to launch a 3D AR training. This image recognition can be useful at all stages of ladder safety training and support.
 
-{% asset 'blog/2020-09-09-ladder-safety-training-c.jpg'
-   alt='Make ladder training easy to remember, and hard to forget'
-   magick:resize='670' %}
+{% picture blog blog/2020-09-09-ladder-safety-training-c.jpg --alt Make ladder training easy to remember, and hard to forget %}
 
 ## Build your ladder safety training program 
 
@@ -123,4 +115,5 @@ Starting a new training program from scratch can be challenging, but EdgePoint c
 
 PinPoint is our precision microlearning app that helps your employees access mobile training right in the flow of work, with robust performance support tools. We also create full custom online training courses, or act as an extension of your team with co-development options.  
 
-<STRONG>Check out [PinPoint’s pre-built content library](https://www.pinpointworkforce.com/content) or [get in touch](/contact/) to learn more! From custom to co-development, online learning to a blended approach, we can help.</STRONG>
+**Check out [PinPoint’s pre-built content library](https://www.pinpointworkforce.com/content) or [get in touch](/contact/) to learn more! From custom to co-development, online learning to a blended approach, we can help.**
+{: .fancy-text }

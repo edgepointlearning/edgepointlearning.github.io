@@ -22,9 +22,7 @@ Even though it is generally conducted outside of school hours, cyberbullying oft
 * 14%: Children who are the target of mean comments on social media 
 * 13%: Kids who report being bullied by rumors online
 
-{% asset 'blog/2019-07-17-cyberbullying-training-for-teachers_1.jpg'
-  alt='42% of children report being cyberbullied'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-07-17-cyberbullying-training-for-teachers_1.jpg --alt 42% of children report being cyberbullied %}
 
 With nearly half of all kids being cyberbullied (and many not reporting these incidents to parents), teachers must be vigilant and ready to respond to cyberbullying in schools. These bullying incidents may occur at night, but the [fallout can spill into the school day](https://www.publicschoolreview.com/blog/how-does-bullying-affect-a-students-academic-performance). 
 

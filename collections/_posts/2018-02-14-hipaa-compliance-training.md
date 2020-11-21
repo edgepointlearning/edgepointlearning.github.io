@@ -58,9 +58,7 @@ Imagine your potentially embarrassing health diagnosis plastered on a billboard 
 
 More than embarrassment, patients can also experience medical identity theft. [Medical identity theft](https://oig.hhs.gov/fraud/medical-id-theft/index.asp) occurs when a patient’s personal information is stolen and used to submit false Medicaid or Medicare claims. This disrupts care and costs millions of taxpayer dollars annually.
 
-{% asset 'blog/2018-02-14-hipaa-compliance-training01.jpg'
-  alt='Medical identity theft costs millions of dollars annually'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-02-14-hipaa-compliance-training01.jpg --alt Medical identity theft costs millions of dollars annually %}
 
 ### How to protect information
 
@@ -108,4 +106,4 @@ If employees have gaps in their knowledge or just need more, pivot to a strategy
 
 Our team at [EdgePoint Learning](/) offers fully-customized mobile and online eLearning HIPAA training resources for your employees. Let us help you find a solution that fits your needs (and your budget!).
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

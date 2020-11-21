@@ -1,6 +1,6 @@
 ---
 title:    How To Create Domestic Violence Training For Awareness And Advocacy
-permalink: /blogs/domestic-violence-training/
+permalink: /blog/domestic-violence-training/
 author: { name: Corey Bleich }
 image: blog/2020-10-07-domestic-violence-training.jpg
 excerpt: Domestic violence training can help gatekeepers recognize warning signs of domestic violence and provide them with support to get the right help fast.
@@ -26,10 +26,7 @@ Here are some [critical statistics](https://www.thehotline.org/resources/statist
 
 To protect your employees and the people you serve (like students or patients), domestic violence training is crucial. 
 
-{% asset 'blog/2020-10-07-domestic-violence-training01.jpg'
-   alt='Almost 33% of women killed on the job were killed by an intimate partner'
-   magick:resize='670' %}
-
+{% picture blog blog/2020-10-07-domestic-violence-training01.jpg --alt Almost 33% of women killed on the job were killed by an intimate partner %}
 
 ## The myths around domestic violence
 
@@ -105,9 +102,7 @@ Many victims stay with their abuser because they don’t know where else to go. 
 
 The [National Domestic Violence Hotline](https://www.thehotline.org/) is a 24/7 resource that works throughout the U.S.
 
-{% asset 'blog/2020-10-07-domestic-violence-training02.jpg'
-   alt='The National Domestic Violence Hotline provides 24/7 support at 1-800-799-SAFE (7233)'
-   magick:resize='670' %}
+{% picture blog blog/2020-10-07-domestic-violence-training02.jpg --alt The National Domestic Violence Hotline provides 24/7 support at 1-800-799-SAFE (7233) %}
 
 ### Guidelines for access and reporting
 

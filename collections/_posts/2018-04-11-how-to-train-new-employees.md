@@ -4,7 +4,6 @@ permalink: /blog/how-to-train-new-employees/
 author: { name: Corey Bleich }
 image: blog/2018-04-11-how-to-train-new-employees.jpg
 excerpt:  "It’s a common mistake that even successful businesses make: not formally training new employees. Here's how to train your new employees effectively with a new hire training checklist."
-redirect_from: "/blog/employee-onboarding/"
 ---
 
 You wouldn’t hand a new high school graduate the keys to a Tesla and let them go, but this is an exaggerated equivalent of some company new hire training programs. Learning how to train new employees effectively is the cornerstone of success for any company. This post is your guide to better and more effective new hire training. Keep reading to learn more. 
@@ -24,9 +23,7 @@ According to some estimates, the [cost of replacing employees](http://www.recrui
 * 91% of employees stick around for at least a year when organizations have efficient onboarding processes
 * 69% of them stick around for at least three years when companies have well-structured onboarding programs
 
-{% asset 'blog/2018-04-11-how-to-train-new-employees01.jpg'
-  alt='91% of employees stay for at least a year when companies have well-structured new hire training'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-04-11-how-to-train-new-employees01.jpg --alt 91% of employees stay for at least a year when companies have well-structured new hire training %}
 
 Now imagine that 91% of your employees stay for at least a year and 69% are still going strong after three years. What does that mean for your bottom line? Your company culture? 
 
@@ -44,8 +41,6 @@ While your exact onboarding tasks may differ, these best practices for employee 
 6. Build in regular reviews and adjustments to your training program
 
 Let's look at each of these in more detail. 
-
-
 
 ### 1. Establish your new employee procedures
 
@@ -74,12 +69,9 @@ This new hire checklist can include:
 
 Checklists make life easier to manage, and a new employee training checklist is no different. The best employee onboarding checklists start before an employee walks in on their first day and can continue for up to six month or a year after they start. Your team may already have a checklist in place, or you can find inspiration in some online employee onboarding checklist templates from:
 
-* [SmartSheet](https://www.smartsheet.com/free-onboarding-checklists-and-templates)
-* [Process Street](https://www.process.st/checklist/employee-onboarding-checklist)
-* [Hire by Google](https://hire.google.com/articles/new-hire-checklist/)
+Your team may already have a checklist in place, or you can find inspiration in some online employee onboarding checklist templates from [SmartSheet](https://www.smartsheet.com/free-onboarding-checklists-and-templates) or[ Process Street](https://www.process.st/checklist/employee-onboarding-checklist).
 
-{% asset 'blog/2019-09-11-better-new-hire-onboarding01.svg'
-  alt='New Hire Onboarding Starts Before Day 1' @inline %}
+{% svg '/assets/svg/blog/2019-09-11-better-new-hire-onboarding01.svg' alt='New Hire Onboarding Starts Before Day 1' %}
 
 ### 3. Start onboarding before day one
 
@@ -143,4 +135,4 @@ If you need additional guidance, our team of instructional design experts at Edg
 
 <strong>Better new hire training starts here. If you want to learn more about your employee training options, get in touch with [EdgePoint Learning today](/contact/). Want to see our work in action? [Find all of our demos here](/form/demo/).</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

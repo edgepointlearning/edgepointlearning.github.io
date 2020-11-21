@@ -72,4 +72,4 @@ Converting your Flash eLearning course to HTML5 isn’t a simple drag-and-drop o
 
 <strong>[Edgepoint Learning](/) is a leader in eLearning course design and redevelopment. We can help update your slow, clunky Flash courses to fresh and agile HTML5 platforms. Get in touch today to formulate a plan that will best address your company’s needs.</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

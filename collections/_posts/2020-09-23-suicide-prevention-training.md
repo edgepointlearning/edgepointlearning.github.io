@@ -1,9 +1,14 @@
 ---
 title:    How To Develop Effective Suicide Prevention Training
-permalink: /blogs/suicide-prevention-training/
-author: { name: Michelle Moorhead, Executive Director, Teen Lifeline }
+permalink: /blog/suicide-prevention-training/
 image: blog/2020-09-023-suicide-prevention-training.jpg
 excerpt: You might not think that suicide prevention training is something that you need in your field of work, but suicide prevention is everyone’s business.
+author: { 
+  name: "Michelle Moorhead",
+  title:  "Executive Director, Teen Lifeline",
+  image: "blog/michelle-moorhead.jpg", 
+  bio: "Michelle Moorhead is the Executive Director of Teen Lifeline, a 34 year old nonprofit focused on the prevention of youth suicide. Ms. Moorhead possesses a Master's Degree in Psychology from the University of Northern Colorado with an emphasis in adolescent psychology.  She is a state Licensed Professional Counselor and a Certified Crisis Counselor through the American Association of Suicidology. She has been working in the behavioral health field for the past 36 years. In 2004, she was named Arizona’s Executive Director of the Year by the Organization of Non-Profit Executives. She has extensive experience presenting at both the local and national level in the area of teen suicide prevention, crisis intervention, and utilizing volunteers."
+}
 ---
 
 If you have not considered suicide prevention training in the past, think about it now during National Suicide Prevention Month
@@ -25,10 +30,7 @@ Consider these stats.
 
 The U.S. Centers for Disease Control (CDC) agrees that [prevention is key](https://www.cdc.gov/violenceprevention/pdf/asap_suicide_issue2-a.pdf) to reducing the rate of suicide. This means providing suicide prevention training to people throughout the community to serve as gatekeepers to help. Gatekeepers are people who might have direct contact with people who are most at risk of suicide. Examples of gatekeepers include [educators](https://teenlifeline.org/teen-topics/educators/), human resources directors, and managers, all who might notice changes in someone’s behavior or engagement. In some cases, even a trusted co-worker can be in a position to recognize at-risk behavior and offer support. Gatekeepers could be anyone who is interested in and willing to help.
 
-{% asset 'blog/2020-09-023-suicide-prevention-training01.jpg'
-   alt='During Suicide Prevention Month, consider how you can support employees and those they serve with appropriate training '
-   magick:resize='670' %}
-
+{% picture blog blog/2020-09-023-suicide-prevention-training01.jpg --alt During Suicide Prevention Month, consider how you can support employees and those they serve with appropriate training %}
 
 ## Which topics should I cover in our suicide prevention training? 
 
@@ -102,15 +104,3 @@ To find out more about suicide and suicide prevention training and to gather res
 * Suicide Prevention Resource Center: [https://www.sprc.org](https://www.sprc.org)
 * National Alliance on Mental Illness (NAMI): [https://www.naminh.org](https://www.naminh.org)
 * American Foundation for Suicide Prevention (ASFP):  [https://afsp.org](https://afsp.org/)
-
----
-{% asset 'blog/michelle-moorhead.jpg'
-   alt='Michelle Moorhead'
-   class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120' %}
-
-### Michelle Moorhead
-
-*Michelle Moorhead is the Executive Director of Teen Lifeline, a 34 year old nonprofit focused on the prevention of youth suicide. Ms. Moorhead possesses a Master's Degree in Psychology from the University of Northern Colorado with an emphasis in adolescent psychology.  She is a state Licensed Professional Counselor and a Certified Crisis Counselor through the American Association of Suicidology. She has been working in the behavioral health field for the past 36 years. In 2004, she was named Arizona’s Executive Director of the Year by the Organization of Non-Profit Executives. She has extensive experience presenting at both the local and national level in the area of teen suicide prevention, crisis intervention, and utilizing volunteers.*
-{: .clearfix }
----

@@ -1,0 +1,81 @@
+# https://rbuchberger.github.io/jekyll_picture_tag/presets
+
+media_queries: # blog: 670, 1170, foundation: 640, 1024, 1200, 1440
+  large: 'min-width: 1025px'
+  small: 'max-width: 1024px'
+
+presets:  
+
+  default:
+    formats: [original]
+    widths: [1200]
+    fallback_width: 1200
+    size: 100vw
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: picture
+
+
+  third:
+    formats: [original]
+    widths: [670]
+    fallback_width: 670
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: picture
+
+  blog:
+    formats: [original]
+    widths: [670]
+    fallback_width: 670
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: img
+
+  blog-wide:
+    formats: [original]
+    widths: [1170]
+    fallback_width: 1170
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: picture
+
+  author:
+    formats: [original]
+    widths: [120]
+    fallback_width: 120
+    size: 120px
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: img 
+
+
+  direct-url:
+    markup: direct_url
+    formats: [original]
+    fallback_width: 1200
+    quality: 90
+
+  third-bg:
+    markup: direct_url
+    formats: [original]
+    fallback_width: 600
+    quality: 90
+
+  # lazy: # https://github.com/verlok/vanilla-lazyload
+  #   markup: data_auto
+  #   formats: [webp, original]
+  #   widths: [200, 400, 600, 800]
+  #   noscript: true # add a fallback image inside a <noscript> tag.
+  #   attributes: 
+  #     img: class="lazy"

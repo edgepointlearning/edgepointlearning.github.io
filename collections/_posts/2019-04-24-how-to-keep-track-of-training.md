@@ -16,9 +16,7 @@ Keeping track of employee training is crucial. Nearly 40% of employees leave the
 
 Additionally, for heavily regulated industries where non-compliance and lack of certifications can literally shut you down, tracking employee training ensures that everyone on site has what they need to operate safely and legally. This is especially important for industries such as construction and healthcare and in any job that operates under a government contract.
 
-{% asset 'blog/2019-04-24-how-to-keep-track-of-training01.jpg'
-  alt='40% of new employees leave within a year if training is inadequate'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-04-24-how-to-keep-track-of-training01.jpg --alt 40% of new employees leave within a year if training is inadequate %}
 
 Finally, knowing who has been trained and who has not can help you understand what’s going on with your employees. For example, if you are seeing consistent errors in a particular area of your company, you can review the training logs to see if the employees making the error have been adequately trained. This can prevent misunderstandings between supervisors and employees, increase productivity in the workplace, and generally create a better, more collaborative atmosphere.
 

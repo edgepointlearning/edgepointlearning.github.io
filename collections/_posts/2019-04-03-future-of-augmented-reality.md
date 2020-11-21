@@ -1,9 +1,15 @@
 ---
 title:    "Your Guide To The Future Of Augmented Reality In Corporate Training"
 permalink: /blog/future-of-augmented-reality/
-author: { name: Quincy Conley, Ph.D. }
 image: blog/2019-04-03-future-of-augmented-reality-hero.jpg
 excerpt: "Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today."
+
+author: { 
+  name: "Quincy Conley, Ph.D.",
+  title:  "Learning Scientist, Pearson",
+  image: "blog/2017-10-16-quincy-conley.jpg", 
+  bio: "Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and researcher for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota."
+}
 ---
 
 Augmented reality (AR) is well on its way of being considered a mainstream technology that will soon become part of our everyday lives. It's already begun to change how marketing, advertising, and entertainment industries operate. Despite the growing attention given to the potential of AR, I feel like its potential in the workplace has yet to be realized. Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today.
@@ -33,9 +39,7 @@ The major components of today’s AR systems are:
 
 Usually, the camera and display screen are fitted for the user with goggles of some sort. However, as long as the user looks through a display screen, the AR device will augment whatever he or she looks at with or without goggles. Conversely, the microprocessor with software can come in many forms, i.e. a desktop, laptop computer, or cell phone.
 
-{% asset 'blog/2019-04-03-future-of-augmented-reality-01.jpg'
-  alt='Phone in hand with augmented reality'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-04-03-future-of-augmented-reality-01.jpg --alt Phone in hand with augmented reality %}
 
 ## Current uses of augmented reality
 
@@ -83,9 +87,7 @@ Technology prognosticators posit that the highly visual and interactive format h
 
 Augmented reality in corporate training has been shown to improve critical aspects for an organization such as communication, collaboration, training, and more. Here's some of the leading augmented reality training ideas for tomorrow's corporate training spaces.
 
-{% asset 'blog/2019-04-03-future-of-augmented-reality-02.jpg'
-  alt='Engine diagram in augmented reality'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-04-03-future-of-augmented-reality-02.jpg --alt Engine diagram in augmented reality %}
 
 ### Communication
 
@@ -153,9 +155,7 @@ Finally, one of the more interesting augmented reality in corporate training exa
 
 The ability to superimpose virtual objects on the real world while undergoing a complex project has been shown to be a huge help for salespeople and their customers while developing their decision-making skills. Same goes for engineers, designers, and other professions where team-work and decision-making come into play. AR has the innate ability to visualize abstract ideas in concrete ways to make plans and designs more real (Faldi, 2018).
 
-{% asset 'blog/2019-04-03-future-of-augmented-reality-ig.jpg'
-  alt='Six benefits of cross training employees'
-  magick:resize='1170' @pic %}
+{% picture blog-wide blog/2019-04-03-future-of-augmented-reality-ig.jpg --alt Six benefits of cross training employees %}
 
 ## Potential benefits of augmented reality in corporate training
 
@@ -185,19 +185,11 @@ Are you ready to learn more? [EdgePoint Learning](https://www.edgepointlearning.
 
 [Contact us today](/contact/) to talk about our custom training solutions!
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }
 
 ---
-### Quincy Conley
 
-{% asset 'blog/2017-10-16-quincy-conley.jpg'
-   alt='Quincy Conley'
-   class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='300' %}
-
-*Quincy Conley is a Learning Scientist on the Learning Research and Design team at Pearson. He has worked as a dedicated instructional designer and researcher for over 16 years. With expertise in using biometric sensors to examine learning experiences, his primary functions are to decide what combination of appropriate educational techniques and technology to use to increase learning gains. His current research interests are in designing performance support systems, augmented reality and intelligent tutoring systems. Quincy earned his Ph.D. in Educational Technology from Arizona State University, and both his M.A. in Instructional Design & Technology and B.A. in Aerospace Science from the University of North Dakota.*
-{: .clearfix }
----
+<!-- todo: footnotes should go after author info -->
 
 ## Learn more
 * Augmented reality is an always-changing world. Beyond this post, you can learn more about augmented reality in the following studies and articles.

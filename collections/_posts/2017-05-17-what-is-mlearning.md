@@ -8,9 +8,7 @@ excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. 
 
 Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/), twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?
 
-{% asset 'blog/2017-05-17-what-is-mlearning-02.jpg'
-  alt='86% of employees use their smartphones at work'
-  magick:resize='670' %}
+{% picture blog blog/2017-05-17-what-is-mlearning-02.jpg --alt 86% of employees use their smartphones at work %}
 
 ## What is mLearning?
 When it comes to your workforce, you want a variety of training solutions that can meet all of their needs. Some training needs to be in-depth, some needs to be in-person, and some needs to be interactive. We talked a bit about the differences between [eLearning and instructor-led learning](/blog/Instructor-led-Training-vs-eLearning/) in an earlier post, but one topic we didn't cover in that post was mLearning.
@@ -19,9 +17,7 @@ With mLearning, you can capture your employee's most important training in the p
 
 mLearning, or mobile learning as it's also called, isn't just eLearning that's designed for mobile phones and tablets. It's a type of training that uses the advantages of these mobile devices to create better and more focused training materials for your employees.
 
-{% asset 'blog/2017-05-17-what-is-mlearning-03.jpg'
-  alt='Twice as many people go online from a mobile device than laptop or computer'
-  magick:resize='670' %}
+{% picture blog blog/2017-05-17-what-is-mlearning-03.jpg --alt Twice as many people go online from a mobile device than laptop or computer %}
 
 In 2017, 47% of organizations used mobile devices for training, and that number is only increasing. A full [86% of employees](https://blog.capterra.com/mobile-learning-trends-2019/) already use their phone at work. The world of mLearning is only going to get bigger. By laying the groundwork now for effective mLearning now, we can guarantee even better opportunities for on-the-job training for our future in-house, on-the-road, and remote employees.
 
@@ -38,8 +34,7 @@ Those reference guides and new videos? You guessed it—perfectly matched to mLe
 
 mLearning is training that takes place right where your employees need it, when they need it. It's necessarily more focused and concise than the majority of eLearning courses. Whereas most eLearning courses are 20-60 minutes long, mLearning modules are built to take three to ten minutes, max.
 
-{% asset 'blog/2017-05-17-what-is-mlearning-04.svg'
-  alt='benefits of mLearning' @inline %}
+{% svg '/assets/svg/blog/2017-05-17-what-is-mlearning-04.svg' alt='benefits of mLearning' %}
 
 ## What are the major mLearning advantages and disadvantages?
 Not every training topic will benefit from mLearning modules, but when used correctly, mLearning provides training that is:
@@ -59,8 +54,7 @@ Mobile learning for workforce training can be a great option for:
 
 However, mLearning doesn't take the place of eLearning or in-person training. For effective mLearning, it needs to focus on a specific topic, task, or goal. That means it's not good for larger introductory modules or nuanced topics that require a lot of explanation and practice. Likewise, it's difficult to show complex graphics or flow charts on mobile. mLearning can and should complement these larger topics, but it simply isn't the ideal primary mode of training in these cases.
 
-{% asset 'blog/2017-05-17-what-is-mlearning-01.svg'
-   alt='What is mLearning?' @inline %}
+{% svg '/assets/svg/blog/2017-05-17-what-is-mlearning-01.svg' alt='What is mLearning?' %}
 
 ## How do I create an effective mLearning course?
 Once you've found a topic that will benefit from mLearning, create a course with mobile in mind. The design itself shouldn't just be an eLearning course made smaller. It must be created for the mobile environment.
@@ -86,4 +80,4 @@ But, before jumping directly into mLearning, make sure it's matched correctly to
 
 To learn more about the different types of employee training out there, check out our [post on the different types of training](/blog/top-10-types-of-employee-training/). Or, if you want to find out how you can create the best training materials for your employees, click the button below to get in touch with the developers at EdgePoint Learning. We'd love to hear about your project.
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

@@ -1,6 +1,6 @@
 ---
 title:    "Hard Skills Vs. Soft Skills: Examples And Definitions"
-permalink: /blogs/hard-skills-vs-soft-skills/
+permalink: /blog/hard-skills-vs-soft-skills/
 author: { name: Corey Bleich }
 image: blog/2020-03-25-hard-skills-vs-soft-skills.jpg
 excerpt: Hard skills vs soft skills isn't an either/or proposition. It's a both/and package worth cultivating in employees. Here's your guide to these two skillsets.
@@ -18,8 +18,7 @@ Fortunately, the difference between hard skills and soft skills is pretty clear.
 
 Think of hard skills as those you list on a resumé or the areas in which you hold certifications. Soft skills are those that help you build longer-lasting coworker and customer relationships. The importance of hard skills vs. soft skills should not be underestimated. 
 
-{% asset 'blog/2020-03-25-hard-skills-vs-soft-skills01.svg'
-   alt='Hard Skills VS Soft Skills' %}
+{% svg '/assets/svg/blog/2020-03-25-hard-skills-vs-soft-skills01.svg' alt='Hard Skills VS Soft Skills' %}
 
 ## What are soft skills? 
 
@@ -69,9 +68,7 @@ Developing soft skills matters. A Carnegie Mellon Foundation study found that 75
 
 Put simply, you can be a certified expert in your field, but that won’t matter much if you just can’t work with your fellow employees. 
 
-{% asset 'blog/2020-03-25-hard-skills-vs-soft-skills02.jpg'
-  alt='7% of employers value soft skills more than hard skills'
-  magick:resize='670' %}
+{% picture blog blog/2020-03-25-hard-skills-vs-soft-skills02.jpg --alt 7% of employers value soft skills more than hard skills %}
 
 ## What are hard skills?
 
@@ -118,4 +115,4 @@ This might be as simple as modifying training modules to be completed in teams, 
 
 <strong>As you plan your training sessions for your new hires or long-term employees, don’t think hard skills vs. soft skills. [EdgePoint Learning](https://www.edgepointlearning.com/) can help you find a training approach to both that works for what your employees need right now. [Get in touch today](/contact/).</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

@@ -16,9 +16,7 @@ The benefits of eLearning for your company are clear. An [IBM white paper](https
 * <strong>Scalable:</strong> When your team expands, your eLearning does too
 * <strong>Engaging:</strong> These days, the vast majority of the [workforce prefers engaging with eLearning](https://www.northpass.com/beginners-guide-to-online-training/engage-your-target-learners)
 
-{% asset 'blog/2019-07-31-when-to-use-elearning-infographic.jpg'
-  alt='The benefits of elearning are clear'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-07-31-when-to-use-elearning-infographic.jpg --alt The benefits of elearning are clear %}
 
 One of the major benefits of eLearning is its customizable agility. Gone are the days of read-a-chapter-take-the-quiz mode of training. You have [options for eLearning](https://elearningindustry.com/choosing-right-elearning-methods-factors-elements) that include:
 

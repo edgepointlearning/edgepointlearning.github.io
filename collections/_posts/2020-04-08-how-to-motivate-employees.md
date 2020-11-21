@@ -1,6 +1,6 @@
 ---
 title:    "How To Motivate Employees: 5 Forward-Thinking Approaches"
-permalink: /blogs/how-to-motivate-employees/
+permalink: /blog/how-to-motivate-employees/
 author: { name: Corey Bleich }
 image: blog/2020-04-08-how-to-motivate-employees.jpg
 excerpt: How to motivate employees to get on board with your vision for the future? Here are five creative ways to motivate your employees that work.
@@ -43,8 +43,7 @@ Recognition of a team may be a more effective strategy and help everyone stay mo
 
 ## 3. Incorporate self-directed learning when possible
 
-{% asset 'blog/2020-04-08-how-to-motivate-employees01.svg'
-   alt='Not every person on your team needs to learn the exact same information at the exact same pace' %}
+{% svg '/assets/svg/blog/2020-04-08-how-to-motivate-employees01.svg' alt='Not every person on your team needs to learn the exact same information at the exact same pace' %}
 
 
 Contradictory to the last idea about how to motivate employees comes this next tip: incorporate self-directed learning where possible. Think back to being in school and receiving the required reading list. Maybe you loved reading, but the books that were required were just not your genre or style. The fact that they were required regardless of your interests or needs made reading them a slog.

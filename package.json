@@ -1,24 +1,26 @@
 {
-  "name": "edgepointlearning.com",
+  "name": "jekyll4",
   "version": "1.0.0",
-  "description": "EdgePoint Learning website",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edgepointlearning/edgepointlearning.com.git"
+    "url": "git+https://github.com/edgepointlearning/jekyll4.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edgepointlearning/edgepointlearning.com/issues"
+    "url": "https://github.com/edgepointlearning/jekyll4/issues"
   },
-  "homepage": "https://github.com/edgepointlearning/edgepointlearning.com#readme",
-  "devDependencies": {
-    "foundation-sites": "^6.5.3",
-    "jquery": "^3.5.0",
-    "what-input": "^5.2.1"
+  "homepage": "https://github.com/edgepointlearning/jekyll4#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3",
+    "jquery": "^3.5.1",
+    "motion-ui": "^2.0.3",
+    "what-input": "^5.2.10"
   }
 }

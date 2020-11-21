@@ -1,10 +1,9 @@
 ---
 title:    "Designing Virtual Instructor-Led Training? Here's 5 Tips To Get Started"
-permalink: /blogs/virtual-instructor-led-training/
+permalink: /blog/virtual-instructor-led-training/
 author: { name: Corey Bleich }
 image: blog/2020-08-05-virtual-instructor-led-training.jpg
 excerpt: Virtual instructor-led training keeps your workforce informed and engaged. These are our tips to get started with your own virtual instructor-led programs.
-
 ---
 
 Keep your workforce informed and engaged with virtual instructor-led training
@@ -18,13 +17,11 @@ Virtual instructor-led training can combine all of the benefits of on-the-go tra
 
 Think jumping on a Zoom call to teach and learn about a specific topic with a selected group of employees and instructor. Classes can be a small team, or they can be large enough to encompass full departments.
 
-{% asset 'blog/2020-08-05-virtual-instructor-led-training01.jpg'
-   alt='Remote work has increased 140% in 15 years'
-   magick:resize='670' %}
+{% picture blog blog/2020-08-05-virtual-instructor-led-training01.jpg --alt Remote work has increased 140% in 15 years %}
 
 ## What are the benefits of virtual instructor-led training? 
 
-The benefits of virtual instructor-led training are real. It's a great way to meet the need to train a [remote workforce](/blogs/managing-remote-teams/) whether that's on updated systems or new regulations, or as part of your company's ongoing development efforts.
+The benefits of virtual instructor-led training are real. It's a great way to meet the need to train a [remote workforce](/blog/managing-remote-teams/) whether that's on updated systems or new regulations, or as part of your company's ongoing development efforts.
 
 Virtual instructor-led training is:
 
@@ -55,7 +52,7 @@ Similarly, make sure that your activities, meetings, and other associated tasks 
 
 ## 3. Engage with participants 
 
-Consider your delivery. It makes no sense to just read from the screenshare participants have in front of them when you could just as easily deploy an eLearning course. Instead, when considering [best practices for remote training](/blogs/best-practices-for-training-remote-employees/), make your virtual instruction engaging and worth logging on for at that specific time. 
+Consider your delivery. It makes no sense to just read from the screenshare participants have in front of them when you could just as easily deploy an eLearning course. Instead, when considering [best practices for remote training](/blog/best-practices-for-training-remote-employees/), make your virtual instruction engaging and worth logging on for at that specific time. 
 
 Add interactions and activities mindfully
 {: .fancy-quote }

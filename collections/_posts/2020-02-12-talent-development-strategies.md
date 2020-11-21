@@ -1,6 +1,6 @@
 ---
 title:    "7 Effective Talent Development Strategies For 2020"
-permalink: /blogs/talent-development-strategies/
+permalink: /blog/talent-development-strategies/
 author: { name: Corey Bleich }
 image: blog/2020-02-12-talent-development-strategies.jpg
 excerpt: These talent development strategies can help you identify and nurture your employees’ skills to build a better workforce.
@@ -62,9 +62,7 @@ Consider both hard and [soft skills](/blog/train-for-soft-skills/) when taking t
 
 It’s true: even the smallest companies are bursting with talent. It is entirely possible that all of the skills you need now or in the future may already be on your payroll.  
 
-{% asset 'blog/2020-02-12-talent-development-strategies01.jpg'
-   alt='All of the skills you need may already be on your payroll'
-   magick:resize='670' %}
+{% picture blog blog/2020-02-12-talent-development-strategies01.jpg --alt All of the skills you need may already be on your payroll %}
 
 One of the best talent development strategies is showing employees that you are committed to them not only in their careers but also as well-rounded people who may be under-utilized and ready for more challenging work. 
 
@@ -104,4 +102,4 @@ This helps not only strengthen your current teams, but is also useful in recruit
 
 <strong>At EdgePoint Learning, talent development is what we do. For help with your training needs analysis to full-blown course design, [get in touch today](/contact/) to learn more about our approach to learning.</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

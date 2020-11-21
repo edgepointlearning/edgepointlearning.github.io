@@ -4,9 +4,6 @@ permalink: /blog/how-to-train-employees-on-new-system/
 author: { name: Corey Bleich }
 image: blog/2019-04-17-how-to-train-employees-on-new-system.jpg
 excerpt: "Not sure how to train employees on a new system or technology? Here are five of our favorite tips for doing it effectively and hassle-free."
-redirect_from: 
-  - "/2016/06/15/technical-training-best-practices/"
-  - "/blog/technical-training-best-practices/"
 ---
 The only constant is chang...ing technology.
 {: .featured-text }
@@ -89,4 +86,4 @@ Many employees might also be in the field or remote, so make sure you’re desig
 
 <strong>At EdgePoint Learning, teaching you how to train employees on a new system is one of the things we do best. From tweaking your current training program to designing a new one from the ground up, we can help. [Get in touch with our training experts today!](/contact/)</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

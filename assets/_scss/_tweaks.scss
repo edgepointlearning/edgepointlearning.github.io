@@ -1,0 +1,23 @@
+// https://cssgradient.io/
+.gradient--purple {
+  background: #8E2DE2;
+  background: linear-gradient(to bottom, #4A00E0, #8E2DE2);
+}
+
+button.infusion-recaptcha,
+div.infusion-submit button {
+  @extend .cta;
+  margin-top: $global-margin;
+  margin-bottom: $global-margin;
+}
+span.infusion-option {
+  display: block;
+  margin-left: $global-margin;
+}
+
+.solution-temp-icon {
+  max-width: 240px;
+  @include breakpoint(large) {
+    max-width: 80%;
+  }
+}

@@ -26,9 +26,7 @@ Beyond feeling welcomed at work, here are just a few (research-based) benefits o
 
 And in the C-suite? [Executive teams with more diversity made more money](https://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity) for their companies (and, by extension, themselves).  
 
-{% asset 'blog/2019-08-28-lgbtq-diversity-training_1.jpg'
-  alt='Diverse teams outperform individual decision-makers 87% of the time'
-  magick:resize='1170' @pic %}
+{% picture blog/2019-08-28-lgbtq-diversity-training_1.jpg --alt Diverse teams outperform individual decision-makers 87% of the time %}
 
 ## Why is LGBTQ diversity training so important? 
 
@@ -71,9 +69,7 @@ Remember those photos of panels of men making decisions about women’s health? 
 
 Pro-tip, though: not every employee will want to be involved, for a variety of reasons. Open the opportunity and then allow each employee to decide for themselves. Also, ensure employees receive appropriate compensation and/or time to work on these initiatives. 
 
-{% asset 'blog/2019-08-28-lgbtq-diversity-training-02.jpg'
-  alt='Meaningfully involve LGBTQ employees in the decision-making process'
-  magick:resize='1170' @pic %}
+{% picture blog/2019-08-28-lgbtq-diversity-training-02.jpg --alt Meaningfully involve LGBTQ employees in the decision-making process %}
 
 ### 4. Focus on genuine inclusion
 

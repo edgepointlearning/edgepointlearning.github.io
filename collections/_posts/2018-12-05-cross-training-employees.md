@@ -20,9 +20,7 @@ As you'll notice, neither of these examples require weeks spent in boardrooms wi
 
 Cross-training simply aims to build the skills of everyone in the company so everyone better understands exactly what it takes to run the business. The idea is to empower employees to provide support from within the company instead of outsourcing or overloading one group of employees during hectic times.
 
-{% asset 'blog/2018-12-05-cross-training-employees-infographic.jpg'
-  alt='Six benefits of cross training employees'
-  magick:resize='1170' @pic %}
+{% picture blog-wide blog/2018-12-05-cross-training-employees-infographic.jpg --alt Six benefits of cross training employees %}
 
 ## 6 benefits of cross-training employees
 
@@ -92,4 +90,4 @@ There is a fine line between overloading your employees and reaping the benefits
 
 <strong>[Get in touch today to learn more](/contact/)!</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

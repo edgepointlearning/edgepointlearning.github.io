@@ -1,41 +1,30 @@
 ---
 layout: default
 ---
-<div class="grid-x align-middle align-center splash">
-  <div class="cell">
-    <div class="grid-container">
-      <div class="cell">
+<div class="grid-x align-middle align-center padding-vertical-1" style="background-color: black;">
+  <div class="cell" style="max-width: 1170px;">
 
-          <div style="padding:49.69% 0 0 0;position:relative;">
-            <iframe
-              src="https://player.vimeo.com/video/{{page.vimeo}}?title=0&byline=0&portrait=0"
-              style="position:absolute;top:0;left:0;width:100%;height:100%;"
-              frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-            </iframe>
-          </div>
-          <script src="https://player.vimeo.com/api/player.js"></script>
-
+      <div style="padding:49.69% 0 0 0;position:relative;">
+        <iframe
+          src="https://player.vimeo.com/video/{{page.vimeo}}?title=0&byline=0&portrait=0"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+        </iframe>
       </div>
-    </div>
+      <script src="https://player.vimeo.com/api/player.js"></script>
+
   </div>
 </div>
 
+<div class="grid-container margin-bottom-2">
+  <div class="grid-x grid-margin-x grid-padding-x grid-padding-y align-center">
 
-<div class="grid-container marginBot">
-  <div class="grid-x align-center content">
-
-    <div class="cell">
-      <h1 class="h2">{{ page.title }}</h1>
+    <div class="cell content margin-top-3">
+      <h1 class="h2 noWidows margin-bottom-2">{{ page.title }}</h1>
       {{ content }}
     </div>
 
-    {% assign forms = site.forms | where:'is-id', '688' %}
-    {% for form in forms %}
-    <div class="cell medium-8 large-6 content--form marginTop">
-      <h2 class="h3 marginBot">{{ form.title }}</h2>
-      {{ form.content }}
-    </div>  
-    {% endfor %}
+    {% include form.html title = 'Schedule A Demo' keap = 975 %}
 
   </div>
-</div>
+</div>    

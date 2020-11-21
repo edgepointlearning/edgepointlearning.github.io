@@ -4,7 +4,6 @@ permalink: /blog/types-of-microlearning/
 author: { name: Corey Bleich }
 image: blog/2018-06-13-types-of-microlearning.jpg
 excerpt: Microlearning is quick, accessible learning that offers your employees information when they need it, where they need it. But, just like all forms of training, different types of microlearning allow you to meet your varying goals.
-redirect_from: "/blog/microlearning/"
 ---
 Microlearning gives employees the information they need, right when and where they need it most
 {: .featured-text }
@@ -13,9 +12,7 @@ Microlearning is quick, accessible learning that offers your employees informati
 
 ## What is microlearning?
 
-{% asset 'blog/2018-06-13-types-of-microlearning01.jpg'
-  alt='Most employees only have 24 minutes a week for training'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-06-13-types-of-microlearning01.jpg --alt Most employees only have 24 minutes a week for training %}
 
 
 Microlearning uses rich media across multiple devices to engage and inspire learners to dig deeper. More than just a larger eLearning course split into pieces, microlearning encourages the learner to apply what they learn immediately.
@@ -49,9 +46,7 @@ Microlearning works best when it's short and focused to one specific learning ob
 ## What are the benefits of microlearning?
 Microlearning is desperately needed by time- and attention-hungry employees, and reduces strain on your current training resources. The different types of microlearning offer tremendous benefit to employees and employers, including:
 
-{% asset 'blog/2018-06-13-types-of-microlearning02.jpg'
-  alt='Microlearning improves knowledge transfer by 17%'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-06-13-types-of-microlearning02.jpg --alt Microlearning improves knowledge transfer by 17% %}
 
 * <strong>Microlearning is effective:</strong> There is a 17% improvement in [knowledge transfer](http://blog.commlabindia.com/elearning-development/byte-sized-learning) when learning is broken into smaller chunks
 
@@ -77,9 +72,7 @@ There are 11 major types of microlearning you can choose from, including:
 10. [Geofencing](/blog/geofencing/)
 11. Performance Support Tools (PSTs) or job aids
 
-{% asset 'blog/2018-06-13-top-11-types-of-employee-training.jpg'
-   alt='Top 11 Types of Employee Training'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-06-13-top-11-types-of-employee-training.jpg --alt Top 11 Types of Employee Training %}
 
 ### Interactive parallax-based scrolling
 
@@ -160,4 +153,4 @@ If you're ready to learn more about how microlearning can help your employees, i
 
 <strong>Want to get started? [Give EdgePoint Learning a call today](/contact/). We can help.</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

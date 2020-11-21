@@ -1,6 +1,6 @@
 ---
 title:    "How To Support Gender Inclusion In Your Workplace"
-permalink: /blogs/workplace-gender-training/
+permalink: /blog/workplace-gender-training/
 author: { name: Corey Bleich }
 image: blog/2020-07-22-workplace-gender-training.jpg
 excerpt: Here’s what it means to move beyond the binary, with actionable tips on how you can create a gender inclusive workplace immediately and in your training resources. 

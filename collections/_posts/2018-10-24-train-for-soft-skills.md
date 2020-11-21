@@ -50,9 +50,7 @@ Feel like that number is low? This translates into a [256% ROI with soft skills 
 ## 5 ways to teach soft skills to employees
 Soft skills development does not occur in a vacuum, and it doesn’t just magically occur over time. Here are five ways to teach your employees the soft skills they need.
 
-{% asset 'blog/2018-10-24-train-for-soft-skills-infographic.jpg'
-  alt='Train For Soft Skills'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-10-24-train-for-soft-skills-infographic.jpg --alt Train For Soft Skills %}
 
 ### 1. Hire smarter
 

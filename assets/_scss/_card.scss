@@ -1,0 +1,30 @@
+.card--epl {
+  @extend .radius--rem;
+  @extend .shadow;
+  border: none;
+
+  a {
+    height: 100%;
+    color: $black;    
+  }
+
+  .card__image {
+    height: 208px;
+    overflow: hidden;
+    div {
+      width: 100%;
+      height: 100%;
+      transition: all .2s ease-in-out;
+    }
+  }
+
+  h3 {
+    font-weight: 600;
+    line-height: 1.1;
+  }
+
+  &:hover .card__image div {
+    transform: scale(1.05);
+  }
+
+}

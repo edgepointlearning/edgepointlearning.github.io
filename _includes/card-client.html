@@ -1,5 +1,0 @@
-  <div class="card-client cell small-6 medium-4 large-3 flex-container align-middle align-center align-stretch {% if client.story %}client-link{% endif %}" id="{{ client.logo | replace: '.png' '' }}">
-    {% if client.story %}<a href="{{ client.story }}">{% endif %}
-      {% asset 'clients/{{ client.logo }}' class='client-logo' %}
-    {% if client.story %}</a>{% endif %}</a>
-  </div>

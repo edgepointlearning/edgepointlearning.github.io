@@ -1,22 +1,33 @@
-{% include head.html %}
+<!doctype html>
+<html class="no-js" lang="en">
 
-  <body class="layout-{{ page.layout }} page-{{ page.name | replace: '.html', '' | downcase}} {% if jekyll.environment == 'development' %} development{% endif %}">
+  {% include head.html %}
   
-    {% include nav-offcanvas.html %}
+  <body class="layout-{{ page.layout }} page-{{ page.name | replace: '.html', '' | downcase}} {% if jekyll.environment == 'development' %} development{% endif %}">
+
     {% include search.html %}
+
+    <div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
+      {% include nav-off-canvas.html %}
+    </div>
   
     <div class="off-canvas-content" data-off-canvas-content>
-      {% include nav-oncanvas.html %}</nav>
+      {% include nav.html %}
       <main>
         {{ content }}
-        {% include card-cta.html %}
       </main>
-      <footer>{% include footer.html %}</footer>
+      {% include nav-footer.html %}
     </div>
-
-    {% asset main.js %}
-
-    <script>console.log("jekyll environment: {{ jekyll.environment }}");</script>
+    
+    <script src="{{ '/assets/js/vendor/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/what-input.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/foundation.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/clipboard.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/ofi.js' | relative_url }}"></script>
+    <script>
+      $(document).foundation();
+    </script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 
     {% if jekyll.environment != 'development' %}
       <!-- infusionsoft -->
@@ -33,7 +44,8 @@
     {% else %}
      <!-- No infusionsoft or google trackers cuz jekyll.environment = development -->
     {% endif %}
-    {% include algolia.html %}
-  </body>
 
+    {% include algolia.html %}
+    <script>console.log("jekyll environment: {{ jekyll.environment }}");</script>
+  </body>
 </html>

@@ -4,10 +4,6 @@ permalink: /blog/how-to-create-your-custom-elearning-course-with-25-free-tools/
 author: { name: Corey Bleich }
 image: blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools.jpg
 excerpt: Find over 25 free eLearning authoring tools to create your custom courses in 2019. We also break down the 6 steps for creating the best learning programs. 
-redirect_from: 
- - "/2017/04/02/How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools/"
- - "/blog/whats-the-key-to-creating-a-successful-elearning-project/"
-
 ---
 
 Do you need to teach your employees about [new software or processes](/blog/how-to-train-employees-on-new-system/)? Would an eLearning course make your life much easier when it came to [onboarding new employees](/blog/how-to-train-new-employees/)? You can create a custom eLearning course, specifically made to meet your training needs. We lay out the six steps every successful eLearning project follows and then share 25 of our favorite free eLearning authoring tools for graphics, audio, video, and more that you can use today to make your course a reality. Read on to find all of our tips and tools. 
@@ -50,9 +46,7 @@ After this step, you'll also send your new course out to SMEs or other company s
 
 Once that's done, you'll move your course to an [LMS or cloud platform](/blog/best-lms-for-small-business/).
 
-{% asset 'blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.jpg'
-  alt='How to create an eLearning course infographic'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2017-04-02-How-To-Create-Your-Custom-eLearning-Course-With-25-Free-Tools01.jpg --alt How to create an eLearning course infographic %}
 
 ## 25 free eLearning authoring tools 
 You'll notice that, in those six steps, we identified a few key areas of development, namely:
@@ -126,4 +120,4 @@ For some, DIYing your own eLearning course won't be worth the time or effort. Or
 
 <strong>If you need help with any part of your employee training, get in touch with our team at [EdgePoint Learning to get started today](/contact/). Want to see our work in action? [Find all of our demos here](/form/demo/).</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

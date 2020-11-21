@@ -38,9 +38,7 @@ On-the-job training delivered specifically through various microlearning modules
 4. Gives you flexibility
 5. It's social-ready
 
-{% asset 'blog/2018-03-21-on-the-job-training-advantages-infographic.jpg'
-  alt='On The Job Training Advantages'
-  magick:resize='1170' @pic %}
+{% picture blog-wide blog/2018-03-21-on-the-job-training-advantages-infographic.jpg --alt On The Job Training Advantages %}
 
 ### Easily applicable
 

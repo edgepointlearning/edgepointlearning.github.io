@@ -1,0 +1,27 @@
+.card--overlay {
+  @extend .radius--rem;
+  @extend .shadow;
+  border: none;
+  min-height: 200px;
+
+  @include breakpoint(medium) {
+    min-height: 300px;
+  }
+
+  .subheader, a {
+    color: $white;
+  }
+
+  a {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  &:hover {
+    
+    h3, p {
+      animation:slide-top .5s cubic-bezier(.25,.46,.45,.94) both;
+    }
+  }
+}

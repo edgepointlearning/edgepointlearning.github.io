@@ -104,6 +104,6 @@ Now more than ever, faster (and deeper) learning is needed for your employees. S
 
 <strong>What other insights did you pull from these studies, and how can you see them being applicable to your workforce? Want to incorporate them into your training strategy? The EdgePoint team would love to help!</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }
 
 <em>This article was originally published on [TLNT](https://www.tlnt.com/) on [December 8, 2017](https://www.tlnt.com/neuroscience-breakthroughs-that-will-help-improve-training/).</em>

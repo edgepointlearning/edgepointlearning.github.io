@@ -4,9 +4,6 @@ permalink: /blog/instructor-led-training-vs-elearning/
 author: { name: Corey Bleich }
 image: blog/2018-09-17-349094.jpg
 excerpt: Instructor-led training is the traditional, formal version of training that takes place in a classroom, while eLearning can be taken at anytime from an internet-connected device. Read on to learn more.
-redirect_from:
-  - "/blog/2013/7/19/instructor-led-training-vs-elearning"
-  - "/2016/07/21/Instructor-led-Training-vs-eLearning/"
 ---
 
 Instructor-led training (ILT) is the more traditional, formal version of training that takes place in a classroom in front of learners, while eLearning is web-based and can be taken at anytime from an internet-connected device. And, then there's blended learning. If you're trying to find the best training program for your employees, there are a few things to consider when it comes to ILT vs. eLearning, or even blended training. This is what you should know. 
@@ -73,9 +70,7 @@ Just like instructor-led training, eLearning courses must focus on the core prin
 
 ## eLearning vs. traditional learning infographic
 
-{% asset 'blog/2017-03-01-elearning-vs-traditional-learning-infographic@2x.jpg'
-  alt='elearning vs traditional learning infographic' 
-  magick:resize='1170' @pic %}
+{% picture blog blog/2017-03-01-elearning-vs-traditional-learning-infographic@2x.jpg --alt elearning vs traditional learning infographic %}
 
 ## The best of both worlds: Blended learning
 There is one more option. Blended learning incorporates ILT and eLearning, and it’s often utilized to boost the benefits of both. A [U.S. Department of Education survey](https://www2.ed.gov/rschstat/eval/tech/evidence-based-practices/finalreport.pdf) of over 1,000 independent studies showed that instruction that combined online and face-to-face elements had a larger advantage than eLearning or instructor-led training alone.

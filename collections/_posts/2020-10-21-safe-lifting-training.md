@@ -1,6 +1,6 @@
 ---
 title:    How To Create Safe Lifting Training For Employees (And A Free Course!)
-permalink: /blogs/safe-lifting-training/
+permalink: /blog/safe-lifting-training/
 author: { name: Corey Bleich }
 image: blog/2020-10-21-safe-lifting-training.jpg
 excerpt: Here’s how to create and roll-out safe lifting training for your employees, along with a free safe lifting training online course that covers the basics.
@@ -19,9 +19,7 @@ Safe lifting training is exactly what it sounds like. It teaches employees how t
 
 If you have to prioritize training, it’s important to start with employees who lift heavy or bulky objects regularly, of course, but make sure to circle back to all employees at least once a year.
 
-{% asset 'blog/2020-10-21-safe-lifting-training01.jpg'
-   alt='34% of workplace injuries occur from lifting objects'
-   magick:resize='670' %}
+{% picture blog blog/2020-10-21-safe-lifting-training01.jpg --alt 34% of workplace injuries occur from lifting objects %}
 
 ### OSHA safe lifting requirements
 
@@ -70,9 +68,7 @@ For most employees, basic safe lifting techniques can be taught quickly, with si
 * Keep the load close to your body when possible
 * Ask for help if the object is heavy, awkward, or overhead
 
-{% asset 'blog/2020-10-21-safe-lifting-training02.jpg'
-   alt='Safe Lifting Techniques'
-   magick:resize='670' %}
+{% picture blog-wide blog/2020-10-21-safe-lifting-training02.jpg --alt Safe Lifting Techniques %}
 
 ### How to evaluate a lifting task
 
@@ -88,7 +84,7 @@ Another aspect of this is helping even your strongest employees recognize when t
 
 ### Use of personal protective equipment (PPE) when needed
 
-[Personal protective equipment training](/blogs/ppe-training/) is closely linked with safe lifting training. 
+[Personal protective equipment training](/blog/ppe-training/) is closely linked with safe lifting training. 
 
 For example, employees may need to use gloves for better grip or steel-toed boots to protect feet.
 
@@ -101,13 +97,7 @@ Safe lifting training must include the best ways to complete repetitive tasks or
 
 It’s easy to prevent on-the-job injuries with safe lifting training. At EdgePoint Learning, we developed a free safe lifting training online course that is ready to deliver to your employees. While this web-based course just covers the basics, it's a great place to start if you need to get training out fast. We welcome you to share it with your employees. 
 
-<p style="text-align: center" class="marginBot">
-  <a href="https://vimeo.com/357947965/62d47befc5" target="_blank">
-  {% asset 'blog/2020-10-21-safe-lifting-training03.jpg'
-    alt='Free | Proper Lifting Training Course'
-    magick:resize='670' %}
-  </a>
-</p>
+{% picture blog blog/2020-10-21-safe-lifting-training03.jpg --link https://vimeo.com/357947965/62d47befc5 --alt Free | Proper Lifting Training Course %}
 
 Looking for a more detailed safe lifting training program for your workforce? [EdgePoint Learning](https://www.edgepointlearning.com/) can help. Contact us today to learn more about our custom and co-development options, as well as mobile job aids and online learning opportunities. 
 

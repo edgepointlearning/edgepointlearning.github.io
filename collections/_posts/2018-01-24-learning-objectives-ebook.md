@@ -14,4 +14,4 @@ Carrie Lewis Miller, instructional designer with IT Solutions at Minnesota State
 In this eBook, you'll learn the basics of what makes for strong objectives and get insights into multiple tools for designing effective and measurable learning outcomes.
 Ready to create a strong foundation for your employee training? Sign up now to get free, instant access to this eBook.
 
-[Download Free eBook](https://lf225-a96372.pages.infusionsoft.net){:class="button"}
+[Download Free eBook](https://lf225-a96372.pages.infusionsoft.net){: .cta }

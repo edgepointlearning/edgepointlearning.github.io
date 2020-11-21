@@ -1,0 +1,62 @@
+---
+title: A Sample Page
+permalink: /sample-page/
+meta: Since 2007, EdgePoint Learning has provided boutique, end-to-end solutions for employee training needs. Read on to learn about our approach.
+
+image: /gcw/moriarty.jpg
+#imagepos: "top right" # optional to change hero image position. default is "center center"
+wave: bot-6
+
+headline: We build<br> learning experiences<br> that employees love
+tagline: Let's create something amazing for your team
+cta1: Our Solutions
+cta1-url: /solutions/
+cta2: View Demos
+cta2-url: /form/demo/
+
+# these last three are only here because I snuck this page into the blog posts. Normal pages don't need them.
+layout: page
+excerpt: This is a sample PAGE. I've disguised it as a blog post to make it easy to find. Check it out to see different ways we can display content.
+date: 2020-06-01
+---
+
+<div class="grid-container margin-vertical-3">
+
+  <div class="grid-x grid-margin-x grid-margin-y">
+    <div class="cell">
+      <h3 class="font-bold">card--epl card--teaser</h3>
+    </div>
+  </div>
+
+  <div class="grid-x grid-margin-x grid-margin-y align-center">
+    {% for post in site.posts limit: 9 %}
+      {% if forloop.index == 1 %}
+        {% assign class = 'card--teaser card--teaser--XL' %}
+      {% elsif forloop.index == 2 or forloop.index == 3 %}
+        {% assign class = 'card--teaser card--teaser--L' %}
+      {% else %}
+        {% assign class = 'card--teaser card--teaser--M' %}
+      {% endif %}
+      {% include card.html class = class url = post.url image = post.image title = post.title copy = post.excerpt %}
+    {% endfor %}
+  </div>
+
+</div>
+
+
+
+<div class="grid-container margin-vertical-3">
+
+  <div class="grid-x grid-margin-x grid-margin-y">
+    <div class="cell">
+      <h3 class="font-bold">card--epl card--third</h3>
+    </div>
+  </div>
+
+  <div class="grid-x grid-margin-x grid-margin-y align-center marge-up-3">
+    {% include card.html class = 'card--third' title = 'Learning Experiences' subtitle = 'Designed for your needs' url = '/solutions/' image = '/gcw/oliver.jpg' copy = 'Empower your employees with custom eLearning courses, microlearning delivered in the flow of work, or a blended approach of desktop, mobile, performance support, and in-person programs. Explore our solutions.' %}
+    {% include card.html class = 'card--third' title = 'Training Strategy' url = '/elearning-consulting-services/' image = '/gcw/moriarty.jpg' copy = 'Employee training should be fun, not a dreaded checkmark at the end of their day. Learn how we help you create killer user experiences for your workforce, from program planning to launch.' color = '#fffad3' %}
+    {% include card.html class = 'card--third' title = 'PinPoint Learning' subtitle = 'Our mobile microlearning platform' url = 'https://www.pinpointworkforce.com/' image = '/gcw/allie.jpg' copy = 'Meet your employees right where they are with our precision microlearning platform, PinPoint. Explore our mobile-native microlearning LMS, content creation, and performance support solution.' %}
+  </div>
+
+</div>

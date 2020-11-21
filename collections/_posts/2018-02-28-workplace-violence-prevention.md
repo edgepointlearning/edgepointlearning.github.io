@@ -37,9 +37,7 @@ For these employees, workplace violence is the third leading cause of death on t
 
 In general, the occupations with the highest risk of workplace violence include any that interact with the public, are open after dark, and serve alcohol.
 
-{% asset 'blog/2018-02-28-workplace-violence-prevention-01.jpg'
-  alt='16% of all workplace fatalities are due to workplace violence'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2018-02-28-workplace-violence-prevention-01.jpg --alt 16% of all workplace fatalities are due to workplace violence %}
 
 ## How can workplace violence training help?
 

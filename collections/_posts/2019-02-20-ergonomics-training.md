@@ -4,6 +4,13 @@ permalink: /blog/ergonomics-training/
 author: { name: Clint Everton }
 image: blog/2019-02-20-ergonomics-training.jpg
 excerpt: "Ergonomics goes far beyond watching your posture. This is how to create the best ergonomics training courses for your employees (and why it matters!)."
+
+author: { 
+  name: "Clint Everton",
+  title:  "Executive Director, Teen Lifeline",
+  image: "blog/clint-everton.jpg", 
+  bio: "Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at pinpointworkforce.com"
+}
 ---
 
 Ergonomics is sometimes referred to as the science of sitting, but it goes far beyond watching your posture in your chair. The goal of ergonomics is to adapt the workplace for your employees to keep them healthy, safe, and productive. But not all ergonomics training courses are created equal. Here’s how to create the best ergonomics training course for your employees (and why it matters!).
@@ -94,15 +101,3 @@ Mobile-first training apps can make that happen. For example, you can:
 These are just a few examples of the ways in which ergonomics training becomes a daily part of life, not an isolated event. Together, PinPoint and EdgePoint developed a [library of microlearning courses](https://www.pinpointworkforce.com/content) that were made for today's mobile-first employees. With topics on proper ergonomics to back safety to hearing conservation, these courses are ready to roll out today to your team.
 
 <strong>[Get in touch today](/contact/) for a demo of our ergonomics training options, including mobile-first options.</strong>
-
----
-{% asset 'blog/clint-everton.jpg'
-   alt='Clint Everton'
-   class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120' %}
-
-### Clint Everton
-
-*Clint is the founder of PinPoint Workforce. PinPoint makes a mobile app for frontline safety training and EHS. Find out more at [pinpointworkforce.com](https://www.pinpointworkforce.com/).*
-{: .clearfix }
----

@@ -18,9 +18,7 @@ Geofencing also makes tracking customers easier for businesses. The geofence can
 
 However, while it may have started as a sales technique, geofencing has real potential in revolutionizing training and recruitment efforts.
 
-{% asset 'blog/geofencing.jpg'
-  alt='Geofencing'
-  magick:resize='1170' @pic %}
+{% picture blog blog/geofencing.jpg --alt Geofencing %}
 
 ## How does geofencing for recruitment work?
 
@@ -62,4 +60,4 @@ Geofencing can also make the best use of the average [24 minutes a week](https:/
 
 If you want to see how location-aware geofencing can revolutionize the way you train your employees, give the team at [EdgePoint Learning](/contact/) a call. 
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

@@ -99,4 +99,4 @@ Lead researcher Matthew Quade, Ph.D., noted that:
 
 <strong>The bottom line of all of this employee engagement research? It's time to create a work environment that values employees—just as they are—and incorporates habits to help them achieve a healthier work-life balance. Do that and they'll likely be more engaged while at work.</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

@@ -1,6 +1,6 @@
 ---
 title:    "How To Roll Out PPE Training To Your Employees"
-permalink: /blogs/ppe-training/
+permalink: /blog/ppe-training/
 author: { name: Corey Bleich }
 image: blog/2020-05-06-ppe-training.jpg
 excerpt: PPE training can save lives. These are the topics your training should cover and your guide on how to roll it out to employees who needs it.
@@ -41,8 +41,7 @@ Think of it this way: if the work requires personal protective equipment, then c
 
 Let's look at all of these in more detail. 
 
-{% asset 'blog/2020-05-06-ppe-training01.svg'
-   alt='Types Of PPE' %}
+{% svg '/assets/svg/blog/2020-05-06-ppe-training01.svg' alt='Types Of PPE' %}
 
 ### 1. Head protection
 
@@ -92,8 +91,7 @@ Next, consider the best training approach. When all hands are on deck, pulling t
 
 Mobile platforms might be the best choice for agile and effective PPE training.
 
-{% asset 'blog/2020-05-06-ppe-training02.svg'
-   alt='Mobile platforms might be the best choice for agile and effective PPE training' %}
+{% svg '/assets/svg/blog/2020-05-06-ppe-training02.svg' alt='Mobile platforms might be the best choice for agile and effective PPE training' %}
 
 ## Build your PPE training program 
 

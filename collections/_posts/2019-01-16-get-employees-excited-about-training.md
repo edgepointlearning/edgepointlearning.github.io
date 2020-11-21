@@ -23,9 +23,7 @@ So what are the benefits of employee engagement?
 * They're [more productive and efficient](https://news.gallup.com/businessjournal/190352/managing-employee-risk-requires-culture-compliance.aspx)
 * Engaged employees deliver [better customer service](https://www.forbes.com/sites/christinecomaford/2017/07/08/the-surprising-link-between-customer-experience-and-employee-engagement/#2b2aab0cb512)
 
-{% asset 'blog/2019-01-16-get-employees-excited-about-training01.jpg'
-  alt='Engaged employees are more productive and efficient'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-01-16-get-employees-excited-about-training01.jpg --alt Engaged employees are more productive and efficient %}
 
 Put simply, engaged employees feel valued at work and are happy to be there.
 
@@ -77,9 +75,7 @@ The average worker has just 24 minutes of training time every week, but [mobile 
 
 One of the best employee training program ideas is to incorporate the mobile devices they're already using. This can help them become more efficient and effective.
 
-{% asset 'blog/2019-01-16-get-employees-excited-about-training02.jpg'
-  alt='Mobile learners study an additional 40 minutes per week'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-01-16-get-employees-excited-about-training02.jpg --alt Mobile learners study an additional 40 minutes per week %}
 
 ### 5. Feed people
 
@@ -134,4 +130,4 @@ Whether you are considering a total overhaul of your employee training or just a
 
 <strong>We know how to get employees excited about training. [Get in touch today](/contact/)!</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

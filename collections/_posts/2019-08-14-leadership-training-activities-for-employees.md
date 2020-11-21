@@ -45,9 +45,7 @@ Each company might have a different answer to this complex question, but in gene
 
 Here are 11 suggestions for engaging and thoughtful leadership building activities.
 
-{% asset 'blog/2019-08-14-leadership-training-activities-for-employees_1.jpg'
-  alt='Quality Leadership'
-  magick:resize='1170' @pic %}
+{% picture blog blog/2019-08-14-leadership-training-activities-for-employees_1.jpg --alt Quality Leadership %}
 
 ### 1. [Simple icebreaking questions](https://museumhack.com/list-icebreakers-questions/)
 

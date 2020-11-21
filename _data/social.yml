@@ -1,18 +1,11 @@
-- title: Twitter
-  url: https://twitter.com/EdgePointLearn
-  svg: twitter
-  color: '#1da1f2'
+- name: Facebook
+  href: http://www.facebook.com/edgepointlearningllc
+  iconColor: /assets/svg/social/facebook.svg
 
-- title: Facebook
-  url: http://www.facebook.com/edgepointlearningllc
-  svg: facebook
-  color: '#3b5998'
+- name: LinkedIn
+  href: https://www.linkedin.com/company/edgepoint-learning
+  iconColor: /assets/svg/social/linkedin.svg
 
-- title: LinkedIn
-  url: https://www.linkedin.com/company/edgepoint-learning
-  svg: linkedin
-  color: '#0077b5'
-
-# - title: Vimeo
-#   url: http://vimeo.com/edgepointlearning
-#   svg: vimeo
+- name: Twitter
+  href: https://twitter.com/EdgePointLearn
+  iconColor: /assets/svg/social/twitter.svg

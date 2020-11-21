@@ -1,9 +1,15 @@
 ---
 title:    How To Start Your Restaurant Managers Training Program
 permalink: /blog/restaurant-managers-training-program/
-author: { name: Steve Pruniski, GM at the The Vig at McCormick Ranch }
 image: blog/2018-08-22-restaurant-managers-training-program.jpg
 excerpt: You know restaurants don’t run themselves; here’s how to train your people to run them even better with a dedicated restaurant manager training program.
+
+author: { 
+  name: "Steve Pruniski",
+  title:  "GM at the The Vig at McCormick Ranch",
+  image: "blog/steve-pruniski.jpg", 
+  bio: "Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has helped to mold him into a knowledgeable leader in the industry."
+}
 ---
 
 You know restaurants don’t run themselves; here’s how to train your people to run them even better with a dedicated restaurant managers training program.
@@ -22,8 +28,7 @@ How does this potential inexperience translate into your bottom line?
 
 Whether you're a smaller restaurant or a group with locations across your region, a restaurant managers training program is crucial to the success and steady growth of your organization.
 
-{% asset 'blog/2018-08-22-restaurant-managers-training-program01.svg'
-  alt='Effective training reduces employee turnover by 9%' @inline %}
+{% svg '/assets/svg/blog/2018-08-22-restaurant-managers-training-program01.svg' alt='Effective training reduces employee turnover by 9%' %}
 
 ## Where do I start with a restaurant manager training program?
 
@@ -107,17 +112,3 @@ While training is paramount in getting your staff the knowledge they need for yo
 In another example of how restaurant manager training can help, EdgePoint Learning worked with Bloomin’ Brands to [launch a new education initiative](/story/bloomin/), Lessons in Leadership, following the implementation strategy above. Bloomin’ Brands is one of the world’s largest casual dining companies, with approximately 100,000 employees and nearly 1,500 restaurants throughout 48 states, Puerto Rico, Guam, and 22 countries. You may recognize some of their restaurant brands: Outback Steakhouse, Carrabba’s Italian Grill, and Bonefish Grill.
 
 EdgePoint worked first with their CEO to identify goals and evaluate their existing programs, eventually designing lessons for experienced managers, newly hired personnel, and managerial hopefuls working their way up the ladder. Across the board, employees found these new training tools engaging, informative, and useful. Most importantly, they craved more of the same kinds of learning experiences. Hungry employees are the best kind of employees to have in a restaurant!
-
----
-{% asset 'blog/steve-pruniski.jpg'
-   alt='Steve Pruniski'
-   class='float-right thumbnail marginLeft marginTopHalf'
-   magick:resize='120' %}
-
-### Steve Pruniski
-
-GM at the The Vig at McCormick Ranch
-
-*Steve Pruniski has been in the restaurant industry for over 35 years and has worked all aspects of daily operations. From dishwasher to general manager, Steve’s experience with numerous management teams has helped to mold him into a knowledgeable leader in the industry.*
-{: .clearfix }
----

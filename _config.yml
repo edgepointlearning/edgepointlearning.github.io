@@ -1,126 +1,80 @@
 # SEO
-url        : 'https://www.edgepointlearning.com'
-baseurl    : ''
 title      : EdgePoint Learning
 description: "From microlearning to blended learning opportunities, EdgePoint Learning designs eLearning solutions for today's employees."
 keywords   : "EdgePoint Learning, eLearning, eLearning development company, custom eLearning, custom eLearning solutions, employee training, corporate compliance training, microlearning"
+url        : 'https://www.edgepointlearning.com'
 color      : '#12529e'
 og-image   : '/static/seo/og-image-02.jpg'
 
-# Plugins & Settings
-plugins :
-  - jekyll-paginate-v2
-  - jekyll-assets
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-target-blank
-  # - jekyll-inline-svg
-
 livereload : true
 
-pagination : # https://github.com/sverrirs/jekyll-paginate-v2
-  enabled  : true
-autopages  :
-  enabled  : false
-include:
-  - _pages # hack to paginate blog page
+sass:
+  sass_dir: assets/_scss
 
+plugins :
+  #- jekyll-paginate-v2
+  - jekyll-inline-svg
 
-assets         :  # https://github.com/envygeeks/jekyll-assets/tree/v2.4.0
-  autoprefixer :
-    browsers   :
-      - 'last 2 versions'
-      - '> 1%'
-  digest       : false # TEMPORARY FIX FOR FACEBOOK & TWITTER CARDS
-  # cache      : false # TEMPORARILY FIXES FONT CACHING BUG
-  features     :
-    automatic_img_size: false
+include :
+  - _pages 
+
+exclude :
+  - netlify.toml
+  - package.json
+  - package-lock.json
 
 # Collections
 collections_dir: collections
 collections   :
-  stories     :
-    output    : true
-    permalink : /story/:path/
   forms       :
-    output    : true
-    permalink : /form/:path/
+    output    : false
   demos       :
     output    : true
     permalink : /demo/:path/
+  stories     :
+    output    : true
+    permalink : /story/:path/
+  solutions   :
+    output    : true
+    # permalink : /:path/
 
 # Defaults
 defaults :
   -
     scope       :
-      path      : '' # an empty string here means all files in the project
+      path      : ''
     values      :
       layout    : 'page'
-      id        : 'default' #hack for new navigation with hero bg
-      cards     :
-       - talk
-       - solutions
-       - demos
-       - newsletter
+      imagepos  : 'center center'
   -
     scope       :
-      type      : 'posts' # the post collection
+      type      : 'posts'
     values      :
-      layout    : 'post' # will default to the post layout
+      layout    : 'post'
       permalink : /blog/:title/
-      blog      : true
-      sharesheet: true
-      breadcrumb: true
-      related   : false
-      cards     :
-       - talk
-       - newsletter
+  -
+    scope       :
+      type      : 'demos'
+    values      :
+      layout    : 'demo'
+      sitemap   : false
   -
     scope       :
       type      : 'stories'
     values      :
       layout    : 'story'
-      story     : true
-      last_modified_at: 2018-06-01T00:00:00-07:00
-      cards     :
-       - demos
-       - talk
   -
     scope       :
-      type      : forms
+      type      : 'solutions'
     values      :
-      layout    : 'form'
-      noindex   : true
-      sitemap   : false
-      cards     : no
-      newsletterfooter: false
-  -
-    scope       :
-      type      : demos
-    values      :
-      layout    : 'demo'
-      noindex   : true
-      sitemap   : false
-      cards     :
-       - solutions
-       - newsletter
-      newsletterfooter: false
+      layout    : 'solution'
+      form-title: 'Schedule A Demo'
+      form-keap : '975'
   -
     scope       :
       path      : 'static/**/*.pdf'
     values      :
       sitemap   : false
-
-exclude :
-  - .asset-cache
-  - .jekyll-cache
-  - .ruby-version
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - node_modules
-  - netlify.toml
-  - docker-compose.yml
 
 ### plugin: jekyll-algolia # to update search index: ALGOLIA_API_KEY='my-private-algolia-application-id' bundle exec jekyll algolia 
 algolia:
@@ -131,17 +85,34 @@ algolia:
     - collections/_demos/*
     - collections/_forms/*
     - static/*
-    - collections/_pages/analysis.html
-    - collections/_pages/download-company-overview.html
-    - collections/_pages/download-elem.html
-    - collections/_pages/download-pricing-sheet.html
-    - collections/_pages/download-which-service.html
-    - collections/_pages/quiz-01.html
+    # - collections/_pages/analysis.html
+    # - collections/_pages/download-company-overview.html
+    # - collections/_pages/download-elem.html
+    # - collections/_pages/download-pricing-sheet.html
+    # - collections/_pages/download-which-service.html
+    # - collections/_pages/quiz-01.html
+
+
+### autoprefixer
+autoprefixer:
+  browsers:
+  - last 2 versions
+
+### plugin: jekyll_picture_tag
+picture:
+  source: "assets/images/_fullsize"
+  output: "assets/images/generated"
+  suppress_warnings: true
+
+### plugin: jekyll-seo
+# logo: /assets/images/og-image.png
+
 ### plugin: jekyll-inline-svg
 # svg:
 #   optimize: true
 
-### plugin: jekyll-target-blank
-# target-blank:
-#   noopener: false
-#   noreferrer: false
+### plugin: jekyll-paginate-v2
+# pagination:
+#   enabled : true
+# autopages :
+#   enabled : false

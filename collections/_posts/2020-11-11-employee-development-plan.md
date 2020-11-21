@@ -1,9 +1,9 @@
 ---
 title:     7 Steps To Create Your Employee Development Plan
-permalink: /blogs/employee-development-plan/
-author: { name: Corey Bleich }
+permalink: /blog/employee-development-plan/
 image: blog/2020-11-11-employee-development-plan.jpg
 excerpt: Need to help your employees and company grow? Read on for seven steps to create your employee development plan, from roll-out to reporting.
+author: { name: Corey Bleich }
 ---
 
 An employee development plan helps your people acquire new skills for their current job while expanding their talents for new roles in your company.
@@ -13,7 +13,7 @@ One of the biggest issues facing employers these days is employee retention. [Wi
 
 ## 1. Start with a skills gap analysis 
 
-The first step in creating an employee development plan is to figure out [where you need to upskill employees](/blogs/upskill-employees/). A [training needs analysis](/blog/how-to-identify-training-needs-of-employees/) can help you determine not only what skills are missing (or underdeveloped) but also which employees need training first.
+The first step in creating an employee development plan is to figure out [where you need to upskill employees](/blog/upskill-employees/). A [training needs analysis](/blog/how-to-identify-training-needs-of-employees/) can help you determine not only what skills are missing (or underdeveloped) but also which employees need training first.
 
 This training needs analysis puts your organizational goals at the center of anything that comes next. By identifying what you’re already doing well (and what needs work), all training efforts can be streamlined for maximum benefit.
 

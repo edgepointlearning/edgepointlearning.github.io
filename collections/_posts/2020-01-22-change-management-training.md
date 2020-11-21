@@ -1,6 +1,6 @@
 ---
 title:    "How To Develop Change Management Training For Leaders In Your Company "
-permalink: /blogs/change-management-training/
+permalink: /blog/change-management-training/
 author: { name: Corey Bleich }
 image: blog/2020-01-22-change-management-training.jpg
 excerpt: Change management training for leaders can help your employees better manage transitions. This is how to set up a training program in your company.
@@ -27,8 +27,7 @@ The statistics are grim: an estimated [60-70% of all changes in organizations of
 
 With an agile change management process, though, 81% of the leaders surveyed by Hiatt reported implementing change successfully, on time and often under budget. 
 
-{% asset 'blog/2020-01-22-change-management-training01.svg'
-   alt='60-70% of organizational changes fail' @inline %}
+{% svg '/assets/svg/blog/2020-01-22-change-management-training01.svg' alt='60-70% of organizational changes fail' %}
 
 ### 2. People matter
 
@@ -103,4 +102,4 @@ If executives struggle to add one more thing to their day, [mLearning](/blog/wha
 
 <strong>At EdgePoint, we know that change management training for leaders can be especially challenging to design and implement. [Get in touch today](/contact/) to see how we can help!</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

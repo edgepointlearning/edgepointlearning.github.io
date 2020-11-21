@@ -1,9 +1,15 @@
 ---
-title: Rethinking Online Sexual Harassment Training After &num;MeToo
+title: "Rethinking Online Sexual Harassment Training After #MeToo"
 permalink: /blog/online-sexual-harassment-training/
-author: { name: Holly Curtis, President and Founder of The People Perspective, LLC }
 image: blog/2018-01-17-online-sexual-harassment-training.jpg
 excerpt: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
+
+author: { 
+  name: "Holly Curtis",
+  title:  "President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com)",
+  image: "blog/2018-01-18-holly-curtis.jpg", 
+  bio: "Holly Curtis is a recognized executive business leader who provides senior-level human resource and organizational development consulting services in support of each organization's unique business circumstances. She has held HR leadership roles with a wide variety of organizations, from entrepreneurial start-ups to global industry giants."
+}
 ---
 The recent deluge of sexual harassment allegations getting public attention across a wide variety of industries in the U.S. is shining a spotlight on employer responsibility. Many organizations have responded by increasing their offering of sexual harassment trainings, a good first step. But what will ensure the effectiveness of online sexual harassment training after the #MeToo movement?
 
@@ -115,17 +121,4 @@ Today’s employers simply can’t afford to wait any longer to make effective o
 
 <strong>EdgePoint Learning can help you take a closer look at your company’s existing online sexual harassment programs, and make suggestions about making it more effective. [Get in touch today](/).</strong>
 
-[Contact Us](/contact/ ){:class="button"}
-
----
-### Holly Curtis
-
-President and Founder of [The People Perspective, LLC](http://www.thepeopleperspective.com)
-
-{% asset 'blog/2018-01-18-holly-curtis.jpg'
-   alt='Holly Curtis'
-   class='float-left thumbnail marginTopHalf marginRight' %}
-
-*Holly Curtis is a recognized executive business leader who provides senior-level human resource and organizational development consulting services in support of each organization's unique business circumstances. She has held HR leadership roles with a wide variety of organizations, from entrepreneurial start-ups to global industry giants.*
-{: .clearfix }
----
+[Contact Us](/contact/ ){: .cta }

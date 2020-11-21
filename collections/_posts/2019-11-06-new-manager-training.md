@@ -19,9 +19,7 @@ Some statistics suggest that in just two years, millennials will leapfrog over G
 
 But is this type of training still important? Short answer? Yes: new manager training is still important. With caveats. Here's how to roll out manager training for this newer workforce. 
 
-{% asset 'blog/2019-11-06-new-manager-training01.jpg'
-  alt='Millennials will make up 75% of workforce by 2025'
-  magick:resize='1170' @pic %}
+{% picture blog-wide blog/2019-11-06-new-manager-training01.jpg --alt Millennials will make up 75% of workforce by 2025 %}
 
 ### Management training programs have to be personal 
 
@@ -101,9 +99,7 @@ These three big topics are all related and a crucial part of new manager trainin
 
 Beyond all the practical parts of management training programs, the bottom line is people. Managers need to cultivate skills to support their people, and the appropriate training can help with this.
 
-{% asset 'blog/2019-11-06-new-manager-training02.jpg'
-  alt='Managers need to cultivate skills to support their people.'
-  magick:resize='1170' @pic %}
+{% picture blog-wide blog/2019-11-06-new-manager-training02.jpg --alt Managers need to cultivate skills to support their people. %}
 
 ### 7. Emergency procedures
 
@@ -137,4 +133,4 @@ In a perfect world, new managers would come fully formed to your company with al
 
 <strong>At EdgePoint Learning, we meet today’s managers where they are. For any stage of manager training design, [get in touch to see how we can help](/contact/).</strong>
 
-[Contact Us](/contact/ ){:class="button"}
+[Contact Us](/contact/ ){: .cta }

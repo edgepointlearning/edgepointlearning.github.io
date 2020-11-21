@@ -1,6 +1,6 @@
 ---
 title: "Five Tips for Surviving Work at Home with Kids"
-permalink: /blogs/five-tips-for-working-at-home-with-kids/
+permalink: /blog/five-tips-for-working-at-home-with-kids/
 author: { name: Amber Hartmann with Andrew Hartmann }
 image: blog/2020-03-17-five-tips-for-working-at-home-with-kids.jpg
 excerpt: How do you keep things running when you unexpectedly have to work from home?
@@ -13,8 +13,7 @@ Most lists about working from home focus on things like staying productive, how 
 
 I've always jokingly referred to my son Andrew as my EdgePoint co-worker. In the early days that involved cramming as much work in as I could during nap time, and bringing him along for any in-person meetings. Now, 11 years later, it's spending the summers together in our shared space, and hiring him to do occasional voiceover and tidy the office. He has always been a part of my work life at EdgePoint. Together we have compiled a list of five tips for parents (and their kids) for working at home.
 
-{% asset 'blog/2020-03-17-five-tips-for-working-at-home-with-kids01.svg'
-   alt='mom working from home' %}
+{% svg '/assets/svg/blog/2020-03-17-five-tips-for-working-at-home-with-kids01.svg' alt='mom working from home' %}
 
 ### 1. Create a shared space.
 
