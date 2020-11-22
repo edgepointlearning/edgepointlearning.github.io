@@ -12,8 +12,10 @@ sass:
   sass_dir: assets/_scss
 
 plugins :
-  #- jekyll-paginate-v2
   - jekyll-inline-svg
+  - jekyll-sitemap
+  - jekyll-autoprefixer
+  - jekyll-target-blank
 
 include :
   - _pages 
@@ -46,6 +48,7 @@ defaults :
     values      :
       layout    : 'page'
       imagepos  : 'center center'
+      #last_modified_at: 2020-11-24T00:00:00-04:00
   -
     scope       :
       type      : 'posts'
@@ -76,7 +79,8 @@ defaults :
     values      :
       sitemap   : false
 
-### plugin: jekyll-algolia # to update search index: ALGOLIA_API_KEY='my-private-algolia-application-id' bundle exec jekyll algolia 
+### plugin: jekyll-algolia 
+# to update search index: ALGOLIA_API_KEY='my-private-algolia-application-id' bundle exec jekyll algolia 
 algolia:
   application_id: 10CLOWR2F7
   index_name: edgepointlearning
@@ -104,15 +108,6 @@ picture:
   output: "assets/images/generated"
   suppress_warnings: true
 
-### plugin: jekyll-seo
-# logo: /assets/images/og-image.png
-
 ### plugin: jekyll-inline-svg
 # svg:
 #   optimize: true
-
-### plugin: jekyll-paginate-v2
-# pagination:
-#   enabled : true
-# autopages :
-#   enabled : false
