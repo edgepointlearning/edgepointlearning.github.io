@@ -85,7 +85,7 @@ cta2-url: /contact/
     </div>
 
     <div class="grid-x grid-margin-x grid-margin-y align-center margin-bottom-1">
-      {% for post in site.posts limit: 5 %}
+      {% for post in site.posts limit: 4 %}
         {% if forloop.index <= 2 %}
           {% assign class = 'card--teaser card--teaser--L' %}
         {% else %}
@@ -93,7 +93,7 @@ cta2-url: /contact/
         {% endif %}
         {% include card.html class = class url = post.url image = post.image title = post.title copy = post.excerpt %}
       {% endfor %}
-      <!-- todo: add one last card that goes to newsletter form -->
+      {% include form.html class = "home-teaser-newsletter-form large-4 radius--rem padding-1" title = 'Subscribe Now!' copy = 'Keep up to date on learning industry news and the latest EdgePoint offerings.' keap = 983 %}
     </div>
 
   </div>
@@ -104,22 +104,23 @@ cta2-url: /contact/
     <div class="grid-x">
       <div class="cell">
         <h2 class="font-bold separator-left">Trusted By</h2>
-        <!-- TODO: link logos to any case studies, and/or some graphics for different industries as well. Could also add a button to [Awards] [Case Studies] below, once those are live.  -->
       </div>
     </div>
-    <div class="grid-x grid-margin-x grid-margin-y grid-padding-x grid-padding-y align-center align-middle small-up-3 marge-up-4 large-up-6 padding-top-1 padding-bottom-3">
-      <div class="cell card--client">{% picture third /clients/botw-bnpp.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/thomson-reuters.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/cargill.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/pepsico.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/alaska-eed.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/warner-media.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/international-paper.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/ieee.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/pnnl.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/brightstar.png  %}</div>
-      <div class="cell card--client">{% picture third /clients/swca.png  %}</div>
-    </div>
+    <a href="/about/#case-studies">
+      <div class="grid-x grid-margin-x grid-margin-y grid-padding-x grid-padding-y align-center align-middle small-up-3 marge-up-4 large-up-6 padding-top-1 padding-bottom-3">
+        <div class="cell card--client">{% picture third /clients/botw-bnpp.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/thomson-reuters.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/cargill.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/pepsico.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/alaska-eed.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/warner-media.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/international-paper.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/ieee.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/pnnl.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/brightstar.png  %}</div>
+        <div class="cell card--client">{% picture third /clients/swca.png  %}</div>
+      </div>
+    </a>
   </div>
 </div>
 

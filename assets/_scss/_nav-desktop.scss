@@ -1,56 +1,5 @@
-// TITLE BAR (MOBILE)
-.title-bar {
-  @include flex-align(justify, middle);
-
-  svg {
-    vertical-align: text-bottom;
-    fill: $white;
-  }
-
-  .logo path {
-    fill: $medium-gray;
-  }
-}
-
-// MOBILE MENU
-.off-canvas {
-  font-family: 'Mulish', $body-font-family;
-  font-size: 0.875em;
-  font-weight: 600;
-
-  .close-button {
-    font-weight: 600;
-  }
-
-  [data-drilldown] {
-    margin-top: $global-margin * 3;
-
-    li {
-      padding-top: 0.5 * $global-padding;
-      padding-bottom: 0.5 * $global-padding;
-      &:not(:first-of-type) {
-        border-top: 1px solid $light-gray;
-      }
-    }
-
-    .js-drilldown-back {
-      text-transform: uppercase;
-
-      a::before {
-        margin-bottom: 3px;
-      }
-    }  
-
-    svg {
-      vertical-align: middle;
-      margin-right: 0.25em;
-    }
-  }
-}
-
 // STYLING TOP BAR
 nav {
-  font-family: 'Mulish', $body-font-family;
   z-index: 10;
 }
 .nav__bg {
@@ -70,39 +19,24 @@ nav {
     transition: padding 0.3s ease 0.1s;
   }
   
-  a.button {
-    // todo: make global button style
-    @include border-rounded;
-    font-size: 0.875em;
-    text-transform: uppercase;
-    font-weight: 500;
-    margin-bottom: 0;
-    &.text {
-      @include button-style($white, #eff0f3, $primary-color);
-      &:hover {
-        color: $black;
-      }
-    }
-    &.primary {
-      @include button-style($primary-color, $black, $white);
-    }
-    &.dropdown {
-      @include button-dropdown(0.5em, $primary-color, 0.3em);
-      &:hover::after {
-        animation:rotate-center 0.2s ease-in-out both;
-        border-color: #666 transparent transparent;
-      }
-    }
-    &.padding-right-0:hover svg {
-      fill: $black;
+  .cta.dropdown {
+    @include button-dropdown(0.5em, $primary-color, 0.3em);
+    &:hover::after {
+      animation:rotate-center 0.2s ease-in-out both;
+      border-color: #666 transparent transparent;
     }
   }
-  
+
+  .cta.padding-right-0:hover svg { // search icon
+    fill: $black;
+  }
 }
+
 
 // MEGA MENU
 .mega-menu {
   background-color: $white;;
+  box-shadow: 0 8px 6px -6px rgba(0,0,0,0.4);
   overflow-x: hidden;
   width: 100%;
   padding: 0;
@@ -167,8 +101,4 @@ nav {
     }
   }
 
-}
-
-.mega-menu {
-  box-shadow: 0 8px 6px -6px rgba(0,0,0,0.4);
 }

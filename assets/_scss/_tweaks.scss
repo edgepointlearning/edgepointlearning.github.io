@@ -21,3 +21,8 @@ span.infusion-option {
     max-width: 80%;
   }
 }
+
+.page-home .home-teaser-newsletter-form h2.font-bold.h3.margin-top-1 {
+  @extend .h4;
+  @extend .font-bold;
+}

@@ -33,6 +33,12 @@
   &--transparent {
     @include button-style(transparent, transparent, $black);
   }
+  &--gray {
+    @include button-style($white, #eff0f3, $primary-color);
+    &:hover {
+      color: $black;
+    } 
+  }
 }
 
 p .cta {
