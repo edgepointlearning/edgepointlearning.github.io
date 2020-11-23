@@ -20,7 +20,7 @@ tagline: We Love Learning!
         {% else %}
           {% assign class = 'card--teaser card--teaser--M' %}
         {% endif %}
-        {% include card.html class = class url = post.url image = post.image title = post.title copy = post.excerpt %}
+        {% include card.html class = class url = post.url image = post.image title = post.title copy = post.meta %}
       {% endfor %}
     </div>
 
@@ -42,7 +42,7 @@ tagline: We Love Learning!
 <div class="grid-container margin-top-2">
   <div class="grid-x grid-margin-x grid-margin-y align-center">
     {% for post in site.posts offset: 3 %}
-      {% include card.html class = 'card--teaser card--teaser--M' url = post.url image = post.image title = post.title copy = post.excerpt %}
+      {% include card.html class = 'card--teaser card--teaser--M' url = post.url image = post.image title = post.title copy = post.meta %}
     {% endfor %}
   </div>
 </div>

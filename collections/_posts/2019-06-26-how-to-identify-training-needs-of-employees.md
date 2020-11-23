@@ -3,7 +3,7 @@ title: "How To Identify Training Needs Of Employees: 8 Ways To Start"
 permalink: /blog/how-to-identify-training-needs-of-employees/
 author: { name: Michael Hansen }
 image: blog/2019-06-26-how-to-identify-training-needs-of-employees.jpg
-excerpt: Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how.
+meta: Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how.
 ---
 
 Developing a new employee training program (or revitalizing an old one) is a big endeavor, but it's often doomed to fail right out of the gate. Why? Companies that skip the crucial first step – a training needs analysis – may find their training ineffective on every level. Knowing how to identify training needs of employees is the foundation on which your entire training is built. It makes sense to get it right. Here's how. 

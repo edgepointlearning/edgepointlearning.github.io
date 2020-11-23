@@ -91,7 +91,7 @@ cta2-url: /contact/
         {% else %}
           {% assign class = 'card--teaser card--teaser--M' %}
         {% endif %}
-        {% include card.html class = class url = post.url image = post.image title = post.title copy = post.excerpt %}
+        {% include card.html class = class url = post.url image = post.image title = post.title copy = post.meta %}
       {% endfor %}
       {% include form.html class = "home-teaser-newsletter-form large-4 radius--rem padding-1" title = 'Subscribe Now!' copy = 'Keep up to date on learning industry news and the latest EdgePoint offerings.' keap = 983 %}
     </div>

@@ -3,7 +3,7 @@ title:    "How To Keep Track Of Training For Employees"
 permalink: /blog/how-to-keep-track-of-training/
 author: { name: Michael Hansen }
 image: blog/2019-04-24-how-to-keep-track-of-training.jpg
-excerpt: "Make sure your employees are on track, in compliance, and keeping up with all of their training. Here's how to keep track of training right. "
+meta: "Make sure your employees are on track, in compliance, and keeping up with all of their training. Here's how to keep track of training right. "
 ---
 Ensure your employees are on track and in compliance. 
 {: .featured-text }

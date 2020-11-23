@@ -3,7 +3,7 @@ title: What Is mLearning, Or Mobile Learning?
 permalink: /blog/what-is-mlearning/
 author: { name: Corey Bleich }
 image: blog/2017-05-17-mlearning.jpg
-excerpt: mLearning isn't just eLearning designed for mobile phones and tablets. It uses the advantages of mobile devices to open up huge potentials for training your global workforce. Here's how it works.
+meta: mLearning isn't just eLearning designed for mobile phones and tablets. It uses the advantages of mobile devices to open up huge potentials for training your global workforce. Here's how it works.
 ---
 
 Over six billion people connect to the internet through a mobile device. And, according to [UNESCO](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/), twice as many people go online from a mobile device than from a computer or laptop. mLearning, or learning that takes place on mobile devices, can open up huge potentials to train your employees wherever they are. But, what is mLearning?

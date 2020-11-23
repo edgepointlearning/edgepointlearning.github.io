@@ -3,7 +3,7 @@ title: 12 Neuroscience Breakthroughs That Will Help Improve Your Training
 permalink: /blog/learning-research-2017/
 author: { name: Corey Bleich }
 image: blog/2017-11-27-learning-research-2017.jpg
-excerpt: What we learned about the brain and training in 2017, and how to apply it to your employee learning programs. 
+meta: What we learned about the brain and training in 2017, and how to apply it to your employee learning programs. 
 ---
 
 The most fascinating learning and behavioral neuroscience research breakthroughs in 2017 will shape the way companies and training leaders understand, design, develop, and implement employee training in years to come. Here are 12 of the biggest employee training and learning research breakthroughs that happened in 2017.

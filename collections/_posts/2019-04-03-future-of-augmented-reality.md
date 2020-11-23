@@ -2,7 +2,7 @@
 title:    "Your Guide To The Future Of Augmented Reality In Corporate Training"
 permalink: /blog/future-of-augmented-reality/
 image: blog/2019-04-03-future-of-augmented-reality-hero.jpg
-excerpt: "Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today."
+meta: "Here's what we can expect when it comes to augmented reality in corporate training in the years to come, along with examples of how it's already being used today."
 
 author: { 
   name: "Quincy Conley, Ph.D.",

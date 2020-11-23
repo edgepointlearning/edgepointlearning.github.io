@@ -3,7 +3,7 @@ title:    "12 Examples Of Corporate Sustainability Initiatives To Inspire Your G
 permalink: /blog/examples-of-corporate-sustainability-initiatives/
 author: { name: Corey Bleich }
 image: blog/2020-04-29-examples-of-corporate-sustainability-initiatives.jpg
-excerpt: Want to lessen your company's environmental impact? Here are 12 examples of corporate sustainability initiatives from 2020 to get you started.
+meta: Want to lessen your company's environmental impact? Here are 12 examples of corporate sustainability initiatives from 2020 to get you started.
 ---
 
 As Kermit once said: “It ain’t easy being green.” 

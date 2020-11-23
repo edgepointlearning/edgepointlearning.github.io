@@ -3,7 +3,7 @@ title:    "Heat Safety Training This Summer Can Keep Employees Safe"
 permalink: /blog/heat-safety-training/
 author: { name: Corey Bleich }
 image: blog/2020-07-08-heat-safety-training.jpg
-excerpt: Workers are at increased risk for heat-related illnesses—and even death—during summer. Heat safety training can help. Here's how to roll it out to your employees.
+meta: Workers are at increased risk for heat-related illnesses—and even death—during summer. Heat safety training can help. Here's how to roll it out to your employees.
 
 ---
 

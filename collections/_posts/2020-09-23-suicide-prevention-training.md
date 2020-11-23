@@ -2,7 +2,7 @@
 title:    How To Develop Effective Suicide Prevention Training
 permalink: /blog/suicide-prevention-training/
 image: blog/2020-09-023-suicide-prevention-training.jpg
-excerpt: You might not think that suicide prevention training is something that you need in your field of work, but suicide prevention is everyone’s business.
+meta: You might not think that suicide prevention training is something that you need in your field of work, but suicide prevention is everyone’s business.
 author: { 
   name: "Michelle Moorhead",
   title:  "Executive Director, Teen Lifeline",

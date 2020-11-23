@@ -3,7 +3,7 @@ title: "When To Use eLearning: 5 Times It Makes The Most Sense"
 permalink: /blog/when-to-use-elearning/
 author: { name: Michael Hansen }
 image: blog/2019-07-31-when-to-use-elearning.jpg
-excerpt: These are five times when to use eLearning and some instances when it may be better to look to other training tools.
+meta: These are five times when to use eLearning and some instances when it may be better to look to other training tools.
 ---
 
 If you are in charge of your company’s training dollars, it’s important to make sure the learning programs you design are thoughtful, effective, and efficient in terms of ROI. If you know when to use eLearning, you can tick all the boxes with training that delivers. [As eLearning steps into the spotlight](https://www.forbes.com/sites/tjmccue/2018/07/31/e-learning-climbing-to-325-billion-by-2025-uf-canvas-absorb-schoology-moodle/#52ed70423b39), here are five times to use eLearning and some instances when it may actually be better to look to other training tools.

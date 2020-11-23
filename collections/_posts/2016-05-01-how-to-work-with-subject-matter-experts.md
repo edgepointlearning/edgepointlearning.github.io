@@ -3,7 +3,7 @@ title: How to Work with Subject Matter Experts
 permalink: /blog/how-to-work-with-subject-matter-experts/
 author: { name: Megan Dobransky }
 image: blog/2015-05-01-how-to-work-with-subject-matter-experts.jpg
-excerpt: Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people. 
+meta: Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people. 
 ---
 We’re celebrating Throwback Thursday with a neat blog post from our archives. Check it out! Sometimes the hardest part of any training, instructional design or technical writing job is gathering the right information from the right people.
 

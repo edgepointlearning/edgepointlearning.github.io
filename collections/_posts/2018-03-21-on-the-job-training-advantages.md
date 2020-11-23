@@ -3,7 +3,7 @@ title: What Are The Major On-The-Job Training Advantages?
 permalink: /blog/on-the-job-training-advantages/
 author: { name: Corey Bleich }
 image: blog/2018-03-21-on-the-job-training-advantages.jpg
-excerpt: Easily applicable, no wasted time, and it makes good (money) sense, along with other major advantages of on-the-job training. Read on to learn more.
+meta: Easily applicable, no wasted time, and it makes good (money) sense, along with other major advantages of on-the-job training. Read on to learn more.
 ---
 
 Even the most experienced and educated employees still require training when they join your company. Maybe they just need to learn about the company culture or review the procedures your site uses. For employees and employers, on-the-job training is the best way to get up and running in the most efficient and effective way possible. Read on for its major advantages.

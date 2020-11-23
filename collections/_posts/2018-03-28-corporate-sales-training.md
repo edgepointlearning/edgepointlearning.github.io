@@ -3,7 +3,7 @@ title: 6 Tips For Developing The Most Effective Corporate Sales Training Program
 permalink: /blog/corporate-sales-training/
 author: { name: Brian Oderkirk }
 image: blog/2018-03-28-corporate-sales-training.jpg
-excerpt: When you're developing your employee training for the year, it's easy to lump the sales team into your wider net of corporate training. But, doing so can be a recipe for disaster (and unfinished courses). Here's how to create effective corporate sales training.
+meta: When you're developing your employee training for the year, it's easy to lump the sales team into your wider net of corporate training. But, doing so can be a recipe for disaster (and unfinished courses). Here's how to create effective corporate sales training.
 ---
 
 When you're developing your employee training for the year, it's easy to lump the sales team into your wider net of corporate training. But, doing so can be a recipe for disaster (and unfinished courses), as sales has specific challenges and motivators when it comes to training. Doing it right, though, can lead to more productivity over the course of the year and make your sales team feel more appreciated. Here's how to develop corporate sales training programs that work, and work well.

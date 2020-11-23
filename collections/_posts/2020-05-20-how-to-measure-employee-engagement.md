@@ -3,7 +3,7 @@ title:    "How To Measure Employee Engagement: 7 Steps"
 permalink: /blog/how-to-measure-employee-engagement/
 author: { name: Corey Bleich }
 image: blog/2020-05-20-how-to-measure-employee-engagement.jpg
-excerpt: Measuring employee engagement requires time and effort, but it is worth both. Here are seven steps for how to measure employee engagement.
+meta: Measuring employee engagement requires time and effort, but it is worth both. Here are seven steps for how to measure employee engagement.
 ---
 
 [Employee engagement](/blog/employee-engagement-research/) is arguably one of the most important factors in your company's bottom line, but it can also be one of the most challenging things to quantify. Knowing how to measure employee engagement is crucial, though, if you want to get (and stay) profitable. Here are seven steps to get you started.

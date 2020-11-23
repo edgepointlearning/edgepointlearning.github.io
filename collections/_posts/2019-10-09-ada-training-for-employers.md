@@ -3,7 +3,7 @@ title: How To Roll Out ADA Training For Managers And Employees
 permalink: /blog/ada-training-for-employers/
 author: { name: Corey Bleich }
 image: blog/2019-10-09-ada-training-for-employers.jpg
-excerpt: ADA compliance isn’t just good practice – it’s the law. These are the topics your ADA training needs to cover for both employees and managers.
+meta: ADA compliance isn’t just good practice – it’s the law. These are the topics your ADA training needs to cover for both employees and managers.
 ---
 ADA compliance isn't just good practice. It's the law.
 {: .featured-text }

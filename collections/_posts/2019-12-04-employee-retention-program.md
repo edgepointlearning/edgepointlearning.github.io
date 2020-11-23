@@ -5,7 +5,7 @@ author: { name: Corey Bleich }
 image: blog/2019-12-04-employee-retention-program.jpg
 imagepos: "top center"
 
-excerpt: You can’t expand and grow your business if you’re constantly training new staff. Build a better employee retention program through training with these tips.
+meta: You can’t expand and grow your business if you’re constantly training new staff. Build a better employee retention program through training with these tips.
 ---
 
 Building a better company starts with a better employee retention program.

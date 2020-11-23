@@ -3,7 +3,7 @@ title:    How To Create Domestic Violence Training For Awareness And Advocacy
 permalink: /blog/domestic-violence-training/
 author: { name: Corey Bleich }
 image: blog/2020-10-07-domestic-violence-training.jpg
-excerpt: Domestic violence training can help gatekeepers recognize warning signs of domestic violence and provide them with support to get the right help fast.
+meta: Domestic violence training can help gatekeepers recognize warning signs of domestic violence and provide them with support to get the right help fast.
 ---
 
 Domestic violence training can help gatekeepers recognize the warning signs of domestic violence and provide them with support

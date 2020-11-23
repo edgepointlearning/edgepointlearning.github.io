@@ -3,7 +3,7 @@ title:    "How Upskilling Can Drive Your Employee Development"
 permalink: /blog/upskill-employees/
 author: { name: Corey Bleich }
 image: blog/2020-06-17-upskill-employees.jpg
-excerpt: With entirely new technical fields and disruptive trends flooding the market, digital upskilling is more important than ever. Here's what you need to know.
+meta: With entirely new technical fields and disruptive trends flooding the market, digital upskilling is more important than ever. Here's what you need to know.
 ---
 
 Digital upskilling is more important than ever

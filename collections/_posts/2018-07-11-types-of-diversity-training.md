@@ -3,7 +3,7 @@ title:   How To Develop Diversity Training That Is Actually Effective
 permalink: /blog/types-of-diversity-training/
 author: { name: Corey Bleich }
 image: blog/2018-07-11-types-of-diversity-training.jpg
-excerpt: A forty-year study of diversity training has found that some types of diversity training do work – when it’s done right. Here’s how.
+meta: A forty-year study of diversity training has found that some types of diversity training do work – when it’s done right. Here’s how.
 ---
 
 So you decide to revamp (or create) diversity training for your modern workplace, but don't know where to start. You have been inclusive in your hiring practices but never intentionally thought about what types of diversity training to use or how to actually make it effective. Although research on [diversity training’s effectiveness has been mixed](https://onlinelibrary.wiley.com/doi/full/10.1002/hrdq.1193), a forty-year examination of diversity training has found that [it does work](http://psycnet.apa.org/record/2016-43598-001) – if it’s done right. Here’s how.

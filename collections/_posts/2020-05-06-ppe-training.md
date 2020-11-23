@@ -3,7 +3,7 @@ title:    "How To Roll Out PPE Training To Your Employees"
 permalink: /blog/ppe-training/
 author: { name: Corey Bleich }
 image: blog/2020-05-06-ppe-training.jpg
-excerpt: PPE training can save lives. These are the topics your training should cover and your guide on how to roll it out to employees who needs it.
+meta: PPE training can save lives. These are the topics your training should cover and your guide on how to roll it out to employees who needs it.
 ---
 
 PPE training can save lives. Here's how to roll it out to everyone who needs it. 

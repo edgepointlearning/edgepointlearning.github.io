@@ -3,7 +3,7 @@ title:    "Hard Skills Vs. Soft Skills: Examples And Definitions"
 permalink: /blog/hard-skills-vs-soft-skills/
 author: { name: Corey Bleich }
 image: blog/2020-03-25-hard-skills-vs-soft-skills.jpg
-excerpt: Hard skills vs soft skills isn't an either/or proposition. It's a both/and package worth cultivating in employees. Here's your guide to these two skillsets.
+meta: Hard skills vs soft skills isn't an either/or proposition. It's a both/and package worth cultivating in employees. Here's your guide to these two skillsets.
 ---
 Hard skills vs. soft skills isn't an either/or proposition: it's a both/and package
 {: .featured-text }

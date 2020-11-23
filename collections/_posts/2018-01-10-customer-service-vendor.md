@@ -3,7 +3,7 @@ title: How To Make A Successful Vendor Selection | Ask Yourself These 5 Customer
 permalink: /blog/customer-service-vendor/
 author: { name: Brian Oderkirk }
 image: blog/2018-01-01-customer-service-vendor.jpg
-excerpt: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon? How to choose a vendor based on customer service standards.
+meta: Do you have an advocate on your side, or someone who's going to disappear at 2 PM on Friday afternoon? How to choose a vendor based on customer service standards.
 ---
 
 Fancy technology and seemingly-unlimited innovation are great things to see with a new potential vendor, but what happens when things go wrong at 2:00 pm on a Friday during the second month into a 3-year contract? Do you have an advocate on your side? Customer service is a vital part of the vendor selection process but often overlooked when a new vendor is courting you. You can help avoid a customer service nightmare with a future vendor by asking these 5 questions before signing on the dotted line.

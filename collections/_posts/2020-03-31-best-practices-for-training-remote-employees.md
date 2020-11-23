@@ -3,7 +3,7 @@ title:    "10 Best Practices For Training Remote Employees"
 permalink: /blog/best-practices-for-training-remote-employees/
 author: { name: Corey Bleich }
 image: blog/2020-03-31-best-practices-for-training-remote-employees.jpg
-excerpt: From handling immediate training needs to building your community culture digitally, these are the best practices for training remote employees.
+meta: From handling immediate training needs to building your community culture digitally, these are the best practices for training remote employees.
 ---
 
 Maybe your company has long utilized training for a mix of [remote](/blog/freelance-contractor-training/) and in-office workers, or maybe you find yourself suddenly struggling to support a fully-remote office training program. Whatever the case may be, here are ten best practices for training remote employees.

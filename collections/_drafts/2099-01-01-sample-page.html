@@ -14,9 +14,8 @@ cta1-url: /solutions/
 cta2: View Demos
 cta2-url: /form/demo/
 
-# these last three are only here because I snuck this page into the blog posts. Normal pages don't need them.
+# these last ones are only here because I snuck this page into the blog posts. Normal pages don't need them.
 layout: page
-excerpt: This is a sample PAGE. I've disguised it as a blog post to make it easy to find. Check it out to see different ways we can display content.
 date: 2020-06-01
 ---
 
@@ -37,7 +36,7 @@ date: 2020-06-01
       {% else %}
         {% assign class = 'card--teaser card--teaser--M' %}
       {% endif %}
-      {% include card.html class = class url = post.url image = post.image title = post.title copy = post.excerpt %}
+      {% include card.html class = class url = post.url image = post.image title = post.title copy = post.meta %}
     {% endfor %}
   </div>
 

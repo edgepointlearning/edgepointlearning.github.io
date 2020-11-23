@@ -3,7 +3,7 @@ title: Gamification In eLearning | What Works And What Doesn't?
 permalink: /blog/gamification-in-elearning/
 author: { name: Corey Bleich }
 image: blog/2017-11-08-gamification-in-elearning.jpg
-excerpt: Gamification in eLearning is only as successful as the planning behind it. Here are five ways to make gamification in the workplace effective.
+meta: Gamification in eLearning is only as successful as the planning behind it. Here are five ways to make gamification in the workplace effective.
 ---
 
 Professional development has come a long way since hundred-pound employee handbooks and 45-minute PowerPoint presentations. Gamification in eLearning is one of the most cutting-edge ways to make your employee training more effective and engaging. And, we'll say it, just a little bit more fun. Gamification is only as successful, however, as the planning behind it. Here's how to make it work for your company.

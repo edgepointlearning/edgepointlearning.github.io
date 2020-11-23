@@ -3,7 +3,7 @@ title:    "L&D Can Drive Corporate Sustainability Initiatives: Here's How"
 permalink: /blog/corporate-sustainability-initiatives/
 author: { name: Corey Bleich }
 image: blog/2020-04-22-corporate-sustainability-initiatives.jpg
-excerpt: Small changes today can lead to bigger changes tomorrow, all in service to protecting our world (and your business).
+meta: Small changes today can lead to bigger changes tomorrow, all in service to protecting our world (and your business).
 ---
 
 When you hear the term “corporate sustainability,” your thoughts might turn to how to protect your business in the long-term, but the type of corporate sustainability we are talking about here is important and just as related to your business’ stability over time. Here’s what it means to use your L&D team to drive corporate environmental sustainability initiatives.

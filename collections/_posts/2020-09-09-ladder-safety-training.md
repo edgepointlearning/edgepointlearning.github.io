@@ -3,7 +3,7 @@ title:    How To Create Ladder Safety Training For Employees (And A Free Course!
 permalink: /blog/ladder-safety-training/
 author: { name: Corey Bleich }
 image: blog/2020-09-09-ladder-safety-training-e.jpg
-excerpt: Here’s how to develop and roll-out ladder safety training to your employees, along with a free ladder safety training online course that covers the basics.
+meta: Here’s how to develop and roll-out ladder safety training to your employees, along with a free ladder safety training online course that covers the basics.
 ---
 
 No matter your industry, ladder safety and fall prevention training is critical.

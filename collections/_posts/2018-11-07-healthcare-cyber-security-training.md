@@ -3,7 +3,7 @@ title:    This Is Why Healthcare Cyber Security Training Is So Vital
 permalink: /blog/healthcare-cyber-security-training/
 author: { name: Corey Bleich }
 image: blog/2018-11-07-healthcare-cyber-security-training.jpg
-excerpt: Attacks on personal data through healthcare providers is on the rise, which is why healthcare cyber security training is so vital. Here's how you can deliver the training your employees need to prevent data breaches.
+meta: Attacks on personal data through healthcare providers is on the rise, which is why healthcare cyber security training is so vital. Here's how you can deliver the training your employees need to prevent data breaches.
 ---
 
 When you visit your doctor, you expect your information to be protected and private. In reality, attacks on personal data through healthcare providers is on the rise, which is why healthcare cyber security training is so vital. Here's what we know, and how you can deliver the types of training your employees need.

@@ -1,6 +1,4 @@
-{% if page.excerpt %}
-  {% assign meta-description = page.excerpt %}
-{% elsif page.meta %}
+{% if page.meta %}
   {% assign meta-description = page.meta %}
 {% else %}
   {% assign meta-description = site.description %}

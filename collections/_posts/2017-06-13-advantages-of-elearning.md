@@ -3,7 +3,7 @@ title: 12 Of The Biggest Benefits Of eLearning For Employees
 permalink: /blog/advantages-of-elearning/
 author: { name: Corey Bleich }
 image: blog/2017-06-13-hero-advantages-of-elearning.jpg
-excerpt: Saving money and employee time? These are only two of the many benefits of eLearning for your workforce. Read on to learn more.
+meta: Saving money and employee time? These are only two of the many benefits of eLearning for your workforce. Read on to learn more.
 ---
 
 Not only does eLearning save your company money compared to instructor-led training, it does so much more. If you're making a business case for eLearning development, these are the major benefits of eLearning for your employees and company:

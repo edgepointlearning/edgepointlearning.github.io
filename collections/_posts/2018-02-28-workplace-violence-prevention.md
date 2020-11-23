@@ -3,7 +3,7 @@ title: "How To Prevent Workplace Violence: 7 Steps To Take Right Now"
 permalink: /blog/workplace-violence-prevention/
 author: { name: Corey Bleich }
 image: blog/2018-02-28-workplace-violence-prevention.jpg
-excerpt: Workplace violence is not something we can ignore as business leaders. Here are steps you can take right now to prevent violent incidents in the future.
+meta: Workplace violence is not something we can ignore as business leaders. Here are steps you can take right now to prevent violent incidents in the future.
 ---
 
 We should not have to have this conversation, but increasingly, workplace violence prevention is something we cannot ignore as business leaders. According to the National Institute for Occupational Safety and Health (NIOSH), in 1996, every week [20 people were murdered and 18,000 more assaulted](https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=163791) while on the job. By 2014, that yearly total number was cut in half to about [426 people murdered annually](https://www.bls.gov/iif/oshwc/cfoi/cfch0013.pdf), but 16% of all workplace fatalities are still due to workplace violence. Workplace violence prevention training is crucial to keep your employees and customers safe.

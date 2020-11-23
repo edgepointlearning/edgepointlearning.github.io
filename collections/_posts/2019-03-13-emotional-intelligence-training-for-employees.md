@@ -3,7 +3,7 @@ title:    "How To Develop Emotional Intelligence Training For Employees"
 permalink: /blog/emotional-intelligence-training-for-employees/
 author: { name: Corey Bleich }
 image: blog/2019-03-13-emotional-intelligence-training-for-employees.jpg
-excerpt: "Emotional intelligence training for employees and your managers provides many benefits, both in and out of your workplace. Here's how to train for it."
+meta: "Emotional intelligence training for employees and your managers provides many benefits, both in and out of your workplace. Here's how to train for it."
 ---
 
 Imagine a workplace where employees feel valued and grounded. They know that they are part of a larger mission, working with others to create a space where even the most diametrically opposed people can come together and build consensus. If this sounds like a magical, mythical place, don’t despair. Emotional intelligence training for employees can help you get there. This is how. 

@@ -3,7 +3,7 @@ title:    "Diversify Your Training: Why Inclusion Matters And How To Do It Right
 permalink: /blog/diversify-your-training/
 author: { name: "Amber Hartmann, Indi Williams & Eric Hartmann" }
 image: blog/2020-08-19-diversify-your-training.jpg
-excerpt: How can you truly and immediately diversify your eLearning employee training materials? Here's how.
+meta: How can you truly and immediately diversify your eLearning employee training materials? Here's how.
 
 ---
 

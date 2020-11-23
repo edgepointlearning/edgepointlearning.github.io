@@ -3,7 +3,7 @@ title:    "Designing Virtual Instructor-Led Training? Here's 5 Tips To Get Start
 permalink: /blog/virtual-instructor-led-training/
 author: { name: Corey Bleich }
 image: blog/2020-08-05-virtual-instructor-led-training.jpg
-excerpt: Virtual instructor-led training keeps your workforce informed and engaged. These are our tips to get started with your own virtual instructor-led programs.
+meta: Virtual instructor-led training keeps your workforce informed and engaged. These are our tips to get started with your own virtual instructor-led programs.
 ---
 
 Keep your workforce informed and engaged with virtual instructor-led training

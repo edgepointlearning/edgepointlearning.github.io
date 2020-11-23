@@ -3,7 +3,7 @@ title: How Geofencing Can Revolutionize Your On-The-Ground Employee Training
 permalink: /blog/geofencing/
 author: { name: Michael Hansen }
 image: blog/2017-12-13-geofencing.jpg
-excerpt: Geofencing technology is increasingly providing cutting-edge and immediate access to on-the-ground and mobile employee training. This is how it works.
+meta: Geofencing technology is increasingly providing cutting-edge and immediate access to on-the-ground and mobile employee training. This is how it works.
 ---
 
 Picture this: you need to figure out how to effectively design and deliver on-the-ground employee training, but the fact that many of your employees are often out in the field makes this a challenge. You already know about [microlearning](/blog/microlearning) and have developed multiple small bites of training to be accessed by employees, but they only need parts of it at certain times and in certain locations. The next-level training solution for this highly-dispersed and mobile workforce? Geofencing.

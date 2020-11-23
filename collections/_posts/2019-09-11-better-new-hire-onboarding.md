@@ -3,7 +3,7 @@ title: "Your Step-By-Step Guide To Better New Hire Onboarding"
 permalink: /blog/better-new-hire-onboarding/
 author: { name: Michael Hansen }
 image: blog/2019-09-11-better-new-hire-onboarding.jpg
-excerpt: Here’s your step-by-step checklist for better new hire onboarding, from your entry-level employees to key management positions.
+meta: Here’s your step-by-step checklist for better new hire onboarding, from your entry-level employees to key management positions.
 ---
 
 Your step-by-step checklist for better new hire onboarding.

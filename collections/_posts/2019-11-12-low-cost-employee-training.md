@@ -3,7 +3,7 @@ title:    "10 Low (Or No!) Cost Employee Training Programs That Really Work"
 permalink: /blog/low-cost-employee-training/
 author: { name: Michael Hansen }
 image: blog/2019-11-12-low-cost-employee-training.jpg
-excerpt: Regardless of industry or size, your employees need training. Here are ten low- or no-cost employee training options that really work.
+meta: Regardless of industry or size, your employees need training. Here are ten low- or no-cost employee training options that really work.
 ---
 
 There’s no getting around it: regardless of industry or size, your employees need training. Whether your staff is mostly veterans with years of experience or workers fresh out of high school or college, you need to deliver low cost employee training that helps them hit the mark. Here are ten low- or no-cost employee training options that really work.

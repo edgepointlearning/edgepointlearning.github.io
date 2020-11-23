@@ -2,7 +2,7 @@
 title: "Rethinking Online Sexual Harassment Training After #MeToo"
 permalink: /blog/online-sexual-harassment-training/
 image: blog/2018-01-17-online-sexual-harassment-training.jpg
-excerpt: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
+meta: Effective online sexual harassment training means more than sitting employees in front of a screen and saying, “Don’t do it.” Here's how to make it effective.
 
 author: { 
   name: "Holly Curtis",

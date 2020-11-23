@@ -3,7 +3,7 @@ title:    " How To Empower Your Employees With Crisis Management Training"
 permalink: /blog/crisis-management-training/
 author: { name: Michael Hansen }
 image: blog/2019-010-23-crisis-management-training.jpg
-excerpt: How well would your employees respond to a crisis in the workplace? If the answer is “not very well,” it’s time to develop crisis management training. Here's how.
+meta: How well would your employees respond to a crisis in the workplace? If the answer is “not very well,” it’s time to develop crisis management training. Here's how.
 ---
 
 Many workers in the U.S. are unprepared for a major workplace emergency or crisis. 

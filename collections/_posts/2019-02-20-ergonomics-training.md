@@ -3,7 +3,7 @@ title:    "Your Guide To Effective Ergonomics Training Courses For Your Employee
 permalink: /blog/ergonomics-training/
 author: { name: Clint Everton }
 image: blog/2019-02-20-ergonomics-training.jpg
-excerpt: "Ergonomics goes far beyond watching your posture. This is how to create the best ergonomics training courses for your employees (and why it matters!)."
+meta: "Ergonomics goes far beyond watching your posture. This is how to create the best ergonomics training courses for your employees (and why it matters!)."
 
 author: { 
   name: "Clint Everton",

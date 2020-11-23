@@ -3,7 +3,7 @@ title:    "10 Tips For Managing Remote Teams More Effectively"
 permalink: /blog/managing-remote-teams/
 author: { name: Corey Bleich }
 image: blog/2020-05-27-managing-remote-teams.jpg
-excerpt: Managing remote teams requires a different approach than managing employees in real life. Here's how to do it effectively. 
+meta: Managing remote teams requires a different approach than managing employees in real life. Here's how to do it effectively. 
 ---
 
 Managing remote teams requires a different approach than managing employees IRL

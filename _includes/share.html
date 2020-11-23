@@ -1,7 +1,5 @@
 {% assign share_url = site.url | append: page.url | cgi_escape %}
 {% assign share_title = page.title %}
-{% assign share_excerpt = page.excerpt %}
-
 
 <ul class="menu align-middle post__share">
   <li>
@@ -36,7 +34,7 @@
   <li>
     <a
       data-tooltip
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ share_blurb }}&amp;source=h{{ share_url}}"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ share_url }}&amp;title={{ share_title }}&amp;summary={{ meta-description }}&amp;source=h{{ share_url}}"
       title="Share to LinkedIn"
       target="_blank">
         {% svg '/assets/svg/social/linkedin.svg' width=35 %}

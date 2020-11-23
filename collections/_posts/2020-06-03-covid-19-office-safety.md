@@ -3,7 +3,7 @@ title:    " COVID-19 Office Safety: How To Prepare Your Workplace"
 permalink: /blog/covid-19-office-safety/
 author: { name: Corey Bleich }
 image: blog/2020-06-03-covid-19-office-safety.jpg
-excerpt: From transmission reduction to sanitation and flexible work routines, our guide covers the latest research in COVID-19 office safety.  
+meta: From transmission reduction to sanitation and flexible work routines, our guide covers the latest research in COVID-19 office safety.  
 ---
 
 The world is entering another month of uncertainty with the COVID-19 pandemic. In many places stay-at-home orders are being gradually lifted. While some businesses are changing their entire model to stay remote for the long-term, more and more businesses are opening up. As many areas begin to welcome employees back into the workplace, COVID-19 office safety is at the top of everyone’s mind. How will you keep employees and customers safe as restrictions ease? From transmission reduction to sanitation and flexible work routines, this is our guide to getting started.

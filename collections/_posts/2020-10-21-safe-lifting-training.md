@@ -3,7 +3,7 @@ title:    How To Create Safe Lifting Training For Employees (And A Free Course!)
 permalink: /blog/safe-lifting-training/
 author: { name: Corey Bleich }
 image: blog/2020-10-21-safe-lifting-training.jpg
-excerpt: Here’s how to create and roll-out safe lifting training for your employees, along with a free safe lifting training online course that covers the basics.
+meta: Here’s how to create and roll-out safe lifting training for your employees, along with a free safe lifting training online course that covers the basics.
 ---
 
 Safe lifting training protects all of your employees

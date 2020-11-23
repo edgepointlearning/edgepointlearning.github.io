@@ -3,7 +3,7 @@ title: How To Conduct A Training Needs Analysis
 permalink: /blog/training-needs-analysis/
 author: { name: Corey Bleich }
 image: blog/2018-04-18-training-needs-analysis.jpg
-excerpt:  Conducting a training needs analysis is your first step for developing a successful employee training program. This is how to get started.
+meta:  Conducting a training needs analysis is your first step for developing a successful employee training program. This is how to get started.
 ---
 
 Conducting a training needs analysis is your first step to developing a successful training program.

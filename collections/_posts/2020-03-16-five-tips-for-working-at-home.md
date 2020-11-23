@@ -3,7 +3,7 @@ title: "Five Tips for Surviving Work at Home with Kids"
 permalink: /blog/five-tips-for-working-at-home-with-kids/
 author: { name: Amber Hartmann with Andrew Hartmann }
 image: blog/2020-03-17-five-tips-for-working-at-home-with-kids.jpg
-excerpt: How do you keep things running when you unexpectedly have to work from home?
+meta: How do you keep things running when you unexpectedly have to work from home?
 ---
 
 Most lists about working from home focus on things like staying productive, how to keep focused, and setting up your ideal workspace. The situation many people are in currently - or about to be - is drastically different. We've been a work at home company from the beginning. And while we can offer advice on the above topics, we know right now it's a matter of trying to keep the lights on at your business. How do you keep things running when you unexpectedly have to work from home?

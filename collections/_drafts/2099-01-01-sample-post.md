@@ -4,7 +4,7 @@ permalink: /blog/sample-post/
 image: gcw/mance.jpg
 #imagepos: "top right" # optional to change hero image position. default is "center center"
 
-excerpt: This is a sample BLOG POST. It's here so you can see how text and images can be formatted in a blog post.
+meta: This is a sample BLOG POST. It's here so you can see how text and images can be formatted in a blog post.
 author: { 
   name: "Michelle Moorhead",
   title:  "Executive Director, Teen Lifeline",
