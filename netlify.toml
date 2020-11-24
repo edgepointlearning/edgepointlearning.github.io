@@ -33,6 +33,13 @@ to = "/blog/:splat"
 status = 301
 force = true
 
+# form submission redirect
+[[redirects]]
+from = "/form/thanks/"
+to = "/thanks/"
+status = 301
+force = false
+
 # needlepoint restructuring redirects
 [[redirects]]
 from = "/custom-elearning-course-development/"
