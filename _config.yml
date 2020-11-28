@@ -85,6 +85,7 @@ algolia:
   application_id: 10CLOWR2F7
   index_name: edgepointlearning
   search_only_api_key: d8ed542264abddec8c8f7dcaafdd3e1e
+  max_record_size: 20000 # https://community.algolia.com/jekyll-algolia/options.html#max-record-size
   files_to_exclude:
     - collections/_demos/*
     - collections/_forms/*
