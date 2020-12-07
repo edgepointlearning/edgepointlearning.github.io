@@ -54,10 +54,9 @@ nav {
     padding: $global-padding;
     transition: background-color 0.3s;
 
-    svg {
+    img {
       height: 64px;
       width: 64px;
-      fill: #767676;
     }
 
     p {
@@ -82,7 +81,7 @@ nav {
     &:hover {
       background-color: #eff0f3;      
       
-      svg{
+      img{
         &:nth-of-type(1) {
           @extend .hide;
         }
