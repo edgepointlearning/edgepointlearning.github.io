@@ -21,7 +21,7 @@
         template_iframe,
         
         settings_observer_rootMargin    = '200px 0px',                  //Intersection Observer API option - rootMargin (Y, X)
-        settings_thumb_base_url         = '/assets/images/vimeo-lazyload/',     //Base URL where thumbnails are stored
+        settings_thumb_base_url         = 'https://www.edgepointlearning.com/assets/images/vimeo-lazyload/',     //Base URL where thumbnails are stored
         // settings_thumb_base_url         = 'https://raw.githubusercontent.com/the-muda-organization/vimeo-lazyload/master/demo-img/',     //Base URL where thumbnails are stored
         settings_thumb_extension        = 'jpg';                       //Thumbnail extension
         // settings_thumb_extension        = 'webp';                       //Thumbnail extension
