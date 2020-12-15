@@ -17,6 +17,15 @@ presets:
       webp: 85
     markup: picture
 
+  client:
+    formats: [original]
+    widths: [200]
+    fallback_width: 200
+    format_quality:
+      jpg: 90
+      png: 90
+      webp: 85
+    markup: picture
 
   third:
     formats: [original]

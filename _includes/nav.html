@@ -1,5 +1,5 @@
 <div class="title-bar hide-for-marge">
-    <button class="menu-icon" type="button" data-open="offCanvas"></button>
+    <button class="menu-icon" type="button" aria-label="Toggle Navigation Menu" data-open="offCanvas"></button>
     {% svg /assets/svg/logo/epl-horizontal-combination-mark.svg height=18 class="logo" %}</span>
     <a data-open="searchModal">{%svg /assets/svg/ui/search.svg height=22 alt="search icon" %}</a>
 </div>
@@ -10,8 +10,8 @@
     <div class="grid-container">
       <div class="grid-x"> <!-- https://get.foundation/sites/docs/sticky.html -->
 
-        <div class="cell auto"><a href="{% link collections/_pages/home.html %}"            class="cta cta--transparent padding-left-0">{% svg /assets/svg/logo/epl-lettermark.svg height=32  class="hide-for-large" %}{% svg /assets/svg/logo/epl-horizontal-combination-mark.svg height=32 class="show-for-large" %}</a></div>
-        <div class="cell shrink"><a href="{% link collections/_pages/home.html %}"          class="cta cta--gray">Home</a></div>
+        <div class="cell auto"><a href="{% link collections/_pages/home.html %}"            class="cta cta--transparent padding-left-0" aria-label="Home">{% svg /assets/svg/logo/epl-lettermark.svg height=32  class="hide-for-large" %}{% svg /assets/svg/logo/epl-horizontal-combination-mark.svg height=32 class="show-for-large" %}</a></div>
+        <div class="cell shrink"><a href="{% link collections/_pages/home.html %}"          class="cta cta--gray" aria-label="Home">Home</a></div>
         <div class="cell shrink"><a href="{% link collections/_pages/solutions.html %}"     class="cta cta--gray dropdown" data-toggle="mega-menu-solutions">Solutions</a></div>
         <div class="cell shrink"><a href="/blog/"                                           class="cta cta--gray">Insights</a></div>
         <div class="cell shrink"><a href="{% link collections/_pages/about.html %}"         class="cta cta--gray dropdown" data-toggle="mega-menu-about">About</a></div>
