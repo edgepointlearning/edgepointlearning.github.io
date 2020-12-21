@@ -81,10 +81,10 @@ presets:
     fallback_width: 600
     quality: 90
 
-  # lazy: # https://github.com/verlok/vanilla-lazyload
-  #   markup: data_auto
-  #   formats: [webp, original]
-  #   widths: [200, 400, 600, 800]
-  #   noscript: true # add a fallback image inside a <noscript> tag.
-  #   attributes: 
-  #     img: class="lazy"
+  lazy: # https://github.com/verlok/vanilla-lazyload
+    markup: data_auto
+    formats: [original]
+    widths: [600]
+    noscript: true # add a fallback image inside a <noscript> tag.
+    attributes: 
+      img: class="lazyload"

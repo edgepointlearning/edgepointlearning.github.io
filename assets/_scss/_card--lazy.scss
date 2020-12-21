@@ -1,0 +1,75 @@
+.card--lazy img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  transition: all .2s ease-in-out;
+}
+.card--lazy:hover img {
+  transform: scale(1.05);
+}
+
+.card--lazy--M {
+  @extend .medium-6;
+  @extend .large-4;
+
+  h3 {
+    @extend .h6;
+  }
+}
+
+
+.card--lazy--L {
+  @extend .medium-6;
+
+  h3 {
+    @extend .h5;
+  }
+
+  @include breakpoint(large) {
+    .card__image {
+      height: 288px;
+    }
+  }
+
+}
+
+.card--lazy--XL {
+  @extend .medium-12;
+
+  .card__image {
+    @extend .large-6;
+  }
+
+  .card__content {
+    @extend .large-6;
+    @extend .align-self-middle;
+  }
+
+  h3 {
+    @extend .h4;
+  }
+
+  p {
+    @extend .contentScale;
+  }
+
+  @include breakpoint(medium) {
+    .card__image {
+      height: 288px;
+    }
+  }
+
+  @include breakpoint(large) {
+    .card__image {
+      height: 416px;
+      margin-right: 14px;
+      margin-left: -14px;
+    }
+    h3 {
+      font-size: 31px;
+    }
+    p {
+      margin-top: $global-margin;
+    }
+  }
+}

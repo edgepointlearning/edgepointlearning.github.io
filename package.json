@@ -20,6 +20,7 @@
   "dependencies": {
     "foundation-sites": "^6.6.3",
     "jquery": "^3.5.1",
+    "lazysizes": "^5.3.0-beta1",
     "motion-ui": "^2.0.3",
     "what-input": "^5.2.10"
   }

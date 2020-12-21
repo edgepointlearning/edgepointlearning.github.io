@@ -4,7 +4,7 @@ permalink: /blog/sample-post/
 image: gcw/mance.jpg
 #imagepos: "top right" # optional to change hero image position. default is "center center"
 
-meta: This is a sample BLOG POST. It's here so you can see how text and images can be formatted in a blog post.
+meta: This is a SAMPLE BLOG POST. It's here so you can see how text and images can be formatted in a blog post.
 author: { 
   name: "Michelle Moorhead",
   title:  "Executive Director, Teen Lifeline",
@@ -101,12 +101,22 @@ This is an example blog post that shows several types of HTML content supported 
 
 ### Wide
 <div class="responsive-embed widescreen">
-  <iframe src="https://player.vimeo.com/video/229428936" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/229428936"
+          loading=lazy
+          width="480" 
+          height="380" 
+          frameborder="0" 
+          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## Normal
 <div class="responsive-embed">
-  <iframe src="https://player.vimeo.com/video/219609124" width="480" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/219609124"
+          loading=lazy
+          width="480" 
+          height="380" 
+          frameborder="0" 
+          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## Common Styling
