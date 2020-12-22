@@ -11,9 +11,10 @@
   .card__image {
     height: 208px;
     overflow: hidden;
-    div {
-      width: 100%;
+    img {
+      object-fit: cover;
       height: 100%;
+      width: 100%;
       transition: all .2s ease-in-out;
     }
   }
@@ -23,7 +24,7 @@
     line-height: 1.1;
   }
 
-  &:hover .card__image div {
+  &:hover img {
     transform: scale(1.05);
   }
 

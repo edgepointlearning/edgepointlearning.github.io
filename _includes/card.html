@@ -4,7 +4,7 @@
     <div class="grid-x">
 
       <div class="cell card__image">
-        <div style="background: url('{% picture third-bg {{ include.image }} %}') center center / cover;"></div>
+        {% picture lazy {{ include.image }} %}
       </div>
       
       <div class="cell card__content padding-1">
