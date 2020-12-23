@@ -2,6 +2,7 @@
   @extend .radius--rem;
   @extend .shadow;
   border: none;
+  -webkit-transform: translateZ(0); //webkit bugfix: https://stackoverflow.com/questions/10314207/webkit-not-respecting-overflowhidden-with-border-radius/16109635#16109635
 
   a {
     height: 100%;
@@ -25,6 +26,8 @@
   }
 
   &:hover img {
+    border-top-left-radius: 1.03rem;
+    border-top-right-radius: 1.03em;
     transform: scale(1.03);
   }
 
