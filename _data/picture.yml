@@ -5,86 +5,56 @@ media_queries: # blog: 670, 1170, foundation: 640, 1024, 1200, 1440
   small: 'max-width: 1024px'
 
 presets:  
-
   default:
-    formats: [original]
-    widths: [1200]
-    fallback_width: 1200
-    size: 100vw
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
     markup: picture
+    widths: [380, 670, 1170]
+    fallback_width: 670
 
-  client:
-    formats: [original]
-    widths: [200]
-    fallback_width: 200
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
-    markup: picture
-
-  third:
-    formats: [original]
+  card:
+    markup: data_img
     widths: [670]
     fallback_width: 670
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
-    markup: picture
-
-  blog:
-    formats: [original]
-    widths: [670]
-    fallback_width: 670
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
-    markup: img
+    noscript: true
+    attributes: 
+      img: class="lazyload"
 
   blog-wide:
-    formats: [original]
-    widths: [1170]
+    markup: data_picture
+    widths: [670, 1170]
     fallback_width: 1170
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
-    markup: picture
+    noscript: true
+    attributes: 
+      img: class="lazyload"
+
+  blog:
+    markup: data_img
+    widths: [670]
+    fallback_width: 670
+    noscript: true
+    attributes: 
+      img: class="lazyload"
+
+  client:
+    markup: data_picture
+    widths: [200]
+    fallback_width: 200
+    quality: 95
+    noscript: true
+    attributes: 
+      img: class="lazyload"
 
   author:
-    formats: [original]
+    markup: data_img
     widths: [120]
     fallback_width: 120
-    size: 120px
-    format_quality:
-      jpg: 90
-      png: 90
-      webp: 85
-    markup: img 
+    size: 120px #floats weren't working without this
+    noscript: true
+    attributes: 
+      img: class="lazyload"
+
+
 
 
   direct-url:
     markup: direct_url
-    formats: [original]
-    fallback_width: 1200
-    quality: 90
-
-  third-bg:
-    markup: direct_url
-    formats: [original]
-    fallback_width: 600
-    quality: 90
-
-  # lazy: # https://github.com/verlok/vanilla-lazyload
-  #   markup: data_auto
-  #   formats: [webp, original]
-  #   widths: [200, 400, 600, 800]
-  #   noscript: true # add a fallback image inside a <noscript> tag.
-  #   attributes: 
-  #     img: class="lazy"
+    fallback_width: 1170
