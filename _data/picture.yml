@@ -10,6 +10,14 @@ presets:
     widths: [380, 670, 1170]
     fallback_width: 670
 
+  billboard:
+    markup: data_img
+    widths: [670, 1170, 1920]
+    fallback_width: 1170
+    noscript: true
+    attributes: 
+      img: class="lazyload"
+
   card:
     markup: data_img
     widths: [670]
@@ -51,7 +59,6 @@ presets:
     noscript: true
     attributes: 
       img: class="lazyload"
-
 
 
 
