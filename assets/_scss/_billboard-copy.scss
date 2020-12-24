@@ -1,5 +1,3 @@
-// sizing
-
 .billboard {
   position: relative;
   margin-top: -2px;
@@ -12,41 +10,22 @@
     height: 56vw; // roughly 16:9
     max-height: 80vh;
   }
-}
-
-// fancy background stuff
-
-.billboard__image {
-  z-index: 0;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.billboard__gradient {
-  z-index: 1;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-image: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 70%);
-  // todo: this gradient could be responsive
+  .cell {
+    z-index: 1;
+  }
 }
 
 .billboard__wave {
-  z-index: 2;
   position: absolute;
-  bottom: -1px;
-  width: 102%;
-  height: auto;
+  top: 0;
+  left: -2px;
+  width: 104%;
+  height: 100%;
 }
 
-.billboard__content {
-  z-index: 3;
-  position: relative;
+.billboard__bg {
+  margin: 0 auto;
 }
-
-// content styling
 
 .billboard__headline {
   font-weight: 900;
