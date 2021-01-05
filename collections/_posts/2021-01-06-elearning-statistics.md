@@ -51,7 +51,7 @@ When it comes to these eLearning statistics, 2021 is looking revolutionary.
 6. eLearning takes between 40 and 60% less time than traditional training (great for workers who only have an average of 24 minutes per week for training)
 7. [Self-paced eLearning](https://elearningindustry.com/top-elearning-statistics-2019) continues to decline as workers favor engaging with peers
 8. Companies will continue to [focus on developing soft skills](https://www.ibm.com/downloads/cas/EPYMNBJA) (also called “power skills”) to deepen their employee training
-9. [On-off trainings are a thing of the past](https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development)
+9. [One off trainings are a thing of the past](https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development)
 10. The [70-20-10 rule for training](https://elearningindustry.com/70-20-10-model-learning-and-development) will likely become standard: 70% experiential, 20% collaborative, and 10% formalized training
 11. eLearning statistics in 2021 show that employees will need to focus on [closing the skills gap](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills) brought about by a changing workforce
 12. [Adaptive learning](https://www.litmos.com/blog/articles/adaptive-learning-mean-learners) that takes the needs of all learners into account is a non-negotiable in 2021
@@ -70,7 +70,7 @@ When it comes to these eLearning statistics, 2021 is looking revolutionary.
 Here are 12 microlearning statistics to keep an eye on as we move into 2021.
 
 1. The mobile learning (mLearning) market is projected to reach nearly $79 billion by 2025
-2. mLearning will become [the microlearning mode of choice](https://www.cnbc.com/2019/01/24/smartphones-72percent-of-people-will-use-only-mobile-for-internet-by-2025.html#:~:text=Marketing.Media.Money-,Nearly%20three%20quarters%20of%20the%20world%20will%20use%20just%20their,access%20the%20internet%20by%202025&text=Almost%20three%20quarters%20(72.6%20percent,to%20nearly%203.7%20billion%20people.) by 2025
+2. mLearning will become the [microlearning mode of choice](https://www.cnbc.com/2019/01/24/smartphones-72percent-of-people-will-use-only-mobile-for-internet-by-2025.html) by 2025
 3. The interest in microlearning continues to rise, [as does your ROI with this approach](https://medium.com/@Origin_Learning/microlearning-a-top-2020-learning-trend-6d438a1e35a4)
 4. Gamification [increases engagement and motivation](https://review42.com/gamification-statistics/) and continues to be in high demand
 5. [Mobile apps for microlearning](https://medium.com/@Origin_Learning/microlearning-a-top-2020-learning-trend-6d438a1e35a4) will be a cost-effective way to train employees in 2021
