@@ -87,7 +87,7 @@ Once your managers are on board, ask them to do the following for their teams.
 
 ### Managing employee burnout starts with [empathetic leadership](https://hbr.org/2020/09/preventing-burnout-is-about-empathetic-leadership)
 
-It’s easy to look at low productivity and poor performance and make assumptions, but there is a better way. Managers should first seek first to understand what’s going on with your employee before rushing to judgment. If a stellar employee begins missing deadlines, a conversation is in order rather than a scolding or disciplinary action.
+It’s easy to look at low productivity and poor performance and make assumptions, but there is a better way. Managers should seek first to understand what’s going on with your employee before rushing to judgment. If a stellar employee begins missing deadlines, a conversation is in order rather than a scolding or disciplinary action.
 
 ### Recognize that employee burnout is not like a cold or the flu
 
