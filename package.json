@@ -19,6 +19,7 @@
   "homepage": "https://github.com/edgepointlearning/jekyll4#readme",
   "dependencies": {
     "foundation-sites": "^6.6.3",
+    "instant.page": "^5.1.0",
     "jquery": "^3.5.1",
     "lazysizes": "^5.3.0-beta1",
     "motion-ui": "^2.0.3",
