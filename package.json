@@ -14,14 +14,14 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edgepointlearning/jekyll4/issues"
+    "url": "https://github.com/edgepointlearning/edgepointlearning.com/issues"
   },
-  "homepage": "https://github.com/edgepointlearning/jekyll4#readme",
-  "dependencies": {
+  "homepage": "https://github.com/edgepointlearning/edgepointlearning.com",
+  "devDependencies": {
     "foundation-sites": "^6.6.3",
     "instant.page": "^5.1.0",
     "jquery": "^3.5.1",
-    "lazysizes": "^5.3.0-beta1",
+    "lazysizes": "^5.3.0",
     "motion-ui": "^2.0.3",
     "what-input": "^5.2.10"
   }
