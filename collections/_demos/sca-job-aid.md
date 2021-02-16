@@ -1,9 +1,7 @@
 ---
-title : LMS Navigation Aid
-#image: /special/GettyImages-515679310.jpg
+title : "Performance Support: LMS Navigation"
 ---
-
-Sometimes you need a little extra help onboarding your team. EdgePoint Learning is equipped to create supplemental material such as presentations or documents to enhance your eLearning experience.
+Sometimes your employees need to access information quickly when and where they need it. We can create different types of performance support tools to enhance the digital learning experience and put just the right information in your employees hands right when they need it.
 
 <p class="text-center margin-vertical-3">
   <a class="cta cta--green large" href="/static/demo/SCA_Navigation_Job_Aid_3up_Redacted.pdf" target="_blank">⬇️ Download PDF</a>
