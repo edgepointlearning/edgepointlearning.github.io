@@ -10,10 +10,10 @@
   @include button-style($primary-color, $black, $white);
 
   &--green {
-    @include button-style($color-green, $black, $black);
-    &:hover {
-      color: $white;
-    }
+    @include button-style($color-green, $black, $white);
+    // &:hover {
+      // color: $white;
+    // }
   }
   &--black {
     @include button-style($black, $color-off-black, $white);

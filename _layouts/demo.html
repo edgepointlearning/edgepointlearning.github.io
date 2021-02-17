@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+{% if page.download %}
+  <div style="background: url(' {% picture direct-url /special/GettyImages-515679310.jpg %} '); padding-top: 6rem;">
+    <div class="grid-container">
+      <div class="grid-x" style="overflow: hidden;">
+        <div class="cell auto text-center" style="margin-bottom: -8px;">
+          {% svg /assets/svg/special/download-cat.svg style='max-width: 800px;' %}
+        </div>    
+      </div>
+    </div>
+  </div>
+{% endif %}
+
 {% if page.vimeo %}
   <div class="grid-x align-middle align-center padding-vertical-1" style="background-color: black;">
     <div class="cell" style="max-width: 1170px;">

@@ -1,5 +1,6 @@
 ---
 title : "Performance Support: LMS Navigation"
+download: true
 ---
 Sometimes your employees need to access information quickly when and where they need it. We can create different types of performance support tools to enhance the digital learning experience and put just the right information in your employees hands right when they need it.
 
