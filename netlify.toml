@@ -26,6 +26,13 @@ to = "https://www.edgepointlearning.com/:splat"
 status = 301
 force = true
 
+# sca demo redirect just in case
+[[redirects]]
+from = "/demo/sca-job-aid/"
+to = "/demo/lms-navigation"
+status = 301
+force = false
+
 # At some point /blog/ erroneously became /blogs/ in post frontmatter
 [[redirects]]
 from = "/blogs/*"
