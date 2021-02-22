@@ -38,7 +38,7 @@ If possible, also think through the training material itself. Is it set up to be
 
 Action: Brush up on material in the course well before training begins. Get help if you’re using a new platform that you are not familiar with. Write up a series of how-tos for the most common issues you run into. And, if you can, make suggestions for fine-tuning the material to a virtual format.
 
-### 2. Be ready for the inevitable complication
+### 2. Be ready for the inevitable complications
 
 You know the content back and forth, you’re a master at the training platform – then disaster strikes. The platform crashes, your internet is glitchy, or the batteries in your headset die. Virtual training best practices build in a back-up plan when Murphy’s law strikes.
 
@@ -153,4 +153,4 @@ Reconvene to compare notes before revealing what actually happened. Use this as 
 
 Looking for more virtual training tips for trainers, or need some help putting these best practices into action? EdgePoint Learning can help.
 
-Whether you need initial [consulting and planning services, co-development help](/co-development-services/), or [custom training from the ground up](/custom-employee-training/), we’re here. [Get in touch to get started](/form/demo/)!
+**Whether you need initial [consulting and planning services, co-development help](/co-development-services/), or [custom training from the ground up](/custom-employee-training/), we’re here. [Get in touch to get started](/form/demo/)!**
