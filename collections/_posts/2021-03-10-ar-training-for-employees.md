@@ -54,7 +54,7 @@ But new apps and technology are bringing this price down. Our PinPoint app utili
 
 
 
-[Do we have a PinPoint demo or graphic we can use here for AR capabilities?]
+<img class="lazyload" src="/assets/images/gif/2021-03-10-ar-training-for-employees03.gif" alt="Pinpoint AR Demo">
 
 
 
