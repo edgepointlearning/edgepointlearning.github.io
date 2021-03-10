@@ -9,11 +9,11 @@ author: { name: Corey Bleich }
 Augmented reality training is one of those far-off sci-fi ideas that’s actually already here to stay
 {: .featured-text }
 
-We might envision a future of hovercrafts and Star Trek-era meals that materialize at our request. While it may be nice to enjoy our favorite foods instantly and whisk high above the daily rush-hour slog, these things are still maybe just out of reach. (Okay, they're totally out of reach.) But other technologies are right in front of us, and they are making everyday tasks easier. Augmented reality training, or AR training, is one of those far-off ideas that’s already here, helping you design a more effective employee training plan right now.
+We might envision a future of hovercrafts and Star Trek-era meals that materialize at our request. While it may be nice to enjoy our favorite foods instantly and whisk high above the daily rush-hour slog, these things are still maybe just out of reach. (Okay, they're totally out of reach.) But other technologies are right in front of us, and they are making everyday tasks easier. Augmented reality training, or AR training, is one of those far-off ideas that’s already here, [helping you design a more effective employee training plan](/blog/employee-training-plan/) right now.
 
 ## How does AR training for employees work?
 
-Augmented reality training seems like a futuristic way to learn information, but turns out, the future is happening right now. Unlike virtual reality that creates an entire digital world, augmented reality combines digital information laid over a real-world environment.
+Augmented reality training seems like a futuristic way to learn information, but turns out, [the future is happening right now](/blog/elearning-trends-2021/). Unlike virtual reality that creates an entire digital world, augmented reality combines digital information laid over a real-world environment.
 
 We take it for granted in many ways, but AR has been around for a while. Football fans respect it as an on-screen line indicates where the first-down is. Car buyers can take a new car for a spin from the comfort of their home. Designer shoe fans can test drive new Gucci kicks without changing out of their sweatpants. Homeowners can play with furniture placement directly in their room.
 
@@ -33,7 +33,7 @@ Think of a mechanic faced with fixing an unfamiliar engine component. They could
 
 
 
-This approach allows employees to have immediate access to training tools exactly where and when they need them most, right in the flow of work. AR employee training is great for agile, on-the-job training in a variety of industries. The possibilities are nearly endless, as we talk about in our future of AR training guide.
+This approach allows employees to have immediate access to training tools exactly where and when they need them most, right in the flow of work. AR employee training is great for agile, on-the-job training in a variety of industries. The possibilities are nearly endless, as we talk about in our [future of AR training](/blog/future-of-augmented-reality/) guide.
 
 ## How to use it: augmented reality training examples
 
@@ -48,7 +48,7 @@ Some other augmented reality training examples include:
 
 AR training can also supplement traditional learning, simply and effectively. For example, employees could place a device on printed materials and activate pop-up videos, instructions, or diagrams. This helps support non-traditional learners who need to experience material in several ways to really understand a topic.
 
-As we noted in an earlier PinPoint post, augmented reality employee training is a disruptive innovation that may take some time to become mainstream. In the past, this technology was prohibitively expensive for smaller companies to implement. Outfitting an entire office with AR headsets could swallow a training budget in on gulp.
+As we noted in [an earlier PinPoint post](https://www.pinpointworkforce.com/post/augmented-reality-and-corporate-learning), augmented reality employee training is a disruptive innovation that may take some time to become mainstream. In the past, this technology was prohibitively expensive for smaller companies to implement. Outfitting an entire office with AR headsets could swallow a training budget in on gulp.
 
 But new apps and technology are bringing this price down. Our PinPoint app utilizes AR technology for efficient training that is also accessible to businesses of all sizes (and budgets!).
 
@@ -62,7 +62,7 @@ But new apps and technology are bringing this price down. Our PinPoint app utili
 
 When learning how to create AR training, it’s important to note that many of the initial steps are similar to how you would create any kind of employee training.
 
-Every effective training program begins with a training needs analysis. This determines:
+Every effective training program begins with a [training needs analysis](/blog/how-to-identify-training-needs-of-employees/). This determines:
 
 * What employees already know
 * What they need to learn
@@ -84,6 +84,6 @@ Once your partner is in place, designing AR training falls in line with other ty
 
 For effective AR training, your partners in design will make all the difference.
 
-EdgePoint Learning works seamlessly with PinPoint, which allows your company’s L&D folks to design AR-enabled microlearning and performance support tools. We can help you build your AR training program from the ground up.
+[EdgePoint Learning](/augmented-reality/) works seamlessly with PinPoint, which allows your company’s L&D folks to design AR-enabled microlearning and performance support tools. We can help you build your AR training program from the ground up.
 
-**Get in touch today to see how EdgePoint Learning can help you enter the future of AR training.**
+**[Get in touch today](https://www.edgepointlearning.com/contact/) to see how EdgePoint Learning can help you enter the future of AR training.**
