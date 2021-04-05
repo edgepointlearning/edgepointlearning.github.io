@@ -33,7 +33,7 @@ Of course, you should translate every eLearning course in your training to the l
 
 The goal of eLearning localization also includes changes to multimedia graphics, videos, and even voice narrators. In practice, it’s really about respect, safety, and inclusion for all of your employees.
 
-Remember to keep in the mind your goals for training: engaged, informed, and responsive employees. A course without eLearning localization may cause employees to check out, withdraw, or even be insulted by the content.
+Remember to keep in mind your goals for training: engaged, informed, and responsive employees. A course without eLearning localization may cause employees to check out, withdraw, or even be insulted by the content.
 
 Here are eight best practices for eLearning localization to make sure everyone gets the support and knowledge they need.
 
