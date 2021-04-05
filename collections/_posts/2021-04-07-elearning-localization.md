@@ -13,7 +13,7 @@ You’ve done it! Your business has expanded and now has offices across the glob
 
 ## What we mean: globalization vs. localization
 
-There is a broad understanding that the world is becoming more connected—more global. While we are connected across the world now more than ever, a broad application of concepts is not always the best action when it comes to learning for your employees. Instead, when you're designing training materials, choosing between globalization vs. localization depends on what your goals are.
+There is a general understanding that the world is becoming more interdependent—more global. While we are connected across the world now more than ever, though, a broad application of concepts is not always the best action when it comes to learning for your employees. Instead, when you're designing training materials, choosing between globalization vs. localization depends on what your goals are.
 
 {% picture blog blog/2021-04-07-elearning-localization01.jpg --alt Globalization, One concept and delivery method to fit many cultures, Localization, Concept and delivery tailored to one specific culture %}
 
@@ -87,7 +87,9 @@ Planning ahead helps. Try these tools to cut down development time for new cours
 * Put repeated phrases or button text in a template (for easy changes later)
 * Contract with a high-quality translator for text and/or narration support
 
-Even as global communication expands, eLearning localization contracts. Adapting your training for [new employee trainings](/blog/how-to-train-new-employees/) in other countries can be challenging.
+Further, consider who you’re using to perform your voiceover work. For example, if you were recording a course for a Mexican audience, having a Brazilian narrator would be jarring and obviously incorrect for that region’s Spanish dialect. As much as possible, find voiceover talent native to the area the course will be released in. 
+
+Even as global communication expands, eLearning localization contracts. And, adapting your training for [new employee trainings](/blog/how-to-train-new-employees/) in other countries can be challenging.
 
 [EdgePoint](https://www.edgepointlearning.com/) can help with eLearning localization [consulting](/elearning-consulting-services/), [co-development](/co-development-services/), and [custom development](/custom-employee-training/) that helps you meet your team right where they are. We work with global translators to get your course done right. 
 
