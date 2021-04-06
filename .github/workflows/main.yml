@@ -3,9 +3,7 @@
 name: Trigger Netlify Build
 on:
   schedule:
-    # Run at 07:01 on Wednesday https://crontab.guru/#01_7_*_*_WED
-    # - cron: '01 7 * * WED'
-    - cron: '20 * * * *'
+    - cron: '01 4 * * WED' # Run at 07:01 on Wednesday https://crontab.guru/#01_7_*_*_WED
 jobs:
   build:
     name: Request Netlify Webhook
