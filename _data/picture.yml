@@ -7,11 +7,13 @@ media_queries: # blog: 670, 1170, foundation: 640, 1024, 1200, 1440
 presets:  
   default:
     markup: picture
+    formats: [webp, original]
     widths: [380, 670, 1170]
     fallback_width: 670
 
   billboard:
     markup: data_img
+    formats: [webp, original]
     widths: [670, 1170, 1920]
     fallback_width: 1170
     noscript: true
@@ -20,6 +22,7 @@ presets:
 
   card:
     markup: data_img
+    formats: [webp, original]
     widths: [670]
     fallback_width: 670
     noscript: true
@@ -28,6 +31,7 @@ presets:
 
   blog-wide:
     markup: data_picture
+    formats: [webp, original]
     widths: [670, 1170]
     fallback_width: 1170
     noscript: true
@@ -36,6 +40,7 @@ presets:
 
   blog:
     markup: data_img
+    formats: [webp, original]
     widths: [670]
     fallback_width: 670
     noscript: true
@@ -46,13 +51,15 @@ presets:
     markup: data_picture
     widths: [200]
     fallback_width: 200
-    quality: 95
+    format_quality:
+      png: 95
     noscript: true
     attributes: 
       img: class="lazyload"
 
   author:
     markup: data_img
+    formats: [webp, original]
     widths: [120]
     fallback_width: 120
     size: 120px #floats weren't working without this
@@ -64,4 +71,5 @@ presets:
 
   direct-url:
     markup: direct_url
+    formats: [webp, original]
     fallback_width: 1170
