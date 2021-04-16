@@ -46,7 +46,8 @@ presets:
     markup: data_picture
     widths: [200]
     fallback_width: 200
-    quality: 95
+    format_quality:
+      png: 95
     noscript: true
     attributes: 
       img: class="lazyload"
