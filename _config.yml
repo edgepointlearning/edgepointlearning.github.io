@@ -33,6 +33,9 @@ collections   :
   demos       :
     output    : true
     permalink : /demo/:path/
+  demos-2021   :
+    output    : true
+    permalink : /demo/21/:path/
   stories     :
     output    : true
     permalink : /story/:path/
@@ -55,6 +58,12 @@ defaults :
     values      :
       layout    : 'post'
       permalink : /blog/:title/
+  -
+    scope       :
+      type      : 'demos-2021'
+    values      :
+      layout    : 'demo'
+      sitemap   : false
   -
     scope       :
       type      : 'demos'
