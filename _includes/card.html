@@ -4,7 +4,7 @@
     <div class="grid-x">
 
       <div class="cell card__image">
-        {% picture card {{ include.image }} %}
+        {% picture card {{ include.image }} --alt {{ include.title }} %}
       </div>
       
       <div class="cell card__content padding-1">
