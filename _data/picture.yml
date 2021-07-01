@@ -51,6 +51,7 @@ presets:
     markup: data_picture
     widths: [200]
     fallback_width: 200
+    dimension_attributes: true #might need to add this elsewhere for Google Lighthouse
     format_quality:
       png: 95
     noscript: true
