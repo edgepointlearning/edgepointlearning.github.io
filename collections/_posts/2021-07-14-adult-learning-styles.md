@@ -23,7 +23,7 @@ Within these differences, adult learning styles further complicate how adults le
 
 
 
-{% picture blog blog/2021-07-14-2021-07-14-adult-learning-styles01.jpg --alt Information that is perfectly clear to one person visually may be confusing to another %}
+{% picture blog blog/2021-07-14-adult-learning-styles01.jpg --alt Information that is perfectly clear to one person visually may be confusing to another %}
 
 
 
@@ -70,7 +70,7 @@ Adult learning techniques for linguistic learners also use small-group discussio
 
 
 
-{% picture blog blog/2021-07-14-2021-07-14-adult-learning-styles02.jpg --alt The major types of adult learning styles %}
+{% picture blog blog/2021-07-14-adult-learning-styles02.jpg --alt The major types of adult learning styles %}
 
 
 
