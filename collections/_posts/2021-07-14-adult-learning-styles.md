@@ -2,6 +2,7 @@
 title:       "7 Adult Learning Styles And Best Practices To Follow"
 permalink: /blog/adult-learning-styles/
 image: blog/2021-07-14-adult-learning-styles.jpg
+imagepos: "top center"
 meta:  Research has shown that not everyone learns the same way. Consider these most common adult learning styles as you design your employee training.
 author: { name: Corey Bleich }
 ---
